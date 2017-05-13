@@ -13,9 +13,12 @@
 
 Indiana University
 
-* Fall 2017: Big Data Analytics and Applications
-* Spring 2017: 
-* Fall 2016: Big Data Analytics and Applications I423/I523/ENG599 <https://bdaafall2016.readthedocs.io>
+* Fall 2017: Big Data Analytics and Applications under construction
+  see 2016 version of the class, we will add containers to the class
+* Spring 2017:  [Big Data and Open Source Software Projects](https://cloudmesh.github.io/classes/i524/lectures.html)
+* Fall 2016: [Big Data Analytics and Applications I423/I523/ENG599](https://bdaafall2016.readthedocs.io)
+* Fall 2016:: [Big Data Analytics and Applications] (https://cloudmesh.github.io/classes/index.html#i523)
+
 
 # Publications
 
