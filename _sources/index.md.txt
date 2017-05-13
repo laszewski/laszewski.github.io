@@ -4,13 +4,10 @@
 
 * <laszewski@gmail.com>
 * [History](history.html)
-* [Bio](bio.html)
+* [Short Bio](bio.html)
 * [Publications](bib.html) 
 * [Bibtex](https://github.com/cyberaide/bib/blob/master/vonLaszewski-jabref.bib)
 
-# Proceedings
-
-* [Workshop Federated Clouds](workshop-fed-clouds.html)
 
 # Teaching
 
@@ -46,9 +43,10 @@ Links to common repositories include:
 * laszewski@gmail.com
 * Web Page: [http://gregor.cyberaide.org](http://gregor.cyberaide.org/)
 
-# Publications                                                                                                                                  
 
+# Proceedings
 
+* [Workshop Federated Clouds](workshop-fed-clouds.html)
 
 
 
