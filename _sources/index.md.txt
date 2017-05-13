@@ -1,0 +1,64 @@
+# Gregor von Laszewski
+
+![Gregor Image](images/gregor.jpg)            
+
+* <laszewski@gmail.com>
+* [History](history.html)
+* [Bio](bio.html)
+* [Publications](bib.html) 
+* [Bibtex](https://github.com/cyberaide/bib/blob/master/vonLaszewski-jabref.bib)
+
+# Proceedings
+
+* [Workshop Federated Clouds](workshop-fed-clouds.html)
+
+# Teaching
+
+Indiana University
+
+* Fall 2017: Big Data Analytics and Applications
+* Spring 2017: 
+* Fall 2016: Big Data Analytics and Applications I423/I523/ENG599 <https://bdaafall2016.readthedocs.io>
+
+# Publications
+
+[List of Papers](http://gregor.cyberaide.org/bib/) and the [bibtex: vonLaszewski.bib](https://raw.githubusercontent.com/cyberaide/bib/master/vonLaszewski-jabref.bib) file. Please contact me if you have questions in regards to any of the publications.
+
+Links to common repositories include: 
+
+[![zotero](images/zotero.png)](https://www.zotero.org/laszewski)
+[![microsoft](images/academic_logo_reasonably_small.png)](http://academic.research.microsoft.com/Search?query=Gregor%20von%20laszewski)
+[![springer](images/springer.png)](http://www.springer.com/?SGWID=0-102-24-0-0&searchType=EASY_CDA&queryText=Gregor+von+Laszewski&submit=Submit)
+[![researchgate](images/rg_square_normal.png)](https://www.researchgate.net/profile/Gregor_Von_Laszewski?ev=hdr_xprf)
+[![mendeley](images/mendeley-icon.png)](http://www.mendeley.com/groups/2429251/gregor-von-laszewski/)
+[![acm](images/logo-acm.png)](http://dl.acm.org/author_page.cfm?id=81100608734&coll=DL&dl=ACM&trk=0&cfid=389232853&cftoken=14583774)[![linkedin](images/linkedin.png)](https://www.linkedin.com/pub/gregor-von-laszewski/4/109/b64)
+[![ieee](images/ieee.png)](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=p_Author_Ids:37266785100)
+[![google](images/gschol_sm.png)](http://scholar.google.com/citations?user=jdHOOEYAAAAJ)
+[![googleplus](images/google_plus_icon.png)](https://plus.google.com/+GregorvonLaszewski)
+[![facebook](images/facebook-icon.png)](https://www.facebook.com/gregor.vonlaszewski)
+[![citeyoulike](images/citulike.png)
+![wiley](images/wiley.png)](http://www.citeulike.org/search/all?q=Gregor+von+Laszewski)
+
+# Contact
+
+* Gregor von Laszewski
+* School of Informatics and Computing
+* laszewski@gmail.com
+* Web Page: [http://gregor.cyberaide.org](http://gregor.cyberaide.org/)
+
+# Publications                                                                                                                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
