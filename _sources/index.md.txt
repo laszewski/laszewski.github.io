@@ -1,21 +1,11 @@
 # Gregor von Laszewski
 
-![Gregor Image](images/gregor.jpg)            
 
-Address:
 
-* School of Informatics and Computing
-* Smith Research Center
-* Indiana University Bloomington
-* 2805 E 10th St
-* Bloomington, IN 47408
+ Portrait   | Address 
+--- | --- 
+![Gregor Image](images/gregor.jpg)  | Gregor von Laszewski  <br/> School of Informatics and Computing <br/> Smith Research Center <br/> Indiana University Bloomington <br/> 2805 E 10th St <br/> Bloomington, IN 47408 <br/> laszewski@gmail.com <br/> <http://laszewski.github.io>
 
-|       |                     |
-|-------|---------------------|
-| Email | laszewski@gmail.com |
-|-------|---------------------|
-| Web Page | <http://laszewski.github.io> |
-| Address | a <br\> b |
 
 
 * [History](history.html)
