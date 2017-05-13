@@ -2,7 +2,22 @@
 
 ![Gregor Image](images/gregor.jpg)            
 
-* <laszewski@gmail.com>
+Address:
+
+* School of Informatics and Computing
+* Smith Research Center
+* Indiana University Bloomington
+* 2805 E 10th St
+* Bloomington, IN 47408
+
+|       |                     |
+|-------|---------------------|
+| Email | laszewski@gmail.com |
+|-------|---------------------|
+| Web Page | <http://laszewski.github.io> |
+| Address | a <br\> b |
+
+
 * [History](history.html)
 * [Short Bio](bio.html)
 * [Publications](bib.html) 
@@ -38,13 +53,6 @@ Links to common repositories include:
 [![facebook](images/facebook-icon.png)](https://www.facebook.com/gregor.vonlaszewski)
 [![citeyoulike](images/citulike.png)
 ![wiley](images/wiley.png)](http://www.citeulike.org/search/all?q=Gregor+von+Laszewski)
-
-# Contact
-
-* Gregor von Laszewski
-* School of Informatics and Computing
-* laszewski@gmail.com
-* Web Page: [http://gregor.cyberaide.org](http://gregor.cyberaide.org/)
 
 
 # Proceedings
