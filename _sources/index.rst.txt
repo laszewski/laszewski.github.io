@@ -18,7 +18,9 @@ Links
 -  `History <history.html>`__
 -  `Short Bio <bio.html>`__
 -  `Publications <bib.html>`__
--  `Bibtex <https://github.com/cyberaide/bib/blob/master/vonLaszewski-jabref.bib>`__
+-  `Bibtex <https://raw.githubusercontent.com/laszewski/laszewski.github.io/master/vonLaszewski-jabref.bib>`__
+
+   
 
 Teaching
 ========
