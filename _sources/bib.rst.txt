@@ -1,13 +1,6 @@
 Publications
 ============
 
-2017
-----
-
-.. bibliography:: vonLaszewski-jabref.bib
-   :list: bullet
-   :filter: year and (year == "2017")
-
 2016
 ----
 
