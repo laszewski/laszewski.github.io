@@ -12,89 +12,22 @@ Gregor von Laszewski
 |          | | http://laszewski.github.io          |
 +----------+---------------------------------------+
 
+   
 
-Quotes and Awards
------------------
+Teaching
+========
 
-Quotes form past students taking classes I taught:
+Current Classes
+
+|Cloud Image| `E516: Engeneering Cloud Computing, Indiana University, Fall 2018 <https://github.com/cloudmesh-community/book/blob/master/chapters/class/e516-engineering-cloud-computing.md>`_
+
+Quotes form past students:
     
 * *"The best course I have taken in the Data Science program."*
 * *"Thanks to your course I have secured a job at Intel."*
 
-Awards:
-
-* Coached a team of students obtaining the judges awards at the FLL
-  Robotics World Championship
-* Best student project at IU 
-* DOE outstanding mentor Award
-* Best of show award at SC
-* Best poster award at SC
-* Coached a Student winning the Novel Developers award for an LDAP
-  browser
-  
-
-Teaching
---------
-
-.. list-table:: 
-   :widths: 10 10 50
-   :header-rows: 1
-
-   * - Course
-     - Semester
-     - Description
-   * - |Cloud Image|
-     - Fall 2018
-     - `E516: Engineering Cloud Computing, Indiana University <https://github.com/cloudmesh-community/book/blob/master/chapters/class/e516-engineering-cloud-computing.md>`_
-   * - Independent Study
-     - Fall 2018
-     - In case you like to conduct an independent
-       study, please contact me via e-mail. Look at the research
-       projects or suggest your own.
-
-   
-
-Research Projects
------------------
-
-.. list-table:: 
-   :widths: 15 50
-   :header-rows: 1
-
-   * - Project
-     - Description
-   * - NIST
-     - In this project we develop language independent service
-       specification useful for the creation of Big Data Architectures. The
-       result are published as part of a NIST Big Data Reference
-       Architecture.
-   * - Cloudmesh
-     - In this research project we are developing the concepts and to
-       develop services and clients for multihosted and hybrid clouds.
-   * - Virtual Clusters
-     - In this project we are developing the mechanisms to stage virtual
-       clusters on one of the biggest educational research computers in the
-       nation. THis work is collaboratively done with San Diego Super
-       Computer Center.
-   * - Scientific Impact Metrics
-     - In this project we are evaluating organizations based on bibliometric
-       data while using our unique metric. We have applied this metric to
-       the largest educational HPC compute resources in the US and provide
-       monthly updates that are reported to NSF.
-   * - Cloud and Edge Computing
-     - In this project we develop services and practical applications to
-       combine Cloud and Edge Computing. At this time we try to build and
-       interface with an environmental robot boat that conducts in future
-       its analysis in the cloud and HPC compute resources
-   * - STEM FLL Robotics
-     - I am coaching a team of STEM students that has won the special
-       judges project award in the World championship. If you are
-       interested in finding out more contact me. The project is also continued
-       as part of my cloud projects.
-
-
-
-
++----------------+---------------------------------------+
+    
 ..
    -  Fall 2017: Big Data Analytics and Applications under construction see
       2016 version of the class, we will add containers to the class
