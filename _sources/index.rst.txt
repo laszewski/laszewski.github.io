@@ -52,7 +52,10 @@ Teaching
        study, please contact me via e-mail. Look at the research
        projects or suggest your own.
 
-   
+Presentation
+------------
+
+* `Short Introduction Slides for Graduate Students, 13 Aug 2018  <https://prezi.com/p/bzbq6kwu7faj/>`_
 
 Research Projects
 -----------------
