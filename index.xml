@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregor von Laszewski on Gregor von Laszewski</title>
+    <link>/</link>
+    <description>Recent content in Gregor von Laszewski on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloudmesh Pi Burn</title>
+      <link>/project/cloudmesh-pi-burn/</link>
+      <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-pi-burn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Nist</title>
+      <link>/project/cloudmesh-nist/</link>
+      <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Graphql</title>
+      <link>/project/cloudmesh-graphql/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:19 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh 4</title>
+      <link>/project/cloudmesh-4/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:13 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh 3</title>
+      <link>/project/cloudmesh-3/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:11 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh 2</title>
+      <link>/project/cloudmesh-2/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:09 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh 1</title>
+      <link>/project/cloudmesh-1/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 4</title>
+      <link>/post/version-4/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:10 -0500</pubDate>
+      
+      <guid>/post/version-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 3</title>
+      <link>/post/version-3/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:07 -0500</pubDate>
+      
+      <guid>/post/version-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 2</title>
+      <link>/post/version-2/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:04 -0500</pubDate>
+      
+      <guid>/post/version-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 1</title>
+      <link>/post/version-1/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
+      
+      <guid>/post/version-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version Graphql</title>
+      <link>/post/version-graphql/</link>
+      <pubDate>Sat, 24 Nov 2018 01:32:53 -0500</pubDate>
+      
+      <guid>/post/version-graphql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Gregor von Laszewski</title>
+    <link>/tags/software/</link>
+    <description>Recent content in Software on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 01:41:03 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloudmesh 1</title>
+      <link>/project/cloudmesh-1/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
