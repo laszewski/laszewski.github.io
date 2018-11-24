@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>futuregrid on Gregor von Laszewski</title>
+    <link>/tags/futuregrid/</link>
+    <description>Recent content in futuregrid on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/futuregrid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design of an Accounting and Metric-basedCloud-shifting and Cloud-seeding Framework forFederated Clouds and Bare-metal Environments</title>
+      <link>/publication/las-08-federated-cloud/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/las-08-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

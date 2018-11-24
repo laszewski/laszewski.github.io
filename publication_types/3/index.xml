@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Gregor von Laszewski</title>
+    <link>/publication_types/3/</link>
+    <description>Recent content in 3 on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cyberaide Shell: Interactive Task Management forGrids and Cyberinfrastructure</title>
+      <link>/publication/las-08-gridshell/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/las-08-gridshell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

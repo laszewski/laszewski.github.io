@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>citation analysis on Gregor von Laszewski</title>
+    <link>/tags/citation-analysis/</link>
+    <description>Recent content in citation analysis on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/citation-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/7307645/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/7307645/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

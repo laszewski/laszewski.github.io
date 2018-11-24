@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology Audit Service on Gregor von Laszewski</title>
+    <link>/tags/technology-audit-service/</link>
+    <description>Recent content in Technology Audit Service on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/technology-audit-service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards a Scientific Impact Measuring Framework forLarge Computing Facilities - a Case Study on XSEDE</title>
+      <link>/publication/las-14-impact/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/las-14-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
