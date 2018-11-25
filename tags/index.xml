@@ -58,11 +58,11 @@
     </item>
     
     <item>
-      <title>ComputationalGrid</title>
-      <link>/tags/computationalgrid/</link>
+      <title>Computational Grid</title>
+      <link>/tags/computational-grid/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 -0500</pubDate>
       
-      <guid>/tags/computationalgrid/</guid>
+      <guid>/tags/computational-grid/</guid>
       <description></description>
     </item>
     
@@ -85,11 +85,11 @@
     </item>
     
     <item>
-      <title>Datasystems</title>
-      <link>/tags/datasystems/</link>
+      <title>Data systems</title>
+      <link>/tags/data-systems/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
-      <guid>/tags/datasystems/</guid>
+      <guid>/tags/data-systems/</guid>
       <description></description>
     </item>
     
@@ -121,11 +121,11 @@
     </item>
     
     <item>
-      <title>General-purposeComputing on the Graphics Processing Unit</title>
-      <link>/tags/general-purposecomputing-on-the-graphics-processing-unit/</link>
+      <title>General-purpose Computing on the Graphics Processing Unit</title>
+      <link>/tags/general-purpose-computing-on-the-graphics-processing-unit/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 -0500</pubDate>
       
-      <guid>/tags/general-purposecomputing-on-the-graphics-processing-unit/</guid>
+      <guid>/tags/general-purpose-computing-on-the-graphics-processing-unit/</guid>
       <description></description>
     </item>
     
@@ -202,11 +202,11 @@
     </item>
     
     <item>
-      <title>Highperformance computing</title>
-      <link>/tags/highperformance-computing/</link>
+      <title>High performance computing</title>
+      <link>/tags/high-performance-computing/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
-      <guid>/tags/highperformance-computing/</guid>
+      <guid>/tags/high-performance-computing/</guid>
       <description></description>
     </item>
     
@@ -229,11 +229,11 @@
     </item>
     
     <item>
-      <title>Magneticanalysis</title>
-      <link>/tags/magneticanalysis/</link>
+      <title>Magnetic analysis</title>
+      <link>/tags/magnetic-analysis/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
-      <guid>/tags/magneticanalysis/</guid>
+      <guid>/tags/magnetic-analysis/</guid>
       <description></description>
     </item>
     
@@ -256,11 +256,11 @@
     </item>
     
     <item>
-      <title>NeuralSignals</title>
-      <link>/tags/neuralsignals/</link>
+      <title>Neural Signals</title>
+      <link>/tags/neural-signals/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 -0500</pubDate>
       
-      <guid>/tags/neuralsignals/</guid>
+      <guid>/tags/neural-signals/</guid>
       <description></description>
     </item>
     
@@ -328,20 +328,20 @@
     </item>
     
     <item>
+      <title>Swift system</title>
+      <link>/tags/swift-system/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/swift-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SwiftScript language</title>
       <link>/tags/swiftscript-language/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
       <guid>/tags/swiftscript-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swiftsystem</title>
-      <link>/tags/swiftsystem/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/swiftsystem/</guid>
       <description></description>
     </item>
     
@@ -382,11 +382,11 @@
     </item>
     
     <item>
-      <title>Virtualmachine</title>
-      <link>/tags/virtualmachine/</link>
+      <title>Virtual machine</title>
+      <link>/tags/virtual-machine/</link>
       <pubDate>Mon, 01 Feb 2010 00:00:00 -0500</pubDate>
       
-      <guid>/tags/virtualmachine/</guid>
+      <guid>/tags/virtual-machine/</guid>
       <description></description>
     </item>
     
@@ -508,11 +508,11 @@
     </item>
     
     <item>
-      <title>complex file systemstructures</title>
-      <link>/tags/complex-file-systemstructures/</link>
+      <title>complex file system structures</title>
+      <link>/tags/complex-file-system-structures/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
-      <guid>/tags/complex-file-systemstructures/</guid>
+      <guid>/tags/complex-file-system-structures/</guid>
       <description></description>
     </item>
     
@@ -526,11 +526,11 @@
     </item>
     
     <item>
-      <title>dynamicprovisioning</title>
-      <link>/tags/dynamicprovisioning/</link>
+      <title>dynamic provisioning</title>
+      <link>/tags/dynamic-provisioning/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
       
-      <guid>/tags/dynamicprovisioning/</guid>
+      <guid>/tags/dynamic-provisioning/</guid>
       <description></description>
     </item>
     
@@ -598,11 +598,11 @@
     </item>
     
     <item>
-      <title>high energy physicsapplications</title>
-      <link>/tags/high-energy-physicsapplications/</link>
+      <title>high energy physics applications</title>
+      <link>/tags/high-energy-physics-applications/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
       
-      <guid>/tags/high-energy-physicsapplications/</guid>
+      <guid>/tags/high-energy-physics-applications/</guid>
       <description></description>
     </item>
     
@@ -679,29 +679,29 @@
     </item>
     
     <item>
-      <title>scriptinglanguage</title>
-      <link>/tags/scriptinglanguage/</link>
+      <title>scripting language</title>
+      <link>/tags/scripting-language/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
-      <guid>/tags/scriptinglanguage/</guid>
+      <guid>/tags/scripting-language/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>softwarereliability</title>
-      <link>/tags/softwarereliability/</link>
+      <title>software reliability</title>
+      <link>/tags/software-reliability/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
-      <guid>/tags/softwarereliability/</guid>
+      <guid>/tags/software-reliability/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>storageresource broker</title>
-      <link>/tags/storageresource-broker/</link>
+      <title>storage resource broker</title>
+      <link>/tags/storage-resource-broker/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 -0500</pubDate>
       
-      <guid>/tags/storageresource-broker/</guid>
+      <guid>/tags/storage-resource-broker/</guid>
       <description></description>
     </item>
     

@@ -196,14 +196,6 @@
     
     <url>
     
-      <loc>/publication/las-14-cloudmeshmultiple/</loc>
-      <lastmod>2014-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication/las-14-bigdata/</loc>
       <lastmod>2014-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -220,15 +212,15 @@
     
     <url>
     
-      <loc>/publication/las-13-ondemand/</loc>
-      <lastmod>2013-01-01T00:00:00-05:00</lastmod>
+      <loc>/publication/las-12-xdmod-kernel/</loc>
+      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/publication/las-12-xdmod-kernel/</loc>
+      <loc>/publication/las-13-ondemand/</loc>
       <lastmod>2013-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -238,14 +230,6 @@
     
       <loc>/publication/las-13-xdmod/</loc>
       <lastmod>2013-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/las-12-xdmod-planing/</loc>
-      <lastmod>2012-07-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -1295,7 +1279,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2013-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1383,7 +1367,7 @@
     
     <url>
     
-      <loc>/tags/computationalgrid/</loc>
+      <loc>/tags/computational-grid/</loc>
       <lastmod>2001-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1410,7 +1394,7 @@
     
     <url>
     
-      <loc>/tags/datasystems/</loc>
+      <loc>/tags/data-systems/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1446,7 +1430,7 @@
     
     <url>
     
-      <loc>/tags/general-purposecomputing-on-the-graphics-processing-unit/</loc>
+      <loc>/tags/general-purpose-computing-on-the-graphics-processing-unit/</loc>
       <lastmod>2010-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1536,7 +1520,7 @@
     
     <url>
     
-      <loc>/tags/highperformance-computing/</loc>
+      <loc>/tags/high-performance-computing/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1563,7 +1547,7 @@
     
     <url>
     
-      <loc>/tags/magneticanalysis/</loc>
+      <loc>/tags/magnetic-analysis/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1590,7 +1574,7 @@
     
     <url>
     
-      <loc>/tags/neuralsignals/</loc>
+      <loc>/tags/neural-signals/</loc>
       <lastmod>2010-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1680,7 +1664,7 @@
     
     <url>
     
-      <loc>/tags/swiftscript-language/</loc>
+      <loc>/tags/swift-system/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1689,7 +1673,7 @@
     
     <url>
     
-      <loc>/tags/swiftsystem/</loc>
+      <loc>/tags/swiftscript-language/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1743,7 +1727,7 @@
     
     <url>
     
-      <loc>/tags/virtualmachine/</loc>
+      <loc>/tags/virtual-machine/</loc>
       <lastmod>2010-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1869,7 +1853,7 @@
     
     <url>
     
-      <loc>/tags/complex-file-systemstructures/</loc>
+      <loc>/tags/complex-file-system-structures/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1887,7 +1871,7 @@
     
     <url>
     
-      <loc>/tags/dynamicprovisioning/</loc>
+      <loc>/tags/dynamic-provisioning/</loc>
       <lastmod>2012-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1959,7 +1943,7 @@
     
     <url>
     
-      <loc>/tags/high-energy-physicsapplications/</loc>
+      <loc>/tags/high-energy-physics-applications/</loc>
       <lastmod>2010-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2040,7 +2024,7 @@
     
     <url>
     
-      <loc>/tags/scriptinglanguage/</loc>
+      <loc>/tags/scripting-language/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2049,7 +2033,7 @@
     
     <url>
     
-      <loc>/tags/softwarereliability/</loc>
+      <loc>/tags/software-reliability/</loc>
       <lastmod>2007-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2058,7 +2042,7 @@
     
     <url>
     
-      <loc>/tags/storageresource-broker/</loc>
+      <loc>/tags/storage-resource-broker/</loc>
       <lastmod>2002-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
