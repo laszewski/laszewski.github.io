@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>image repository on Gregor von Laszewski</title>
-    <link>/tags/image-repository/</link>
+    <link>http://laszewski.github.io/tags/image-repository/</link>
     <description>Recent content in image repository on Gregor von Laszewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
     <lastBuildDate>Thu, 01 Dec 2011 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/image-repository/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://laszewski.github.io/tags/image-repository/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
-      <link>/publication/fg-1295/</link>
+      <link>http://laszewski.github.io/publication/fg-1295/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 -0500</pubDate>
       
-      <guid>/publication/fg-1295/</guid>
+      <guid>http://laszewski.github.io/publication/fg-1295/</guid>
       <description></description>
     </item>
     

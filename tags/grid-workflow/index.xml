@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>grid workflow on Gregor von Laszewski</title>
-    <link>/tags/grid-workflow/</link>
+    <link>http://laszewski.github.io/tags/grid-workflow/</link>
     <description>Recent content in grid workflow on Gregor von Laszewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
     <lastBuildDate>Wed, 01 Sep 2010 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/grid-workflow/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://laszewski.github.io/tags/grid-workflow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Virtual Data System on Distributed Virtual Machines in Computational Grids</title>
-      <link>/publication/las-10-ijahuc/</link>
+      <link>http://laszewski.github.io/publication/las-10-ijahuc/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
       
-      <guid>/publication/las-10-ijahuc/</guid>
+      <guid>http://laszewski.github.io/publication/las-10-ijahuc/</guid>
       <description></description>
     </item>
     

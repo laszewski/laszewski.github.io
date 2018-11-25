@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregor von Laszewski on Gregor von Laszewski</title>
-    <link>/</link>
+    <link>http://laszewski.github.io/</link>
     <description>Recent content in Gregor von Laszewski on Gregor von Laszewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,136 +12,136 @@
     
     <item>
       <title>Cloudmesh Pi Burn</title>
-      <link>/project/cloudmesh-pi-burn/</link>
+      <link>http://laszewski.github.io/project/cloudmesh-pi-burn/</link>
       <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
       
-      <guid>/project/cloudmesh-pi-burn/</guid>
+      <guid>http://laszewski.github.io/project/cloudmesh-pi-burn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh Nist</title>
-      <link>/project/cloudmesh-nist/</link>
+      <link>http://laszewski.github.io/project/cloudmesh-nist/</link>
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
-      <guid>/project/cloudmesh-nist/</guid>
+      <guid>http://laszewski.github.io/project/cloudmesh-nist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh Graphql</title>
-      <link>/project/cloudmesh-graphql/</link>
+      <link>http://laszewski.github.io/project/cloudmesh-graphql/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:19 -0500</pubDate>
       
-      <guid>/project/cloudmesh-graphql/</guid>
+      <guid>http://laszewski.github.io/project/cloudmesh-graphql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh 4</title>
-      <link>/project/cloudmesh-4/</link>
+      <link>http://laszewski.github.io/project/cloudmesh-4/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:13 -0500</pubDate>
       
-      <guid>/project/cloudmesh-4/</guid>
+      <guid>http://laszewski.github.io/project/cloudmesh-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh 3</title>
-      <link>/project/cloudmesh-3/</link>
+      <link>http://laszewski.github.io/project/cloudmesh-3/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:11 -0500</pubDate>
       
-      <guid>/project/cloudmesh-3/</guid>
+      <guid>http://laszewski.github.io/project/cloudmesh-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh 2</title>
-      <link>/project/cloudmesh-2/</link>
+      <link>http://laszewski.github.io/project/cloudmesh-2/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:09 -0500</pubDate>
       
-      <guid>/project/cloudmesh-2/</guid>
+      <guid>http://laszewski.github.io/project/cloudmesh-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh 1</title>
-      <link>/project/cloudmesh-1/</link>
+      <link>http://laszewski.github.io/project/cloudmesh-1/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
       
-      <guid>/project/cloudmesh-1/</guid>
+      <guid>http://laszewski.github.io/project/cloudmesh-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version 4</title>
-      <link>/post/version-4/</link>
+      <link>http://laszewski.github.io/post/version-4/</link>
       <pubDate>Sat, 24 Nov 2018 01:33:10 -0500</pubDate>
       
-      <guid>/post/version-4/</guid>
+      <guid>http://laszewski.github.io/post/version-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version 3</title>
-      <link>/post/version-3/</link>
+      <link>http://laszewski.github.io/post/version-3/</link>
       <pubDate>Sat, 24 Nov 2018 01:33:07 -0500</pubDate>
       
-      <guid>/post/version-3/</guid>
+      <guid>http://laszewski.github.io/post/version-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version 2</title>
-      <link>/post/version-2/</link>
+      <link>http://laszewski.github.io/post/version-2/</link>
       <pubDate>Sat, 24 Nov 2018 01:33:04 -0500</pubDate>
       
-      <guid>/post/version-2/</guid>
+      <guid>http://laszewski.github.io/post/version-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version 1</title>
-      <link>/post/version-1/</link>
+      <link>http://laszewski.github.io/post/version-1/</link>
       <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
       
-      <guid>/post/version-1/</guid>
+      <guid>http://laszewski.github.io/post/version-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version Graphql</title>
-      <link>/post/version-graphql/</link>
+      <link>http://laszewski.github.io/post/version-graphql/</link>
       <pubDate>Sat, 24 Nov 2018 01:32:53 -0500</pubDate>
       
-      <guid>/post/version-graphql/</guid>
+      <guid>http://laszewski.github.io/post/version-graphql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Managed Virtual Clusters in Comet</title>
-      <link>/publication/las-16-virtcluster/</link>
+      <link>http://laszewski.github.io/publication/las-16-virtcluster/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
       
-      <guid>/publication/las-16-virtcluster/</guid>
+      <guid>http://laszewski.github.io/publication/las-16-virtcluster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
-      <link>/publication/7307645/</link>
+      <link>http://laszewski.github.io/publication/7307645/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/7307645/</guid>
+      <guid>http://laszewski.github.io/publication/7307645/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer comparison of XSEDE and NCAR publication data</title>
-      <link>/publication/las-15-cluster/</link>
+      <link>http://laszewski.github.io/publication/las-15-cluster/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/las-15-cluster/</guid>
+      <guid>http://laszewski.github.io/publication/las-15-cluster/</guid>
       <description></description>
     </item>
     

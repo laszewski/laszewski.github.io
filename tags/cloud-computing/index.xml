@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud computing on Gregor von Laszewski</title>
-    <link>/tags/cloud-computing/</link>
+    <link>http://laszewski.github.io/tags/cloud-computing/</link>
     <description>Recent content in cloud computing on Gregor von Laszewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://laszewski.github.io/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The FutureGrid Testbed for Big Data</title>
-      <link>/publication/las-14-bigdata/</link>
+      <link>http://laszewski.github.io/publication/las-14-bigdata/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>/publication/las-14-bigdata/</guid>
+      <guid>http://laszewski.github.io/publication/las-14-bigdata/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grid services on Gregor von Laszewski</title>
-    <link>/tags/grid-services/</link>
+    <link>http://laszewski.github.io/tags/grid-services/</link>
     <description>Recent content in Grid services on Gregor von Laszewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
     <lastBuildDate>Mon, 01 Jan 2007 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/grid-services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://laszewski.github.io/tags/grid-services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
-      <link>/publication/las-07-ogce/</link>
+      <link>http://laszewski.github.io/publication/las-07-ogce/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
       
-      <guid>/publication/las-07-ogce/</guid>
+      <guid>http://laszewski.github.io/publication/las-07-ogce/</guid>
       <description></description>
     </item>
     
