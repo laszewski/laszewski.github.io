@@ -3,17 +3,8 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/publication_types/4/</loc>
-      <lastmod>2019-08-14T17:18:49+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/publication/lasmopac/</loc>
-      <lastmod>2019-08-14T17:18:49+00:00</lastmod>
+      <loc>http://laszewski.github.io/project/cloudmesh-pi-burn/</loc>
+      <lastmod>2018-11-24T01:42:40-05:00</lastmod>
     </url>
     
   
@@ -21,25 +12,8 @@
     <url>
     
       <loc>http://laszewski.github.io/</loc>
-      <lastmod>2019-08-14T17:18:49+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/publication_types/</loc>
-      <lastmod>2019-08-14T17:18:49+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/project/cloudmesh-pi-burn/</loc>
       <lastmod>2018-11-24T01:42:40-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -211,6 +185,15 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/publication_types/</loc>
+      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/publication/las-16-virtcluster/</loc>
       <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -271,6 +254,15 @@
     <url>
     
       <loc>http://laszewski.github.io/publication_types/0/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication_types/4/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -382,6 +374,15 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/tags/technology-audit-service/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -417,15 +418,6 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/bibliometric/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1993,6 +1985,14 @@
     
       <loc>http://laszewski.github.io/publication/las-96-ecwmf/</loc>
       <lastmod>1996-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/lasmopac/</loc>
+      <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     </url>
     
   

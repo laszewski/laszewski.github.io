@@ -6,17 +6,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 17:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Nov 2018 01:42:40 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Draft: Parallelization of MOPAC</title>
-      <link>http://laszewski.github.io/publication/lasmopac/</link>
-      <pubDate>Wed, 14 Aug 2019 17:18:49 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/publication/lasmopac/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Cloudmesh Pi Burn</title>
@@ -142,6 +133,15 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-16-virtcluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>http://laszewski.github.io/publication/7307645/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/7307645/</guid>
       <description></description>
     </item>
     
