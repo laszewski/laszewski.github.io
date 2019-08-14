@@ -24,7 +24,36 @@
       <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-pi-burn/</guid>
-      <description></description>
+      <description>
+
+&lt;h2 id=&#34;cm-burn&#34;&gt;cm-burn&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;github: &lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;cm-burn&lt;/code&gt; is a program to burn many SD cards for the preparation of
+building clusters with Raspberry Pi&amp;rsquo;s.  The program is developed in
+Python and is portable on Linux, Windows, and OSX. It allows users to
+create readily bootable SD cards that have the network configured,
+contain a public ssh key from your machine that you used to configure
+the cards.  The unique feature is that you can burn multiple cards in
+a row.&lt;/p&gt;
+
+&lt;p&gt;A sample command invocation looks like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cm-burn —-name  red[5-7] \
+        --key ~/.ssh/id_rsa.pub \
+        —-ips 192.168.1.[5-7] \
+        —-image 2018-06-27-raspbian-stretch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This command creates 3 SD cards where the hostnames &lt;code&gt;red5&lt;/code&gt;, &lt;code&gt;red6&lt;/code&gt;, &lt;code&gt;red 7&lt;/code&gt;
+with the network addresses &lt;code&gt;192.168.1.5&lt;/code&gt;, &lt;code&gt;192.168.1.6&lt;/code&gt;,
+and &lt;code&gt;192.168.1.7&lt;/code&gt;. The public key is added to the authorized_keys file
+of the pi user.  The password login is automatically disabled and only
+the ssh key authentication is enabled.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -42,7 +71,7 @@
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/impact/</guid>
-      <description>&lt;p&gt;COntent will come here&lt;/p&gt;
+      <description>&lt;p&gt;Content will come here&lt;/p&gt;
 </description>
     </item>
     
@@ -61,34 +90,32 @@
       <pubDate>Sat, 24 Nov 2018 01:41:13 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloudmesh 3</title>
-      <link>http://laszewski.github.io/projects-old/cloudmesh-3/</link>
-      <pubDate>Sat, 24 Nov 2018 01:41:11 -0500</pubDate>
-      
-      <guid>http://laszewski.github.io/projects-old/cloudmesh-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloudmesh 2</title>
-      <link>http://laszewski.github.io/projects-old/cloudmesh-2/</link>
-      <pubDate>Sat, 24 Nov 2018 01:41:09 -0500</pubDate>
-      
-      <guid>http://laszewski.github.io/projects-old/cloudmesh-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloudmesh 1</title>
-      <link>http://laszewski.github.io/projects-old/cloudmesh-1/</link>
-      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
-      
-      <guid>http://laszewski.github.io/projects-old/cloudmesh-1/</guid>
-      <description></description>
+      <description>&lt;p&gt;Cloudmesh enables you to access multi-cloud environments such as AWS,
+Azure, Google, and OpenStack Cloudsvery easily. To start a vm on AWS you
+can say&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cms set cloud=AWS
+cms vm boot
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To start one on Azure, simply set the cloud accordingly&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cms set cloud=AWS
+cms vm boot
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cloudmesh is an evolution of our previous tool that has been used by
+hundreds of students and cloud practitioners to interact easily with
+clouds to create a service mashup to access common cloud services across
+a number of cloud providers.&lt;/p&gt;
+
+&lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -142,6 +169,33 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/beckstein-2018-contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Scientific Impact of XSEDE</title>
+      <link>http://laszewski.github.io/publication/wang-2018-evaluating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/wang-2018-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handbook of Clouds and Big Data</title>
+      <link>http://laszewski.github.io/publication/von-2018-handbook/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/von-2018-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
+      <link>http://laszewski.github.io/publication/von-2017-cloudmesh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/von-2017-cloudmesh/</guid>
       <description></description>
     </item>
     

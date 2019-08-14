@@ -87,66 +87,6 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/projects-old/cloudmesh-3/</loc>
-      <lastmod>2018-11-24T01:41:11-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/projects-old/</loc>
-      <lastmod>2018-11-24T01:41:11-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/projects-old/cloudmesh-2/</loc>
-      <lastmod>2018-11-24T01:41:09-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/cloudmesh/</loc>
-      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/projects-old/cloudmesh-1/</loc>
-      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/software/</loc>
-      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/</loc>
-      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>http://laszewski.github.io/post/version-4/</loc>
       <lastmod>2018-11-24T01:33:10-05:00</lastmod>
     </url>
@@ -344,6 +284,15 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/tags/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/tags/citation-analysis/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -455,6 +404,15 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/tags/technology-audit-service/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -490,15 +448,6 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/bibliometric/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

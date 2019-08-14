@@ -18,7 +18,7 @@
       <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-pi-burn/</guid>
-      <description></description>
+      <description>cm-burn  github: https://github.com/cloudmesh-community/cm-burn  cm-burn is a program to burn many SD cards for the preparation of building clusters with Raspberry Pi&amp;rsquo;s. The program is developed in Python and is portable on Linux, Windows, and OSX. It allows users to create readily bootable SD cards that have the network configured, contain a public ssh key from your machine that you used to configure the cards. The unique feature is that you can burn multiple cards in a row.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/impact/</guid>
-      <description>COntent will come here</description>
+      <description>Content will come here</description>
     </item>
     
     <item>
@@ -54,7 +54,9 @@
       <pubDate>Sat, 24 Nov 2018 01:41:13 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh/</guid>
-      <description></description>
+      <description>Cloudmesh enables you to access multi-cloud environments such as AWS, Azure, Google, and OpenStack Cloudsvery easily. To start a vm on AWS you can say
+cms set cloud=AWS cms vm boot  To start one on Azure, simply set the cloud accordingly
+cms set cloud=AWS cms vm boot  Cloudmesh is an evolution of our previous tool that has been used by hundreds of students and cloud practitioners to interact easily with clouds to create a service mashup to access common cloud services across a number of cloud providers.</description>
     </item>
     
   </channel>
