@@ -3,8 +3,9 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/project/cloudmesh-pi-burn/</loc>
-      <lastmod>2018-11-24T01:42:40-05:00</lastmod>
+      <loc>http://laszewski.github.io/publication_types/4/</loc>
+      <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -12,8 +13,33 @@
     <url>
     
       <loc>http://laszewski.github.io/</loc>
-      <lastmod>2018-11-24T01:42:40-05:00</lastmod>
+      <lastmod>2019-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/identifier/</loc>
+      <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication_types/</loc>
+      <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/project/cloudmesh-pi-burn/</loc>
+      <lastmod>2018-11-24T01:42:40-05:00</lastmod>
     </url>
     
   
@@ -152,6 +178,48 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/publication_types/0/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication_types/1/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/beckstein-2018-contributions/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/wang-2018-evaluating/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/von-2018-handbook/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -176,8 +244,8 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/publication_types/1/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+      <loc>http://laszewski.github.io/publication_types/6/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -185,9 +253,40 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/publication_types/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>http://laszewski.github.io/publication/von-2017-cloudmesh/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/cai-2017-comet/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/strande-2017-comet/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/fox-2017-futuregrid/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication/von-2017-teaching/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -247,24 +346,6 @@
     
       <loc>http://laszewski.github.io/publication/las-15-xsede/</loc>
       <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/publication_types/0/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/publication_types/4/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -358,15 +439,6 @@
     
       <loc>http://laszewski.github.io/tags/xsede-users/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/publication_types/6/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

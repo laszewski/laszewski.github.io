@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Sat, 24 Nov 2018 01:42:40 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
+      <link>http://laszewski.github.io/publication/identifier/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/identifier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cloudmesh Pi Burn</title>
@@ -128,20 +137,11 @@
     </item>
     
     <item>
-      <title>User Managed Virtual Clusters in Comet</title>
-      <link>http://laszewski.github.io/publication/las-16-virtcluster/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <title>Contributions to High-Performance big data computing</title>
+      <link>http://laszewski.github.io/publication/beckstein-2018-contributions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/las-16-virtcluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
-      <link>http://laszewski.github.io/publication/7307645/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/publication/7307645/</guid>
+      <guid>http://laszewski.github.io/publication/beckstein-2018-contributions/</guid>
       <description></description>
     </item>
     

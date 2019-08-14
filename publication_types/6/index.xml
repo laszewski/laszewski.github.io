@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Futuregrid: a reconfigurable testbed for cloud, hpc, and grid computing</title>
+      <link>http://laszewski.github.io/publication/fox-2017-futuregrid/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/fox-2017-futuregrid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The FutureGrid Testbed for Big Data</title>

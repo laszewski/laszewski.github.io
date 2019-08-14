@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
+      <link>http://laszewski.github.io/publication/identifier/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/identifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributions to High-Performance big data computing</title>
+      <link>http://laszewski.github.io/publication/beckstein-2018-contributions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/beckstein-2018-contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
+      <link>http://laszewski.github.io/publication/von-2017-cloudmesh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/von-2017-cloudmesh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Peer comparison of XSEDE and NCAR publication data</title>
