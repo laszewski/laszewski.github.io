@@ -1,7 +1,0 @@
-Publications
-============
-
-`List of Papers <http://gregor.cyberaide.org/bib/>`__ and the \ `bibtex:
-vonLaszewski.bib <https://raw.githubusercontent.com/cyberaide/bib/master/vonLaszewski-jabref.bib>`__ file.
-Please contact me if you have questions in regards to any of the
-publications.
