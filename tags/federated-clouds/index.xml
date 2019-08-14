@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/tags/federated-clouds/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
       <link>http://laszewski.github.io/publication/las-08-federated-cloud/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-08-federated-cloud/</guid>
       <description></description>

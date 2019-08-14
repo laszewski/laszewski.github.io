@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/tags/ncar/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
       <link>http://laszewski.github.io/publication/7307645/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/7307645/</guid>
       <description></description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Mon, 01 Feb 2010 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2010 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/tags/virtual-environment/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Provide Virtual Distributed Environments for Grid computing on Demand</title>
       <link>http://laszewski.github.io/publication/las-10-ve-journal/</link>
-      <pubDate>Mon, 01 Feb 2010 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-10-ve-journal/</guid>
       <description></description>

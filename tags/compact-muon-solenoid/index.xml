@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Wed, 01 Sep 2010 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/tags/compact-muon-solenoid/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Virtual Data System on Distributed Virtual Machines in Computational Grids</title>
       <link>http://laszewski.github.io/publication/las-10-ijahuc/</link>
-      <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-10-ijahuc/</guid>
       <description></description>

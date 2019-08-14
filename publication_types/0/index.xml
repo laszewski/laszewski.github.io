@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>FutureSystems at Indiana University</title>
       <link>http://laszewski.github.io/publication/futuresystems/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/futuresystems/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit</title>
       <link>http://laszewski.github.io/publication/las-12-fedcloud-proc/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-12-fedcloud-proc/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Dynamic Provisioned Experiments in FutureGrid</title>
       <link>http://laszewski.github.io/publication/last-10-dynamic/</link>
-      <pubDate>Wed, 01 Dec 2010 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/last-10-dynamic/</guid>
       <description></description>
@@ -41,17 +41,17 @@
     
     <item>
       <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>http://laszewski.github.io/publication/sc-poster-rain/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 -0400</pubDate>
+      <link>http://laszewski.github.io/publication/scposter-rain/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/sc-poster-rain/</guid>
+      <guid>http://laszewski.github.io/publication/scposter-rain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Computing Environments 2007 Confernce Proceeedings</title>
       <link>http://laszewski.github.io/publication/las-07-gce/</link>
-      <pubDate>Thu, 01 Nov 2007 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-07-gce/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Grid Computing Environments 2006 Confernce Proceeedings</title>
       <link>http://laszewski.github.io/publication/las-06-gce/</link>
-      <pubDate>Wed, 01 Nov 2006 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-06-gce/</guid>
       <description></description>
@@ -68,28 +68,28 @@
     
     <item>
       <title>Grid Portal Architectures for Scientific Applications</title>
-      <link>http://laszewski.github.io/publication/scidac-poster-portal/</link>
-      <pubDate>Wed, 01 Jun 2005 00:00:00 -0400</pubDate>
+      <link>http://laszewski.github.io/publication/scidacposter-portal/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/scidac-poster-portal/</guid>
+      <guid>http://laszewski.github.io/publication/scidacposter-portal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>http://laszewski.github.io/publication/scidac-poster-chem/</link>
-      <pubDate>Mon, 01 Mar 2004 00:00:00 -0500</pubDate>
+      <link>http://laszewski.github.io/publication/scidacposter-chem/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/scidac-poster-chem/</guid>
+      <guid>http://laszewski.github.io/publication/scidacposter-chem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commodity Grid Kits</title>
-      <link>http://laszewski.github.io/publication/scidac-poster-cogkit/</link>
-      <pubDate>Mon, 01 Mar 2004 00:00:00 -0500</pubDate>
+      <link>http://laszewski.github.io/publication/scidacposter-cogkit/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/scidac-poster-cogkit/</guid>
+      <guid>http://laszewski.github.io/publication/scidacposter-cogkit/</guid>
       <description></description>
     </item>
     

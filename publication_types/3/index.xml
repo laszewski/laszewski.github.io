@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Cyberaide Shell: Interactive Task Management for Grids and Cyberinfrastructure</title>
       <link>http://laszewski.github.io/publication/las-08-gridshell/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-08-gridshell/</guid>
       <description></description>

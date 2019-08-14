@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>The FutureGrid Testbed for Big Data</title>
       <link>http://laszewski.github.io/publication/las-14-bigdata/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-14-bigdata/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>FutureGrid - a reconfigurable testbed for Cloud, HPC and Grid Computing</title>
       <link>http://laszewski.github.io/publication/las-12-fg-bookchapter/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-12-fg-bookchapter/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Providing a Green Framework for Cloud Based Data Centers</title>
       <link>http://laszewski.github.io/publication/las-11-greenchapter/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-11-greenchapter/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Towards on Demand IT Service Deployment</title>
       <link>http://laszewski.github.io/publication/las-11-ondemand/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-11-ondemand/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Cyberaide Virtual Applicance: On-Demand Deploying Middleware for Cyberinfrastructure</title>
       <link>http://laszewski.github.io/publication/las-09-cloudcomp/</link>
-      <pubDate>Fri, 01 Oct 2010 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-09-cloudcomp/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>GreenIT Service Level Agreements</title>
       <link>http://laszewski.github.io/publication/las-10-sla/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-10-sla/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Grid Workflow with the Java CoG Kit</title>
       <link>http://laszewski.github.io/publication/las-06-workflow-book/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-06-workflow-book/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Work coordination for Grid computing</title>
       <link>http://laszewski.github.io/publication/las-06-workcoordination/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-06-workcoordination/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Quality-of-Service Based Grid Communities</title>
       <link>http://laszewski.github.io/publication/las-05-qos-book/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-05-qos-book/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Gestalt of the Grid</title>
       <link>http://laszewski.github.io/publication/las-04-gestalt/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-04-gestalt/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>Middleware for Communications</title>
       <link>http://laszewski.github.io/publication/las-04-middleware/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-04-middleware/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Commodity Grid Kits - Middleware for Building Grid Computing Environments</title>
       <link>http://laszewski.github.io/publication/las-03-gridcomputing/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-03-gridcomputing/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>Sourcebook of Parallel Computing</title>
       <link>http://laszewski.github.io/publication/las-03-cmt-book/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-03-cmt-book/</guid>
       <description></description>

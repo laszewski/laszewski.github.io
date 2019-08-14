@@ -7,33 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
-      <link>http://laszewski.github.io/publication/las-12-xdmod-kernel/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/publication/las-12-xdmod-kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On-demand Service Hosting on Production Grid Infrastructures</title>
       <link>http://laszewski.github.io/publication/las-13-ondemand/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-13-ondemand/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
+      <link>http://laszewski.github.io/publication/las-12-xdmod-kernel/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/publication/las-12-xdmod-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Task scheduling with ANN-based temperature prediction in a data center: a simulation-based study</title>
       <link>http://laszewski.github.io/publication/las-11-ann/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-11-ann/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>eMOLST: a documentation flow for distributed health informatics</title>
       <link>http://laszewski.github.io/publication/las-11-emolst/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-11-emolst/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Provide Virtual Machine Information for Grid Computing</title>
       <link>http://laszewski.github.io/publication/wang-10-transactions/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/wang-10-transactions/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Virtual Data System on Distributed Virtual Machines in Computational Grids</title>
       <link>http://laszewski.github.io/publication/las-10-ijahuc/</link>
-      <pubDate>Wed, 01 Sep 2010 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-10-ijahuc/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Provide Virtual Distributed Environments for Grid computing on Demand</title>
       <link>http://laszewski.github.io/publication/las-10-ve-journal/</link>
-      <pubDate>Mon, 01 Feb 2010 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-10-ve-journal/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Cloud Computing: a Perspective Study</title>
       <link>http://laszewski.github.io/publication/las-09-cloud/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-09-cloud/</guid>
       <description></description>
@@ -86,17 +86,17 @@
     
     <item>
       <title>Multicores in Cloud Computing: Research Challenges for Applications</title>
-      <link>http://laszewski.github.io/publication/dblp-journalsjcp-wang-tlm-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 -0500</pubDate>
+      <link>http://laszewski.github.io/publication/dblp-journalsjcpwangtlm-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/dblp-journalsjcp-wang-tlm-10/</guid>
+      <guid>http://laszewski.github.io/publication/dblp-journalsjcpwangtlm-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Research Advances in e-Science</title>
       <link>http://laszewski.github.io/publication/yang-09/</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/yang-09/</guid>
       <description></description>
@@ -104,17 +104,17 @@
     
     <item>
       <title>Grid Virtualization Engine: Design, Implementation, and Evaluation</title>
-      <link>http://laszewski.github.io/publication/dblp-journalssj-wang-ltk-09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
+      <link>http://laszewski.github.io/publication/dblp-journalssjwangltk-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/dblp-journalssj-wang-ltk-09/</guid>
+      <guid>http://laszewski.github.io/publication/dblp-journalssjwangltk-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Portal for Visualizing Grid Usage</title>
       <link>http://laszewski.github.io/publication/las-06-guss-j/</link>
-      <pubDate>Wed, 01 Aug 2007 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-06-guss-j/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
       <link>http://laszewski.github.io/publication/las-07-ogce/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-07-ogce/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>An Abstraction Model for a Grid Execution Framework</title>
       <link>http://laszewski.github.io/publication/las-04-abstraction-j/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-04-abstraction-j/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>Toward Reputable Grids</title>
       <link>http://laszewski.github.io/publication/las-05-reputation-j/</link>
-      <pubDate>Thu, 01 Sep 2005 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-05-reputation-j/</guid>
       <description></description>
@@ -150,7 +150,7 @@
     <item>
       <title>The Grid-Idea and Its Evolution</title>
       <link>http://laszewski.github.io/publication/las-05-gridhistory/</link>
-      <pubDate>Wed, 01 Jun 2005 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-05-gridhistory/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>Active Thermochemical Tables: Thermochemistry for the 21st century</title>
       <link>http://laszewski.github.io/publication/las-05-atct/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-05-atct/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>Grid Portal Architectures for scientific applications</title>
       <link>http://laszewski.github.io/publication/las-05-portalarch/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-05-portalarch/</guid>
       <description></description>
@@ -177,7 +177,7 @@
     <item>
       <title>Workflow Concepts of the Java CoG Kit</title>
       <link>http://laszewski.github.io/publication/las-05-workflow-jgc/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-05-workflow-jgc/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>An Overview of Grid File Transfer Patterns and their Implementation in the Java CoG Kit</title>
       <link>http://laszewski.github.io/publication/las-04-ftp-journal/</link>
-      <pubDate>Wed, 01 Sep 2004 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-04-ftp-journal/</guid>
       <description></description>
@@ -195,7 +195,7 @@
     <item>
       <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
       <link>http://laszewski.github.io/publication/las-04-qos-journal/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-04-qos-journal/</guid>
       <description></description>
@@ -204,7 +204,7 @@
     <item>
       <title>Introduction to Active Thermochemical Tables: Several Key Enthalpies of Formation Revisited</title>
       <link>http://laszewski.github.io/publication/las-04-atct-j/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-04-atct-j/</guid>
       <description></description>
@@ -213,7 +213,7 @@
     <item>
       <title>A Framework for Building Scientific Knowledge Grids Applied to Thermochemical Tables</title>
       <link>http://laszewski.github.io/publication/las-03-knowledge/</link>
-      <pubDate>Mon, 01 Dec 2003 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-03-knowledge/</guid>
       <description></description>
@@ -222,7 +222,7 @@
     <item>
       <title>The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development</title>
       <link>http://laszewski.github.io/publication/las-02-cactus-j/</link>
-      <pubDate>Mon, 01 Jul 2002 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-02-cactus-j/</guid>
       <description></description>
@@ -231,7 +231,7 @@
     <item>
       <title>A CORBA Commodity Grid Kit</title>
       <link>http://laszewski.github.io/publication/las-02-corbacog/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-02-corbacog/</guid>
       <description></description>
@@ -240,7 +240,7 @@
     <item>
       <title>A Perl Commodity Grid Kit</title>
       <link>http://laszewski.github.io/publication/las-02-perlcog/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-02-perlcog/</guid>
       <description></description>
@@ -249,7 +249,7 @@
     <item>
       <title>A Unicore Globus Interoperability Layer</title>
       <link>http://laszewski.github.io/publication/las-02-grip/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-02-grip/</guid>
       <description></description>
@@ -258,7 +258,7 @@
     <item>
       <title>Community Software Development with the Astrophysics Simulation Collaboratory</title>
       <link>http://laszewski.github.io/publication/las-02-cactus/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-02-cactus/</guid>
       <description></description>
@@ -267,7 +267,7 @@
     <item>
       <title>Features of the Java Commodity Grid Kit</title>
       <link>http://laszewski.github.io/publication/las-02-javacog/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-02-javacog/</guid>
       <description></description>
@@ -276,7 +276,7 @@
     <item>
       <title>Multi-Paradigm Communications in Java for Grid Computing</title>
       <link>http://laszewski.github.io/publication/las-01-acm/</link>
-      <pubDate>Mon, 01 Oct 2001 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-01-acm/</guid>
       <description></description>
@@ -285,7 +285,7 @@
     <item>
       <title>A High-Throughput X-Ray Microtomography System at the Advanced Photon Source</title>
       <link>http://laszewski.github.io/publication/las-01-cmt/</link>
-      <pubDate>Sun, 01 Apr 2001 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-01-cmt/</guid>
       <description></description>
@@ -294,7 +294,7 @@
     <item>
       <title>A Java Commodity Grid Kit</title>
       <link>http://laszewski.github.io/publication/las-01-cog-concurency/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-01-cog-concurency/</guid>
       <description></description>
@@ -303,7 +303,7 @@
     <item>
       <title>Using Computational Grid Capabilities to Enhance the Ability of an X-Ray Source for Structural Biology</title>
       <link>http://laszewski.github.io/publication/las-00-sbc/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-00-sbc/</guid>
       <description></description>
@@ -312,7 +312,7 @@
     <item>
       <title>A Loosely Coupled Metacomputer: Cooperating Job Submissions Across Multiple Supercomputing Sites</title>
       <link>http://laszewski.github.io/publication/las-99-loosely/</link>
-      <pubDate>Wed, 01 Dec 1999 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-99-loosely/</guid>
       <description></description>
@@ -321,7 +321,7 @@
     <item>
       <title>Distance Visualization: Data Exploration on the Grid</title>
       <link>http://laszewski.github.io/publication/las-99-ieee/</link>
-      <pubDate>Wed, 01 Dec 1999 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-99-ieee/</guid>
       <description></description>
@@ -330,7 +330,7 @@
     <item>
       <title>A Fault Detection Service for Wide Area Distributed Computations</title>
       <link>http://laszewski.github.io/publication/las-99-hbm-journal/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-99-hbm-journal/</guid>
       <description></description>
