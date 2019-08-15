@@ -28,16 +28,40 @@
     </item>
     
     <item>
-      <title>Cloudmesh Pi Burn</title>
-      <link>http://laszewski.github.io/project/cloudmesh-pi-burn/</link>
+      <title>Raspberry Pi Cloud Cluster</title>
+      <link>http://laszewski.github.io/project/pi-cloud-cluster/</link>
       <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
       
-      <guid>http://laszewski.github.io/project/cloudmesh-pi-burn/</guid>
+      <guid>http://laszewski.github.io/project/pi-cloud-cluster/</guid>
       <description>
 
-&lt;h2 id=&#34;cm-burn&#34;&gt;cm-burn&lt;/h2&gt;
+&lt;h2 id=&#34;raspberry-pi-cloud-cluster&#34;&gt;Raspberry Pi Cloud Cluster&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;THis project is open to anyone wanting to work with me on building a
+Raspberry Pi Cloud Cluster. We have 100-200 Raspberry Pis which provide
+an ideal playground for building your own cluster and explore
+distributed computing algorithms on real hardware. In this project you
+would be building a cluster and than putting cloud software on the
+cluster to make it our own cloud service.&lt;/p&gt;
+
+&lt;p&gt;Such software can include but is not limited to&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Kubernetwes&lt;/li&gt;
+&lt;li&gt;Map/Reduce&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When chosing this project one must address the issue of dealing with
+many compute resources at a time. THis can be done with PXE boot or with
+our cm-burn.&lt;/p&gt;
+
+&lt;p&gt;Students that chose this project will have an office space in the
+building that I sit. In addition each student will be given a 5 node
+cluster thay can work at home on (non smoking environment) that must be
+returned after the project is completed.&lt;/p&gt;
+
+&lt;h3 id=&#34;cm-burn&#34;&gt;cm-burn&lt;/h3&gt;
 
 &lt;p&gt;&lt;code&gt;cm-burn&lt;/code&gt; is a program to burn many SD cards for the preparation of
 building clusters with Raspberry Pi&amp;rsquo;s.  The program is developed in
@@ -60,16 +84,30 @@ with the network addresses &lt;code&gt;192.168.1.5&lt;/code&gt;, &lt;code&gt;192
 and &lt;code&gt;192.168.1.7&lt;/code&gt;. The public key is added to the authorized_keys file
 of the pi user.  The password login is automatically disabled and only
 the ssh key authentication is enabled.&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Cloudmesh Nist</title>
+      <title>NIST Big Data</title>
       <link>http://laszewski.github.io/project/cloudmesh-nist/</link>
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-nist/</guid>
-      <description>http://laszewski.github.io/publication/las-19-nist/
+      <description>
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://laszewski.github.io/publication/las-19-nist&#34;&gt;NIST Big Data Interoperability Framework: Volume 8, Reference
+Architecture Interfaces Wo. L Chang Gregor von Laszewski Jun 1,
+2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -79,21 +117,67 @@ the ssh key authentication is enabled.&lt;/p&gt;
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/impact/</guid>
-      <description>&lt;p&gt;Content will come here&lt;/p&gt;
+      <description>
+
+&lt;p&gt;In scientific impact metrics we attempt to evaluate the work conducted
+by researcher teams or organizations and compare how they perform to
+other groups.&lt;/p&gt;
+
+&lt;p&gt;In our effort we use the bibliometrics approach to evaluate the
+scientific impact of XSEDE. By utilizing publication data from various
+sources, e.g., ISI Web of Science and Microsoft Academic Graph, we
+calculate the impact metrics of XSEDE publications and show how they
+compare with non-XSEDE publication from the same field of study, or
+non-organization peers from the same journal issue. To perform this
+analysis we need to identify the bibliographic dataset and clean and
+currate them.&lt;/p&gt;
+
+&lt;p&gt;We then introduce the metrics we used for evaluation and comparison, and
+the methods used to calculate them. Detailed analysis results of Field
+Weighted Citation Impact (FWCI) and the peers comparison will be
+presented and discussed. We also explain how the same approaches could
+be used to evaluate publications from a similar organization or
+institute, to demonstrate the general applicability of the present
+evaluation approach providing impact on organizations and groups.&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://laszewski.github.io/publication/las-18-impact&#34;&gt;Evaluating the Scientific Impact of XSEDE Fugang Wang, Gregor von
+Laszewski, Timothy Whitson, Geoffrey C Fox, Thomas R Furlani,
+Robert L DeLeon, Steven M Gallo Jan 1,
+2018&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://laszewski.github.io/publication/las-15-impact-ncar&#34;&gt;Peer Comparison of XSEDE and NCAR Publication Data G. von Laszewski,
+F. Wang, G. C. Fox, D. L. Hart, T. R. Furlani, R. L. DeLeon, S. M.
+Gallo Sep 1, 2015&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://laszewski.github.io/publication/las-14-impact&#34;&gt;Towards a Scientific Impact Measuring Framework for Large Computing
+Facilities - a Case Study on XSEDE Fugang Wang, Gregor von Laszewski,
+Geoffrey C. Fox, Thomas R. Furlani, Robert L. DeLeon, Steven M. Gallo
+Jan 1, 2014&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://laszewski.github.io/publication/las-15-tas&#34;&gt;TAS View of XSEDE Users and Usage Robert L. DeLeon, Thomas R.
+Furlani, Steven M. Gallo, Joseph P. White, Matthew D. Jones, Abani
+Patra, Martins Innus, Thomas Yearke, Jeffrey T. Palmer, Jeanette M.
+Sperhac, Ryan Rathsam, Nikolay Simakov, Gregor von Laszewski, Fugang
+Wang Jan 1, 2015&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Cloudmesh Graphql</title>
-      <link>http://laszewski.github.io/project/cloudmesh-graphql/</link>
+      <title>Cloudmesh JavaScript User Interface</title>
+      <link>http://laszewski.github.io/project/cloudmesh-gui/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:19 -0500</pubDate>
       
-      <guid>http://laszewski.github.io/project/cloudmesh-graphql/</guid>
-      <description></description>
+      <guid>http://laszewski.github.io/project/cloudmesh-gui/</guid>
+      <description>&lt;p&gt;Please contact me if you like to help developing a JavaScript Graphical user interface&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cloudmesh</title>
+      <title>Multi-Cloud Mangement with Cloudmesh</title>
       <link>http://laszewski.github.io/project/cloudmesh/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:13 -0500</pubDate>
       
@@ -182,10 +266,10 @@ a number of cloud providers.&lt;/p&gt;
     
     <item>
       <title>Evaluating the Scientific Impact of XSEDE</title>
-      <link>http://laszewski.github.io/publication/wang-2018-evaluating/</link>
+      <link>http://laszewski.github.io/publication/las-18-impact/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/wang-2018-evaluating/</guid>
+      <guid>http://laszewski.github.io/publication/las-18-impact/</guid>
       <description></description>
     </item>
     

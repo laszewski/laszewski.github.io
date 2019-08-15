@@ -22,20 +22,20 @@
     </item>
     
     <item>
-      <title>Scientific impact</title>
-      <link>http://laszewski.github.io/tags/scientific-impact/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/tags/scientific-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>citation analysis</title>
       <link>http://laszewski.github.io/tags/citation-analysis/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/tags/citation-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scientific impact</title>
+      <link>http://laszewski.github.io/tags/scientific-impact/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/tags/scientific-impact/</guid>
       <description></description>
     </item>
     
@@ -94,15 +94,6 @@
     </item>
     
     <item>
-      <title>Cloud computing</title>
-      <link>http://laszewski.github.io/tags/cloud-computing/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Technology Audit Service</title>
       <link>http://laszewski.github.io/tags/technology-audit-service/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -126,6 +117,15 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/tags/bibliometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud computing</title>
+      <link>http://laszewski.github.io/tags/cloud-computing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://laszewski.github.io/tags/cloud-computing/</guid>
       <description></description>
     </item>
     

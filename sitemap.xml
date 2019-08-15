@@ -55,17 +55,17 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/project/cloudmesh-pi-burn/</loc>
+      <loc>http://laszewski.github.io/project/</loc>
       <lastmod>2018-11-24T01:42:40-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>http://laszewski.github.io/project/</loc>
+      <loc>http://laszewski.github.io/project/pi-cloud-cluster/</loc>
       <lastmod>2018-11-24T01:42:40-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -88,7 +88,7 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/project/cloudmesh-graphql/</loc>
+      <loc>http://laszewski.github.io/project/cloudmesh-gui/</loc>
       <lastmod>2018-11-24T01:41:19-05:00</lastmod>
     </url>
     
@@ -161,7 +161,7 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/publication/wang-2018-evaluating/</loc>
+      <loc>http://laszewski.github.io/publication/las-18-impact/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -267,7 +267,7 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/publication/7307645/</loc>
+      <loc>http://laszewski.github.io/publication/las-15-impact-ncar/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -277,15 +277,6 @@
     
       <loc>http://laszewski.github.io/publication/las-15-cluster/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/scientific-impact/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -302,6 +293,15 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/citation-analysis/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/tags/scientific-impact/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -377,7 +377,7 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/publication/vonlaszewski-15-tas/</loc>
+      <loc>http://laszewski.github.io/publication/las-15-tas/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -405,15 +405,6 @@
     
       <loc>http://laszewski.github.io/tags/xsede-users/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -456,6 +447,15 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/bibliometric/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

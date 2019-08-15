@@ -13,22 +13,21 @@
     
     
     <item>
-      <title>Cloudmesh Pi Burn</title>
-      <link>http://laszewski.github.io/project/cloudmesh-pi-burn/</link>
+      <title>Raspberry Pi Cloud Cluster</title>
+      <link>http://laszewski.github.io/project/pi-cloud-cluster/</link>
       <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
       
-      <guid>http://laszewski.github.io/project/cloudmesh-pi-burn/</guid>
-      <description>cm-burn https://github.com/cloudmesh-community/cm-burn
-cm-burn is a program to burn many SD cards for the preparation of building clusters with Raspberry Pi&amp;rsquo;s. The program is developed in Python and is portable on Linux, Windows, and OSX. It allows users to create readily bootable SD cards that have the network configured, contain a public ssh key from your machine that you used to configure the cards. The unique feature is that you can burn multiple cards in a row.</description>
+      <guid>http://laszewski.github.io/project/pi-cloud-cluster/</guid>
+      <description>Raspberry Pi Cloud Cluster THis project is open to anyone wanting to work with me on building a Raspberry Pi Cloud Cluster. We have 100-200 Raspberry Pis which provide an ideal playground for building your own cluster and explore distributed computing algorithms on real hardware. In this project you would be building a cluster and than putting cloud software on the cluster to make it our own cloud service.</description>
     </item>
     
     <item>
-      <title>Cloudmesh Nist</title>
+      <title>NIST Big Data</title>
       <link>http://laszewski.github.io/project/cloudmesh-nist/</link>
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-nist/</guid>
-      <description>http://laszewski.github.io/publication/las-19-nist/</description>
+      <description> Resources  NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces Wo. L Chang Gregor von Laszewski Jun 1, 2019  </description>
     </item>
     
     <item>
@@ -37,20 +36,21 @@ cm-burn is a program to burn many SD cards for the preparation of building clust
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/impact/</guid>
-      <description>Content will come here</description>
+      <description>In scientific impact metrics we attempt to evaluate the work conducted by researcher teams or organizations and compare how they perform to other groups.
+In our effort we use the bibliometrics approach to evaluate the scientific impact of XSEDE. By utilizing publication data from various sources, e.g., ISI Web of Science and Microsoft Academic Graph, we calculate the impact metrics of XSEDE publications and show how they compare with non-XSEDE publication from the same field of study, or non-organization peers from the same journal issue.</description>
     </item>
     
     <item>
-      <title>Cloudmesh Graphql</title>
-      <link>http://laszewski.github.io/project/cloudmesh-graphql/</link>
+      <title>Cloudmesh JavaScript User Interface</title>
+      <link>http://laszewski.github.io/project/cloudmesh-gui/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:19 -0500</pubDate>
       
-      <guid>http://laszewski.github.io/project/cloudmesh-graphql/</guid>
-      <description></description>
+      <guid>http://laszewski.github.io/project/cloudmesh-gui/</guid>
+      <description>Please contact me if you like to help developing a JavaScript Graphical user interface</description>
     </item>
     
     <item>
-      <title>Cloudmesh</title>
+      <title>Multi-Cloud Mangement with Cloudmesh</title>
       <link>http://laszewski.github.io/project/cloudmesh/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:13 -0500</pubDate>
       
