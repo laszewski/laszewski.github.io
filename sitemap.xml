@@ -412,15 +412,6 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>http://laszewski.github.io/tags/technology-audit-service/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -456,6 +447,15 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/bibliometric/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
