@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://laszewski.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>http://laszewski.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>http://laszewski.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>http://laszewski.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/about/</guid>
       <description>Biography Gregor von Laszewski is an Assistant Director DSC in the School of Informatics and Computing at Indiana University. He holds also a position as Adjunct Professor in the Intelligent Systems Engineering Department. Previously he held Adjunct Professor positions at the Computer Science Department at Indiana University and University of North Texas, hes has taught on voluntary basis at Illinois Institute of Technology. He received a Masters Degree in 1990 from the University of Bonn, Germany, and a Ph.</description>
@@ -42,7 +42,7 @@
     <item>
       <title></title>
       <link>http://laszewski.github.io/home/sample/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/sample/</guid>
       <description>alert  </description>
@@ -51,7 +51,7 @@
     <item>
       <title>Contact</title>
       <link>http://laszewski.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/contact/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Skills</title>
       <link>http://laszewski.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/skills/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Selected Publications</title>
       <link>http://laszewski.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/publications_selected/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Recent Publications</title>
       <link>http://laszewski.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/publications/</guid>
       <description> To see all publications: Please click on this link.
@@ -97,7 +97,7 @@
     <item>
       <title>Selected Talks</title>
       <link>http://laszewski.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/talks_selected/</guid>
       <description></description>
@@ -106,7 +106,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>http://laszewski.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/talks/</guid>
       <description></description>
@@ -115,7 +115,7 @@
     <item>
       <title>Recent Posts</title>
       <link>http://laszewski.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/posts/</guid>
       <description></description>
@@ -124,26 +124,16 @@
     <item>
       <title>Projects</title>
       <link>http://laszewski.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Selected Software</title>
-      <link>http://laszewski.github.io/home/software/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/home/software/</guid>
-      <description>Software releases
-   Software Version Status Code     Cloudmesh v4  link   Cloudmesh v3  link   Cloudmesh v2  link   Cloudmesh v1  link   Cloudmesh GraphQL alpha  link    </description>
-    </item>
-    
-    <item>
       <title>Classes</title>
       <link>http://laszewski.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/teaching/</guid>
       <description>I am teaching regular a number of classes and participate also in defining content and project for them as well as coordinating the TA&amp;rsquo;s. This includes e222, e516, i523, i524.
@@ -152,9 +142,19 @@ Ongoing Class
     </item>
     
     <item>
+      <title>Selected Software</title>
+      <link>http://laszewski.github.io/home/software/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/home/software/</guid>
+      <description>Software releases
+   Software Version Status Code     Cloudmesh v4  link   Cloudmesh v3  link   Cloudmesh v2  link   Cloudmesh v1  link   Cloudmesh GraphQL alpha  link    </description>
+    </item>
+    
+    <item>
       <title>Tags</title>
       <link>http://laszewski.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/tags/</guid>
       <description></description>
@@ -163,7 +163,7 @@ Ongoing Class
     <item>
       <title>History</title>
       <link>http://laszewski.github.io/home/history/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/home/history/</guid>
       <description>How do I pronounce my lastname? The pronounciation of my lastname is as follows:

@@ -3,9 +3,8 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/publication_types/1/</loc>
-      <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>http://laszewski.github.io/project/cloudmesh-gui/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -13,6 +12,56 @@
     <url>
     
       <loc>http://laszewski.github.io/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/project/cloudmesh/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/project/cloudmesh-nist/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/project/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/project/pi-cloud-cluster/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/project/impact/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/publication_types/1/</loc>
       <lastmod>2019-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -49,55 +98,6 @@
     
       <loc>http://laszewski.github.io/publication/las-19-nist/</loc>
       <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/project/</loc>
-      <lastmod>2018-11-24T01:42:40-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/project/pi-cloud-cluster/</loc>
-      <lastmod>2018-11-24T01:42:40-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/project/cloudmesh-nist/</loc>
-      <lastmod>2018-11-24T01:42:26-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/project/impact/</loc>
-      <lastmod>2018-11-24T01:42:26-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/project/cloudmesh-gui/</loc>
-      <lastmod>2018-11-24T01:41:19-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/project/cloudmesh/</loc>
-      <lastmod>2018-11-24T01:41:13-05:00</lastmod>
     </url>
     
   
