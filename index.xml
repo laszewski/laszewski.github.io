@@ -101,6 +101,32 @@ the ssh key authentication is enabled.&lt;/p&gt;
       <guid>http://laszewski.github.io/project/cloudmesh-nist/</guid>
       <description>
 
+&lt;h2 id=&#34;nist-big-data-refernce-architecture&#34;&gt;NIST Big Data Refernce Architecture&lt;/h2&gt;
+
+&lt;p&gt;Reference architectures provide &lt;em&gt;an authoritative source of information
+about a specific subject area that guides and constrains the
+instantiations of multiple architectures and solutions&lt;/em&gt;. Reference
+architectures generally serve as a foundation for solution architectures
+and may also be used for comparison and alignment of instantiations of
+architectures and solutions. The goal of the NBD-PWG Reference
+Architecture Subgroup is to develop an open reference architecture for
+Big Data that achieves the following objectives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provides a common language for the various stakeholders;&lt;/li&gt;
+&lt;li&gt;Encourages adherence to common standards, specifications, and patterns;&lt;/li&gt;
+&lt;li&gt;Provides consistent methods for implementation of technology to solve
+similar problem sets;&lt;/li&gt;
+&lt;li&gt;Illustrates and improves understanding of the various Big Data
+components, processes, and systems, in the context of a vendor- and
+technology-agnostic Big Data conceptual model;&lt;/li&gt;
+&lt;li&gt;Provides a technical reference for U.S. government departments,
+agencies, and other consumers to understand, discuss, categorize, and
+compare Big Data solutions; and&lt;/li&gt;
+&lt;li&gt;Facilitates analysis of candidate standards for interoperability,
+portability, reusability, and extendibility.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 
 &lt;ul&gt;
