@@ -20,10 +20,10 @@
     
     <item>
       <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
-      <link>http://laszewski.github.io/publication/las-19-nist-19/</link>
+      <link>http://laszewski.github.io/publication/las-19-nist/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://laszewski.github.io/publication/las-19-nist-19/</guid>
+      <guid>http://laszewski.github.io/publication/las-19-nist/</guid>
       <description></description>
     </item>
     
@@ -37,9 +37,7 @@
 
 &lt;h2 id=&#34;cm-burn&#34;&gt;cm-burn&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;github: &lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;cm-burn&lt;/code&gt; is a program to burn many SD cards for the preparation of
 building clusters with Raspberry Pi&amp;rsquo;s.  The program is developed in
@@ -71,7 +69,8 @@ the ssh key authentication is enabled.&lt;/p&gt;
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-nist/</guid>
-      <description></description>
+      <description>http://laszewski.github.io/publication/las-19-nist/
+</description>
     </item>
     
     <item>

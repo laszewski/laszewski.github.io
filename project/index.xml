@@ -18,7 +18,8 @@
       <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-pi-burn/</guid>
-      <description>cm-burn  github: https://github.com/cloudmesh-community/cm-burn  cm-burn is a program to burn many SD cards for the preparation of building clusters with Raspberry Pi&amp;rsquo;s. The program is developed in Python and is portable on Linux, Windows, and OSX. It allows users to create readily bootable SD cards that have the network configured, contain a public ssh key from your machine that you used to configure the cards. The unique feature is that you can burn multiple cards in a row.</description>
+      <description>cm-burn https://github.com/cloudmesh-community/cm-burn
+cm-burn is a program to burn many SD cards for the preparation of building clusters with Raspberry Pi&amp;rsquo;s. The program is developed in Python and is portable on Linux, Windows, and OSX. It allows users to create readily bootable SD cards that have the network configured, contain a public ssh key from your machine that you used to configure the cards. The unique feature is that you can burn multiple cards in a row.</description>
     </item>
     
     <item>
@@ -27,7 +28,7 @@
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-nist/</guid>
-      <description></description>
+      <description>http://laszewski.github.io/publication/las-19-nist/</description>
     </item>
     
     <item>
