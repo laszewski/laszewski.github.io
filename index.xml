@@ -208,24 +208,95 @@ Wang Jan 1, 2015&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
       <pubDate>Sat, 24 Nov 2018 01:41:13 -0500</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh/</guid>
-      <description>&lt;p&gt;Cloudmesh enables you to access multi-cloud environments such as AWS,
+      <description>
+
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;Cloudmesh enables you to access multi-cloud environments such as AWS,
 Azure, Google, and OpenStack Cloudsvery easily. To start a vm on AWS you
 can say&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;cms set cloud=AWS
-cms vm boot
+&lt;pre&gt;&lt;code&gt;cms set cloud=AWS cms vm boot
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;To start one on Azure, simply set the cloud accordingly&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;cms set cloud=AWS
-cms vm boot
+&lt;pre&gt;&lt;code&gt;cms set cloud=AWS cms vm boot 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Cloudmesh is an evolution of our previous tool that has been used by
-hundreds of students and cloud practitioners to interact easily with
-clouds to create a service mashup to access common cloud services across
-a number of cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/cm/&#34; target=&#34;_blank&#34;&gt;Cloudmesh&lt;/a&gt; is an evolution
+of our previous tool that has been used by hundreds of students and
+cloud practitioners to interact easily with clouds to create a service
+mashup to access common cloud services across a number of cloud
+providers.&lt;/p&gt;
+
+&lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It has a variety of repositories that add features to cloudmesh based on
+needs by the user.&lt;/p&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Library&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-common&#34; target=&#34;_blank&#34;&gt;Common&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Simplifies system, console, and argument management&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-cmd5&#34; target=&#34;_blank&#34;&gt;Shell&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Dophisticated command shell and line interpreter with plugins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-installer&#34; target=&#34;_blank&#34;&gt;Installer&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Convenient source code installer and manager for developers&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-cloud&#34; target=&#34;_blank&#34;&gt;Database&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A database for caching cloud interactions (based on MongoDB)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-cloud&#34; target=&#34;_blank&#34;&gt;Cloud Compute&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cloud Compute Providers for AWS, Azure, Google, Openstack&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-storage&#34; target=&#34;_blank&#34;&gt;Cloud Storage&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cloud Storage Providers for AWS, Azure, Google, Openstack&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-workflow&#34; target=&#34;_blank&#34;&gt;Workflow&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Plugin for managing workflows&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-emr&#34; target=&#34;_blank&#34;&gt;Map/Reduce&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Plugin for managing AWS Elastic MapReduce (EMR)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;OpenApi&lt;/td&gt;
+&lt;td&gt;OpenAPI based REST service interfaces&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
 
