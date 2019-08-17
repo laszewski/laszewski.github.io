@@ -10,6 +10,70 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bookmanager</title>
+      <link>http://laszewski.github.io/project/bookmanager/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/project/bookmanager/</guid>
+      <description>
+
+&lt;h1 id=&#34;bookmanager&#34;&gt;Bookmanager&lt;/h1&gt;
+
+&lt;p&gt;Bookmanager is a tool to create a publication from a number of sources on the
+internet. It is especially useful to create customized books, lecture notes, or
+handouts. Content is best integrated in markdown format as it is very fast to
+produce the output. At present we only produce epubs, but it will be easy to
+also create pdf, html, work, odt and others. As we use pandoc we can support the
+formats supported by it.&lt;/p&gt;
+
+&lt;p&gt;Implemented Features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Table of contents with indentation levels can be specified via yaml&lt;/li&gt;
+&lt;li&gt;Special variable substitution of elements defined in the yaml file&lt;/li&gt;
+&lt;li&gt;Documents are fetched from github&lt;/li&gt;
+&lt;li&gt;The documents will be inspected and the images found in them are fetched
+(we assume the images are relative to the document, http links will not be modified)&lt;/li&gt;
+&lt;li&gt;Automatic generation of a cover page&lt;/li&gt;
+&lt;li&gt;Output is generated in a dest directory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Planed enhancements:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;integration of References via pandoc citeref&lt;/li&gt;
+&lt;li&gt;integration of Section, Table, Image references via pandoc crossref&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you like to help get in contact with Gregor von Laszewski
+&lt;a href=&#34;mailto:laszewski@gmail.com&#34; target=&#34;_blank&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ pip install cyberaide-bookmanager
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;bookmanager -- a helper to create books from markdown files in a yaml TOC.
+
+Usage:
+  bookmanager version
+  bookmanager YAML cover
+  bookmanager YAML get [--format=FORMAT] [--force]
+  bookmanager YAML download
+  bookmanager YAML level
+  bookmanager YAML epub [--force]
+  bookmanager YAML pdf
+  bookmanager YAML html
+  bookmanager YAML docx
+  bookmanager YAML check [--format=FORMAT]
+  bookmanager YAML urls [--format=FORMAT]
+  bookmanager YAML list [--format=FORMAT] [--details]
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cloudmesh JavaScript User Interface</title>
       <link>http://laszewski.github.io/project/cloudmesh-gui/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
@@ -50,7 +114,7 @@ providers.&lt;/p&gt;
 &lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Documentation: &lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -118,7 +182,7 @@ needs by the user.&lt;/p&gt;
 &lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Documentation: &lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -335,6 +399,124 @@ Wang Jan 1, 2015&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>Fall 2019 Classes</title>
+      <link>http://laszewski.github.io/post/class/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
+      
+      <guid>http://laszewski.github.io/post/class/</guid>
+      <description>
+
+&lt;p&gt;You may like some of the quotes from students:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Best class I ever took at IU.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Thanks to you I got a job at company &amp;hellip; name removed &amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;My company has adopted lessons learned from your class.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;engr-e516-and-csci-b-649&#34;&gt;ENGR-E516 and CSCI-B 649&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; AI cloud services, cloud workflows, multi-clouds, map/reduce,
+build your own cloud cluster at our Lab, AWS, Azure, Google, academic
+clouds, Kubernetes, Docker&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Information:&lt;/strong&gt; There is little prerequisite for this class other than knowing some
+programming language. However, we had students with no programming background
+that got an A+ in class. Links to registrar:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://registrar.indiana.edu/browser/soc4198/ENGR/ENGR-E516.shtml&#34; target=&#34;_blank&#34;&gt;ENGR-E516&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://registrar.indiana.edu/browser/soc4198/CSCI/CSCI-B649.shtml&#34; target=&#34;_blank&#34;&gt;CSCI-B649&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both classes are the same. They are just listed in different departments.
+These classes can be taken by anyone at the university. The syllabus is at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus in PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.epub&#34; target=&#34;_blank&#34;&gt;Syllabus in ePub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Project examples (incomplete list) are at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/projects/index.html&#34; target=&#34;_blank&#34;&gt;Project examples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please be advised that residential students must sign up for the Friday Lab
+session also:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;11:15A-12:30P   Friday      I2 150&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Online students will have the opportunity to attend a weekly meeting.
+The time for that will be determined based on a poll.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Students taking this class have access to our Lab space in the
+building I am in if you like to use it (optional). I have 8 office
+spaces, so you could have your own office space if you like. You
+however can do your work anywhere. Free transportation is provided.
+After hour access to the building can be arranged.&lt;/p&gt;
+
+&lt;h2 id=&#34;engr-e616&#34;&gt;ENGR-E616&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not offered in the Fall, but you can use an independent study with
+Gregor in the Fall 2019 semester. Contact him at &lt;a href=&#34;mailto:laszewski@gmail.com&#34; target=&#34;_blank&#34;&gt;laszewski@gmail.com&lt;/a&gt;
+Independent studies will work on programming projects, advanced cloud
+topics, or conference/workshop papers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shuttle</title>
+      <link>http://laszewski.github.io/post/shuttle/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
+      
+      <guid>http://laszewski.github.io/post/shuttle/</guid>
+      <description>&lt;p&gt;Hello Engineering Students, Faculty, and Staff!&lt;/p&gt;
+
+&lt;p&gt;As the semester approaches, I wanted to remind everyone that there is a
+shuttle to transport ISE students and personnel between Luddy Hall and
+MESH during the academic year when class is in session.&lt;/p&gt;
+
+&lt;p&gt;Shuttle Service between Luddy Hall &amp;amp; MESH is available&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Monday – Friday from 8AM – 5PM&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;from IU Fleet Services DSS Van Service.  Call
+812-855-5043 at least 10 minutes before a ride is needed to request a
+ride.  Shuttle requests can be scheduled hours or days in advance as
+well.&lt;/p&gt;
+
+&lt;p&gt;Service will start Monday, August 26th and will follow the academic
+calendar for holidays and breaks.&lt;/p&gt;
+
+&lt;p&gt;The pickup / drop off locations at both buildings are: Luddy
+Hall—Pickup/Drop Off from the corner of 11th Street and North Forrest
+Avenue.&lt;/p&gt;
+
+&lt;p&gt;Riders need to be at the pick-up location at the time requested –
+drivers are on a schedule and cannot wait for riders for extended
+periods of time.  Driver will leave if the rider is not at the pick-up
+location within one minute of the requested time.  If a ride is missed,
+riders will have to call and request another ride.&lt;/p&gt;
+
+&lt;p&gt;Please let me know if you have any questions or if any issues arise.  I
+hope you have a wonderful semester!&lt;/p&gt;
+
+&lt;p&gt;Cheers,
+Julie&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Version 1</title>
       <link>http://laszewski.github.io/post/version-1/</link>
       <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
@@ -349,33 +531,6 @@ Wang Jan 1, 2015&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
       <pubDate>Sat, 24 Nov 2018 01:32:53 -0500</pubDate>
       
       <guid>http://laszewski.github.io/post/version-graphql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contributions to High-Performance Big Data Computing</title>
-      <link>http://laszewski.github.io/publication/beckstein-2018-contributions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/publication/beckstein-2018-contributions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluating the Scientific Impact of XSEDE</title>
-      <link>http://laszewski.github.io/publication/las-18-impact/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/publication/las-18-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Handbook of Clouds and Big Data</title>
-      <link>http://laszewski.github.io/publication/von-2018-handbook/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/publication/von-2018-handbook/</guid>
       <description></description>
     </item>
     
