@@ -13,13 +13,22 @@
     
     
     <item>
-      <title>Python</title>
+      <title>Python for Cloud Computing</title>
       <link>http://laszewski.github.io/book/python/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/book/python/</guid>
       <description>Python is an easy to learn programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s simple syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 This online book will provide you with enough information so that you can conduct your programming for the cloud in python.</description>
+    </item>
+    
+    <item>
+      <title>Writing with Markdown</title>
+      <link>http://laszewski.github.io/book/writing/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/writing/</guid>
+      <description>CONTENT UNDER CINSTRUCTION</description>
     </item>
     
   </channel>

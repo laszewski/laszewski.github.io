@@ -298,7 +298,7 @@ Architecture Interfaces Wo. L Chang Gregor von Laszewski Jun 1,
     </item>
     
     <item>
-      <title>Python</title>
+      <title>Python for Cloud Computing</title>
       <link>http://laszewski.github.io/book/python/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
@@ -440,6 +440,16 @@ Wang Jan 1, 2015&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
     </item>
     
     <item>
+      <title>Writing with Markdown</title>
+      <link>http://laszewski.github.io/book/writing/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/writing/</guid>
+      <description>&lt;p&gt;CONTENT UNDER CINSTRUCTION&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Human in the Loop Virtual Machine Management on Comet</title>
       <link>http://laszewski.github.io/publication/las-19-harc-comet/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -556,15 +566,6 @@ Independent studies will work on programming projects, advanced cloud
 topics, or conference/workshop papers.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Version 1</title>
-      <link>http://laszewski.github.io/post/version-1/</link>
-      <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
-      
-      <guid>http://laszewski.github.io/post/version-1/</guid>
-      <description></description>
     </item>
     
   </channel>
