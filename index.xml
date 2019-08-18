@@ -298,6 +298,27 @@ Architecture Interfaces Wo. L Chang Gregor von Laszewski Jun 1,
     </item>
     
     <item>
+      <title>Python</title>
+      <link>http://laszewski.github.io/book/python/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/python/</guid>
+      <description>&lt;p&gt;Python is an easy to learn programming language. It has efficient
+high-level data structures and a simple but effective approach to
+object-oriented programming. Python’s simple syntax and dynamic typing,
+together with its interpreted nature, make it an ideal language for
+scripting and rapid application development in many areas on most
+platforms.&lt;/p&gt;
+
+&lt;p&gt;This online book will provide you with enough information so
+that you can conduct your programming for the cloud in python.&lt;/p&gt;
+
+&lt;p&gt;You are encouracged to contribute to this book. Participants from e516
+are expected to contribute as part of their class activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Raspberry Pi Cloud Cluster</title>
       <link>http://laszewski.github.io/project/pi-cloud-cluster/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
@@ -543,15 +564,6 @@ topics, or conference/workshop papers.&lt;/li&gt;
       <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
       
       <guid>http://laszewski.github.io/post/version-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Version Graphql</title>
-      <link>http://laszewski.github.io/post/version-graphql/</link>
-      <pubDate>Sat, 24 Nov 2018 01:32:53 -0500</pubDate>
-      
-      <guid>http://laszewski.github.io/post/version-graphql/</guid>
       <description></description>
     </item>
     

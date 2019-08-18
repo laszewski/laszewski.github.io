@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gregor von Laszewski</title>
+    <link>http://laszewski.github.io/book/</link>
+    <description>Recent content in Posts on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://laszewski.github.io/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python</title>
+      <link>http://laszewski.github.io/book/python/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/python/</guid>
+      <description>Python is an easy to learn programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s simple syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
+This online book will provide you with enough information so that you can conduct your programming for the cloud in python.</description>
+    </item>
+    
+  </channel>
+</rss>

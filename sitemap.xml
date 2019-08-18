@@ -61,6 +61,14 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/book/python/</loc>
+      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/project/pi-cloud-cluster/</loc>
       <lastmod>2019-08-15T00:00:00-04:00</lastmod>
     </url>
@@ -240,6 +248,14 @@
     
       <loc>http://laszewski.github.io/publication/von-2018-handbook/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/book/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -472,6 +488,15 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/tags/technology-audit-service/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -507,15 +532,6 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/bibliometric/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
