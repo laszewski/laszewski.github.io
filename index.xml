@@ -139,6 +139,16 @@ Usage:
     </item>
     
     <item>
+      <title>Cloud Computing</title>
+      <link>http://laszewski.github.io/book/cloud/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/cloud/</guid>
+      <description>&lt;p&gt;This page is under construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cloudmesh JavaScript User Interface</title>
       <link>http://laszewski.github.io/project/cloudmesh-gui/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
@@ -517,80 +527,6 @@ inclusion.&lt;/p&gt;
       
       <guid>http://laszewski.github.io/post/version-2/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Fall 2019 Classes</title>
-      <link>http://laszewski.github.io/post/class/</link>
-      <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
-      
-      <guid>http://laszewski.github.io/post/class/</guid>
-      <description>
-
-&lt;p&gt;You may like some of the quotes from students:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Best class I ever took at IU.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Thanks to you I got a job at company &amp;hellip; name removed &amp;hellip;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;My company has adopted lessons learned from your class.&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;engr-e516-and-csci-b-649&#34;&gt;ENGR-E516 and CSCI-B 649&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; AI cloud services, cloud workflows, multi-clouds, map/reduce,
-build your own cloud cluster at our Lab, AWS, Azure, Google, academic
-clouds, Kubernetes, Docker&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Information:&lt;/strong&gt; There is little prerequisite for this class other than knowing some
-programming language. However, we had students with no programming background
-that got an A+ in class. Links to registrar:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://registrar.indiana.edu/browser/soc4198/ENGR/ENGR-E516.shtml&#34; target=&#34;_blank&#34;&gt;ENGR-E516&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://registrar.indiana.edu/browser/soc4198/CSCI/CSCI-B649.shtml&#34; target=&#34;_blank&#34;&gt;CSCI-B649&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Both classes are the same. They are just listed in different departments.
-These classes can be taken by anyone at the university. The syllabus is at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus in PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.epub&#34; target=&#34;_blank&#34;&gt;Syllabus in ePub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Project examples (incomplete list) are at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/projects/index.html&#34; target=&#34;_blank&#34;&gt;Project examples&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Please be advised that residential students must sign up for the Friday Lab
-session also:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;11:15A-12:30P   Friday      I2 150&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Online students will have the opportunity to attend a weekly meeting.
-The time for that will be determined based on a poll.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Students taking this class have access to our Lab space in the
-building I am in if you like to use it (optional). I have 8 office
-spaces, so you could have your own office space if you like. You
-however can do your work anywhere. Free transportation is provided.
-After hour access to the building can be arranged.&lt;/p&gt;
-
-&lt;h2 id=&#34;engr-e616&#34;&gt;ENGR-E616&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Not offered in the Fall, but you can use an independent study with
-Gregor in the Fall 2019 semester. Contact him at &lt;a href=&#34;mailto:laszewski@gmail.com&#34; target=&#34;_blank&#34;&gt;laszewski@gmail.com&lt;/a&gt;
-Independent studies will work on programming projects, advanced cloud
-topics, or conference/workshop papers.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
