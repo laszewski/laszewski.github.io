@@ -159,6 +159,16 @@ Usage:
     </item>
     
     <item>
+      <title>Linux for Cloud Computing</title>
+      <link>http://laszewski.github.io/book/linux/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/linux/</guid>
+      <description>&lt;p&gt;This page is under construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multi-Cloud Mangement with Cloudmesh</title>
       <link>http://laszewski.github.io/project/cloudmesh/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
@@ -517,15 +527,6 @@ inclusion.&lt;/p&gt;
       <pubDate>Sat, 24 Nov 2018 01:33:07 -0500</pubDate>
       
       <guid>http://laszewski.github.io/post/version-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Version 2</title>
-      <link>http://laszewski.github.io/post/version-2/</link>
-      <pubDate>Sat, 24 Nov 2018 01:33:04 -0500</pubDate>
-      
-      <guid>http://laszewski.github.io/post/version-2/</guid>
       <description></description>
     </item>
     
