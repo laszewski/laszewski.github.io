@@ -185,6 +185,20 @@ ePub.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Introduction into Intelligent Systems Engineering</title>
+      <link>http://laszewski.github.io/book/222/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/222/</guid>
+      <description>&lt;p&gt;Here you find the Lecture notes for e222.&lt;/p&gt;
+
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Linux for Cloud Computing</title>
       <link>http://laszewski.github.io/book/linux/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
@@ -526,15 +540,6 @@ inclusion.&lt;/p&gt;
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>http://laszewski.github.io/publication/las-19-harc-comet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
-      <link>http://laszewski.github.io/publication/las-19-nist/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://laszewski.github.io/publication/las-19-nist/</guid>
       <description></description>
     </item>
     
