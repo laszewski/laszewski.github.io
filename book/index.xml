@@ -78,5 +78,15 @@ This online book will provide you with enough information so that you can conduc
       <description>An important part of any scientific research is to communicate and document it. Previously we used LaTeX in this class to provide the ability to contribute professional looking documents. As part of this we also noticed that any document from any student that ever submitted a document in MSWord was inferior to those using structured documents such as provided by LaTeX or markdown. Although we would have loved to continue our work in LaTeX, a small number of students made the full adaptation of LaTeX as document system not possible.</description>
     </item>
     
+    <item>
+      <title>E534 - Fall 2019</title>
+      <link>http://laszewski.github.io/book/e534/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/e534/</guid>
+      <description>Here you find the Lecture notes for e516. PLease com back to this page as we will update it weekly. Updates will typically tacke place Friday at midnight.
+The best we to read them is with an ePub reader. If you do not have one you also use the PDF version. However, PDF does not render as well as ePub.</description>
+    </item>
+    
   </channel>
 </rss>
