@@ -20,14 +20,6 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/book/big-data/</loc>
-      <lastmod>2019-08-15T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>http://laszewski.github.io/project/bookmanager/</loc>
       <lastmod>2019-08-15T00:00:00-04:00</lastmod>
     </url>
@@ -60,7 +52,7 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/book/222/</loc>
+      <loc>http://laszewski.github.io/book/e516-proceedings/</loc>
       <lastmod>2019-08-15T00:00:00-04:00</lastmod>
     </url>
     
@@ -68,7 +60,7 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/book/linux/</loc>
+      <loc>http://laszewski.github.io/book/e534/</loc>
       <lastmod>2019-08-15T00:00:00-04:00</lastmod>
     </url>
     
@@ -133,8 +125,24 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/book/e534/</loc>
-      <lastmod>2019-08-03T00:00:00-04:00</lastmod>
+      <loc>http://laszewski.github.io/book/linux/</loc>
+      <lastmod>2019-08-14T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/book/big-data/</loc>
+      <lastmod>2019-07-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/book/222/</loc>
+      <lastmod>2019-07-15T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -544,6 +552,15 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/tags/technology-audit-service/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -579,15 +596,6 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/bibliometric/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
