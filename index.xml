@@ -6,8 +6,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://laszewski.github.io/book/cloud/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/cloud/</guid>
+      <description>&lt;p&gt;This page is under construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E516 - Fall 2019 Lecture Notes</title>
+      <link>http://laszewski.github.io/book/e516/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/e516/</guid>
+      <description>&lt;p&gt;Here you find the Lecture notes for e516. PLease com back to this page
+as we will update it weekly. Updates will typically tacke place Friday
+at midnight.&lt;/p&gt;
+
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E516 - Fall 2019 Proceedings</title>
+      <link>http://laszewski.github.io/book/e516-proceedings/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/e516-proceedings/</guid>
+      <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
+Please note that some may be edited by Gregor von Laszewski or the
+support staff for this class.&lt;/p&gt;
+
+&lt;p&gt;We try to update this document frequently.&lt;/p&gt;
+
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Shuttle</title>
@@ -139,56 +183,12 @@ Usage:
     </item>
     
     <item>
-      <title>Cloud Computing</title>
-      <link>http://laszewski.github.io/book/cloud/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/cloud/</guid>
-      <description>&lt;p&gt;This page is under construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Cloudmesh JavaScript User Interface</title>
       <link>http://laszewski.github.io/project/cloudmesh-gui/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/project/cloudmesh-gui/</guid>
       <description>&lt;p&gt;Please contact me if you like to help developing a JavaScript Graphical user interface&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>E516 - Fall 2019 Lecture Notes</title>
-      <link>http://laszewski.github.io/book/e516/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/e516/</guid>
-      <description>&lt;p&gt;Here you find the Lecture notes for e516. PLease com back to this page
-as we will update it weekly. Updates will typically tacke place Friday
-at midnight.&lt;/p&gt;
-
-&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
-you also use the PDF version. However, PDF does not render as well as
-ePub.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>E516 - Fall 2019 Proceedings</title>
-      <link>http://laszewski.github.io/book/e516-proceedings/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/e516-proceedings/</guid>
-      <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
-Please note that some may be edited by Gregor von Laszewski or the
-support staff for this class.&lt;/p&gt;
-
-&lt;p&gt;We try to update this document frequently.&lt;/p&gt;
-
-&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
-you also use the PDF version. However, PDF does not render as well as
-ePub.&lt;/p&gt;
 </description>
     </item>
     
