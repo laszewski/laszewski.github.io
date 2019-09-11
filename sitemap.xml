@@ -28,6 +28,14 @@
     
     <url>
     
+      <loc>http://laszewski.github.io/book/chameleon/</loc>
+      <lastmod>2019-09-10T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://laszewski.github.io/book/e516-proceedings/</loc>
       <lastmod>2019-09-09T00:00:00-04:00</lastmod>
     </url>
@@ -552,15 +560,6 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>http://laszewski.github.io/tags/technology-audit-service/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -596,6 +595,15 @@
     <url>
     
       <loc>http://laszewski.github.io/tags/bibliometric/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/tags/cloud-computing/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

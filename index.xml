@@ -36,6 +36,20 @@ ePub.&lt;/p&gt;
     </item>
     
     <item>
+      <title>OpenStack with Chameleon Cloud</title>
+      <link>http://laszewski.github.io/book/chameleon/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/book/chameleon/</guid>
+      <description>&lt;p&gt;Here you find information on how to use OpenStack on Chameleon Cloud.&lt;/p&gt;
+
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>E516 - Fall 2019 Proceedings</title>
       <link>http://laszewski.github.io/book/e516-proceedings/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
@@ -540,16 +554,6 @@ inclusion.&lt;/p&gt;
       <pubDate>Wed, 14 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/book/linux/</guid>
-      <description>&lt;p&gt;This page is under construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data Appplications and Analytics</title>
-      <link>http://laszewski.github.io/book/big-data/</link>
-      <pubDate>Mon, 15 Jul 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/big-data/</guid>
       <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
     </item>
