@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>E516 - Spring 2020 Proceedings</title>
+      <link>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</guid>
+      <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
+Please note that some may be edited by Gregor von Laszewski or the
+support staff for this class.&lt;/p&gt;
+
+&lt;p&gt;We try to update this document frequently.&lt;/p&gt;
+
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloud Computing</title>
@@ -55,24 +73,6 @@ ePub.&lt;/p&gt;
       <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</guid>
-      <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
-Please note that some may be edited by Gregor von Laszewski or the
-support staff for this class.&lt;/p&gt;
-
-&lt;p&gt;We try to update this document frequently.&lt;/p&gt;
-
-&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
-you also use the PDF version. However, PDF does not render as well as
-ePub.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>E516 - Fall 2019 Proceedings</title>
-      <link>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the
 support staff for this class.&lt;/p&gt;

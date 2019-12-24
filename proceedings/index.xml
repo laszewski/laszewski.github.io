@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books on Gregor von Laszewski</title>
+    <title>Proceedings on Gregor von Laszewski</title>
     <link>http://laszewski.github.io/proceedings/</link>
-    <description>Recent content in Books on Gregor von Laszewski</description>
+    <description>Recent content in Proceedings on Gregor von Laszewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>E516 - Fall 2019 Proceedings</title>
-      <link>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
+      <title>E516 - Spring 2020 Proceedings</title>
+      <link>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</guid>
+      <guid>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</guid>
       <description>Here you find the Documents produced by the students for this class. Please note that some may be edited by Gregor von Laszewski or the support staff for this class.
 We try to update this document frequently.
 The best we to read them is with an ePub reader. If you do not have one you also use the PDF version. However, PDF does not render as well as ePub.</description>
@@ -25,10 +25,10 @@ The best we to read them is with an ePub reader. If you do not have one you also
     
     <item>
       <title>E516 - Fall 2019 Proceedings</title>
-      <link>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</link>
+      <link>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</guid>
+      <guid>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</guid>
       <description>Here you find the Documents produced by the students for this class. Please note that some may be edited by Gregor von Laszewski or the support staff for this class.
 We try to update this document frequently.
 The best we to read them is with an ePub reader. If you do not have one you also use the PDF version. However, PDF does not render as well as ePub.</description>
