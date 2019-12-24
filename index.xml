@@ -51,10 +51,28 @@ ePub.&lt;/p&gt;
     
     <item>
       <title>E516 - Fall 2019 Proceedings</title>
-      <link>http://laszewski.github.io/book/e516-proceedings/</link>
+      <link>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://laszewski.github.io/book/e516-proceedings/</guid>
+      <guid>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</guid>
+      <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
+Please note that some may be edited by Gregor von Laszewski or the
+support staff for this class.&lt;/p&gt;
+
+&lt;p&gt;We try to update this document frequently.&lt;/p&gt;
+
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E516 - Fall 2019 Proceedings</title>
+      <link>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the
 support staff for this class.&lt;/p&gt;
@@ -545,16 +563,6 @@ very useful for creating deployment and code documentations through easy to
 use verbatim or code environments. At the same time it allows us to use
 mathematical equations as defined in LaTeX and avoid images for equation
 inclusion.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linux for Cloud Computing</title>
-      <link>http://laszewski.github.io/book/linux/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/linux/</guid>
-      <description>&lt;p&gt;This page is under construction&lt;/p&gt;
 </description>
     </item>
     

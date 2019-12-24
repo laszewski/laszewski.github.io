@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Gregor von Laszewski</title>
+    <title>Books on Gregor von Laszewski</title>
     <link>http://laszewski.github.io/book/</link>
-    <description>Recent content in Posts on Gregor von Laszewski</description>
+    <description>Recent content in Books on Gregor von Laszewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
@@ -38,17 +38,6 @@ The best we to read them is with an ePub reader. If you do not have one you also
       
       <guid>http://laszewski.github.io/book/chameleon/</guid>
       <description>Here you find information on how to use OpenStack on Chameleon Cloud.
-The best we to read them is with an ePub reader. If you do not have one you also use the PDF version. However, PDF does not render as well as ePub.</description>
-    </item>
-    
-    <item>
-      <title>E516 - Fall 2019 Proceedings</title>
-      <link>http://laszewski.github.io/book/e516-proceedings/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/e516-proceedings/</guid>
-      <description>Here you find the Documents produced by the students for this class. Please note that some may be edited by Gregor von Laszewski or the support staff for this class.
-We try to update this document frequently.
 The best we to read them is with an ePub reader. If you do not have one you also use the PDF version. However, PDF does not render as well as ePub.</description>
     </item>
     

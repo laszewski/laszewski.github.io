@@ -36,7 +36,15 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/book/e516-proceedings/</loc>
+      <loc>http://laszewski.github.io/proceedings/e516-sp19-proceedings/</loc>
+      <lastmod>2019-09-09T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/proceedings/e516-sp20-proceedings/</loc>
       <lastmod>2019-09-09T00:00:00-04:00</lastmod>
     </url>
     
@@ -327,6 +335,14 @@
     <url>
     
       <loc>http://laszewski.github.io/book/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/proceedings/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
