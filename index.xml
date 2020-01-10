@@ -6,8 +6,112 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018-2020</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 01:33:02 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spring 2020 Classes</title>
+      <link>http://laszewski.github.io/post/class/</link>
+      <pubDate>Wed, 01 Jan 2020 01:33:02 -0500</pubDate>
+      
+      <guid>http://laszewski.github.io/post/class/</guid>
+      <description>
+
+&lt;p&gt;You may like some of the quotes from students:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Best class I ever took at IU.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Thanks to you I got a job at top rated company.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;My company has adopted lessons learned from your class.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The level of support and expertise the professor provides is outstanding and unmatched within IU.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;independent-study&#34;&gt;Independent Study&lt;/h2&gt;
+
+&lt;p&gt;Any time available.  Contact Gregor at &lt;a href=&#34;mailto:laszewski@gmail.com&#34; target=&#34;_blank&#34;&gt;laszewski@gmail.com&lt;/a&gt;.
+Independent studies will work on programming projects, advanced cloud
+topics, or conference/workshop papers.&lt;/p&gt;
+
+&lt;h2 id=&#34;undergraduate-reu&#34;&gt;Undergraduate REU&lt;/h2&gt;
+
+&lt;p&gt;This is a unique paid opportunity. It is available for US Citizens or
+Permanent Residents. Strong knowledge in Linux and Python is required.
+20 hour per week commitment is required. Please inqure with Gregor to
+see if you are qualified.&lt;/p&gt;
+
+&lt;h2 id=&#34;engr-e516-and-csci-b-649&#34;&gt;ENGR-E516 and CSCI-B 649&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; AI cloud services, cloud workflows, multi-clouds,
+map/reduce, build your own cloud cluster at our Lab, AWS, Azure,
+Google, academic clouds, Kubernetes, Docker&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Information:&lt;/strong&gt; There is little prerequisite for this class other than
+knowing a programming language. However, we had students with no
+programming background that got an A+ in class. Links to registrar:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E516.shtml&#34; target=&#34;_blank&#34;&gt;ENGR-E516&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/CSCI/CSCI-B649.shtml&#34; target=&#34;_blank&#34;&gt;CSCI-B649&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both classes are the same. They are just listed in different
+departments. These classes can be taken by anyone at the university. The
+weekly agenda is posted at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.pdf&#34; target=&#34;_blank&#34;&gt;Agenda in PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.epub&#34; target=&#34;_blank&#34;&gt;Agenda in ePub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Online students will have the opportunity to attend a weekly online
+meeting. The time for that will be determined based on a poll posted in the class
+piazza.&lt;/p&gt;
+
+&lt;p&gt;Residential students are required to attend our in person Lab. Please be
+advised that residential students must sign up for the Friday Lab
+session also:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;11:15A-12:30P  Friday      I2 150&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Online students having the ability to participate in the Friday meeting
+in BLoomingtopn are welcom to join Fridays in person instead of the
+online meetings.&lt;/p&gt;
+
+&lt;p&gt;Project examples (incomplete list) are at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/projects/index.html&#34; target=&#34;_blank&#34;&gt;Project examples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Students taking this class have access to our Lab space in the
+building I am in if you like to use it (optional). I have 8 office
+spaces, so you could have your own office space if you like. You
+however can do your work anywhere. Free transportation is provided.
+After hour access to the building can be arranged.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Undergraduates:&lt;/strong&gt; Advanced undergraduates with Python knowledge are
+allowed to take the class with permission from Gregor and the
+department. Please contact me via e-mail if you like to take the class
+and are qualified. The space for undergraduates is limited.&lt;/p&gt;
+
+&lt;h2 id=&#34;engr-e616&#34;&gt;ENGR-E616&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Residential Meeting time: 09:30A-10:45A   Friday   I2 150&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Online Meeting times for online students TBD.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;but you can use an independent study with&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E616.shtml&#34; target=&#34;_blank&#34;&gt;ENGR-E516&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>E516 - Spring 2020 Lecture Notes</title>
@@ -540,41 +644,6 @@ Patra, Martins Innus, Thomas Yearke, Jeffrey T. Palmer, Jeanette M.
 Sperhac, Ryan Rathsam, Nikolay Simakov, Gregor von Laszewski, Fugang
 Wang Jan 1, 2015&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Writing with Markdown</title>
-      <link>http://laszewski.github.io/book/writing/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/writing/</guid>
-      <description>&lt;p&gt;An important part of any scientific research is to communicate and document it.
-Previously we used LaTeX in this class to provide the ability to contribute
-professional looking documents. As part of this we also noticed that any
-document from any student that ever submitted a document in MSWord was
-inferior to those using structured documents such as provided by LaTeX or
-markdown. Although we would have loved to continue our work in LaTeX, a
-small number of students made the full adaptation of LaTeX as document system
-not possible. Thus we have adopted an even simpler approach. All documents
-written for this class are written in structured markdown. As we use a uniform
-format all documents in the class will be made available online, including your
-project reports. This allows anyone giving feedback to the class artifacts and not
-only by the instructors. It also allows open sharing of ideas as any project in
-class must be unique and must not have been previously done. If it has been, a
-significant enhancement must be made.&lt;/p&gt;
-
-&lt;p&gt;While using markdown and github, you will also be able to collaboratively write
-documents in a group, while the instructors can inspect who has contributed to
-the document what while utilizing the history of the document.
-In addition we will be able to use bibtex as reference manager and leverage
-hundrets of thousands professionally curated bibliography citations while not
-needing to worry about IEEE, ACM, or APA style formating requirements. The
-bibliography format is automatically created for you. In particular markdown is
-very useful for creating deployment and code documentations through easy to
-use verbatim or code environments. At the same time it allows us to use
-mathematical equations as defined in LaTeX and avoid images for equation
-inclusion.&lt;/p&gt;
 </description>
     </item>
     
