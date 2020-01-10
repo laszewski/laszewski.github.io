@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proceeding on Gregor von Laszewski</title>
+    <link>http://laszewski.github.io/tags/proceeding/</link>
+    <description>Recent content in proceeding on Gregor von Laszewski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018-2020</copyright>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://laszewski.github.io/tags/proceeding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E516 - Spring 2020 Proceedings</title>
+      <link>http://laszewski.github.io/proceeding/e516-sp20-proceeding/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://laszewski.github.io/proceeding/e516-sp20-proceeding/</guid>
+      <description>Here you find the Documents produced by the students for this class. Please note that some may be edited by Gregor von Laszewski or the support staff for this class.
+We try to update this document frequently.
+The best we to read them is with an ePub reader. If you do not have one you also use the PDF version. However, PDF does not render as well as ePub.</description>
+    </item>
+    
+    <item>
+      <title>E516 - Fall 2019 Proceedings</title>
+      <link>http://laszewski.github.io/proceeding/e516-sp19-proceeding/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://laszewski.github.io/proceeding/e516-sp19-proceeding/</guid>
+      <description>Here you find the Documents produced by the students for this class. Please note that some may be edited by Gregor von Laszewski or the support staff for this class.
+We try to update this document frequently.
+The best we to read them is with an ePub reader. If you do not have one you also use the PDF version. However, PDF does not render as well as ePub.</description>
+    </item>
+    
+  </channel>
+</rss>
