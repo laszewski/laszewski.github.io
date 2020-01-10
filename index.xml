@@ -6,8 +6,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Gregor von Laszewski, 2018-2020</copyright>
-    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>E516 - Spring 2020 Lecture Notes</title>
+      <link>http://laszewski.github.io/book/e516/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://laszewski.github.io/book/e516/</guid>
+      <description>
+
+&lt;p&gt;Here you find the Lecture notes for e516. Please come back to this page
+as we will update it weekly. Updates will typically tacke place Friday
+at midnight.&lt;/p&gt;
+
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+
+&lt;p&gt;Make sure to clear your browser cache to obtain the newest version.&lt;/p&gt;
+
+&lt;h2 id=&#34;older-versions&#34;&gt;Older versions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019 Lecture Notes
+&lt;a href=&#34;https://cloudmesh-community.github.io/pub/vonLaszewski-e516.epub&#34; target=&#34;_blank&#34;&gt;[ePub]&lt;/a&gt;
+&lt;a href=&#34;https://cloudmesh-community.github.io/pub/vonLaszewski-e516.pdf&#34; target=&#34;_blank&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>E516 - Spring 2020 Proceedings</title>
@@ -34,22 +62,6 @@ ePub.&lt;/p&gt;
       
       <guid>http://laszewski.github.io/book/cloud/</guid>
       <description>&lt;p&gt;This page is under construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>E516 - Fall 2019 Lecture Notes</title>
-      <link>http://laszewski.github.io/book/e516/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://laszewski.github.io/book/e516/</guid>
-      <description>&lt;p&gt;Here you find the Lecture notes for e516. Please come back to this page
-as we will update it weekly. Updates will typically tacke place Friday
-at midnight.&lt;/p&gt;
-
-&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
-you also use the PDF version. However, PDF does not render as well as
-ePub.&lt;/p&gt;
 </description>
     </item>
     

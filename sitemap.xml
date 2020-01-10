@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>http://laszewski.github.io/proceeding/e516-sp20-proceeding/</loc>
-      <lastmod>2019-12-24T00:00:00-05:00</lastmod>
+      <loc>http://laszewski.github.io/book/e516/</loc>
+      <lastmod>2020-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -12,8 +12,16 @@
     <url>
     
       <loc>http://laszewski.github.io/</loc>
-      <lastmod>2019-12-24T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://laszewski.github.io/proceeding/e516-sp20-proceeding/</loc>
+      <lastmod>2019-12-24T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -39,14 +47,6 @@
     <url>
     
       <loc>http://laszewski.github.io/book/cloud/</loc>
-      <lastmod>2019-09-10T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://laszewski.github.io/book/e516/</loc>
       <lastmod>2019-09-10T00:00:00-04:00</lastmod>
     </url>
     
