@@ -22,16 +22,22 @@
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Best class I ever took at IU.&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&amp;ldquo;Thanks to you I got a job at top rated company.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Thanks to you I got a job at a top rated company.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;My company has adopted lessons learned from your class.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;The level of support and expertise the professor provides is outstanding and unmatched within IU.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;All classes can be taken by graduate and undergraduate students.
+Undergraduate students may need permission from me for some classes. In
+the past we had dedicated undergraduates participatintg in the class
+that were in the top 5% of the class.&lt;/p&gt;
+
 &lt;h2 id=&#34;independent-study&#34;&gt;Independent Study&lt;/h2&gt;
 
-&lt;p&gt;Any time available.  Contact Gregor at &lt;a href=&#34;mailto:laszewski@gmail.com&#34; target=&#34;_blank&#34;&gt;laszewski@gmail.com&lt;/a&gt;.
+&lt;p&gt;Independent Studies are any time available for graduate and
+undergraduate students.  Contact Gregor at &lt;a href=&#34;mailto:laszewski@gmail.com&#34; target=&#34;_blank&#34;&gt;laszewski@gmail.com&lt;/a&gt;.
 Independent studies will work on programming projects, advanced cloud
 topics, or conference/workshop papers.&lt;/p&gt;
 
@@ -42,14 +48,14 @@ Permanent Residents. Strong knowledge in Linux and Python is required.
 20 hour per week commitment is required. Please inqure with Gregor to
 see if you are qualified.&lt;/p&gt;
 
-&lt;h2 id=&#34;engr-e516-and-csci-b-649&#34;&gt;ENGR-E516 and CSCI-B 649&lt;/h2&gt;
+&lt;h2 id=&#34;engr-e516-and-csci-b649&#34;&gt;ENGR-E516 and CSCI-B649&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Keywords:&lt;/strong&gt; AI cloud services, cloud workflows, multi-clouds,
 map/reduce, build your own cloud cluster at our Lab, AWS, Azure,
 Google, academic clouds, Kubernetes, Docker&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Information:&lt;/strong&gt; There is little prerequisite for this class other than
-knowing a programming language. However, we had students with no
+knowing a programming language. However, we had dedicated students with no
 programming background that got an A+ in class. Links to registrar:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -62,8 +68,7 @@ departments. These classes can be taken by anyone at the university. The
 weekly agenda is posted at:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.pdf&#34; target=&#34;_blank&#34;&gt;Agenda in PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.epub&#34; target=&#34;_blank&#34;&gt;Agenda in ePub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laszewski.github.io/book/e516/&#34; target=&#34;_blank&#34;&gt;Lecture Notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Online students will have the opportunity to attend a weekly online
@@ -81,12 +86,6 @@ session also:&lt;/p&gt;
 &lt;p&gt;Online students having the ability to participate in the Friday meeting
 in BLoomingtopn are welcom to join Fridays in person instead of the
 online meetings.&lt;/p&gt;
-
-&lt;p&gt;Project examples (incomplete list) are at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/projects/index.html&#34; target=&#34;_blank&#34;&gt;Project examples&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Students taking this class have access to our Lab space in the
 building I am in if you like to use it (optional). I have 8 office
@@ -106,9 +105,7 @@ and are qualified. The space for undergraduates is limited.&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;Online Meeting times for online students TBD.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;but you can use an independent study with&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E616.shtml&#34; target=&#34;_blank&#34;&gt;ENGR-E516&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E616.shtml&#34; target=&#34;_blank&#34;&gt;ENGR-E616&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
