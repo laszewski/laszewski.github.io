@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jai Dayal | Gregor von Laszewski</title>
+    <link>/author/jai-dayal/</link>
+      <atom:link href="/author/jai-dayal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jai Dayal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Jai Dayal</title>
+      <link>/author/jai-dayal/</link>
+    </image>
+    
+    <item>
+      <title>eMOLST: a documentation flow for distributed health informatics</title>
+      <link>/publication/las-11-emolst/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-emolst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task scheduling with ANN-based temperature prediction in a data center: a simulation-based study</title>
+      <link>/publication/las-11-ann/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-ann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards on Demand IT Service Deployment</title>
+      <link>/publication/las-11-ondemand/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-ondemand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provide Virtual Distributed Environments for Grid computing on Demand</title>
+      <link>/publication/las-10-ve-journal/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-ve-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Aware Workload Scheduling with Backfilling for Green Data Centers</title>
+      <link>/publication/las-09-ipccc/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ipccc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Thermal Aware Workload Scheduling in a Data Center</title>
+      <link>/publication/las-09-ispan/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ispan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

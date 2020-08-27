@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Science Lab | Gregor von Laszewski</title>
+    <link>/author/digital-science-lab/</link>
+      <atom:link href="/author/digital-science-lab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Digital Science Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Digital Science Lab</title>
+      <link>/author/digital-science-lab/</link>
+    </image>
+    
+    <item>
+      <title>FutureSystems at Indiana University</title>
+      <link>/publication/futuresystems/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/futuresystems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

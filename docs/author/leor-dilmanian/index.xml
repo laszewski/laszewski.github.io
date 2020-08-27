@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leor Dilmanian | Gregor von Laszewski</title>
+    <link>/author/leor-dilmanian/</link>
+      <atom:link href="/author/leor-dilmanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leor Dilmanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Leor Dilmanian</title>
+      <link>/author/leor-dilmanian/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating Time to Scientific Discovery with a Grid-Enhanced Microsoft Project</title>
+      <link>/publication/las-08-project-position/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-project-position/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Gregor von Laszewski</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>/publication/las-20-book-cloudeng/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-cloudeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Applications and  Analytics</title>
+      <link>/publication/las-20-book-bigdata/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Systems Engineering</title>
+      <link>/publication/las-20-book-222/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python for Cloud Computing</title>
+      <link>/publication/las-20-book-python/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Writing with Markdown</title>
+      <link>/publication/las-20-book-markdown/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud technologies</title>
+      <link>/publication/las-20-book-tech/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample: Selected Book</title>
+      <link>/publication/0-sample-class-222/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/0-sample-class-222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Code Repositories</title>
+      <link>/publication/github-cloudmesh/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/github-cloudmesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Community</title>
+      <link>/publication/github-cloudmesh-community/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/github-cloudmesh-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Bookmanager</title>
+      <link>/publication/pypi-bookmanager/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pypi-bookmanager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux for Cloud Computing</title>
+      <link>/publication/las-20-book-linux/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST Big Data</title>
+      <link>/publication/nist-bigdata/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nist-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openstack with Chameloen Cloud</title>
+      <link>/publication/las-20-book-chameleon/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-chameleon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of Cloud Computing Engeneeing (2020)</title>
+      <link>/publication/las-20-proc-516/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-proc-516/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of Cloud Computing Engeneeing (2019)</title>
+      <link>/publication/las-20-proc-516-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-proc-516-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
+      <link>/publication/nist-vol-8/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nist-vol-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human in the Loop Virtual Machine Management on Comet</title>
+      <link>/publication/las-19-harc-comet/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-19-harc-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
+      <link>/publication/las-19-nist/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-19-nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributions to High-Performance Big Data Computing</title>
+      <link>/publication/beckstein-2018-contributions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/beckstein-2018-contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Scientific Impact of XSEDE</title>
+      <link>/publication/las-18-impact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handbook of Clouds and Big Data</title>
+      <link>/publication/von-2018-handbook/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2018-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
+      <link>/publication/las-17-chameleon-mongo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-chameleon-mongo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
+      <link>/publication/las-17-chameleon-teach/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-chameleon-teach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
+      <link>/publication/von-2017-cloudmesh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2017-cloudmesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comet - Tales from the Long Tail. Two Years In, and 10,000 Users Later</title>
+      <link>/publication/cai-2017-comet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2017-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comet: Tales from the Long Tail: Two Years in and 10,000 users later</title>
+      <link>/publication/strande-2017-comet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/strande-2017-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futuregrid: a Reconfigurable Testbed for Cloud, Hpc, and Grid Computing</title>
+      <link>/publication/fox-2017-futuregrid/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/fox-2017-futuregrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
+      <link>/publication/von-2017-teaching/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2017-teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Managed Virtual Clusters in Comet</title>
+      <link>/publication/las-16-virtcluster/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/las-16-virtcluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/las-15-impact-ncar/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-impact-ncar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE and NCAR publication data</title>
+      <link>/publication/las-15-cluster/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE publication data</title>
+      <link>/publication/las-15-xsede/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-xsede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FutureSystems at Indiana University</title>
+      <link>/publication/futuresystems/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/futuresystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of Cluster Resource Provider Publication Data</title>
+      <link>/publication/las-2015-cluster/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2015-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE and NCAR publication data</title>
+      <link>/publication/las-15-cluster-long/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-cluster-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE Publication Data</title>
+      <link>/publication/las-2015-xsede/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2015-xsede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAS View of XSEDE Users and Usage</title>
+      <link>/publication/las-15-tas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FutureGrid Testbed for Big Data</title>
+      <link>/publication/las-14-bigdata/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
+      <link>/publication/las-14-impact/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-demand Service Hosting on Production Grid Infrastructures</title>
+      <link>/publication/las-13-ondemand/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-13-ondemand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using XDMoD to Facilitate XSEDE Operations, Planning and Analysis</title>
+      <link>/publication/las-13-xdmod/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-13-xdmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
+      <link>/publication/las-12-xdmod-kernel/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-xdmod-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures</title>
+      <link>/publication/imagemanagement/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/imagemanagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Multiple Cloud Frameworks</title>
+      <link>/publication/comparisoncloud/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/comparisoncloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Experimental Computer Science</title>
+      <link>/publication/fg-1471/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/fg-1471/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
+      <link>/publication/las-08-federated-cloud/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit</title>
+      <link>/publication/las-12-fedcloud-proc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-fedcloud-proc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FutureGrid - a reconfigurable testbed for Cloud, HPC and Grid Computing</title>
+      <link>/publication/las-12-fg-bookchapter/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-fg-bookchapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
+      <link>/publication/fg-1295/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/fg-1295/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Virtualization Technologies for High Performance Computing Environments</title>
+      <link>/publication/las-2011-virt/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2011-virt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grappling cloud infrastructure services with a generic image repository</title>
+      <link>/publication/las-grapple-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-grapple-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of Threat Management of Urban Water Distribution Systems with Grid Workflow</title>
+      <link>/publication/las-11-wtm-hadoop/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-wtm-hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eMOLST: a documentation flow for distributed health informatics</title>
+      <link>/publication/las-11-emolst/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-emolst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Providing a Green Framework for Cloud Based Data Centers</title>
+      <link>/publication/las-11-greenchapter/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-greenchapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task scheduling with ANN-based temperature prediction in a data center: a simulation-based study</title>
+      <link>/publication/las-11-ann/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-ann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards on Demand IT Service Deployment</title>
+      <link>/publication/las-11-ondemand/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-ondemand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Provisioned Experiments in FutureGrid</title>
+      <link>/publication/last-10-dynamic/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/last-10-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of the FutureGrid Experiment Management Framework</title>
+      <link>/publication/las-2010-gce/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2010-gce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provide Virtual Machine Information for Grid Computing</title>
+      <link>/publication/wang-10-transactions/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-10-transactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
+      <link>/publication/scposter-rain/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/scposter-rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Virtual Applicance: On-Demand Deploying Middleware for Cyberinfrastructure</title>
+      <link>/publication/las-09-cloudcomp/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-cloudcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide onServe: Software as a Service on Production Grids</title>
+      <link>/publication/las-10-onserve/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-onserve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Data System on Distributed Virtual Machines in Computational Grids</title>
+      <link>/publication/las-10-ijahuc/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-ijahuc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Energy Aware Scheduling for Precedence Constrained Parallel Tasks in a Cluster with DVFS</title>
+      <link>/publication/las-10-ccgrid/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-ccgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedule Distributed Virtual Machines in a Service Oriented Environment</title>
+      <link>/publication/las-10-vmschedule/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-vmschedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provide Virtual Distributed Environments for Grid computing on Demand</title>
+      <link>/publication/las-10-ve-journal/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-ve-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing: a Perspective Study</title>
+      <link>/publication/las-09-cloud/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient resource management for Cloud computing environments</title>
+      <link>/publication/las-10-energycloud/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-energycloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Energy-Efficient Analysis of Massive Neural Signals Using GPGPU</title>
+      <link>/publication/chen-10-energy/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-10-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenIT Service Level Agreements</title>
+      <link>/publication/las-10-sla/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-sla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicores in Cloud Computing: Research Challenges for Applications</title>
+      <link>/publication/dblp-journalsjcpwangtlm-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalsjcpwangtlm-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Creative: On-Demand Cyberinfrastructure Provision in Clouds</title>
+      <link>/publication/las-09-gridcat/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-gridcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Research Advances in e-Science</title>
+      <link>/publication/yang-09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Aware Workload Scheduling with Backfilling for Green Data Centers</title>
+      <link>/publication/las-09-ipccc/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ipccc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Thermal Aware Workload Scheduling in a Data Center</title>
+      <link>/publication/las-09-ispan/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ispan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenIT Service Level Agreements</title>
+      <link>/publication/las-09-sla/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-sla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Partitional Algorithms for Flow Cytometry on GPUs</title>
+      <link>/publication/las-09-ispa/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ispa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-Aware Scheduling of Virtual Machines in DVFS-enabled Clusters</title>
+      <link>/publication/las-09-cluster/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Grid Computing Environments</title>
+      <link>/publication/las-ogce-tg-09/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-ogce-tg-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiment and Workflow Management Using Cyberaide Shell</title>
+      <link>/publication/las-09-ccgrid/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ccgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Shell: Interactive Task Management for Grids and Cyberinfrastructure</title>
+      <link>/publication/las-08-gridshell/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-gridshell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Virtualization Engine: Design, Implementation, and Evaluation</title>
+      <link>/publication/dblp-journalssjwangltk-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/dblp-journalssjwangltk-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Time to Scientific Discovery with a Grid-Enhanced Microsoft Project</title>
+      <link>/publication/las-08-project-position/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-project-position/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide JavaScript: A JavaScript Commodity Grid Kit</title>
+      <link>/publication/las-08-javascript/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Science Project and Experiment Management with Microsoft Project</title>
+      <link>/publication/las-08-project/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cumulus project: design and implementation</title>
+      <link>/publication/las-08-cumulus/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-cumulus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Computing Environments 2007 Confernce Proceeedings</title>
+      <link>/publication/las-07-gce/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-gce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript Grid Abstractions</title>
+      <link>/publication/las-07-javascript/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Portal for Visualizing Grid Usage</title>
+      <link>/publication/las-06-guss-j/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-guss-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Workflow with the Java CoG Kit</title>
+      <link>/publication/las-06-workflow-book/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-workflow-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GridTorrent Framework: A High-performance Data Transfer and Data Sharing Framework for Scientific Computing</title>
+      <link>/publication/las-07-gridtorrent/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-gridtorrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GridTorrent Framework: A High-performance Data Transfer and Data Sharing Framework for Scientific Computing</title>
+      <link>/publication/las-07-torrent/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-torrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift: Fast, Reliable, Loosely Coupled Parallel Computation</title>
+      <link>/publication/las-swift-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-swift-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
+      <link>/publication/las-07-ogce/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-ogce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Computing Environments 2006 Confernce Proceeedings</title>
+      <link>/publication/las-06-gce/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-gce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abstraction Model for a Grid Execution Framework</title>
+      <link>/publication/las-04-abstraction-j/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-abstraction-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Cyberinfrastructure for Threat Management in Urban Water Distribution Systems</title>
+      <link>/publication/las-06-water/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Java CoG Kit Experiment Manager</title>
+      <link>/publication/las-06-exp-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-exp-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work coordination for Grid computing</title>
+      <link>/publication/las-06-workcoordination/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-workcoordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow Management Through Cobalt</title>
+      <link>/publication/las-06-cobalt/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-cobalt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Repository Service for Grid Workflow Components</title>
+      <link>/publication/las-05-workflowrepo/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-workflowrepo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality Assured Ad Hoc Grids</title>
+      <link>/publication/las-05-adhoc-quality/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-adhoc-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Reputable Grids</title>
+      <link>/publication/las-05-reputation-j/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-reputation-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Portal Architectures for Scientific Applications</title>
+      <link>/publication/scidacposter-portal/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/scidacposter-portal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Grid-Idea and Its Evolution</title>
+      <link>/publication/las-05-gridhistory/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-gridhistory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Java CoG Kit Experiment Manager</title>
+      <link>/publication/las-05-exp/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-exp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Certificate Authority for Community and Ad-hoc Grids</title>
+      <link>/publication/las-05-ca/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Thermochemical Tables: Thermochemistry for the 21st century</title>
+      <link>/publication/las-05-atct/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-atct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Portal Architectures for scientific applications</title>
+      <link>/publication/las-05-portalarch/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-portalarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality-of-Service Based Grid Communities</title>
+      <link>/publication/las-05-qos-book/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-qos-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow Concepts of the Java CoG Kit</title>
+      <link>/publication/las-05-workflow-jgc/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-workflow-jgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An OGSA-based Quality of Service Framework</title>
+      <link>/publication/las-03-qos/</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-qos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Ad Hoc Grids</title>
+      <link>/publication/las-04-adcom/</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-adcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Overview of Grid File Transfer Patterns and their Implementation in the Java CoG Kit</title>
+      <link>/publication/las-04-ftp-journal/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-ftp-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
+      <link>/publication/las-04-clade/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-clade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
+      <link>/publication/las-04-qos-journal/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-qos-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS Support for High-performance Scientific Grid Applications</title>
+      <link>/publication/las-04-qos-ccgrid/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-qos-ccgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboratory for Multi-scale Chemical Science</title>
+      <link>/publication/scidacposter-chem/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/scidacposter-chem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commodity Grid Kits</title>
+      <link>/publication/scidacposter-cogkit/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/scidacposter-cogkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstracting the Grid</title>
+      <link>/publication/las-04-abstracting/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-abstracting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gestalt of the Grid</title>
+      <link>/publication/las-04-gestalt/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-gestalt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GridAnt: A Client-Controllable Grid Workflow System</title>
+      <link>/publication/las-04-gridant/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-gridant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Active Thermochemical Tables: Several Key Enthalpies of Formation Revisited</title>
+      <link>/publication/las-04-atct-j/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-atct-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleware for Communications</title>
+      <link>/publication/las-04-middleware/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-middleware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Building Scientific Knowledge Grids Applied to Thermochemical Tables</title>
+      <link>/publication/las-03-knowledge/</link>
+      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Computing for the Masses: An Overview</title>
+      <link>/publication/las-03-masses/</link>
+      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-masses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadata in the Collaboratory for Multi-Scale Chemical Science</title>
+      <link>/publication/las-03-dc/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reputation-based Grid Resource Selection</title>
+      <link>/publication/las-03-reputation/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-reputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A File Transfer Component for Grids</title>
+      <link>/publication/las-03-ftp/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-ftp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-based Multistage Co-allocation Service</title>
+      <link>/publication/las-03-coalloc/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-coalloc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further Refinements of the Bond Dissociation Energy in Water and Hydroxyl Radical Using the Active Thermochemical Tables Approach</title>
+      <link>/publication/las-03-chem/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-chem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commodity Grid Kits - Middleware for Building Grid Computing Environments</title>
+      <link>/publication/las-03-gridcomputing/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-gridcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sourcebook of Parallel Computing</title>
+      <link>/publication/las-03-cmt-book/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-cmt-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A QoS Guided Scheduling Algorithm for the Computational Grid</title>
+      <link>/publication/las-02-gcc/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-gcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Collaborative Grid Services Architecture (OCGSA)</title>
+      <link>/publication/las-02-ocgsa/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-ocgsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Service Based Active Thermochemical Table Framework</title>
+      <link>/publication/las-02-activetable/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-activetable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Concepts and Services of a Grid Information Service</title>
+      <link>/publication/las-02-pdcs/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-pdcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InfoGram: A Peer-to-Peer Information and Job Submission Service</title>
+      <link>/publication/las-02-infogram/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-infogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development</title>
+      <link>/publication/las-02-cactus-j/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-cactus-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Computing: Enabling a Vision for Collaborative Research</title>
+      <link>/publication/las-02-vision/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software, Component, and Service Deployment in Computational Grids</title>
+      <link>/publication/las-02-deploy/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-deploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A CORBA Commodity Grid Kit</title>
+      <link>/publication/las-02-corbacog/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-corbacog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Perl Commodity Grid Kit</title>
+      <link>/publication/las-02-perlcog/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-perlcog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unicore Globus Interoperability Layer</title>
+      <link>/publication/las-02-grip/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-grip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Software Development with the Astrophysics Simulation Collaboratory</title>
+      <link>/publication/las-02-cactus/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-cactus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features of the Java Commodity Grid Kit</title>
+      <link>/publication/las-02-javacog/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-javacog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of a CORBA Commodity Grid Kit</title>
+      <link>/publication/las-01-corba/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-corba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Paradigm Communications in Java for Grid Computing</title>
+      <link>/publication/las-01-acm/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-acm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development</title>
+      <link>/publication/las-01-hpdc-10-cactus/</link>
+      <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-hpdc-10-cactus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Greedy Grid - The Grid Economic Engine Directive</title>
+      <link>/publication/las-01-greed/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-greed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A High-Throughput X-Ray Microtomography System at the Advanced Photon Source</title>
+      <link>/publication/las-01-cmt/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-cmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Java Commodity Grid Kit</title>
+      <link>/publication/las-01-cog-concurency/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-cog-concurency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Grid-based Problem Solving Environments and Portals</title>
+      <link>/publication/las-01-pse/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-pse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-based Asynchronous Migration of Execution Context in Java Virtual Machines</title>
+      <link>/publication/las-00-moba/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-moba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoG Kits: A Bridge between Commodity Distributed Computing and High-Performance Grids</title>
+      <link>/publication/las-00-grande/</link>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-grande/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Computational Grid Capabilities to Enhance the Ability of an X-Ray Source for Structural Biology</title>
+      <link>/publication/las-00-sbc/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-sbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Loosely Coupled Metacomputer: Cooperating Job Submissions Across Multiple Supercomputing Sites</title>
+      <link>/publication/las-99-loosely/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-loosely/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance Visualization: Data Exploration on the Grid</title>
+      <link>/publication/las-99-ieee/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Infrastructure to Support Science Portals for Large Scale Instruments</title>
+      <link>/publication/las-99-rostock/</link>
+      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-rostock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quasi-Realtime X-Ray Microtomography System at the Advanced Photon Source</title>
+      <link>/publication/las-99-spie/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Analysis, Visualization, and Steering of Microtomography Experiments at Photon Sources</title>
+      <link>/publication/las-99-siam/</link>
+      <pubDate>Mon, 01 Mar 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-siam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fault Detection Service for Wide Area Distributed Computations</title>
+      <link>/publication/las-99-hbm-journal/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-hbm-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fault Detection Service for Wide Area Distributed Computations</title>
+      <link>/publication/las-98-hpdc/</link>
+      <pubDate>Wed, 01 Jul 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/las-98-hpdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supercomputing Data Analysis with an Example on the APS CATs</title>
+      <link>/publication/las-97-nobugs/</link>
+      <pubDate>Mon, 01 Dec 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/las-97-nobugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Directory Service for Configuring High-Performance Distributed Computations</title>
+      <link>/publication/las-97-hpdc/</link>
+      <pubDate>Fri, 01 Aug 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/las-97-hpdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interactive Parallel Programming Environment Applied in Atmospheric Science</title>
+      <link>/publication/las-96-ecwmf/</link>
+      <pubDate>Sun, 01 Dec 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/las-96-ecwmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Draft: Parallelization of MOPAC</title>
+      <link>/publication/lasmopac/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/lasmopac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Issues for the Parallelization of an Optimal Interpolation Algorithm</title>
+      <link>/publication/las-94-ecwmf/</link>
+      <pubDate>Tue, 01 Nov 1994 00:00:00 +0000</pubDate>
+      <guid>/publication/las-94-ecwmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partitioning a graph with a parallel genetic algorithm</title>
+      <link>/publication/las-90-ppsn/</link>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/las-90-ppsn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Structural Operators for the k-way Graph Partitioning Problem</title>
+      <link>/publication/las-91-icga/</link>
+      <pubDate>Mon, 01 Jul 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/las-91-icga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parallel Genetic Algorithm for the Graph Partitioning Problem</title>
+      <link>/publication/las-90-natug/</link>
+      <pubDate>Mon, 01 Oct 1990 00:00:00 +0000</pubDate>
+      <guid>/publication/las-90-natug/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

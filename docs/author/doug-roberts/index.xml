@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doug Roberts | Gregor von Laszewski</title>
+    <link>/author/doug-roberts/</link>
+      <atom:link href="/author/doug-roberts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Doug Roberts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Doug Roberts</title>
+      <link>/author/doug-roberts/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating Partitional Algorithms for Flow Cytometry on GPUs</title>
+      <link>/publication/las-09-ispa/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ispa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael L. Norman | Gregor von Laszewski</title>
+    <link>/author/michael-l.-norman/</link>
+      <atom:link href="/author/michael-l.-norman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael L. Norman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael L. Norman</title>
+      <link>/author/michael-l.-norman/</link>
+    </image>
+    
+    <item>
+      <title>Human in the Loop Virtual Machine Management on Comet</title>
+      <link>/publication/las-19-harc-comet/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-19-harc-comet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

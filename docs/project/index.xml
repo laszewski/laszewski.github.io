@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books | Gregor von Laszewski</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Books</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Books</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>E516 - Spring 2020 Proceedings</title>
+      <link>/project/e516-sp20-proceeding/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      <guid>/project/e516-sp20-proceeding/</guid>
+      <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
+Please note that some may be edited by Gregor von Laszewski or the
+support staff for this class.&lt;/p&gt;
+&lt;p&gt;We try to update this document frequently.&lt;/p&gt;
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E516 - Fall 2019 Proceedings</title>
+      <link>/project/e516-sp19-proceeding/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
+      <guid>/project/e516-sp19-proceeding/</guid>
+      <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
+Please note that some may be edited by Gregor von Laszewski or the
+support staff for this class.&lt;/p&gt;
+&lt;p&gt;We try to update this document frequently.&lt;/p&gt;
+&lt;p&gt;The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bookmanager</title>
+      <link>/project/bookmanager/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      <guid>/project/bookmanager/</guid>
+      <description>&lt;h1 id=&#34;bookmanager&#34;&gt;Bookmanager&lt;/h1&gt;
+&lt;p&gt;Bookmanager is a tool to create a publication from a number of sources on the
+internet. It is especially useful to create customized books, lecture notes, or
+handouts. Content is best integrated in markdown format as it is very fast to
+produce the output. At present we only produce epubs, but it will be easy to
+also create pdf, html, work, odt and others. As we use pandoc we can support the
+formats supported by it.&lt;/p&gt;
+&lt;p&gt;Implemented Features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Table of contents with indentation levels can be specified via yaml&lt;/li&gt;
+&lt;li&gt;Special variable substitution of elements defined in the yaml file&lt;/li&gt;
+&lt;li&gt;Documents are fetched from github&lt;/li&gt;
+&lt;li&gt;The documents will be inspected and the images found in them are fetched
+(we assume the images are relative to the document, http links will not be modified)&lt;/li&gt;
+&lt;li&gt;Automatic generation of a cover page&lt;/li&gt;
+&lt;li&gt;Output is generated in a dest directory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Planed enhancements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;integration of References via pandoc citeref&lt;/li&gt;
+&lt;li&gt;integration of Section, Table, Image references via pandoc crossref&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you like to help get in contact with Gregor von Laszewski
+&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ pip install cyberaide-bookmanager
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;bookmanager -- a helper to create books from markdown files in a yaml TOC.
+
+Usage:
+  bookmanager version
+  bookmanager YAML cover
+  bookmanager YAML get [--format=FORMAT] [--force]
+  bookmanager YAML download
+  bookmanager YAML level
+  bookmanager YAML epub [--force]
+  bookmanager YAML pdf
+  bookmanager YAML html
+  bookmanager YAML docx
+  bookmanager YAML check [--format=FORMAT]
+  bookmanager YAML urls [--format=FORMAT]
+  bookmanager YAML list [--format=FORMAT] [--details]
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh JavaScript User Interface</title>
+      <link>/project/cloudmesh-gui/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      <guid>/project/cloudmesh-gui/</guid>
+      <description>&lt;p&gt;Please contact me if you like to help developing a JavaScript Graphical user interface&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Cloud Mangement with Cloudmesh</title>
+      <link>/project/cloudmesh/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      <guid>/project/cloudmesh/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Cloudmesh enables you to access multi-cloud environments such as AWS,
+Azure, Google, and OpenStack Cloudsvery easily. To start a vm on AWS you
+can say&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cms set cloud=AWS cms vm boot
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To start one on Azure, simply set the cloud accordingly&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cms set cloud=AWS cms vm boot 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cloudmesh-community.github.io/cm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloudmesh&lt;/a&gt; is an evolution
+of our previous tool that has been used by hundreds of students and
+cloud practitioners to interact easily with clouds to create a service
+mashup to access common cloud services across a number of cloud
+providers.&lt;/p&gt;
+&lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It has a variety of repositories that add features to cloudmesh based on
+needs by the user.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Library&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-common&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Common&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Simplifies system, console, and argument management&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-cmd5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shell&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Dophisticated command shell and line interpreter with plugins&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-installer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Installer&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Convenient source code installer and manager for developers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Database&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A database for caching cloud interactions (based on MongoDB)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-cloud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Compute&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cloud Compute Providers for AWS, Azure, Google, Openstack&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-storage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Storage&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cloud Storage Providers for AWS, Azure, Google, Openstack&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-workflow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Plugin for managing workflows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-emr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Map/Reduce&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Plugin for managing AWS Elastic MapReduce (EMR)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;OpenApi&lt;/td&gt;
+&lt;td&gt;OpenAPI based REST service interfaces&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NIST Big Data</title>
+      <link>/project/cloudmesh-nist/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      <guid>/project/cloudmesh-nist/</guid>
+      <description>&lt;h2 id=&#34;nist-big-data-refernce-architecture&#34;&gt;NIST Big Data Refernce Architecture&lt;/h2&gt;
+&lt;p&gt;Reference architectures provide &lt;em&gt;an authoritative source of information
+about a specific subject area that guides and constrains the
+instantiations of multiple architectures and solutions&lt;/em&gt;. Reference
+architectures generally serve as a foundation for solution architectures
+and may also be used for comparison and alignment of instantiations of
+architectures and solutions. The goal of the NBD-PWG Reference
+Architecture Subgroup is to develop an open reference architecture for
+Big Data that achieves the following objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provides a common language for the various stakeholders;&lt;/li&gt;
+&lt;li&gt;Encourages adherence to common standards, specifications, and patterns;&lt;/li&gt;
+&lt;li&gt;Provides consistent methods for implementation of technology to solve
+similar problem sets;&lt;/li&gt;
+&lt;li&gt;Illustrates and improves understanding of the various Big Data
+components, processes, and systems, in the context of a vendor- and
+technology-agnostic Big Data conceptual model;&lt;/li&gt;
+&lt;li&gt;Provides a technical reference for U.S. government departments,
+agencies, and other consumers to understand, discuss, categorize, and
+compare Big Data solutions; and&lt;/li&gt;
+&lt;li&gt;Facilitates analysis of candidate standards for interoperability,
+portability, reusability, and extendibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;/publication/las-19-nist&#34;&gt;NIST Big Data Interoperability Framework: Volume 8, Reference
+Architecture Interfaces Wo. L Chang Gregor von Laszewski Jun 1,
+2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Cloud Cluster</title>
+      <link>/project/pi-cloud-cluster/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      <guid>/project/pi-cloud-cluster/</guid>
+      <description>&lt;h2 id=&#34;raspberry-pi-cloud-cluster&#34;&gt;Raspberry Pi Cloud Cluster&lt;/h2&gt;
+&lt;p&gt;THis project is open to anyone wanting to work with me on building a
+Raspberry Pi Cloud Cluster. We have 100-200 Raspberry Pis which provide
+an ideal playground for building your own cluster and explore
+distributed computing algorithms on real hardware. In this project you
+would be building a cluster and than putting cloud software on the
+cluster to make it our own cloud service.&lt;/p&gt;
+&lt;p&gt;Such software can include but is not limited to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Kubernetwes&lt;/li&gt;
+&lt;li&gt;Map/Reduce&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When chosing this project one must address the issue of dealing with
+many compute resources at a time. THis can be done with PXE boot or with
+our cm-burn.&lt;/p&gt;
+&lt;p&gt;Students that chose this project will have an office space in the
+building that I sit. In addition each student will be given a 5 node
+cluster thay can work at home on (non smoking environment) that must be
+returned after the project is completed.&lt;/p&gt;
+&lt;h3 id=&#34;cm-burn&#34;&gt;cm-burn&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;cm-burn&lt;/code&gt; is a program to burn many SD cards for the preparation of
+building clusters with Raspberry Pi&amp;rsquo;s.  The program is developed in
+Python and is portable on Linux, Windows, and OSX. It allows users to
+create readily bootable SD cards that have the network configured,
+contain a public ssh key from your machine that you used to configure
+the cards.  The unique feature is that you can burn multiple cards in
+a row.&lt;/p&gt;
+&lt;p&gt;A sample command invocation looks like:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cm-burn —-name  red[5-7] \
+        --key ~/.ssh/id_rsa.pub \
+        —-ips 192.168.1.[5-7] \
+        —-image 2018-06-27-raspbian-stretch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This command creates 3 SD cards where the hostnames &lt;code&gt;red5&lt;/code&gt;, &lt;code&gt;red6&lt;/code&gt;, &lt;code&gt;red 7&lt;/code&gt;
+with the network addresses &lt;code&gt;192.168.1.5&lt;/code&gt;, &lt;code&gt;192.168.1.6&lt;/code&gt;,
+and &lt;code&gt;192.168.1.7&lt;/code&gt;. The public key is added to the authorized_keys file
+of the pi user.  The password login is automatically disabled and only
+the ssh key authentication is enabled.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact</title>
+      <link>/project/impact/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
+      <guid>/project/impact/</guid>
+      <description>&lt;p&gt;In scientific impact metrics we attempt to evaluate the work conducted
+by researcher teams or organizations and compare how they perform to
+other groups.&lt;/p&gt;
+&lt;p&gt;In our effort we use the bibliometrics approach to evaluate the
+scientific impact of XSEDE. By utilizing publication data from various
+sources, e.g., ISI Web of Science and Microsoft Academic Graph, we
+calculate the impact metrics of XSEDE publications and show how they
+compare with non-XSEDE publication from the same field of study, or
+non-organization peers from the same journal issue. To perform this
+analysis we need to identify the bibliographic dataset and clean and
+currate them.&lt;/p&gt;
+&lt;p&gt;We then introduce the metrics we used for evaluation and comparison, and
+the methods used to calculate them. Detailed analysis results of Field
+Weighted Citation Impact (FWCI) and the peers comparison will be
+presented and discussed. We also explain how the same approaches could
+be used to evaluate publications from a similar organization or
+institute, to demonstrate the general applicability of the present
+evaluation approach providing impact on organizations and groups.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;/publication/las-18-impact&#34;&gt;Evaluating the Scientific Impact of XSEDE Fugang Wang, Gregor von
+Laszewski, Timothy Whitson, Geoffrey C Fox, Thomas R Furlani,
+Robert L DeLeon, Steven M Gallo Jan 1,
+2018&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;/publication/las-15-impact-ncar&#34;&gt;Peer Comparison of XSEDE and NCAR Publication Data G. von Laszewski,
+F. Wang, G. C. Fox, D. L. Hart, T. R. Furlani, R. L. DeLeon, S. M.
+Gallo Sep 1, 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;/publication/las-14-impact&#34;&gt;Towards a Scientific Impact Measuring Framework for Large Computing
+Facilities - a Case Study on XSEDE Fugang Wang, Gregor von Laszewski,
+Geoffrey C. Fox, Thomas R. Furlani, Robert L. DeLeon, Steven M. Gallo
+Jan 1, 2014&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;/publication/las-15-tas&#34;&gt;TAS View of XSEDE Users and Usage Robert L. DeLeon, Thomas R.
+Furlani, Steven M. Gallo, Joseph P. White, Matthew D. Jones, Abani
+Patra, Martins Innus, Thomas Yearke, Jeffrey T. Palmer, Jeanette M.
+Sperhac, Ryan Rathsam, Nikolay Simakov, Gregor von Laszewski, Fugang
+Wang Jan 1, 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

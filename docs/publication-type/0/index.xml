@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Gregor von Laszewski</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Cloudmesh Code Repositories</title>
+      <link>/publication/github-cloudmesh/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/github-cloudmesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Community</title>
+      <link>/publication/github-cloudmesh-community/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/github-cloudmesh-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Bookmanager</title>
+      <link>/publication/pypi-bookmanager/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pypi-bookmanager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST Big Data</title>
+      <link>/publication/nist-bigdata/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nist-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handbook of Clouds and Big Data</title>
+      <link>/publication/von-2018-handbook/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2018-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FutureSystems at Indiana University</title>
+      <link>/publication/futuresystems/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/futuresystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit</title>
+      <link>/publication/las-12-fedcloud-proc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-fedcloud-proc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Provisioned Experiments in FutureGrid</title>
+      <link>/publication/last-10-dynamic/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/last-10-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
+      <link>/publication/scposter-rain/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/scposter-rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Computing Environments 2007 Confernce Proceeedings</title>
+      <link>/publication/las-07-gce/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-gce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Computing Environments 2006 Confernce Proceeedings</title>
+      <link>/publication/las-06-gce/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-gce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Portal Architectures for Scientific Applications</title>
+      <link>/publication/scidacposter-portal/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/scidacposter-portal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboratory for Multi-scale Chemical Science</title>
+      <link>/publication/scidacposter-chem/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/scidacposter-chem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commodity Grid Kits</title>
+      <link>/publication/scidacposter-cogkit/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/scidacposter-cogkit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

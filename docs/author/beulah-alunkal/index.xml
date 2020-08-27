@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beulah Alunkal | Gregor von Laszewski</title>
+    <link>/author/beulah-alunkal/</link>
+      <atom:link href="/author/beulah-alunkal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beulah Alunkal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Beulah Alunkal</title>
+      <link>/author/beulah-alunkal/</link>
+    </image>
+    
+    <item>
+      <title>Toward Reputable Grids</title>
+      <link>/publication/las-05-reputation-j/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-reputation-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reputation-based Grid Resource Selection</title>
+      <link>/publication/las-03-reputation/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-reputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A File Transfer Component for Grids</title>
+      <link>/publication/las-03-ftp/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-ftp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-based Multistage Co-allocation Service</title>
+      <link>/publication/las-03-coalloc/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-coalloc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

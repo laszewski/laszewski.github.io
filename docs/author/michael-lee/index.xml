@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Lee | Gregor von Laszewski</title>
+    <link>/author/michael-lee/</link>
+      <atom:link href="/author/michael-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Lee</title>
+      <link>/author/michael-lee/</link>
+    </image>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
+      <link>/publication/las-04-clade/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-clade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadata in the Collaboratory for Multi-Scale Chemical Science</title>
+      <link>/publication/las-03-dc/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-dc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

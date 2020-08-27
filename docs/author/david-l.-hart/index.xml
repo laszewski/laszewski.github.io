@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David L. Hart | Gregor von Laszewski</title>
+    <link>/author/david-l.-hart/</link>
+      <atom:link href="/author/david-l.-hart/index.xml" rel="self" type="application/rss+xml" />
+    <description>David L. Hart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>David L. Hart</title>
+      <link>/author/david-l.-hart/</link>
+    </image>
+    
+    <item>
+      <title>Peer comparison of XSEDE and NCAR publication data</title>
+      <link>/publication/las-15-cluster/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE publication data</title>
+      <link>/publication/las-15-xsede/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-xsede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of Cluster Resource Provider Publication Data</title>
+      <link>/publication/las-2015-cluster/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2015-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE and NCAR publication data</title>
+      <link>/publication/las-15-cluster-long/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-cluster-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE Publication Data</title>
+      <link>/publication/las-2015-xsede/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2015-xsede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using XDMoD to Facilitate XSEDE Operations, Planning and Analysis</title>
+      <link>/publication/las-13-xdmod/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-13-xdmod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

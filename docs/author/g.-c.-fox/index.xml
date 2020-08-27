@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. C. Fox | Gregor von Laszewski</title>
+    <link>/author/g.-c.-fox/</link>
+      <atom:link href="/author/g.-c.-fox/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. C. Fox</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>G. C. Fox</title>
+      <link>/author/g.-c.-fox/</link>
+    </image>
+    
+    <item>
+      <title>Intelligent Systems Engineering</title>
+      <link>/publication/las-20-book-222/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/las-15-impact-ncar/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-impact-ncar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Providing a Green Framework for Cloud Based Data Centers</title>
+      <link>/publication/las-11-greenchapter/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-greenchapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
+      <link>/publication/scposter-rain/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/scposter-rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Portal Architectures for Scientific Applications</title>
+      <link>/publication/scidacposter-portal/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/scidacposter-portal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

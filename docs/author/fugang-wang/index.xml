@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fugang Wang | Gregor von Laszewski</title>
+    <link>/author/fugang-wang/</link>
+      <atom:link href="/author/fugang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fugang Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Fugang Wang</title>
+      <link>/author/fugang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Human in the Loop Virtual Machine Management on Comet</title>
+      <link>/publication/las-19-harc-comet/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-19-harc-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Scientific Impact of XSEDE</title>
+      <link>/publication/las-18-impact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
+      <link>/publication/von-2017-cloudmesh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2017-cloudmesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Managed Virtual Clusters in Comet</title>
+      <link>/publication/las-16-virtcluster/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/las-16-virtcluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE and NCAR publication data</title>
+      <link>/publication/las-15-cluster/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE publication data</title>
+      <link>/publication/las-15-xsede/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-xsede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of Cluster Resource Provider Publication Data</title>
+      <link>/publication/las-2015-cluster/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2015-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer comparison of XSEDE and NCAR publication data</title>
+      <link>/publication/las-15-cluster-long/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-cluster-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE Publication Data</title>
+      <link>/publication/las-2015-xsede/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2015-xsede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAS View of XSEDE Users and Usage</title>
+      <link>/publication/las-15-tas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FutureGrid Testbed for Big Data</title>
+      <link>/publication/las-14-bigdata/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
+      <link>/publication/las-14-impact/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using XDMoD to Facilitate XSEDE Operations, Planning and Analysis</title>
+      <link>/publication/las-13-xdmod/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-13-xdmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
+      <link>/publication/las-12-xdmod-kernel/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-xdmod-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures</title>
+      <link>/publication/imagemanagement/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/imagemanagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Multiple Cloud Frameworks</title>
+      <link>/publication/comparisoncloud/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/comparisoncloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
+      <link>/publication/las-08-federated-cloud/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
+      <link>/publication/fg-1295/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/fg-1295/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of Threat Management of Urban Water Distribution Systems with Grid Workflow</title>
+      <link>/publication/las-11-wtm-hadoop/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-wtm-hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of the FutureGrid Experiment Management Framework</title>
+      <link>/publication/las-2010-gce/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2010-gce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Virtual Applicance: On-Demand Deploying Middleware for Cyberinfrastructure</title>
+      <link>/publication/las-09-cloudcomp/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-cloudcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Energy Aware Scheduling for Precedence Constrained Parallel Tasks in a Cluster with DVFS</title>
+      <link>/publication/las-10-ccgrid/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-ccgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Creative: On-Demand Cyberinfrastructure Provision in Clouds</title>
+      <link>/publication/las-09-gridcat/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-gridcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Shell: Interactive Task Management for Grids and Cyberinfrastructure</title>
+      <link>/publication/las-08-gridshell/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-gridshell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide JavaScript: A JavaScript Commodity Grid Kit</title>
+      <link>/publication/las-08-javascript/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript Grid Abstractions</title>
+      <link>/publication/las-07-javascript/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-javascript/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

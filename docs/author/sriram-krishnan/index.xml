@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sriram Krishnan | Gregor von Laszewski</title>
+    <link>/author/sriram-krishnan/</link>
+      <atom:link href="/author/sriram-krishnan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sriram Krishnan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Sriram Krishnan</title>
+      <link>/author/sriram-krishnan/</link>
+    </image>
+    
+    <item>
+      <title>A Framework for Building Scientific Knowledge Grids Applied to Thermochemical Tables</title>
+      <link>/publication/las-03-knowledge/</link>
+      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commodity Grid Kits - Middleware for Building Grid Computing Environments</title>
+      <link>/publication/las-03-gridcomputing/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-gridcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Service Based Active Thermochemical Table Framework</title>
+      <link>/publication/las-02-activetable/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-activetable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

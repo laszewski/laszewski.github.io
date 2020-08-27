@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mary Thomas | Gregor von Laszewski</title>
+    <link>/author/mary-thomas/</link>
+      <atom:link href="/author/mary-thomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mary Thomas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Mary Thomas</title>
+      <link>/author/mary-thomas/</link>
+    </image>
+    
+    <item>
+      <title>Open Grid Computing Environments</title>
+      <link>/publication/las-ogce-tg-09/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-ogce-tg-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
+      <link>/publication/las-07-ogce/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-ogce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Perl Commodity Grid Kit</title>
+      <link>/publication/las-02-perlcog/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-perlcog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

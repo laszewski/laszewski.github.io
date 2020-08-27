@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Grossman | Gregor von Laszewski</title>
+    <link>/author/robert-grossman/</link>
+      <atom:link href="/author/robert-grossman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Grossman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Robert Grossman</title>
+      <link>/author/robert-grossman/</link>
+    </image>
+    
+    <item>
+      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit</title>
+      <link>/publication/las-12-fedcloud-proc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-fedcloud-proc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Bletzinger | Gregor von Laszewski</title>
+    <link>/author/michael-bletzinger/</link>
+      <atom:link href="/author/michael-bletzinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Bletzinger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Bletzinger</title>
+      <link>/author/michael-bletzinger/</link>
+    </image>
+    
+    <item>
+      <title>Software, Component, and Service Deployment in Computational Grids</title>
+      <link>/publication/las-02-deploy/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-deploy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

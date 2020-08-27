@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dmitry Mishin | Gregor von Laszewski</title>
+    <link>/author/dmitry-mishin/</link>
+      <atom:link href="/author/dmitry-mishin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dmitry Mishin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Dmitry Mishin</title>
+      <link>/author/dmitry-mishin/</link>
+    </image>
+    
+    <item>
+      <title>Human in the Loop Virtual Machine Management on Comet</title>
+      <link>/publication/las-19-harc-comet/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-19-harc-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comet - Tales from the Long Tail. Two Years In, and 10,000 Users Later</title>
+      <link>/publication/cai-2017-comet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-2017-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Managed Virtual Clusters in Comet</title>
+      <link>/publication/las-16-virtcluster/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/las-16-virtcluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

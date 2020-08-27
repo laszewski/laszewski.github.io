@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Seablom | Gregor von Laszewski</title>
+    <link>/author/mike-seablom/</link>
+      <atom:link href="/author/mike-seablom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mike Seablom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 1994 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Mike Seablom</title>
+      <link>/author/mike-seablom/</link>
+    </image>
+    
+    <item>
+      <title>Design Issues for the Parallelization of an Optimal Interpolation Algorithm</title>
+      <link>/publication/las-94-ecwmf/</link>
+      <pubDate>Tue, 01 Nov 1994 00:00:00 +0000</pubDate>
+      <guid>/publication/las-94-ecwmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

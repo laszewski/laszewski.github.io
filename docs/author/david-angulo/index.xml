@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Angulo | Gregor von Laszewski</title>
+    <link>/author/david-angulo/</link>
+      <atom:link href="/author/david-angulo/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Angulo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>David Angulo</title>
+      <link>/author/david-angulo/</link>
+    </image>
+    
+    <item>
+      <title>The Java CoG Kit Experiment Manager</title>
+      <link>/publication/las-06-exp-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-exp-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow Management Through Cobalt</title>
+      <link>/publication/las-06-cobalt/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-cobalt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

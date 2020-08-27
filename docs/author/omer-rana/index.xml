@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omer Rana | Gregor von Laszewski</title>
+    <link>/author/omer-rana/</link>
+      <atom:link href="/author/omer-rana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omer Rana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Omer Rana</title>
+      <link>/author/omer-rana/</link>
+    </image>
+    
+    <item>
+      <title>An Abstraction Model for a Grid Execution Framework</title>
+      <link>/publication/las-04-abstraction-j/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-abstraction-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality-of-Service Based Grid Communities</title>
+      <link>/publication/las-05-qos-book/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-qos-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An OGSA-based Quality of Service Framework</title>
+      <link>/publication/las-03-qos/</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-qos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS Support for High-performance Scientific Grid Applications</title>
+      <link>/publication/las-04-qos-ccgrid/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-qos-ccgrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

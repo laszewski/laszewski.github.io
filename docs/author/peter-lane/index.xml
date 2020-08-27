@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Lane | Gregor von Laszewski</title>
+    <link>/author/peter-lane/</link>
+      <atom:link href="/author/peter-lane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Lane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Peter Lane</title>
+      <link>/author/peter-lane/</link>
+    </image>
+    
+    <item>
+      <title>Software, Component, and Service Deployment in Computational Grids</title>
+      <link>/publication/las-02-deploy/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-deploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features of the Java Commodity Grid Kit</title>
+      <link>/publication/las-02-javacog/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-javacog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A High-Throughput X-Ray Microtomography System at the Advanced Photon Source</title>
+      <link>/publication/las-01-cmt/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-cmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Java Commodity Grid Kit</title>
+      <link>/publication/las-01-cog-concurency/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-cog-concurency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Grid-based Problem Solving Environments and Portals</title>
+      <link>/publication/las-01-pse/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-pse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quasi-Realtime X-Ray Microtomography System at the Advanced Photon Source</title>
+      <link>/publication/las-99-spie/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-spie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

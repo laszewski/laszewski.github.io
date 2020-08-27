@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaizar A. Amin | Gregor von Laszewski</title>
+    <link>/author/kaizar-a.-amin/</link>
+      <atom:link href="/author/kaizar-a.-amin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaizar A. Amin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Kaizar A. Amin</title>
+      <link>/author/kaizar-a.-amin/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Active Thermochemical Tables: Several Key Enthalpies of Formation Revisited</title>
+      <link>/publication/las-04-atct-j/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-atct-j/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

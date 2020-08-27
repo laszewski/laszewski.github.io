@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Philippsen | Gregor von Laszewski</title>
+    <link>/author/michael-philippsen/</link>
+      <atom:link href="/author/michael-philippsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Philippsen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Philippsen</title>
+      <link>/author/michael-philippsen/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Paradigm Communications in Java for Grid Computing</title>
+      <link>/publication/las-01-acm/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-acm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

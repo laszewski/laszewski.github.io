@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihael Hategan | Gregor von Laszewski</title>
+    <link>/author/mihael-hategan/</link>
+      <atom:link href="/author/mihael-hategan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mihael Hategan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Mihael Hategan</title>
+      <link>/author/mihael-hategan/</link>
+    </image>
+    
+    <item>
+      <title>Grid Workflow with the Java CoG Kit</title>
+      <link>/publication/las-06-workflow-book/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-workflow-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
+      <link>/publication/las-07-ogce/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-ogce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work coordination for Grid computing</title>
+      <link>/publication/las-06-workcoordination/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-workcoordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
+      <link>/publication/las-04-qos-journal/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-qos-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS Support for High-performance Scientific Grid Applications</title>
+      <link>/publication/las-04-qos-ccgrid/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-qos-ccgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstracting the Grid</title>
+      <link>/publication/las-04-abstracting/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-abstracting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GridAnt: A Client-Controllable Grid Workflow System</title>
+      <link>/publication/las-04-gridant/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-gridant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

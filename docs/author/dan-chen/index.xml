@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Chen | Gregor von Laszewski</title>
+    <link>/author/dan-chen/</link>
+      <atom:link href="/author/dan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Dan Chen</title>
+      <link>/author/dan-chen/</link>
+    </image>
+    
+    <item>
+      <title>Provide Virtual Machine Information for Grid Computing</title>
+      <link>/publication/wang-10-transactions/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-10-transactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Energy-Efficient Analysis of Massive Neural Signals Using GPGPU</title>
+      <link>/publication/chen-10-energy/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-10-energy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

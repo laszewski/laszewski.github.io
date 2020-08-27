@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Larry A. Rahn | Gregor von Laszewski</title>
+    <link>/author/larry-a.-rahn/</link>
+      <atom:link href="/author/larry-a.-rahn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Larry A. Rahn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Larry A. Rahn</title>
+      <link>/author/larry-a.-rahn/</link>
+    </image>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
+      <link>/publication/las-04-clade/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-clade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

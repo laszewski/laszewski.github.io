@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;General-purpose Computing on the Graphics Processing Unit&#34; | Gregor von Laszewski</title>
+    <link>/tag/general-purpose-computing-on-the-graphics-processing-unit/</link>
+      <atom:link href="/tag/general-purpose-computing-on-the-graphics-processing-unit/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;General-purpose Computing on the Graphics Processing Unit&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;General-purpose Computing on the Graphics Processing Unit&#34;</title>
+      <link>/tag/general-purpose-computing-on-the-graphics-processing-unit/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Energy-Efficient Analysis of Massive Neural Signals Using GPGPU</title>
+      <link>/publication/chen-10-energy/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-10-energy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

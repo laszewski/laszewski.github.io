@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;high energy physics applications&#34; | Gregor von Laszewski</title>
+    <link>/tag/high-energy-physics-applications/</link>
+      <atom:link href="/tag/high-energy-physics-applications/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;high energy physics applications&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;high energy physics applications&#34;</title>
+      <link>/tag/high-energy-physics-applications/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Data System on Distributed Virtual Machines in Computational Grids</title>
+      <link>/publication/las-10-ijahuc/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-ijahuc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
