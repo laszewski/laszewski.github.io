@@ -1,38 +1,50 @@
-# Academic Kickstart
+# Gregors Web Page
 
-**Academic** is a framework to help you create a beautiful website
-  quickly. Perfect for personal, student, or academic
-  websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/)
-  of what you'll get in less than 10 minutes or
-  [view the documentation](https://sourcethemes.com/academic/docs/).
+## Update
 
-**Academic Kickstart** provides a minimal template to kickstart your
-  new website by following the simple steps below.
+```
+git clone git@github.com:laszewski/laszewski.github.io.git
+```
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+or
 
-## Getting Started
+```
+git clone https://github.com/laszewski/laszewski.github.io.git
+```
 
-The following two methods describe how to install in the cloud using
-your web browser and how to install on your PC using the Command
-Prompt/Terminal app.
+```
+cd laszewski.github.io
+pip install academic
+make bib
+make view
+```
 
-### Quick install using your web browser
+After things are ok
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
+```
+hugo
+git status
+```
 
-2. On GitHub, go to your newly created `academic-kickstart` repository
-   and edit `config.toml` to personalize your site. Shortly after
-   saving the file, your site will automatically update
+add the new content
 
-3. Read the
-   [Quick Start Guide](https://sourcethemes.com/academic/docs/) to
-   learn how to add Markdown content. For inspiration, refer to the
-   [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite)
-   which powers the [Demo](https://themes.gohugo.io/theme/academic/)
+```
+git commit -a
+git push
+```
 
-### Install on your PC
+To change the bib edit <https://github.com/laszewski/laszewski.github.io/blob/master/vonLaszewski-jabref.bib>
+The file `vonLaszewski.bib` will be automatically generated. You can
+also use that if you need to import citations.
+
+
+## Hugo Academic for Web page
+
+* uses Academic with modifications. Original academic has a [demo](https://themes.gohugo.io/theme/academic/)
+  [documentation](https://sourcethemes.com/academic/docs/), [github](https://github.com/gcushen/hugo-academic/)
+
+
+### Install on PC
 
 Prerequisites:
 
@@ -60,12 +72,4 @@ Prerequisites:
 
     Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
   
-4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
 
-## License
-
-Copyright 2017 [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
