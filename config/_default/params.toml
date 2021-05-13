@@ -101,7 +101,7 @@ address = {street = "2425 N Milo Sampson Lane", city = "Bloomington", region = "
 coordinates = {latitude = "39.1894648", longitude = "-86.5220393"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building at the first entrance, turn left, turn right, turn left, turn right atthe firts door, you will find me there when I am in the office."
+directions = "Room 158L, Enter Building at the first entrance, turn left, turn right, turn left, turn right atthe firts door, you will find me there when I am in the office."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

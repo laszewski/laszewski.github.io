@@ -1,7 +1,7 @@
 MSG="Deploy Web Site"
 
 deploy: 
-	rm -rf public
+	# rm -rf public
 	@echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 	hugo 
 	#git pull --recurse-submodules
