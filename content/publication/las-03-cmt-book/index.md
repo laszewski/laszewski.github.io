@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2020-08-26T20:47:25-04:00
+lastmod: 2021-05-13T09:23:31-04:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:25.065015Z'
+publishDate: '2021-05-13T13:23:31.152915Z'
 publication_types:
-- 6
+- '6'
 abstract: ''
 publication: '*Quasi-Realtime Microtomography Experiments at Photon Sources*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-cmtscience.pdf

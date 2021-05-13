@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2007-11-01'
-lastmod: 2020-08-26T20:47:29-04:00
+lastmod: 2021-05-13T09:23:35-04:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:29.059075Z'
+publishDate: '2021-05-13T13:23:35.732679Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Proceedings of the Grid Computing Environments 2007 at SC07*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-07-javascript.pdf

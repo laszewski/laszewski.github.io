@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2006-11-01'
-lastmod: 2020-08-26T20:47:28-04:00
+lastmod: 2021-05-13T09:23:35-04:00
 featured: false
 draft: false
 
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:28.448784Z'
+publishDate: '2021-05-13T13:23:34.909352Z'
 publication_types:
-- 0
+- '0'
 abstract: ''
 publication: '*Published Aug. 2008, Rochester Institute of Technology, Rochester NY*'
 url_pdf: http://library.rit.edu/oajournals/index.php/gce/issue/view/10/showToc

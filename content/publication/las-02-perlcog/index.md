@@ -25,7 +25,7 @@ tags:
 - '"middleware"'
 categories: []
 date: '2002-01-01'
-lastmod: 2020-08-26T20:47:24-04:00
+lastmod: 2021-05-13T09:23:30-04:00
 featured: false
 draft: false
 
@@ -43,9 +43,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:24.752748Z'
+publishDate: '2021-05-13T13:23:30.817095Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Concurrency and Computation: Practice and Experience*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-perl-cog.pdf

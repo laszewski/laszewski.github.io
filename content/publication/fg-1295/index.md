@@ -15,7 +15,7 @@ tags:
 - '"image repository"'
 categories: []
 date: '2011-12-01'
-lastmod: 2020-08-26T20:47:21-04:00
+lastmod: 2021-05-13T09:23:27-04:00
 featured: false
 draft: false
 
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:21.378581Z'
+publishDate: '2021-05-13T13:23:27.098325Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Third IEEE International Conference on Coud Computing Technology and
   Science (CloudCom2011)*'

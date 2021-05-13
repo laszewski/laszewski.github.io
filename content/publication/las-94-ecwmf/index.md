@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '1994-11-01'
-lastmod: 2020-08-26T20:47:34-04:00
+lastmod: 2021-05-13T09:23:41-04:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:34.056772Z'
+publishDate: '2021-05-13T13:23:41.619966Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Coming of Age, Proceedings of the 4th Workshop on the Use of Parallel
   Processing in Atmospheric Science*'

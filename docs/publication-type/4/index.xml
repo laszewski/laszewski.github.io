@@ -5,100 +5,12 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
-    
-    <item>
-      <title>Cloud Computing</title>
-      <link>/publication/las-20-book-cloudeng/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-cloudeng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data Applications and  Analytics</title>
-      <link>/publication/las-20-book-bigdata/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-bigdata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intelligent Systems Engineering</title>
-      <link>/publication/las-20-book-222/</link>
-      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-222/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python for Cloud Computing</title>
-      <link>/publication/las-20-book-python/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scientific Writing with Markdown</title>
-      <link>/publication/las-20-book-markdown/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud technologies</title>
-      <link>/publication/las-20-book-tech/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux for Cloud Computing</title>
-      <link>/publication/las-20-book-linux/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Openstack with Chameloen Cloud</title>
-      <link>/publication/las-20-book-chameleon/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-chameleon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proceedings of Cloud Computing Engeneeing (2020)</title>
-      <link>/publication/las-20-proc-516/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-proc-516/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proceedings of Cloud Computing Engeneeing (2019)</title>
-      <link>/publication/las-20-proc-516-2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-proc-516-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
-      <link>/publication/nist-vol-8/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/nist-vol-8/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
@@ -121,14 +33,6 @@
       <link>/publication/von-2017-cloudmesh/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/von-2017-cloudmesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer comparison of XSEDE and NCAR publication data</title>
-      <link>/publication/las-15-cluster-long/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-cluster-long/</guid>
       <description></description>
     </item>
     

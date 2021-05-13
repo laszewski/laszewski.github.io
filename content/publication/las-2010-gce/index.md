@@ -20,7 +20,7 @@ authors:
 tags: []
 categories: []
 date: '2010-11-01'
-lastmod: 2020-08-26T20:47:33-04:00
+lastmod: 2021-05-13T09:23:40-04:00
 featured: false
 draft: false
 
@@ -38,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:33.343275Z'
+publishDate: '2021-05-13T13:23:40.686081Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Proceedings of Gateway Computing Environments 2010 (GCE2010) at SC10*'
 doi: 10.1109/GCE.2010.5676126

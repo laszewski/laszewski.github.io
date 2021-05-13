@@ -5,12 +5,36 @@
     <link>/author/geoffrey-c.-fox/</link>
       <atom:link href="/author/geoffrey-c.-fox/index.xml" rel="self" type="application/rss+xml" />
     <description>Geoffrey C. Fox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 13:23:27 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Geoffrey C. Fox</title>
       <link>/author/geoffrey-c.-fox/</link>
     </image>
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/las-15-impact-ncar/</link>
+      <pubDate>Thu, 13 May 2021 13:23:27 +0000</pubDate>
+      <guid>/publication/las-15-impact-ncar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
+      <link>/publication/las-21-covid/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
+      <link>/publication/las-20-covid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-covid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human in the Loop Virtual Machine Management on Comet</title>
@@ -25,30 +49,6 @@
       <link>/publication/von-2018-handbook/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/von-2018-handbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
-      <link>/publication/las-17-chameleon-mongo/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-chameleon-mongo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
-      <link>/publication/las-17-chameleon-teach/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-chameleon-teach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comet - Tales from the Long Tail. Two Years In, and 10,000 Users Later</title>
-      <link>/publication/cai-2017-comet/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/cai-2017-comet/</guid>
       <description></description>
     </item>
     
@@ -69,42 +69,10 @@
     </item>
     
     <item>
-      <title>Peer comparison of XSEDE and NCAR publication data</title>
-      <link>/publication/las-15-cluster/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-cluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer comparison of XSEDE publication data</title>
+      <title>Peer Comparison of XSEDE Publication Data</title>
       <link>/publication/las-15-xsede/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/publication/las-15-xsede/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Comparison of Cluster Resource Provider Publication Data</title>
-      <link>/publication/las-2015-cluster/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2015-cluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer comparison of XSEDE and NCAR publication data</title>
-      <link>/publication/las-15-cluster-long/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-cluster-long/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Comparison of XSEDE Publication Data</title>
-      <link>/publication/las-2015-xsede/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2015-xsede/</guid>
       <description></description>
     </item>
     

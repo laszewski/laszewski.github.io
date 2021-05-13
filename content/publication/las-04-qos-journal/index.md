@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2004-06-01'
-lastmod: 2020-08-26T20:47:26-04:00
+lastmod: 2021-05-13T09:23:32-04:00
 featured: false
 draft: false
 
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:26.301482Z'
+publishDate: '2021-05-13T13:23:32.509063Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Journal of Grid Computing*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-qos-final-jogc.pdf

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1997-12-01'
-lastmod: 2020-08-26T20:47:34-04:00
+lastmod: 2021-05-13T09:23:42-04:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:34.364064Z'
+publishDate: '2021-05-13T13:23:41.968450Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*International Workshop on New Opportunities for Better User Group Software
   (NOBUGS)*'

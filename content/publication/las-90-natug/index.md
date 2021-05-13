@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1990-10-01'
-lastmod: 2020-08-26T20:47:33-04:00
+lastmod: 2021-05-13T09:23:41-04:00
 featured: false
 draft: false
 
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:33.752150Z'
+publishDate: '2021-05-13T13:23:41.269525Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Transputer Research and Applications 4, Proceedings of the 4th Conference
   of the North-American Transputers Users Group*'

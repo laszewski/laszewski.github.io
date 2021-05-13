@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2011-04-01'
-lastmod: 2020-08-26T20:47:32-04:00
+lastmod: 2021-05-13T09:23:39-04:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:32.014879Z'
+publishDate: '2021-05-13T13:23:39.271843Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*The Second International Conference on Parallel, Distributed, Grid
   and Cloud Computing for Engineering*'

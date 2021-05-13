@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2003-09-01'
-lastmod: 2020-08-26T20:47:25-04:00
+lastmod: 2021-05-13T09:23:32-04:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:25.894104Z'
+publishDate: '2021-05-13T13:23:32.054959Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Workshop on Adaptive Grid Middleware*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-reputation.pdf

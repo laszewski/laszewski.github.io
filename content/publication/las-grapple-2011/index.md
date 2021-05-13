@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2011-04-01'
-lastmod: 2020-08-26T20:47:22-04:00
+lastmod: 2021-05-13T09:23:28-04:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:22.298415Z'
+publishDate: '2021-05-13T13:23:28.119235Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*CCA11: Cloud Computing and Its Applications*'
 url_pdf: https://laszewski.github.io/papers/11-imagerepo-cca.pdf

@@ -5,12 +5,28 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact using Semantic Scholar Data</title>
+      <link>/publication/las-21-impact/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/las-15-impact-ncar/</link>
+      <pubDate>Thu, 13 May 2021 13:23:27 +0000</pubDate>
+      <guid>/publication/las-15-impact-ncar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human in the Loop Virtual Machine Management on Comet</title>
@@ -22,9 +38,9 @@
     
     <item>
       <title>Streaming Machine Learning Algorithms with Big Data Systems</title>
-      <link>/publication/9006337/</link>
+      <link>/publication/las-19-streaming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/9006337/</guid>
+      <guid>/publication/las-19-streaming/</guid>
       <description></description>
     </item>
     
@@ -37,31 +53,7 @@
     </item>
     
     <item>
-      <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
-      <link>/publication/las-17-chameleon-mongo/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-chameleon-mongo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
-      <link>/publication/las-17-chameleon-teach/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-chameleon-teach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comet - Tales from the Long Tail. Two Years In, and 10,000 Users Later</title>
-      <link>/publication/cai-2017-comet/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/cai-2017-comet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comet: Tales from the Long Tail: Two Years in and 10,000 users later</title>
+      <title>Comet: Tales from the Long Tail: Two Years In and 10,000 Users Later</title>
       <link>/publication/strande-2017-comet/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/strande-2017-comet/</guid>
@@ -85,42 +77,10 @@
     </item>
     
     <item>
-      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
-      <link>/publication/las-15-impact-ncar/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-impact-ncar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer comparison of XSEDE and NCAR publication data</title>
-      <link>/publication/las-15-cluster/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-cluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer comparison of XSEDE publication data</title>
+      <title>Peer Comparison of XSEDE Publication Data</title>
       <link>/publication/las-15-xsede/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>/publication/las-15-xsede/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Comparison of Cluster Resource Provider Publication Data</title>
-      <link>/publication/las-2015-cluster/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2015-cluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Comparison of XSEDE Publication Data</title>
-      <link>/publication/las-2015-xsede/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2015-xsede/</guid>
       <description></description>
     </item>
     

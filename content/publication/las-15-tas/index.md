@@ -28,7 +28,7 @@ tags:
 - '"XSEDE users"'
 categories: []
 date: '2015-01-01'
-lastmod: 2020-08-26T20:47:22-04:00
+lastmod: 2021-05-13T09:23:27-04:00
 featured: false
 draft: false
 
@@ -46,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:21.993639Z'
+publishDate: '2021-05-13T13:23:27.779079Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*Proceedings of the 2015 XSEDE Conference: Scientific Advancements Enabled
   by Enhanced Cyberinfrastructure*'

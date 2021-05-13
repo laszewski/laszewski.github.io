@@ -18,7 +18,7 @@ tags:
 - '"EEG"'
 categories: []
 date: '2010-01-01'
-lastmod: 2020-08-26T20:47:21-04:00
+lastmod: 2021-05-13T09:23:26-04:00
 featured: false
 draft: false
 
@@ -36,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:20.964433Z'
+publishDate: '2021-05-13T13:23:26.645672Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: "*Proceedings of the 2010 IEEE/ACM Int'L Conference on Green Computing\
   \ and Communications & Int'L Conference on Cyber, Physical and Social Computing*"

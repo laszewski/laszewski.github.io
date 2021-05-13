@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chathura Widanage | Gregor von Laszewski</title>
+    <link>/author/chathura-widanage/</link>
+      <atom:link href="/author/chathura-widanage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chathura Widanage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Chathura Widanage</title>
+      <link>/author/chathura-widanage/</link>
+    </image>
+    
+    <item>
+      <title>Streaming Machine Learning Algorithms with Big Data Systems</title>
+      <link>/publication/las-19-streaming/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-19-streaming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

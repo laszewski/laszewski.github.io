@@ -47,6 +47,9 @@ bibclean:
 	rm -rf content/publication/*
 	cp /tmp/_index.md content/publication/_index.md
 
+install:
+	pip install academic
+
 bib: bibclean
 	cat vonLaszewski-jabref.bib | \
 	bibtool -s -r iso2tex -- print.line.length=1000 | \

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;publications&#34; | Gregor von Laszewski</title>
+    <link>/tag/publications/</link>
+      <atom:link href="/tag/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;publications&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 13:23:27 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;publications&#34;</title>
+      <link>/tag/publications/</link>
+    </image>
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/las-15-impact-ncar/</link>
+      <pubDate>Thu, 13 May 2021 13:23:27 +0000</pubDate>
+      <guid>/publication/las-15-impact-ncar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2002-09-01'
-lastmod: 2020-08-26T20:47:24-04:00
+lastmod: 2021-05-13T09:23:30-04:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:24.650004Z'
+publishDate: '2021-05-13T13:23:30.704766Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*15th International Conference on Parallel and Distributed Computing
   Systems (PDCS 2002)*'

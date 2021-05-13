@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Peer comparison of XSEDE publication data
+title: Peer Comparison of XSEDE Publication Data
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2015-07-01'
-lastmod: 2020-08-26T20:47:33-04:00
+lastmod: 2021-05-13T09:23:40-04:00
 featured: false
 draft: false
 
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:33.037792Z'
+publishDate: '2021-05-13T13:23:40.221791Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*XSEDE2015*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-tas-xsede.pdf

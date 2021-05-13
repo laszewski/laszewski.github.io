@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2012-06-01'
-lastmod: 2020-08-26T20:47:21-04:00
+lastmod: 2021-05-13T09:23:26-04:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-27T00:47:21.066400Z'
+publishDate: '2021-05-13T13:23:26.764249Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*IEEE Cloud 2012*'
 url_pdf: https://laszewski.github.io/papers/laszewski-IEEECloud2012_id-4803.pdf
