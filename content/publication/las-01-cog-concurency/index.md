@@ -15,7 +15,7 @@ tags:
 - '"Computational Grid"'
 categories: []
 date: '2001-01-01'
-lastmod: 2021-05-14T13:17:45-04:00
+lastmod: 2021-05-14T13:21:18-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-14T17:17:45.150004Z'
+publishDate: '2021-05-14T17:21:18.176971Z'
 publication_types:
 - '2'
 abstract: ''

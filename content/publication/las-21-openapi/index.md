@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2021-07-01'
-lastmod: 2021-05-14T13:18:01-04:00
+lastmod: 2021-05-14T13:21:34-04:00
 featured: false
 draft: false
 
@@ -34,11 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-14T17:18:01.493943Z'
+publishDate: '2021-05-14T17:21:34.081509Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative
+publication: '*IEEE COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative
   World45th Anniversary Conference*'
 url_pdf: https://ieeecompsac.computer.org/2021/
 ---
