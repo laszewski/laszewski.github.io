@@ -6,6 +6,18 @@ title: Performance Metrics and Auditing Framework using Application Kernels for 
 subtitle: ''
 summary: ''
 authors:
+- Thomas R. Furlani
+- Matthew D. Jones
+- Steven M. Gallo
+- Andrew E. Bruno
+- Charng-Da Lu
+- Amin Ghadersohi
+- Ryan J. Gentner
+- Abani K. Patra
+- Robert L. DeLeon
+- Gregor von Laszewski
+- Fugang Wang
+- Ann Zimmerman
 - Thomas R Furlani
 - Barry I Schneider
 - Matthew D Jones
@@ -23,8 +35,8 @@ authors:
 - Gregor Von Laszewski
 tags: []
 categories: []
-date: '2012-07-01'
-lastmod: 2021-05-13T09:23:39-04:00
+date: '2013-07-01'
+lastmod: 2021-05-14T11:45:01-04:00
 featured: false
 draft: false
 
@@ -42,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-13T13:23:39.639010Z'
+publishDate: '2021-05-14T15:45:01.535520Z'
 publication_types:
 - '2'
 abstract: ''

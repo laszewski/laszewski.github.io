@@ -21,9 +21,17 @@
     </item>
     
     <item>
+      <title>Using GAS for Speedy Generation of HybridMulti-Cloud Auto Generated AI Services</title>
+      <link>/publication/las-21-openapi/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-openapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
       <link>/publication/las-15-impact-ncar/</link>
-      <pubDate>Thu, 13 May 2021 13:23:27 +0000</pubDate>
+      <pubDate>Fri, 14 May 2021 15:44:49 +0000</pubDate>
       <guid>/publication/las-15-impact-ncar/</guid>
       <description></description>
     </item>
@@ -173,6 +181,14 @@
     </item>
     
     <item>
+      <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
+      <link>/publication/las-12-xdmod-kernel/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-xdmod-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On-demand Service Hosting on Production Grid Infrastructures</title>
       <link>/publication/las-13-ondemand/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -185,14 +201,6 @@
       <link>/publication/las-13-xdmod/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/las-13-xdmod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
-      <link>/publication/las-12-xdmod-kernel/</link>
-      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-xdmod-kernel/</guid>
       <description></description>
     </item>
     

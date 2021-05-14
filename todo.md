@@ -15,4 +15,8 @@ Articles
 Accelerating time to scientific discovery with a grid- enhanced microsoft project
 Gregor von Laszewski Leor Dilmanian
 https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=1685&context=article
-/Users/grey/Desktop/github/found\ papers\ /Accelerating\ time\ to\ scientific\ discovery\ with\ a\ grid-enhanced\ mi.pdf 
+/Users/grey/Desktop/github/found\ papers\ /Accelerating\ time\ to\
+scientific\ discovery\ with\ a\ grid-enhanced\ mi.pdf
+
+Presetntation
+Microsoft excel https://slideplayer.com/slide/8114238/

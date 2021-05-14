@@ -5,7 +5,7 @@
     <link>/author/geoffrey-c.-fox/</link>
       <atom:link href="/author/geoffrey-c.-fox/index.xml" rel="self" type="application/rss+xml" />
     <description>Geoffrey C. Fox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 13:23:27 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Geoffrey C. Fox</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact using Semantic Scholar Data</title>
+      <link>/publication/las-21-impact/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using GAS for Speedy Generation of HybridMulti-Cloud Auto Generated AI Services</title>
+      <link>/publication/las-21-openapi/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-openapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
       <link>/publication/las-15-impact-ncar/</link>
-      <pubDate>Thu, 13 May 2021 13:23:27 +0000</pubDate>
+      <pubDate>Fri, 14 May 2021 15:44:49 +0000</pubDate>
       <guid>/publication/las-15-impact-ncar/</guid>
       <description></description>
     </item>

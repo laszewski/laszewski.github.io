@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fugang Wnag | Gregor von Laszewski</title>
+    <link>/author/fugang-wnag/</link>
+      <atom:link href="/author/fugang-wnag/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fugang Wnag</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Fugang Wnag</title>
+      <link>/author/fugang-wnag/</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact using Semantic Scholar Data</title>
+      <link>/publication/las-21-impact/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

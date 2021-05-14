@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2021-05-13T09:23:36-04:00
+lastmod: 2021-05-14T11:44:58-04:00
 featured: false
 draft: false
 
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-13T13:23:35.998247Z'
+publishDate: '2021-05-14T15:44:57.959597Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*International Workshop on Grid Computing Environments 2007 in Conjunction
   with SC07*'
-url_pdf: http://library.rit.edu/oajournals/index.php/gce/article/view/85/46
+url_pdf: https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=1791&context=other
 ---

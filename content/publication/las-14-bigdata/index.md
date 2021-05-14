@@ -6,6 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Gregor von Laszewski
+- Geoffrey Fox
+- Gregor von Laszewski
 - Fugang Wang
 - Hyungro Lee
 - Heng Chen
@@ -14,7 +16,7 @@ tags:
 - '"cloud computing"'
 categories: []
 date: '2014-01-01'
-lastmod: 2021-05-13T09:23:40-04:00
+lastmod: 2021-05-14T11:45:02-04:00
 featured: false
 draft: false
 
@@ -32,12 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-13T13:23:39.991374Z'
+publishDate: '2021-05-14T15:45:01.886632Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Proceedings of the 2014 ACM International Workshop on Software-defined
-  Ecosystems*'
+publication: '*Cloud Computing for Data-Intensive Applications*'
 url_pdf: http://doi.acm.org/10.1145/2609441.2609638
 doi: 10.1145/2609441.2609638
 ---
