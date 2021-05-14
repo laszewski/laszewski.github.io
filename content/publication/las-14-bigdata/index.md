@@ -16,7 +16,7 @@ tags:
 - '"cloud computing"'
 categories: []
 date: '2014-01-01'
-lastmod: 2021-05-14T11:45:02-04:00
+lastmod: 2021-05-14T13:17:59-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-14T15:45:01.886632Z'
+publishDate: '2021-05-14T17:17:59.542821Z'
 publication_types:
 - '6'
 abstract: ''

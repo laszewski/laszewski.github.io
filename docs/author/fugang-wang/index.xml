@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
-      <link>/publication/las-15-impact-ncar/</link>
-      <pubDate>Fri, 14 May 2021 15:44:49 +0000</pubDate>
-      <guid>/publication/las-15-impact-ncar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
       <link>/publication/las-21-covid/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -81,6 +73,14 @@
       <link>/publication/las-16-virtcluster/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>/publication/las-16-virtcluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/las-15-impact-ncar/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-impact-ncar/</guid>
       <description></description>
     </item>
     

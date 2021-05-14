@@ -22,8 +22,8 @@ tags:
 - '"Metrics"'
 - '"publications"'
 categories: []
-date: 8-11 Sept. 2015-01
-lastmod: 2021-05-14T11:44:49-04:00
+date: '2015-09-08'
+lastmod: 2021-05-14T13:17:43-04:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-14T15:44:49.476875Z'
+publishDate: '2021-05-14T17:17:43.201565Z'
 publication_types:
 - '1'
 abstract: We present a framework that compares the publication impact based on a comprehensive
@@ -54,7 +54,7 @@ abstract: We present a framework that compares the publication impact based on a
   that utilize XSEDE and NCAR resources are cited statistically significantly more
   often. Hence we find that reported publications indicate that XSEDE and NCAR resources
   exert a strong positive impact on scientific research.
-publication: '*2015 IEEE International Conference on Cluster Computing*'
+publication: '*2015 IEEE International Conference on Cluster Computing,*'
 url_pdf: https://laszewski.github.io/papers//vonLaszewski-tas-cluster.pdf
 doi: 10.1109/CLUSTER.2015.98
 ---
