@@ -77,8 +77,15 @@ bib: bibclean
 	sed -e 's/oct #/{October} #/g' | \
 	sed -e 's/nov #/{November} #/g' |\
 	sed -e 's/dec #/{December} #/g' > vonLaszewski.bib 
-	academic import --overwrite --bibtex vonLaszewski.bib 
+	academic import --overwrite --bibtex vonLaszewski.bib
+	make -f Makefile mark_class_books
 	hugo
+
+
+mark_class_books:
+	python bin/replace.py --tags="class book" --label="las-17-teaching"
+	python bin/replace.py --tags="class book" --label="las-18-handbook"
+
 
 view:
 	hugo serve --debug

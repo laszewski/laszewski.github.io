@@ -14,25 +14,25 @@
     
     <item>
       <title>Futuregrid: a Reconfigurable Testbed for Cloud, Hpc, and Grid Computing</title>
-      <link>/publication/fox-2017-futuregrid/</link>
+      <link>/publication/las-17-futuregrid/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fox-2017-futuregrid/</guid>
+      <guid>/publication/las-17-futuregrid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures</title>
-      <link>/publication/imagemanagement/</link>
+      <link>/publication/las-12-imagemanagement/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/imagemanagement/</guid>
+      <guid>/publication/las-12-imagemanagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Multiple Cloud Frameworks</title>
-      <link>/publication/comparisoncloud/</link>
+      <link>/publication/las-12-comparisoncloud/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/comparisoncloud/</guid>
+      <guid>/publication/las-12-comparisoncloud/</guid>
       <description></description>
     </item>
     
@@ -54,17 +54,17 @@
     
     <item>
       <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
-      <link>/publication/fg-1295/</link>
+      <link>/publication/las-11-imagerepo-a/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/fg-1295/</guid>
+      <guid>/publication/las-11-imagerepo-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grappling cloud infrastructure services with a generic image repository</title>
-      <link>/publication/las-grapple-2011/</link>
+      <link>/publication/las-11-grapple/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-grapple-2011/</guid>
+      <guid>/publication/las-11-grapple/</guid>
       <description></description>
     </item>
     

@@ -61,7 +61,7 @@ used to live.
 19. Reinhard Josef von Laszewski – Allenstein – Stankt Augustin
 20. Gregor von Laszewski – Sankt Augustin – Columbus, OH – Syracuse, NY – Washington, DC – Bolingbrook, IL – Pittsford, NY – Bloomington, IN
 
-To find out more, about the family tries of Laszewski's please visit:
+To find out more, about the family trees of Laszewski's please visit:
 
 * <https://vonlaszewski.github.io/>
 * <http://zelberschwecht.com/>

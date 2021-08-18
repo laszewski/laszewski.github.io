@@ -16,7 +16,7 @@ tags:
 - '"Virtual machine"'
 categories: []
 date: '2010-02-01'
-lastmod: 2021-05-14T13:21:30-04:00
+lastmod: 2021-08-18T12:09:10-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-14T17:21:30.261768Z'
+publishDate: '2021-08-18T16:09:10.775181Z'
 publication_types:
 - '2'
 abstract: ''

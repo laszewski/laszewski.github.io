@@ -54,9 +54,9 @@
     
     <item>
       <title>The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development</title>
-      <link>/publication/las-01-hpdc-10-cactus/</link>
+      <link>/publication/las-01-hpdc-cactus/</link>
       <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-hpdc-10-cactus/</guid>
+      <guid>/publication/las-01-hpdc-cactus/</guid>
       <description></description>
     </item>
     
@@ -97,62 +97,6 @@
       <link>/publication/las-00-sbc/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>/publication/las-00-sbc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distance Visualization: Data Exploration on the Grid</title>
-      <link>/publication/las-99-ieee/</link>
-      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-ieee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grid Infrastructure to Support Science Portals for Large Scale Instruments</title>
-      <link>/publication/las-99-rostock/</link>
-      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-rostock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Quasi-Realtime X-Ray Microtomography System at the Advanced Photon Source</title>
-      <link>/publication/las-99-spie/</link>
-      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-spie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-Time Analysis, Visualization, and Steering of Microtomography Experiments at Photon Sources</title>
-      <link>/publication/las-99-siam/</link>
-      <pubDate>Mon, 01 Mar 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-siam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Fault Detection Service for Wide Area Distributed Computations</title>
-      <link>/publication/las-98-hpdc/</link>
-      <pubDate>Wed, 01 Jul 1998 00:00:00 +0000</pubDate>
-      <guid>/publication/las-98-hpdc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supercomputing Data Analysis with an Example on the APS CATs</title>
-      <link>/publication/las-97-nobugs/</link>
-      <pubDate>Mon, 01 Dec 1997 00:00:00 +0000</pubDate>
-      <guid>/publication/las-97-nobugs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Directory Service for Configuring High-Performance Distributed Computations</title>
-      <link>/publication/las-97-hpdc/</link>
-      <pubDate>Fri, 01 Aug 1997 00:00:00 +0000</pubDate>
-      <guid>/publication/las-97-hpdc/</guid>
       <description></description>
     </item>
     

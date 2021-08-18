@@ -26,7 +26,7 @@ tags:
 - '"XDMoD"'
 categories: []
 date: '2013-01-01'
-lastmod: 2021-05-14T13:21:32-04:00
+lastmod: 2021-08-18T12:09:13-04:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-14T17:21:32.191646Z'
+publishDate: '2021-08-18T16:09:13.104199Z'
 publication_types:
 - '1'
 abstract: ''

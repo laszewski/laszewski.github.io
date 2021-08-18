@@ -5,20 +5,12 @@
     <link>/author/fugang-wang/</link>
       <atom:link href="/author/fugang-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Fugang Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Fugang Wang</title>
       <link>/author/fugang-wang/</link>
     </image>
-    
-    <item>
-      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact using Semantic Scholar Data</title>
-      <link>/publication/las-21-impact/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-impact/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
@@ -37,14 +29,6 @@
     </item>
     
     <item>
-      <title>Human in the Loop Virtual Machine Management on Comet</title>
-      <link>/publication/las-19-harc-comet/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-19-harc-comet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evaluating the Scientific Impact of XSEDE</title>
       <link>/publication/las-18-impact/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -54,17 +38,17 @@
     
     <item>
       <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
-      <link>/publication/von-2017-cloudmesh/</link>
+      <link>/publication/las-17-cloudmesh/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2017-cloudmesh/</guid>
+      <guid>/publication/las-17-cloudmesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comet: Tales from the Long Tail: Two Years In and 10,000 Users Later</title>
-      <link>/publication/strande-2017-comet/</link>
+      <link>/publication/las-17-comet/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/strande-2017-comet/</guid>
+      <guid>/publication/las-17-comet/</guid>
       <description></description>
     </item>
     
@@ -134,17 +118,17 @@
     
     <item>
       <title>Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures</title>
-      <link>/publication/imagemanagement/</link>
+      <link>/publication/las-12-imagemanagement/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/imagemanagement/</guid>
+      <guid>/publication/las-12-imagemanagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Multiple Cloud Frameworks</title>
-      <link>/publication/comparisoncloud/</link>
+      <link>/publication/las-12-comparisoncloud/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/comparisoncloud/</guid>
+      <guid>/publication/las-12-comparisoncloud/</guid>
       <description></description>
     </item>
     
@@ -158,9 +142,9 @@
     
     <item>
       <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
-      <link>/publication/fg-1295/</link>
+      <link>/publication/las-11-imagerepo-a/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/fg-1295/</guid>
+      <guid>/publication/las-11-imagerepo-a/</guid>
       <description></description>
     </item>
     
@@ -174,9 +158,9 @@
     
     <item>
       <title>Design of the FutureGrid Experiment Management Framework</title>
-      <link>/publication/las-2010-gce/</link>
+      <link>/publication/las-10-gce/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2010-gce/</guid>
+      <guid>/publication/las-10-gce/</guid>
       <description></description>
     </item>
     

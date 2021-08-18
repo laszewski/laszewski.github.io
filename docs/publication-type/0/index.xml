@@ -5,7 +5,7 @@
     <link>/publication-type/0/</link>
       <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/von-2018-handbook/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2018-handbook/</guid>
+      <link>/publication/las-18-handbook/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-handbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FutureSystems at Indiana University</title>
-      <link>/publication/futuresystems/</link>
+      <link>/publication/las-15-portal-futuresystems/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/futuresystems/</guid>
+      <guid>/publication/las-15-portal-futuresystems/</guid>
       <description></description>
     </item>
     
@@ -37,18 +37,10 @@
     </item>
     
     <item>
-      <title>Dynamic Provisioned Experiments in FutureGrid</title>
-      <link>/publication/last-10-dynamic/</link>
-      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/last-10-dynamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/scposter-rain/</link>
+      <link>/publication/las-10-scposter-rain/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/scposter-rain/</guid>
+      <guid>/publication/las-10-scposter-rain/</guid>
       <description></description>
     </item>
     
@@ -70,25 +62,25 @@
     
     <item>
       <title>Grid Portal Architectures for Scientific Applications</title>
-      <link>/publication/scidacposter-portal/</link>
+      <link>/publication/las-05-scidacposter-portal/</link>
       <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/scidacposter-portal/</guid>
+      <guid>/publication/las-05-scidacposter-portal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>/publication/scidacposter-chem/</link>
+      <link>/publication/las-04-scidacposter-chem/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/scidacposter-chem/</guid>
+      <guid>/publication/las-04-scidacposter-chem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commodity Grid Kits</title>
-      <link>/publication/scidacposter-cogkit/</link>
+      <link>/publication/las-04-scidacposter-cogkit/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/scidacposter-cogkit/</guid>
+      <guid>/publication/las-04-scidacposter-cogkit/</guid>
       <description></description>
     </item>
     

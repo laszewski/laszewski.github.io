@@ -5,7 +5,7 @@
     <link>/author/christopher-irving/</link>
       <atom:link href="/author/christopher-irving/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Irving</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Christopher Irving</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Human in the Loop Virtual Machine Management on Comet</title>
-      <link>/publication/las-19-harc-comet/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-19-harc-comet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Comet: Tales from the Long Tail: Two Years In and 10,000 Users Later</title>
-      <link>/publication/strande-2017-comet/</link>
+      <link>/publication/las-17-comet/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/strande-2017-comet/</guid>
+      <guid>/publication/las-17-comet/</guid>
       <description></description>
     </item>
     

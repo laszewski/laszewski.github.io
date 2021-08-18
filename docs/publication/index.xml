@@ -5,28 +5,12 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
-    
-    <item>
-      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact using Semantic Scholar Data</title>
-      <link>/publication/las-21-impact/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using GAS for Speedy Generation of HybridMulti-Cloud Auto Generated AI Services</title>
-      <link>/publication/las-21-openapi/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-openapi/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
@@ -41,14 +25,6 @@
       <link>/publication/las-20-covid/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/las-20-covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human in the Loop Virtual Machine Management on Comet</title>
-      <link>/publication/las-19-harc-comet/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-19-harc-comet/</guid>
       <description></description>
     </item>
     
@@ -69,10 +45,18 @@
     </item>
     
     <item>
+      <title>Handbook of Clouds and Big Data</title>
+      <link>/publication/las-18-handbook/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contributions to High-Performance Big Data Computing</title>
-      <link>/publication/beckstein-2018-contributions/</link>
+      <link>/publication/las-18-contributions/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/beckstein-2018-contributions/</guid>
+      <guid>/publication/las-18-contributions/</guid>
       <description></description>
     </item>
     
@@ -85,42 +69,34 @@
     </item>
     
     <item>
-      <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/von-2018-handbook/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2018-handbook/</guid>
+      <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
+      <link>/publication/las-17-teaching/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
-      <link>/publication/von-2017-cloudmesh/</link>
+      <link>/publication/las-17-cloudmesh/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2017-cloudmesh/</guid>
+      <guid>/publication/las-17-cloudmesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comet: Tales from the Long Tail: Two Years In and 10,000 Users Later</title>
-      <link>/publication/strande-2017-comet/</link>
+      <link>/publication/las-17-comet/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/strande-2017-comet/</guid>
+      <guid>/publication/las-17-comet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Futuregrid: a Reconfigurable Testbed for Cloud, Hpc, and Grid Computing</title>
-      <link>/publication/fox-2017-futuregrid/</link>
+      <link>/publication/las-17-futuregrid/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/fox-2017-futuregrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
-      <link>/publication/von-2017-teaching/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2017-teaching/</guid>
+      <guid>/publication/las-17-futuregrid/</guid>
       <description></description>
     </item>
     
@@ -150,9 +126,9 @@
     
     <item>
       <title>FutureSystems at Indiana University</title>
-      <link>/publication/futuresystems/</link>
+      <link>/publication/las-15-portal-futuresystems/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/futuresystems/</guid>
+      <guid>/publication/las-15-portal-futuresystems/</guid>
       <description></description>
     </item>
     
@@ -206,25 +182,25 @@
     
     <item>
       <title>Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures</title>
-      <link>/publication/imagemanagement/</link>
+      <link>/publication/las-12-imagemanagement/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/imagemanagement/</guid>
+      <guid>/publication/las-12-imagemanagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Multiple Cloud Frameworks</title>
-      <link>/publication/comparisoncloud/</link>
+      <link>/publication/las-12-comparisoncloud/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/comparisoncloud/</guid>
+      <guid>/publication/las-12-comparisoncloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting Experimental Computer Science</title>
-      <link>/publication/fg-1471/</link>
+      <link>/publication/las-12-fg-1471/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/fg-1471/</guid>
+      <guid>/publication/las-12-fg-1471/</guid>
       <description></description>
     </item>
     
@@ -254,25 +230,25 @@
     
     <item>
       <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
-      <link>/publication/fg-1295/</link>
+      <link>/publication/las-11-imagerepo-a/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/fg-1295/</guid>
+      <guid>/publication/las-11-imagerepo-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Virtualization Technologies for High Performance Computing Environments</title>
-      <link>/publication/las-2011-virt/</link>
+      <link>/publication/las-11-virt/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2011-virt/</guid>
+      <guid>/publication/las-11-virt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grappling cloud infrastructure services with a generic image repository</title>
-      <link>/publication/las-grapple-2011/</link>
+      <link>/publication/las-11-grapple/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-grapple-2011/</guid>
+      <guid>/publication/las-11-grapple/</guid>
       <description></description>
     </item>
     
@@ -317,34 +293,26 @@
     </item>
     
     <item>
-      <title>Dynamic Provisioned Experiments in FutureGrid</title>
-      <link>/publication/last-10-dynamic/</link>
-      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/last-10-dynamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Design of the FutureGrid Experiment Management Framework</title>
-      <link>/publication/las-2010-gce/</link>
+      <link>/publication/las-10-gce/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2010-gce/</guid>
+      <guid>/publication/las-10-gce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Provide Virtual Machine Information for Grid Computing</title>
-      <link>/publication/wang-10-transactions/</link>
+      <link>/publication/las-10-wang-transactions/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-10-transactions/</guid>
+      <guid>/publication/las-10-wang-transactions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/scposter-rain/</link>
+      <link>/publication/las-10-scposter-rain/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/scposter-rain/</guid>
+      <guid>/publication/las-10-scposter-rain/</guid>
       <description></description>
     </item>
     
@@ -414,9 +382,9 @@
     
     <item>
       <title>Enabling Energy-Efficient Analysis of Massive Neural Signals Using GPGPU</title>
-      <link>/publication/chen-10-energy/</link>
+      <link>/publication/las-10-energy/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/chen-10-energy/</guid>
+      <guid>/publication/las-10-energy/</guid>
       <description></description>
     </item>
     
@@ -430,9 +398,9 @@
     
     <item>
       <title>Multicores in Cloud Computing: Research Challenges for Applications</title>
-      <link>/publication/dblp-journalsjcpwangtlm-10/</link>
+      <link>/publication/las-10-multicore/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-journalsjcpwangtlm-10/</guid>
+      <guid>/publication/las-10-multicore/</guid>
       <description></description>
     </item>
     
@@ -446,9 +414,9 @@
     
     <item>
       <title>Recent Research Advances in e-Science</title>
-      <link>/publication/yang-09/</link>
+      <link>/publication/las-09-yang-advances/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-09/</guid>
+      <guid>/publication/las-09-yang-advances/</guid>
       <description></description>
     </item>
     
@@ -494,9 +462,9 @@
     
     <item>
       <title>Open Grid Computing Environments</title>
-      <link>/publication/las-ogce-tg-09/</link>
+      <link>/publication/las-09-ogce/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/las-ogce-tg-09/</guid>
+      <guid>/publication/las-09-ogce/</guid>
       <description></description>
     </item>
     
@@ -518,9 +486,9 @@
     
     <item>
       <title>Grid Virtualization Engine: Design, Implementation, and Evaluation</title>
-      <link>/publication/dblp-journalssjwangltk-09/</link>
+      <link>/publication/las-09-virt/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/dblp-journalssjwangltk-09/</guid>
+      <guid>/publication/las-09-virt/</guid>
       <description></description>
     </item>
     
@@ -606,9 +574,9 @@
     
     <item>
       <title>Swift: Fast, Reliable, Loosely Coupled Parallel Computation</title>
-      <link>/publication/las-swift-07/</link>
+      <link>/publication/las-07-swift/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/las-swift-07/</guid>
+      <guid>/publication/las-07-swift/</guid>
       <description></description>
     </item>
     
@@ -694,9 +662,9 @@
     
     <item>
       <title>Grid Portal Architectures for Scientific Applications</title>
-      <link>/publication/scidacposter-portal/</link>
+      <link>/publication/las-05-scidacposter-portal/</link>
       <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/scidacposter-portal/</guid>
+      <guid>/publication/las-05-scidacposter-portal/</guid>
       <description></description>
     </item>
     
@@ -806,17 +774,17 @@
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>/publication/scidacposter-chem/</link>
+      <link>/publication/las-04-scidacposter-chem/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/scidacposter-chem/</guid>
+      <guid>/publication/las-04-scidacposter-chem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commodity Grid Kits</title>
-      <link>/publication/scidacposter-cogkit/</link>
+      <link>/publication/las-04-scidacposter-cogkit/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/scidacposter-cogkit/</guid>
+      <guid>/publication/las-04-scidacposter-cogkit/</guid>
       <description></description>
     </item>
     
@@ -1054,9 +1022,9 @@
     
     <item>
       <title>The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development</title>
-      <link>/publication/las-01-hpdc-10-cactus/</link>
+      <link>/publication/las-01-hpdc-cactus/</link>
       <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-hpdc-10-cactus/</guid>
+      <guid>/publication/las-01-hpdc-cactus/</guid>
       <description></description>
     </item>
     
@@ -1113,126 +1081,6 @@
       <link>/publication/las-00-sbc/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>/publication/las-00-sbc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Loosely Coupled Metacomputer: Cooperating Job Submissions Across Multiple Supercomputing Sites</title>
-      <link>/publication/las-99-loosely/</link>
-      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-loosely/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distance Visualization: Data Exploration on the Grid</title>
-      <link>/publication/las-99-ieee/</link>
-      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-ieee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grid Infrastructure to Support Science Portals for Large Scale Instruments</title>
-      <link>/publication/las-99-rostock/</link>
-      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-rostock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Quasi-Realtime X-Ray Microtomography System at the Advanced Photon Source</title>
-      <link>/publication/las-99-spie/</link>
-      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-spie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-Time Analysis, Visualization, and Steering of Microtomography Experiments at Photon Sources</title>
-      <link>/publication/las-99-siam/</link>
-      <pubDate>Mon, 01 Mar 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-siam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Fault Detection Service for Wide Area Distributed Computations</title>
-      <link>/publication/las-99-hbm-journal/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>/publication/las-99-hbm-journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Fault Detection Service for Wide Area Distributed Computations</title>
-      <link>/publication/las-98-hpdc/</link>
-      <pubDate>Wed, 01 Jul 1998 00:00:00 +0000</pubDate>
-      <guid>/publication/las-98-hpdc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supercomputing Data Analysis with an Example on the APS CATs</title>
-      <link>/publication/las-97-nobugs/</link>
-      <pubDate>Mon, 01 Dec 1997 00:00:00 +0000</pubDate>
-      <guid>/publication/las-97-nobugs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Directory Service for Configuring High-Performance Distributed Computations</title>
-      <link>/publication/las-97-hpdc/</link>
-      <pubDate>Fri, 01 Aug 1997 00:00:00 +0000</pubDate>
-      <guid>/publication/las-97-hpdc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Interactive Parallel Programming Environment Applied in Atmospheric Science</title>
-      <link>/publication/las-96-ecwmf/</link>
-      <pubDate>Sun, 01 Dec 1996 00:00:00 +0000</pubDate>
-      <guid>/publication/las-96-ecwmf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Draft: Parallelization of MOPAC</title>
-      <link>/publication/lasmopac/</link>
-      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>/publication/lasmopac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design Issues for the Parallelization of an Optimal Interpolation Algorithm</title>
-      <link>/publication/las-94-ecwmf/</link>
-      <pubDate>Tue, 01 Nov 1994 00:00:00 +0000</pubDate>
-      <guid>/publication/las-94-ecwmf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partitioning a graph with a parallel genetic algorithm</title>
-      <link>/publication/las-90-ppsn/</link>
-      <pubDate>Tue, 01 Oct 1991 00:00:00 +0000</pubDate>
-      <guid>/publication/las-90-ppsn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intelligent Structural Operators for the k-way Graph Partitioning Problem</title>
-      <link>/publication/las-91-icga/</link>
-      <pubDate>Mon, 01 Jul 1991 00:00:00 +0000</pubDate>
-      <guid>/publication/las-91-icga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Parallel Genetic Algorithm for the Graph Partitioning Problem</title>
-      <link>/publication/las-90-natug/</link>
-      <pubDate>Mon, 01 Oct 1990 00:00:00 +0000</pubDate>
-      <guid>/publication/las-90-natug/</guid>
       <description></description>
     </item>
     

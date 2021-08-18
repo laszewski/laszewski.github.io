@@ -22,25 +22,25 @@
     
     <item>
       <title>Contributions to High-Performance Big Data Computing</title>
-      <link>/publication/beckstein-2018-contributions/</link>
+      <link>/publication/las-18-contributions/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/beckstein-2018-contributions/</guid>
+      <guid>/publication/las-18-contributions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
-      <link>/publication/von-2017-cloudmesh/</link>
+      <link>/publication/las-17-cloudmesh/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2017-cloudmesh/</guid>
+      <guid>/publication/las-17-cloudmesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting Experimental Computer Science</title>
-      <link>/publication/fg-1471/</link>
+      <link>/publication/las-12-fg-1471/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/fg-1471/</guid>
+      <guid>/publication/las-12-fg-1471/</guid>
       <description></description>
     </item>
     
@@ -57,14 +57,6 @@
       <link>/publication/las-05-exp/</link>
       <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
       <guid>/publication/las-05-exp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Draft: Parallelization of MOPAC</title>
-      <link>/publication/lasmopac/</link>
-      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>/publication/lasmopac/</guid>
       <description></description>
     </item>
     

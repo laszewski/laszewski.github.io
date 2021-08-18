@@ -5,28 +5,12 @@
     <link>/author/geoffrey-c.-fox/</link>
       <atom:link href="/author/geoffrey-c.-fox/index.xml" rel="self" type="application/rss+xml" />
     <description>Geoffrey C. Fox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Geoffrey C. Fox</title>
       <link>/author/geoffrey-c.-fox/</link>
     </image>
-    
-    <item>
-      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact using Semantic Scholar Data</title>
-      <link>/publication/las-21-impact/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using GAS for Speedy Generation of HybridMulti-Cloud Auto Generated AI Services</title>
-      <link>/publication/las-21-openapi/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-openapi/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
@@ -45,26 +29,18 @@
     </item>
     
     <item>
-      <title>Human in the Loop Virtual Machine Management on Comet</title>
-      <link>/publication/las-19-harc-comet/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-19-harc-comet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/von-2018-handbook/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2018-handbook/</guid>
+      <link>/publication/las-18-handbook/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-handbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
-      <link>/publication/von-2017-teaching/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2017-teaching/</guid>
+      <link>/publication/las-17-teaching/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-teaching/</guid>
       <description></description>
     </item>
     
@@ -110,17 +86,17 @@
     
     <item>
       <title>Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures</title>
-      <link>/publication/imagemanagement/</link>
+      <link>/publication/las-12-imagemanagement/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/imagemanagement/</guid>
+      <guid>/publication/las-12-imagemanagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Multiple Cloud Frameworks</title>
-      <link>/publication/comparisoncloud/</link>
+      <link>/publication/las-12-comparisoncloud/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/comparisoncloud/</guid>
+      <guid>/publication/las-12-comparisoncloud/</guid>
       <description></description>
     </item>
     
@@ -142,41 +118,33 @@
     
     <item>
       <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
-      <link>/publication/fg-1295/</link>
+      <link>/publication/las-11-imagerepo-a/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/fg-1295/</guid>
+      <guid>/publication/las-11-imagerepo-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Virtualization Technologies for High Performance Computing Environments</title>
-      <link>/publication/las-2011-virt/</link>
+      <link>/publication/las-11-virt/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2011-virt/</guid>
+      <guid>/publication/las-11-virt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grappling cloud infrastructure services with a generic image repository</title>
-      <link>/publication/las-grapple-2011/</link>
+      <link>/publication/las-11-grapple/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-grapple-2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Provisioned Experiments in FutureGrid</title>
-      <link>/publication/last-10-dynamic/</link>
-      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/last-10-dynamic/</guid>
+      <guid>/publication/las-11-grapple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of the FutureGrid Experiment Management Framework</title>
-      <link>/publication/las-2010-gce/</link>
+      <link>/publication/las-10-gce/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-2010-gce/</guid>
+      <guid>/publication/las-10-gce/</guid>
       <description></description>
     </item>
     
