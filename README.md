@@ -1,5 +1,12 @@
 # Gregors Web Page
 
+## Install LaTeX and pandoc Ubuntu
+
+```
+sudo apt install texlive-latex-extra
+sudo apt install libghc-pandoc-prof
+```
+
 ## Update
 
 ```
