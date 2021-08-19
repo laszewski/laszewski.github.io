@@ -6,26 +6,37 @@ title: 'The Open Grid Computing Environments collaboration: portlets and service
 subtitle: ''
 summary: ''
 authors:
-- Jay Alameda
-- Marcus Christie
-- Geoffrey Fox
-- Joe Futrelle
-- Dennis Gannon
-- Mihael Hategan
-- Gopi Kandaswamy
-- Gregor von Laszewski
-- Mehmet A. Nacar
-- Marlon Pierce
-- Eric Roberts
-- Charles Severance
-- Mary Thomas
+- ' Alameda'
+- ' Jay'
+- ' Christie'
+- ' Marcus'
+- ' Fox'
+- ' Geoffrey'
+- ' Futrelle'
+- ' Joe'
+- ' Gannon'
+- ' Dennis'
+- ' Hategan'
+- ' Mihael'
+- ' Kandaswamy'
+- ' Gopi'
+- von Laszewski
+- ' Gregor'
+- ' Nacar'
+- Mehmet A.
+- ' Pierce'
+- ' Marlon'
+- ' Roberts'
+- ' Eric'
+- ' Severance'
+- ' Charles'
+- ' Thomas'
+- ' Mary'
 tags:
-- '"portlets"'
-- '"collaboration"'
-- '"Grid services"'
+- '"portlets and collaboration and Grid services"'
 categories: []
 date: '2007-01-01'
-lastmod: 2021-08-18T12:09:07-04:00
+lastmod: 2021-08-19T16:57:23-04:00
 featured: false
 draft: false
 
@@ -43,10 +54,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:06.994730Z'
+publishDate: '2021-08-19T20:57:23.319784Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Concurrency and Computation: Practice and Experience*'
+url_pdf: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/56029/1078_ftp.pdf
 doi: 10.1002/cpe.1078
 ---

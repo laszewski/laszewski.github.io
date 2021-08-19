@@ -5,19 +5,28 @@ title: 'Cyberaide Virtual Applicance: On-Demand Deploying Middleware for Cyberin
 subtitle: ''
 summary: ''
 authors:
-- Tobias Kurze
-- Lizhe Wang
-- Gregor von Laszewski
-- Jie Tao
-- Marcel Kunze
-- Fugang Wang
-- David Kramer
-- Wolfgang Karl
-- Jaliya Ekanayake
+- ' Kurze'
+- ' Tobias'
+- ' Wang'
+- ' Lizhe'
+- ' Laszewski'
+- Gregor von
+- ' Tao'
+- ' Jie'
+- ' Kunze'
+- ' Marcel'
+- ' Wang'
+- ' Fugang'
+- ' Kramer'
+- ' David'
+- ' Karl'
+- ' Wolfgang'
+- ' Ekanayake'
+- ' Jaliya'
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2021-08-18T12:09:08-04:00
+lastmod: 2021-08-19T16:57:24-04:00
 featured: false
 draft: false
 
@@ -35,11 +44,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:08.318607Z'
+publishDate: '2021-08-19T20:57:24.497960Z'
 publication_types:
 - '6'
 abstract: ''
 publication: "*International Conference on Cloud Computing (CloudComp'09)*"
-url_pdf: https://laszewski.github.io/papers/09-cloudcomp/paper.pdf
+url_pdf: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.6154&rep=rep1&type=pdf
 doi: 10.1007/978-3-642-12636-9_10
 ---

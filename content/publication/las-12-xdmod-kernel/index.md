@@ -9,7 +9,8 @@ authors:
 - Thomas R. Furlani
 - Matthew D. Jones
 - Steven M. Gallo
-- Andrew E. Bruno
+- ' Bruno'
+- Andrew E.
 - Charng-Da Lu
 - Amin Ghadersohi
 - Ryan J. Gentner
@@ -21,7 +22,8 @@ authors:
 - Thomas R Furlani
 - Barry I Schneider
 - Matthew D Jones
-- Towns John
+- ' John'
+- ' Towns'
 - David L Hart
 - Abani K Patra
 - Robert L Deleon
@@ -36,7 +38,7 @@ authors:
 tags: []
 categories: []
 date: '2013-07-01'
-lastmod: 2021-08-18T12:09:12-04:00
+lastmod: 2021-08-19T16:57:28-04:00
 featured: false
 draft: false
 
@@ -54,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:12.859675Z'
+publishDate: '2021-08-19T20:57:28.449321Z'
 publication_types:
 - '2'
 abstract: ''

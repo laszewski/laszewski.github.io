@@ -1,42 +1,37 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Swift: Fast, Reliable, Loosely Coupled Parallel Computation'
+title: 'Swift: Fast and Reliable and Loosely Coupled Parallel Computation'
 subtitle: ''
 summary: ''
 authors:
 - Yong Zhao
-- M. Hategan
-- B. Clifford
-- I. Foster
-- G. von Laszewski
-- V. Nefedova
-- I. Raicu
-- T. Stef-Praun
-- M. Wilde
+- ' Hategan'
+- ' M.'
+- ' Clifford'
+- ' B.'
+- ' Foster'
+- ' I.'
+- von Laszewski
+- ' G.'
+- ' Nefedova'
+- ' V.'
+- ' Raicu'
+- ' I.'
+- ' Stef-Praun'
+- ' T.'
+- ' Wilde'
+- ' M.'
 tags:
-- '"formal specification"'
-- '"grid computing"'
-- '"software reliability"'
-- '"GriPhyN virtual data system"'
-- '"Swift system"'
-- '"SwiftScript language"'
-- '"complex file system structures"'
-- '"runtime system"'
-- '"scripting language"'
-- '"Computer science"'
-- '"Concurrent computing"'
-- '"Data systems"'
-- '"Distributed computing"'
-- '"File systems"'
-- '"High performance computing"'
-- '"Laboratories"'
-- '"Magnetic analysis"'
-- '"Mathematics"'
-- '"Power system reliability"'
+- '"formal specification and grid computing and software reliability and GriPhyN virtual
+  data system and Swift system and SwiftScript language and complex file system structures
+  and runtime system and scripting language and Computer science and Concurrent computing
+  and Data systems and Distributed computing and File systems and High performance
+  computing and Laboratories and Magnetic analysis and Mathematics and Power system
+  reliability"'
 categories: []
 date: '2007-01-01'
-lastmod: 2021-08-18T12:09:07-04:00
+lastmod: 2021-08-19T16:57:23-04:00
 featured: false
 draft: false
 
@@ -54,10 +49,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:07.107335Z'
+publishDate: '2021-08-19T20:57:23.427140Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Services, 2007 IEEE Congress on*'
+publication: '*Services and 2007 IEEE Congress on*'
 doi: 10.1109/SERVICES.2007.63
 ---

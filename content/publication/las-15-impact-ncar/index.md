@@ -13,17 +13,11 @@ authors:
 - Robert L. DeLeon
 - Steven M. Gallo
 tags:
-- '"Resource management"'
-- '"Data analysis"'
-- '"Ranking (statistics)"'
-- '"Atmospheric measurements"'
-- '"Extraterrestrial measurements"'
-- '"Conferences"'
-- '"Metrics"'
-- '"publications"'
+- '"Resource management and Data analysis and Ranking (statistics) and Atmospheric
+  measurements and Extraterrestrial measurements and Conferences and Metrics and publications"'
 categories: []
 date: '2015-09-08'
-lastmod: 2021-08-18T12:09:13-04:00
+lastmod: 2021-08-19T16:57:29-04:00
 featured: false
 draft: false
 
@@ -41,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:13.506580Z'
+publishDate: '2021-08-19T20:57:29.308347Z'
 publication_types:
 - '1'
 abstract: We present a framework that compares the publication impact based on a comprehensive
@@ -50,11 +44,11 @@ abstract: We present a framework that compares the publication impact based on a
   XSEDE and NCAR papers compared to peer publications in the same journal that do
   not use these resources. This analysis is unique in that it evaluates the impact
   of the two facilities by comparing the reported publications from them to their
-  peers from within the same journal issue. From this analysis, we can see that papers
-  that utilize XSEDE and NCAR resources are cited statistically significantly more
-  often. Hence we find that reported publications indicate that XSEDE and NCAR resources
-  exert a strong positive impact on scientific research.
-publication: '*2015 IEEE International Conference on Cluster Computing,*'
+  peers from within the same journal issue. From this analysis and we can see that
+  papers that utilize XSEDE and NCAR resources are cited statistically significantly
+  more often. Hence we find that reported publications indicate that XSEDE and NCAR
+  resources exert a strong positive impact on scientific research.
+publication: '*2015 IEEE International Conference on Cluster Computing and*'
 url_pdf: https://laszewski.github.io/papers//vonLaszewski-tas-cluster.pdf
 doi: 10.1109/CLUSTER.2015.98
 ---

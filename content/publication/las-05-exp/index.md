@@ -5,11 +5,12 @@ title: The Java CoG Kit Experiment Manager
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 tags: []
 categories: []
 date: '2005-06-01'
-lastmod: 2021-08-18T12:09:04-04:00
+lastmod: 2021-08-19T16:57:20-04:00
 featured: false
 draft: false
 
@@ -27,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:04.825664Z'
+publishDate: '2021-08-19T20:57:20.855713Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=1977&context=article
+url_pdf: https://digitalarchive.rit.edu/xmlui/bitstream/handle/1850/7339/PZimnyConfProc11-13-2006.pdf
 ---

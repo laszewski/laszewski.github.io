@@ -5,12 +5,13 @@ title: Accelerating Time to Scientific Discovery with a Grid-Enhanced Microsoft 
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Leor Dilmanian
 tags: []
 categories: []
 date: '2008-12-01'
-lastmod: 2021-08-18T12:09:07-04:00
+lastmod: 2021-08-19T16:57:24-04:00
 featured: false
 draft: false
 
@@ -28,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:07.862586Z'
+publishDate: '2021-08-19T20:57:24.068436Z'
 publication_types:
 - '1'
 abstract: ''

@@ -5,27 +5,24 @@ title: A Perl Commodity Grid Kit
 subtitle: ''
 summary: ''
 authors:
-- Stephen Mock
-- Mary Thomas
-- Maytal Dahan
-- Kurt Mueller
-- Catherine Mills
-- Gregor von Laszewski
+- ' Mock'
+- ' Stephen'
+- ' Thomas'
+- ' Mary'
+- ' Dahan'
+- ' Maytal'
+- ' Mueller'
+- ' Kurt'
+- ' Mills'
+- ' Catherine'
+- von Laszewski
+- ' Gregor'
 tags:
-- '"Grid"'
-- '"PERL"'
-- '"CoG"'
-- '"commodity"'
-- '"toolkit"'
-- '"Globus"'
-- '"storage resource broker"'
-- '"SRB"'
-- '"module"'
-- '"portal"'
-- '"middleware"'
+- '"Grid and PERL and CoG and commodity and toolkit and Globus and storage resource
+  broker and SRB and module and portal and middleware"'
 categories: []
 date: '2002-01-01'
-lastmod: 2021-08-18T12:09:01-04:00
+lastmod: 2021-08-19T16:57:17-04:00
 featured: false
 draft: false
 
@@ -43,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:01.267937Z'
+publishDate: '2021-08-19T20:57:17.313674Z'
 publication_types:
 - '2'
 abstract: ''

@@ -5,14 +5,15 @@ title: Commodity Grid Kits - Middleware for Building Grid Computing Environments
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Jarek Gawor
 - Sriram Krishnan
 - Keith Jackson
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2021-08-18T12:09:02-04:00
+lastmod: 2021-08-19T16:57:18-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:02.194753Z'
+publishDate: '2021-08-19T20:57:18.061028Z'
 publication_types:
 - '6'
 abstract: ''

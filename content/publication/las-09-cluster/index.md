@@ -5,14 +5,15 @@ title: Power-Aware Scheduling of Virtual Machines in DVFS-enabled Clusters
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Lizhe Wang
 - Andrew J. Younge
 - Xi He
 tags: []
 categories: []
 date: '2009-08-01'
-lastmod: 2021-08-18T12:09:08-04:00
+lastmod: 2021-08-19T16:57:24-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:08.462715Z'
+publishDate: '2021-08-19T20:57:24.605311Z'
 publication_types:
 - '1'
 abstract: ''

@@ -7,13 +7,14 @@ summary: ''
 authors:
 - Tobias Kurze
 - Lizhe Wang
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Jie Tao
 - Marcel Kunze
 tags: []
 categories: []
 date: '2010-09-01'
-lastmod: 2021-08-18T12:09:10-04:00
+lastmod: 2021-08-19T16:57:26-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:10.345610Z'
+publishDate: '2021-08-19T20:57:26.101276Z'
 publication_types:
 - '1'
 abstract: ''

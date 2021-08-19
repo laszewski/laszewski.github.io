@@ -1,23 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Futuregrid: a Reconfigurable Testbed for Cloud, Hpc, and Grid Computing'
+title: 'Futuregrid: a Reconfigurable Testbed for Cloud and Hpc and and Grid Computing'
 subtitle: ''
 summary: ''
 authors:
-- Geoffrey C Fox
-- Gregor von Laszewski
-- Javier Diaz
-- Kate Keahey
-- Jose Fortes
-- Renato Figueiredo
-- Shava Smallen
-- Warren Smith
-- Andrew Grimshaw
+- ' Fox'
+- Geoffrey C
+- von Laszewski
+- ' Gregor'
+- ' Diaz'
+- ' Javier'
+- ' Keahey'
+- ' Kate'
+- ' Fortes'
+- ' Jose'
+- ' Figueiredo'
+- ' Renato'
+- ' Smallen'
+- ' Shava'
+- ' Smith'
+- ' Warren'
+- ' Grimshaw'
+- ' Andrew'
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-18T12:09:14-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -35,9 +44,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.367567Z'
+publishDate: '2021-08-19T20:57:30.058754Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Contemporary High Performance Computing*'
+url_pdf: http://grids.ucs.indiana.edu/ptliupages/publications/sitka-chapter.pdf
 ---

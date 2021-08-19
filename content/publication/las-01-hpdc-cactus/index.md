@@ -12,12 +12,13 @@ authors:
 - Ed Seidel
 - Jason Novotny
 - John Shalf
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Greg Daues
 tags: []
 categories: []
 date: '2001-08-01'
-lastmod: 2021-08-18T12:08:59-04:00
+lastmod: 2021-08-19T16:57:15-04:00
 featured: false
 draft: false
 
@@ -35,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:08:59.444866Z'
+publishDate: '2021-08-19T20:57:15.816734Z'
 publication_types:
 - '1'
 abstract: ''

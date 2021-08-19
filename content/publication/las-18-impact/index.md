@@ -5,17 +5,24 @@ title: Evaluating the Scientific Impact of XSEDE
 subtitle: ''
 summary: ''
 authors:
-- Fugang Wang
-- Gregor von Laszewski
-- Timothy Whitson
-- Geoffrey C Fox
-- Thomas R Furlani
-- Robert L DeLeon
-- Steven M Gallo
+- ' Wang'
+- ' Fugang'
+- ' Laszewski'
+- Gregor von
+- ' Whitson'
+- ' Timothy'
+- ' Fox'
+- Geoffrey C
+- ' Furlani'
+- Thomas R
+- ' DeLeon'
+- Robert L
+- ' Gallo'
+- Steven M
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-18T12:09:15-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -33,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.943854Z'
+publishDate: '2021-08-19T20:57:30.486628Z'
 publication_types:
 - '1'
 abstract: ''

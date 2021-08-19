@@ -5,7 +5,8 @@ title: Peer Comparison of XSEDE Publication Data
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Fugang Wang
 - Geoffrey C. Fox
 - David L. Hart
@@ -15,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2015-07-01'
-lastmod: 2021-08-18T12:09:13-04:00
+lastmod: 2021-08-19T16:57:29-04:00
 featured: false
 draft: false
 
@@ -33,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:13.882557Z'
+publishDate: '2021-08-19T20:57:29.630809Z'
 publication_types:
 - '1'
 abstract: ''

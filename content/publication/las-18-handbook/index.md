@@ -5,12 +5,14 @@ title: Handbook of Clouds and Big Data
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
-- Geoffrey C. Fox
+- von Laszewski
+- ' Gregor'
+- ' Fox'
+- Geoffrey C.
 tags: ["class book"]
 categories: []
 date: '2018-12-01'
-lastmod: 2021-08-18T12:09:14-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -28,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.822172Z'
+publishDate: '2021-08-19T20:57:30.380518Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*https://laszewski.github.io/papers/vonLaszewski-bigdata.pdf*'
+publication: ''
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-bigdata.pdf
 ---

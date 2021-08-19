@@ -1,16 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'NIST Big Data Interoperability Framework: Volume 8, Reference Architecture
+title: 'NIST Big Data Interoperability Framework: Volume 8 and Reference Architecture
   Interfaces'
 subtitle: ''
 summary: ''
 authors:
-- Wo. L Chang Gregor von Laszewski
+- Gregor von Laszewski
+- Wo. L Chang
 tags: []
 categories: []
 date: '2019-06-01'
-lastmod: 2021-08-18T12:09:15-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -28,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:15.072102Z'
+publishDate: '2021-08-19T20:57:30.594080Z'
 publication_types:
 - '4'
 abstract: ''

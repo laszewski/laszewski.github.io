@@ -5,12 +5,14 @@ title: Teaching Big Data and Open Source Software on Chameleon Cloud
 subtitle: ''
 summary: ''
 authors:
-- Gergor von Laszewski
-- Geoffrey C. Fox
+- von Laszewski
+- ' Gergor'
+- ' Fox'
+- Geoffrey C.
 tags: ["class book"]
 categories: []
 date: '2017-07-01'
-lastmod: 2021-08-18T12:09:14-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -28,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.563313Z'
+publishDate: '2021-08-19T20:57:30.166638Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*https://laszewski.github.io/papers/vonLaszewski-i524-chameleon.pdf*'
+publication: '*Chameleon Cloud User Meeting*'
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-i524-chameleon.pdf
 ---

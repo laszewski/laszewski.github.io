@@ -7,12 +7,13 @@ summary: ''
 authors:
 - Kaizar Amin
 - Mihael Hategan
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Nestor J. Zaluzec
 tags: []
 categories: []
 date: '2004-02-01'
-lastmod: 2021-08-18T12:09:03-04:00
+lastmod: 2021-08-19T16:57:18-04:00
 featured: false
 draft: false
 
@@ -30,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:02.848568Z'
+publishDate: '2021-08-19T20:57:18.706953Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 12th Euromicro Conference on Parallel, Distributed
+publication: '*Proceedings of the 12th Euromicro Conference on Parallel and Distributed
   and Network-Based Processing (PDP 2004)*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-abstracting.pdf
 doi: 10.1109/EMPDP.2004.1271452

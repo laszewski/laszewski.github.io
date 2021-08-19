@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-18T12:09:15-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -36,11 +36,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:15.203079Z'
+publishDate: '2021-08-19T20:57:30.701853Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2019 IEEE International Conference on Big Data (Big Data), Los Angeles,
-  CA, USA, December 9-12, 2019*'
+publication: '*2019 IEEE International Conference on Big Data (Big Data) and Los Angeles
+  and CA and USA and December 9-12 and 2019*'
+url_pdf: http://dsc.soic.indiana.edu/publications/streaming_ml_v4.pdf
 doi: 10.1109/BigData47090.2019.9006337
 ---

@@ -1,32 +1,45 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Using XDMoD to Facilitate XSEDE Operations, Planning and Analysis
+title: Using XDMoD to Facilitate XSEDE Operations and Planning and Analysis
 subtitle: ''
 summary: ''
 authors:
-- Thomas R. Furlani
-- Barry L. Schneider
-- Matthew D. Jones
-- John Towns
-- David L. Hart
-- Steven M. Gallo
-- Robert L. DeLeon
-- Charng-Da Lu
-- Amin Ghadersohi
-- Ryan J. Gentner
-- Abani K. Patra
-- Gregor von Laszewski
-- Fugang Wang
-- Jeffrey T. Palmer
-- Nikolay Simakov
+- ' Furlani'
+- Thomas R.
+- ' Schneider'
+- Barry L.
+- ' Jones'
+- Matthew D.
+- ' Towns'
+- ' John'
+- ' Hart'
+- David L.
+- ' Gallo'
+- Steven M.
+- ' DeLeon'
+- Robert L.
+- ' Lu'
+- ' Charng-Da'
+- ' Ghadersohi'
+- ' Amin'
+- ' Gentner'
+- Ryan J.
+- ' Patra'
+- Abani K.
+- von Laszewski
+- ' Gregor'
+- ' Wang'
+- ' Fugang'
+- ' Palmer'
+- Jeffrey T.
+- ' Simakov'
+- ' Nikolay'
 tags:
-- '"Scientific IMpact"'
-- '"XSEDE"'
-- '"XDMoD"'
+- '"Scientific IMpact and XSEDE and XDMoD"'
 categories: []
 date: '2013-01-01'
-lastmod: 2021-08-18T12:09:13-04:00
+lastmod: 2021-08-19T16:57:28-04:00
 featured: false
 draft: false
 
@@ -44,11 +57,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:13.104199Z'
+publishDate: '2021-08-19T20:57:28.770466Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Conference on Extreme Science and Engineering Discovery
   Environment: Gateway to Discovery*'
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/2484762.2484763
 doi: 10.1145/2484762.2484763
 ---

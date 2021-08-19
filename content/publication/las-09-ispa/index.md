@@ -8,12 +8,13 @@ authors:
 - Jeremy Espenshade
 - Andrew Pangborn
 - James Cavenaugh
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Doug Roberts
 tags: []
 categories: []
 date: '2009-08-01'
-lastmod: 2021-08-18T12:09:08-04:00
+lastmod: 2021-08-19T16:57:25-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:08.849862Z'
+publishDate: '2021-08-19T20:57:24.925020Z'
 publication_types:
 - '1'
 abstract: ''

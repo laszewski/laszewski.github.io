@@ -5,16 +5,17 @@ title: Recent Research Advances in e-Science
 subtitle: ''
 summary: ''
 authors:
-- Xiaoyu Yang
-- Lizhe Wang
-- Gregor Laszewski
+- ' Yang'
+- ' Xiaoyu'
+- ' Wang'
+- ' Lizhe'
+- ' Laszewski'
+- ' Gregor'
 tags:
-- '"Cloud computing"'
-- '"Grid computing"'
-- '"e-Science"'
+- '"Cloud computing and Grid computing and e-Science"'
 categories: []
 date: '2009-12-01'
-lastmod: 2021-08-18T12:09:09-04:00
+lastmod: 2021-08-19T16:57:25-04:00
 featured: false
 draft: false
 
@@ -32,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:09.488199Z'
+publishDate: '2021-08-19T20:57:25.352435Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Cluster Computing*'
-url_pdf: 10.1007/s10586-009-0104-0
+url_pdf: https://www.researchgate.net/profile/Gregor-Von-Laszewski/publication/220405889_Recent_Research_Advances_in_e-Science/links/0046352bd8f808be44000000/Recent-Research-Advances-in-e-Science.pdf
 doi: 10.1007/s10586-009-0104-0
 ---

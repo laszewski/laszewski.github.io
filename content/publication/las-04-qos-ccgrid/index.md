@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Rashid Al-Ali
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Kaizar Amin
 - Mihael Hategan
 - Omer Rana
@@ -15,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2004-04-01'
-lastmod: 2021-08-18T12:09:04-04:00
+lastmod: 2021-08-19T16:57:19-04:00
 featured: false
 draft: false
 
@@ -33,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:04.000690Z'
+publishDate: '2021-08-19T20:57:19.782400Z'
 publication_types:
 - '1'
 abstract: ''

@@ -5,30 +5,39 @@ title: TAS View of XSEDE Users and Usage
 subtitle: ''
 summary: ''
 authors:
-- Robert L. DeLeon
-- Thomas R. Furlani
-- Steven M. Gallo
-- Joseph P. White
-- Matthew D. Jones
-- Abani Patra
-- Martins Innus
-- Thomas Yearke
-- Jeffrey T. Palmer
-- Jeanette M. Sperhac
-- Ryan Rathsam
-- Nikolay Simakov
-- Gregor von Laszewski
-- Fugang Wang
+- ' DeLeon'
+- Robert L.
+- ' Furlani'
+- Thomas R.
+- ' Gallo'
+- Steven M.
+- ' White'
+- Joseph P.
+- ' Jones'
+- Matthew D.
+- ' Patra'
+- ' Abani'
+- ' Innus'
+- ' Martins'
+- ' Yearke'
+- ' Thomas'
+- ' Palmer'
+- Jeffrey T.
+- ' Sperhac'
+- Jeanette M.
+- ' Rathsam'
+- ' Ryan'
+- ' Simakov'
+- ' Nikolay'
+- von Laszewski
+- ' Gregor'
+- ' Wang'
+- ' Fugang'
 tags:
-- '"HPC"'
-- '"SUPReMM"'
-- '"TAS"'
-- '"XDMoD"'
-- '"XSEDE usage"'
-- '"XSEDE users"'
+- '"HPC and SUPReMM and TAS and XDMoD and XSEDE usage and XSEDE users"'
 categories: []
 date: '2015-01-01'
-lastmod: 2021-08-18T12:09:13-04:00
+lastmod: 2021-08-19T16:57:29-04:00
 featured: false
 draft: false
 
@@ -46,7 +55,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:13.757025Z'
+publishDate: '2021-08-19T20:57:29.522229Z'
 publication_types:
 - '1'
 abstract: ''

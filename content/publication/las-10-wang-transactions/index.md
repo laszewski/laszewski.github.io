@@ -6,14 +6,16 @@ subtitle: ''
 summary: ''
 authors:
 - Lizhe Wang
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Dan Chen
 - Jie Tao
-- M. Kunze
+- ' Kunze'
+- ' M.'
 tags: []
 categories: []
 date: '2010-11-01'
-lastmod: 2021-08-18T12:09:11-04:00
+lastmod: 2021-08-19T16:57:26-04:00
 featured: false
 draft: false
 
@@ -31,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:11.049036Z'
+publishDate: '2021-08-19T20:57:26.638162Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems
+publication: '*IEEE Transactions on Systems and Man and Cybernetics and Part A: Systems
   and Humans*'
 doi: 10.1109/TSMCA.2010.2052598
 ---

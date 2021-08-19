@@ -5,12 +5,14 @@ title: GreenIT Service Level Agreements
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
-- Lizhe Wang
+- von Laszewski
+- ' Gregor'
+- ' Wang'
+- ' Lizhe'
 tags: []
 categories: []
-date: '2010-01-01'
-lastmod: 2021-08-18T12:09:10-04:00
+date: '2009-10-01'
+lastmod: 2021-08-19T16:57:26-04:00
 featured: false
 draft: false
 
@@ -28,10 +30,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:10.650935Z'
+publishDate: '2021-08-19T20:57:26.317017Z'
 publication_types:
-- '6'
-abstract: ''
+- '1'
+abstract: In this paper we are introducing a framework towards the inclusion of Green
+  IT metrics as part of service level agreements for future Grids and Clouds. As part
+  of this effort we need to revisit Green IT metrics and proxies that we consider
+  optimizing against in order to develop GreenIT as a Services (GaaS) that can be
+  reused as part of a Software as a Service (SaaS) and Infrastructure Infrastructureas
+  a service (IaaS) framework. We report on some of our ongoing efforts and demonstrate
+  how we already achieve impact on the environment with our services.
 publication: '*Grids and Service-Oriented Architectures for Service Level Agreements*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-greenit-sla.pdf
 ---

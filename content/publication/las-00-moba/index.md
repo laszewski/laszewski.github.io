@@ -5,13 +5,14 @@ title: Grid-based Asynchronous Migration of Execution Context in Java Virtual Ma
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Kazuyuki Shudo
 - Yoichi Muraoka
 tags: []
 categories: []
 date: '2000-08-01'
-lastmod: 2021-08-18T12:08:58-04:00
+lastmod: 2021-08-19T16:57:14-04:00
 featured: false
 draft: false
 
@@ -29,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:08:58.720538Z'
+publishDate: '2021-08-19T20:57:14.743472Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of EuroPar 2000*'
-url_pdf: https://laszewski.github.io/papers/s/vonLaszewski-mobag.pdf
+url_pdf: https://link.springer.com/content/pdf/10.1007/3-540-44520-X_3.pdf
 doi: 10.1007/3-540-44520-X_3
 ---

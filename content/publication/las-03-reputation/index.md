@@ -7,12 +7,13 @@ summary: ''
 authors:
 - Beulah Alunkal
 - Ivana Veljkovic
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Kaizar Amin
 tags: []
 categories: []
 date: '2003-09-01'
-lastmod: 2021-08-18T12:09:02-04:00
+lastmod: 2021-08-19T16:57:18-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:02.657633Z'
+publishDate: '2021-08-19T20:57:18.599824Z'
 publication_types:
 - '1'
 abstract: ''

@@ -5,7 +5,8 @@ title: Experiment and Workflow Management Using Cyberaide Shell
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Andrew Younge
 - Xi He
 - Kumar Mahinthakumar
@@ -13,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2009-05-01'
-lastmod: 2021-08-18T12:09:08-04:00
+lastmod: 2021-08-19T16:57:24-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:08.104571Z'
+publishDate: '2021-08-19T20:57:24.283953Z'
 publication_types:
 - '1'
 abstract: ''

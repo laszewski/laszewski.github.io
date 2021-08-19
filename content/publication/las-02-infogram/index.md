@@ -5,14 +5,15 @@ title: 'InfoGram: A Peer-to-Peer Information and Job Submission Service'
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Jarek Gawor
 - Carlos J. Peña
 - Ian Foster
 tags: []
 categories: []
 date: '2002-07-01'
-lastmod: 2021-08-18T12:09:00-04:00
+lastmod: 2021-08-19T16:57:16-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:00.676621Z'
+publishDate: '2021-08-19T20:57:16.777429Z'
 publication_types:
 - '1'
 abstract: ''

@@ -5,13 +5,14 @@ title: Toward Reputable Grids
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Beulah Alunkal
 - Ivana Veljkovic
 tags: []
 categories: []
 date: '2005-09-01'
-lastmod: 2021-08-18T12:09:05-04:00
+lastmod: 2021-08-19T16:57:21-04:00
 featured: false
 draft: false
 
@@ -29,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:05.286561Z'
+publishDate: '2021-08-19T20:57:21.611910Z'
 publication_types:
 - '2'
 abstract: ''

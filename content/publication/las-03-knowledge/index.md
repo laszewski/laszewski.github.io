@@ -6,7 +6,8 @@ title: A Framework for Building Scientific Knowledge Grids Applied to Thermochem
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Branko Ruscic
 - Kaizar Amin
 - Patrick Wagstrom
@@ -15,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2003-12-01'
-lastmod: 2021-08-18T12:09:02-04:00
+lastmod: 2021-08-19T16:57:18-04:00
 featured: false
 draft: false
 
@@ -33,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:02.308279Z'
+publishDate: '2021-08-19T20:57:18.168761Z'
 publication_types:
 - '2'
 abstract: ''

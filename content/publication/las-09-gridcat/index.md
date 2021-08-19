@@ -7,12 +7,13 @@ summary: ''
 authors:
 - Casey Rathbone
 - Lizhe Wang
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Fugang Wang
 tags: []
 categories: []
 date: '2009-12-01'
-lastmod: 2021-08-18T12:09:08-04:00
+lastmod: 2021-08-19T16:57:24-04:00
 featured: false
 draft: false
 
@@ -30,13 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:08.607710Z'
+publishDate: '2021-08-19T20:57:24.711410Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Workshop on Grid Computing, Applications, and Technologies
+publication: '*International Workshop on Grid Computing and Applications and and Technologies
   (GridCAT 2009) in conjunction with the 10th International Symposium on Pervasive
-  Systems, Algorithms and Networks (I-SPAN 2009)*'
+  Systems and Algorithms and Networks (I-SPAN 2009)*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-ispan2.pdf
 doi: 10.1109/I-SPAN.2009.23
 ---

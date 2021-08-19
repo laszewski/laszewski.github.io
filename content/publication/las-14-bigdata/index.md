@@ -5,18 +5,24 @@ title: The FutureGrid Testbed for Big Data
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Geoffrey Fox
-- Gregor von Laszewski
-- Fugang Wang
-- Hyungro Lee
-- Heng Chen
-- Geoffrey C. Fox
+- von Laszewski
+- ' Gregor'
+- ' Wang'
+- ' Fugang'
+- ' Lee'
+- ' Hyungro'
+- ' Chen'
+- ' Heng'
+- ' Fox'
+- Geoffrey C.
 tags:
 - '"cloud computing"'
 categories: []
 date: '2014-01-01'
-lastmod: 2021-08-18T12:09:13-04:00
+lastmod: 2021-08-19T16:57:28-04:00
 featured: false
 draft: false
 
@@ -34,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:13.215717Z'
+publishDate: '2021-08-19T20:57:28.878461Z'
 publication_types:
 - '6'
 abstract: ''

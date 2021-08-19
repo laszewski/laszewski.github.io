@@ -5,21 +5,31 @@ title: Contributions to High-Performance Big Data Computing
 subtitle: ''
 summary: ''
 authors:
-- Oliver Beckstein
-- Geoffrey Fox
-- Judy Qiu
-- David Crandall
-- Gregor von Laszewski
-- John Paden
-- Shantenu Jha
-- Fusheng Wang
-- Madhav Marathe
-- Anil Vullikanti
+- ' Fox'
+- ' Geoffrey'
+- ' Qiu'
+- ' Judy'
+- ' Crandall'
+- ' David'
+- Von Laszewski
+- ' Gregor'
+- ' Beckstein'
+- ' Oliver'
+- ' Paden'
+- ' John'
+- ' Paraskevakos'
+- ' Ioannis'
+- ' Jha'
+- ' Shantenu'
+- ' Wang'
+- ' Fusheng'
+- ' Marathe'
+- ' Madhav'
 - ' others'
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-08-18T12:09:14-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -37,10 +47,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.700809Z'
+publishDate: '2021-08-19T20:57:30.273205Z'
 publication_types:
 - '4'
 abstract: ''
-publication: ''
+publication: '*Future Trends of HPC in a Disruptive Scenario*'
 url_pdf: https://laszewski.github.io/papers/bigdatahpc.pdf
 ---

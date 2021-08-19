@@ -5,7 +5,7 @@
     <link>/author/ian-foster/</link>
       <atom:link href="/author/ian-foster/index.xml" rel="self" type="application/rss+xml" />
     <description>Ian Foster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2000 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Ian Foster</title>
@@ -13,90 +13,10 @@
     </image>
     
     <item>
-      <title>Sourcebook of Parallel Computing</title>
-      <link>/publication/las-03-cmt-book/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-cmt-book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>InfoGram: A Peer-to-Peer Information and Job Submission Service</title>
-      <link>/publication/las-02-infogram/</link>
-      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/las-02-infogram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development</title>
-      <link>/publication/las-02-cactus-j/</link>
-      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/las-02-cactus-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community Software Development with the Astrophysics Simulation Collaboratory</title>
-      <link>/publication/las-02-cactus/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/las-02-cactus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Paradigm Communications in Java for Grid Computing</title>
-      <link>/publication/las-01-acm/</link>
-      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-acm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development</title>
-      <link>/publication/las-01-hpdc-cactus/</link>
-      <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-hpdc-cactus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A High-Throughput X-Ray Microtomography System at the Advanced Photon Source</title>
-      <link>/publication/las-01-cmt/</link>
-      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-cmt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Java Commodity Grid Kit</title>
-      <link>/publication/las-01-cog-concurency/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-cog-concurency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Designing Grid-based Problem Solving Environments and Portals</title>
-      <link>/publication/las-01-pse/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-pse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CoG Kits: A Bridge between Commodity Distributed Computing and High-Performance Grids</title>
       <link>/publication/las-00-grande/</link>
       <pubDate>Thu, 01 Jun 2000 00:00:00 +0000</pubDate>
       <guid>/publication/las-00-grande/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Computational Grid Capabilities to Enhance the Ability of an X-Ray Source for Structural Biology</title>
-      <link>/publication/las-00-sbc/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/publication/las-00-sbc/</guid>
       <description></description>
     </item>
     

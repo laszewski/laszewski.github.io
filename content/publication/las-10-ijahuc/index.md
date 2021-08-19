@@ -5,20 +5,20 @@ title: Virtual Data System on Distributed Virtual Machines in Computational Grid
 subtitle: ''
 summary: ''
 authors:
-- Lizhe Wang
-- Gregor Von Laszewski
-- Jie Tao
-- Marcel Kunze
+- ' Wang'
+- ' Lizhe'
+- ' Laszewski'
+- Gregor Von
+- ' Tao'
+- ' Jie'
+- ' Kunze'
+- ' Marcel'
 tags:
-- '"compact muon solenoid"'
-- '"distributed virtual machines"'
-- '"grid computing"'
-- '"grid workflow"'
-- '"high energy physics applications"'
-- '"virtual data systems"'
+- '"compact muon solenoid and distributed virtual machines and grid computing and
+  grid workflow and high energy physics applications and virtual data systems"'
 categories: []
 date: '2010-09-01'
-lastmod: 2021-08-18T12:09:10-04:00
+lastmod: 2021-08-19T16:57:25-04:00
 featured: false
 draft: false
 
@@ -36,10 +36,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:10.116377Z'
+publishDate: '2021-08-19T20:57:25.887235Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*International Journal of Ad Hoc and Ubiquitous Compututing*'
+url_pdf: https://www.researchgate.net/profile/Marcel-Kunze/publication/220277542_Virtual_Data_System_on_distributed_virtual_machines_in_computational_grids/links/004635167e25b63862000000/Virtual-Data-System-on-distributed-virtual-machines-in-computational-grids.pdf
 doi: 10.1504/IJAHUC.2010.035532
 ---

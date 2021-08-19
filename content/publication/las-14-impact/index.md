@@ -6,22 +6,24 @@ title: Towards a Scientific Impact Measuring Framework for Large Computing Facil
 subtitle: ''
 summary: ''
 authors:
-- Fugang Wang
-- Gregor von Laszewski
-- Geoffrey C. Fox
-- Thomas R. Furlani
-- Robert L. DeLeon
-- Steven M. Gallo
+- ' Wang'
+- ' Fugang'
+- von Laszewski
+- ' Gregor'
+- ' Fox'
+- Geoffrey C.
+- ' Furlani'
+- Thomas R.
+- ' DeLeon'
+- Robert L.
+- ' Gallo'
+- Steven M.
 tags:
-- '"Scientific impact"'
-- '"Technology Audit Service"'
-- '"XDMoD"'
-- '"XSEDE"'
-- '"bibliometric"'
-- '"h-index"'
+- '"Scientific impact and Technology Audit Service and XDMoD and XSEDE and bibliometric
+  and h-index"'
 categories: []
 date: '2014-01-01'
-lastmod: 2021-08-18T12:09:13-04:00
+lastmod: 2021-08-19T16:57:29-04:00
 featured: false
 draft: false
 
@@ -39,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:13.325353Z'
+publishDate: '2021-08-19T20:57:28.985482Z'
 publication_types:
 - '1'
 abstract: ''

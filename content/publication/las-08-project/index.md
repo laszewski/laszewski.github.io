@@ -5,12 +5,13 @@ title: e-Science Project and Experiment Management with Microsoft Project
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Leor E. Dilmanian
 tags: []
 categories: []
 date: '2008-11-01'
-lastmod: 2021-08-18T12:09:07-04:00
+lastmod: 2021-08-19T16:57:24-04:00
 featured: false
 draft: false
 
@@ -28,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:07.746168Z'
+publishDate: '2021-08-19T20:57:23.961962Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Grid Computing Environments Workshop, GCE'08*"
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-08-project-ieee.pdf
+publication: "*Grid Computing Environments Workshop and GCE'08*"
+url_pdf: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.664.1008&rep=rep1&type=pdf
 doi: 10.1109/GCE.2008.4738449
 ---

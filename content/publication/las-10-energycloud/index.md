@@ -5,15 +5,20 @@ title: Efficient resource management for Cloud computing environments
 subtitle: ''
 summary: ''
 authors:
-- Andrew J. Younge
-- Gregor von Laszewski
-- Lizhe Wang
-- Sonia Lopez-Alarcon
-- Warren Carithers
+- ' Younge'
+- Andrew J.
+- von Laszewski
+- ' Gregor'
+- ' Wang'
+- ' Lizhe'
+- ' Lopez-Alarcon'
+- ' Sonia'
+- ' Carithers'
+- ' Warren'
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2021-08-18T12:09:09-04:00
+lastmod: 2021-08-19T16:57:25-04:00
 featured: false
 draft: false
 
@@ -31,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:09.869813Z'
+publishDate: '2021-08-19T20:57:25.673979Z'
 publication_types:
 - '1'
 abstract: ''

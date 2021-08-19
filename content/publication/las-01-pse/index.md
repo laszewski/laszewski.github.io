@@ -5,7 +5,8 @@ title: Designing Grid-based Problem Solving Environments and Portals
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Ian Foster
 - Jarek Gawor
 - Peter Lane
@@ -14,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2001-01-01'
-lastmod: 2021-08-18T12:08:59-04:00
+lastmod: 2021-08-19T16:57:16-04:00
 featured: false
 draft: false
 
@@ -32,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:08:59.565591Z'
+publishDate: '2021-08-19T20:57:15.923404Z'
 publication_types:
 - '1'
 abstract: ''

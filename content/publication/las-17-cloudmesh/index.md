@@ -5,16 +5,22 @@ title: Cloudmesh in support of the NIST Big Data Architecture Framework
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
-- Badi Abdul-Wahid
-- Fugang Wang
-- Hyungro Lee
-- Geoffrey C Fox
-- Wo Chang
+- von Laszewski
+- ' Gregor'
+- ' Abdul-Wahid'
+- ' Badi'
+- ' Wang'
+- ' Fugang'
+- ' Lee'
+- ' Hyungro'
+- ' Fox'
+- Geoffrey C
+- ' Chang'
+- ' Wo'
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-18T12:09:14-04:00
+lastmod: 2021-08-19T16:57:29-04:00
 featured: false
 draft: false
 
@@ -32,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.134569Z'
+publishDate: '2021-08-19T20:57:29.844640Z'
 publication_types:
 - '4'
 abstract: ''

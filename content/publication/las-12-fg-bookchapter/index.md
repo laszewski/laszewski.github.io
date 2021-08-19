@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: FutureGrid - a reconfigurable testbed for Cloud, HPC and Grid Computing
+title: FutureGrid - a reconfigurable testbed for Cloud and HPC and Grid Computing
 subtitle: ''
 summary: ''
 authors:
@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2021-08-18T12:09:12-04:00
+lastmod: 2021-08-19T16:57:28-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:12.618922Z'
+publishDate: '2021-08-19T20:57:28.131385Z'
 publication_types:
 - '6'
 abstract: ''

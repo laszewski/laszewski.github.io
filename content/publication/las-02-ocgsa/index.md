@@ -7,11 +7,12 @@ summary: ''
 authors:
 - Kaizar Amin
 - Sandeep Nijsure
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 tags: []
 categories: []
 date: '2002-12-01'
-lastmod: 2021-08-18T12:09:01-04:00
+lastmod: 2021-08-19T16:57:17-04:00
 featured: false
 draft: false
 
@@ -29,10 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:00.992393Z'
+publishDate: '2021-08-19T20:57:16.991923Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Euroweb 2002 Conference, The Web and the GRID: from e-Science to e-Business*'
+publication: '*Euroweb 2002 Conference and The Web and the GRID: from e-Science to
+  e-Business*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-ocgsa.pdf
 ---

@@ -6,12 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Kaizar Amin
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Armin R. Mikler
 tags: []
 categories: []
 date: '2004-12-01'
-lastmod: 2021-08-18T12:09:03-04:00
+lastmod: 2021-08-19T16:57:19-04:00
 featured: false
 draft: false
 
@@ -29,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:03.140831Z'
+publishDate: '2021-08-19T20:57:18.921156Z'
 publication_types:
 - '1'
 abstract: ''

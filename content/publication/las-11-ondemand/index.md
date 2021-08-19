@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2021-08-18T12:09:11-04:00
+lastmod: 2021-08-19T16:57:27-04:00
 featured: false
 draft: false
 
@@ -30,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:11.824481Z'
+publishDate: '2021-08-19T20:57:27.385061Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Internet Policies and Issues. Volume 7 - 2nd quarter*'
+url_pdf: http://dsc.soic.indiana.edu/publications/vonLaszewski-10-nova-bookchapter.pdf
 ---

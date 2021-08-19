@@ -6,13 +6,16 @@ title: 'GridTorrent Framework: A High-performance Data Transfer and Data Sharing
 subtitle: ''
 summary: ''
 authors:
-- Ali Kaplan
-- Geoffrey C. Fox
-- Gregor von Laszewski
+- ' Kaplan'
+- ' Ali'
+- C. Fox
+- ' Geoffrey'
+- von Laszewski
+- ' Gregor'
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2021-08-18T12:09:06-04:00
+lastmod: 2021-08-19T16:57:23-04:00
 featured: false
 draft: false
 
@@ -30,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:06.758406Z'
+publishDate: '2021-08-19T20:57:23.002726Z'
 publication_types:
 - '1'
 abstract: ''

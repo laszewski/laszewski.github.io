@@ -5,7 +5,8 @@ title: Sourcebook of Parallel Computing
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Mei-Hui Su
 - Joseph Insley
 - Ian Foster
@@ -13,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2021-08-18T12:09:01-04:00
+lastmod: 2021-08-19T16:57:17-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:01.675356Z'
+publishDate: '2021-08-19T20:57:17.634882Z'
 publication_types:
 - '6'
 abstract: ''

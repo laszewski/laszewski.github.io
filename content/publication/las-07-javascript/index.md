@@ -5,7 +5,8 @@ title: JavaScript Grid Abstractions
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Fugang Wang
 - Andrew Younge
 - Zhenhua Guo
@@ -13,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2007-11-01'
-lastmod: 2021-08-18T12:09:06-04:00
+lastmod: 2021-08-19T16:57:23-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:06.874124Z'
+publishDate: '2021-08-19T20:57:23.108786Z'
 publication_types:
 - '1'
 abstract: ''

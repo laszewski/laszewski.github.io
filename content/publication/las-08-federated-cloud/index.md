@@ -6,25 +6,28 @@ title: Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
-- Hyungro Lee
-- Javier Diaz
-- Fugang Wang
-- Koji Tanaka
-- Shubhada Karavinkoppa
-- Geoffrey C. Fox
-- Tom Furlani
+- von Laszewski
+- ' Gregor'
+- ' Lee'
+- ' Hyungro'
+- ' Diaz'
+- ' Javier'
+- ' Wang'
+- ' Fugang'
+- ' Tanaka'
+- ' Koji'
+- ' Karavinkoppa'
+- ' Shubhada'
+- ' Fox'
+- Geoffrey C.
+- ' Furlani'
+- ' Tom'
 tags:
-- '"cloud metric"'
-- '"cloud seeding"'
-- '"cloud shifting"'
-- '"dynamic provisioning"'
-- '"federated clouds"'
-- '"futuregrid"'
-- '"rain"'
+- '"cloud metric and cloud seeding and cloud shifting and dynamic provisioning and
+  federated clouds and futuregrid and rain"'
 categories: []
 date: '2012-01-01'
-lastmod: 2021-08-18T12:09:08-04:00
+lastmod: 2021-08-19T16:57:24-04:00
 featured: false
 draft: false
 
@@ -42,11 +45,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:07.992064Z'
+publishDate: '2021-08-19T20:57:24.176048Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 2012 Workshop on Cloud Services, Federation, and
-  the 8th Open Cirrus Summit*'
+publication: '*Proceedings of the 2012 Workshop on Cloud Services and Federation and
+  and the 8th Open Cirrus Summit*'
+url_pdf: https://d1wqtxts1xzle7.cloudfront.net/40241536/accounting.pdf?1448129919=&response-content-disposition=inline%3B+filename%3DDesign_of_an_accounting_and_metric_based.pdf&Expires=1629384836&Signature=TcYCyUX84siURRv-pP9YL0Cw1s9c1VOwX2S0Q4ZWzL3XVmn1TRGWfRsLCCiTkluD0F0LrnFPPsWHgWTBBMuz7cT-e8S5C9pcDtA5EF2HeN8jG2MIxCsgTIT5KY3kh2mAwmeysVIrQsapIi9hF9IezVZAfR-Mja168LaFQ7jI7LZ9162rmtKQhEFYP0X7YUxjBBIpw7rZ84G7L1kpQFll0LufNRQLI-TcIs2bcKsawFiz9moMYUT5lSq1XY6hEdocTOFl18yZcxMMlY2OVYeI62qtE7VpJSYoFTiP95b~F~eGZsamBuHZuCngGm5w7uNseEl9PsmXXmcMUU85aJpdzw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 doi: 10.1145/2378975.2378982
 ---

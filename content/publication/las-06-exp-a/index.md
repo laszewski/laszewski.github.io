@@ -5,14 +5,15 @@ title: The Java CoG Kit Experiment Manager
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Christopher Grubbs
 - Matthew Bone
 - David Angulo
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-08-18T12:09:05-04:00
+lastmod: 2021-08-19T16:57:22-04:00
 featured: false
 draft: false
 
@@ -30,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:05.785923Z'
+publishDate: '2021-08-19T20:57:22.041504Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*International Workshop on Grid Computing Environments 2006 in Conjunction
   with SC06*'
-url_pdf: http://library.rit.edu/oajournals/index.php/gce/article/view/75/36
+url_pdf: https://digitalarchive.rit.edu/xmlui/bitstream/handle/1850/7339/PZimnyConfProc11-13-2006.pdf
 ---

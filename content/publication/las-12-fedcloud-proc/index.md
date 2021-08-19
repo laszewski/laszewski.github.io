@@ -1,18 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FederatedClouds '12: Proceedings of the 2012 Workshop on Cloud Services, Federation,\
-  \ and the 8th Open Cirrus Summit"
+title: "FederatedClouds '12: Proceedings of the 2012 Workshop on Cloud Services and\
+  \ Federation and and the 8th Open Cirrus Summit"
 subtitle: ''
 summary: ''
 authors:
-- Gregor vonLaszewski
+- ' vonLaszewski'
+- ' Gregor'
 - Robert Grossman
 - Michael Kozuchand Rick McGeerand Dejan Milojicic
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2021-08-18T12:09:12-04:00
+lastmod: 2021-08-19T16:57:28-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:12.315872Z'
+publishDate: '2021-08-19T20:57:27.918476Z'
 publication_types:
 - '0'
 abstract: ''

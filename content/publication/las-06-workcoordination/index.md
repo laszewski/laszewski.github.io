@@ -5,13 +5,14 @@ title: Work coordination for Grid computing
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Mihael Hategan
 - Deepti Kodeboyina
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-08-18T12:09:06-04:00
+lastmod: 2021-08-19T16:57:22-04:00
 featured: false
 draft: false
 
@@ -29,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:06.384675Z'
+publishDate: '2021-08-19T20:57:22.681232Z'
 publication_types:
 - '6'
 abstract: ''

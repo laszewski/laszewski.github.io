@@ -5,28 +5,12 @@
     <link>/tag/class-book/</link>
       <atom:link href="/tag/class-book/index.xml" rel="self" type="application/rss+xml" />
     <description>class book</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2000 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>class book</title>
       <link>/tag/class-book/</link>
     </image>
-    
-    <item>
-      <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/las-18-handbook/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-handbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
-      <link>/publication/las-17-teaching/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-teaching/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>CoG Kits: A Bridge between Commodity Distributed Computing and High-Performance Grids</title>

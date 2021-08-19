@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-08-18T12:09:05-04:00
+lastmod: 2021-08-19T16:57:21-04:00
 featured: false
 draft: false
 
@@ -32,10 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:05.180082Z'
+publishDate: '2021-08-19T20:57:21.396733Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Extending Web Services Technologies: The Use of Multi-Agent Approaches*'
+url_pdf: https://epubs.stfc.ac.uk/manifestation/1488/qoscommunity3.pdf
 doi: 10.1007/0-387-23344-X_8
 ---

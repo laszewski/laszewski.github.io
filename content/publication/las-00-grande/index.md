@@ -6,15 +6,16 @@ title: 'CoG Kits: A Bridge between Commodity Distributed Computing and High-Perf
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Ian Foster
 - Jarek Gawor
 - Warren Smith
 - Steve Tuecke
-tags: ["class book"]
+tags: []
 categories: []
 date: '2000-06-01'
-lastmod: 2021-08-18T12:08:58-04:00
+lastmod: 2021-08-19T16:57:14-04:00
 featured: false
 draft: false
 
@@ -32,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:08:58.610380Z'
+publishDate: '2021-08-19T20:57:14.205283Z'
 publication_types:
 - '1'
 abstract: ''

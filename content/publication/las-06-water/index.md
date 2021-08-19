@@ -6,18 +6,26 @@ title: An Adaptive Cyberinfrastructure for Threat Management in Urban Water Dist
 subtitle: ''
 summary: ''
 authors:
-- Kumar MahinthakuMarch
-- Gregor von Laszewski
-- Ranji Ranjithan
-- Downey Brill
-- Jim Uber
-- Ken Harrison
-- Sarat Sreepathi
-- Emily Zechman
+- ' Mahinthakumar'
+- ' Kumar'
+- von Laszewski
+- ' Gregor'
+- ' Ranjithan'
+- ' Ranji'
+- ' Brill'
+- ' Downey'
+- ' Uber'
+- ' Jim'
+- ' Harrison'
+- ' Ken'
+- ' Sreepathi'
+- ' Sarat'
+- ' Zechman'
+- ' Emily'
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-08-18T12:09:06-04:00
+lastmod: 2021-08-19T16:57:22-04:00
 featured: false
 draft: false
 
@@ -35,12 +43,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:06.257671Z'
+publishDate: '2021-08-19T20:57:22.575449Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the International Conference on Computational Science,
-  ICCS 2006*'
+publication: '*Proceedings of the International Conference on Computational Science
+  and ICCS 2006*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-water-iccs.pdf
 doi: 10.1007/11758532_54
 ---

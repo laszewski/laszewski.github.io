@@ -5,11 +5,12 @@ title: Grid Computing Environments 2007 Confernce Proceeedings
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 tags: []
 categories: []
 date: '2007-11-01'
-lastmod: 2021-08-18T12:09:06-04:00
+lastmod: 2021-08-19T16:57:22-04:00
 featured: false
 draft: false
 
@@ -27,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:06.631454Z'
+publishDate: '2021-08-19T20:57:22.895196Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Published Mar. 2008, Rochester Institute of Technology, Rochester NY*'
+publication: '*Published Mar. 2008 and Rochester Institute of Technology and Rochester
+  NY*'
 url_pdf: http://library.rit.edu/oajournals/index.php/gce/issue/view/9/showToc
 ---

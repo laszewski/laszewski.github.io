@@ -6,13 +6,14 @@ title: Simulation of Threat Management of Urban Water Distribution Systems with 
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Lizhe Wang
 - Fugang Wang
 tags: []
 categories: []
 date: '2011-04-01'
-lastmod: 2021-08-18T12:09:12-04:00
+lastmod: 2021-08-19T16:57:27-04:00
 featured: false
 draft: false
 
@@ -30,12 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:12.073767Z'
+publishDate: '2021-08-19T20:57:27.705702Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*The Second International Conference on Parallel, Distributed, Grid
-  and Cloud Computing for Engineering*'
+publication: '*The Second International Conference on Parallel and Distributed and
+  Grid and Cloud Computing for Engineering*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-11-wtm-hadoop.pdf
 doi: 10.1007/11758532_54
 ---

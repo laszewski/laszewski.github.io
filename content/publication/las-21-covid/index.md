@@ -7,13 +7,14 @@ subtitle: ''
 summary: ''
 authors:
 - Geoffrey C. Fox
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Fugang Wang
 - Saumyadipta Pyne
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-18T12:09:15-04:00
+lastmod: 2021-08-19T16:57:31-04:00
 featured: false
 draft: false
 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:15.496695Z'
+publishDate: '2021-08-19T20:57:31.023353Z'
 publication_types:
 - '2'
 abstract: ''

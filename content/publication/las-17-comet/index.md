@@ -1,40 +1,51 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Comet: Tales from the Long Tail: Two Years In and 10,000 Users Later'
+title: 'Comet: Tales from the Long Tail: Two Years In and 10 and 000 Users Later'
 subtitle: ''
 summary: ''
 authors:
-- Shawn M. Strande
-- Haisong Cai
-- Trevor Cooper
-- Karen Flammer
-- Christopher Irving
-- Gregor von Laszewski
-- Amit Majumdar
-- Dmistry Mishin
-- Philip Papadopoulos
-- Wayne Pfeiffer
-- Robert S. Sinkovits
-- Mahidhar Tatineni
-- Rick Wagner
-- Fugang Wang
-- Nancy Wilkins-Diehr
-- Nicole Wolter
-- Michael L. Norman
+- ' Strande'
+- Shawn M.
+- ' Cai'
+- ' Haisong'
+- ' Cooper'
+- ' Trevor'
+- ' Flammer'
+- ' Karen'
+- ' Irving'
+- ' Christopher'
+- von Laszewski
+- ' Gregor'
+- ' Majumdar'
+- ' Amit'
+- ' Mishin'
+- ' Dmistry'
+- ' Papadopoulos'
+- ' Philip'
+- ' Pfeiffer'
+- ' Wayne'
+- ' Sinkovits'
+- Robert S.
+- ' Tatineni'
+- ' Mahidhar'
+- ' Wagner'
+- ' Rick'
+- ' Wang'
+- ' Fugang'
+- ' Wilkins-Diehr'
+- ' Nancy'
+- ' Wolter'
+- ' Nicole'
+- ' Norman'
+- Michael L.
 tags:
-- '"high throughput computing"'
-- '"High performance computing"'
-- '"science gateways"'
-- '"solid-state drive"'
-- '"parallel file system"'
-- '"scientific applications"'
-- '"virtualization"'
-- '"user support"'
-- '"GPU"'
+- '"high throughput computing and High performance computing and science gateways
+  and solid-state drive and parallel file system and scientific applications and virtualization
+  and user support and GPU"'
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-18T12:09:14-04:00
+lastmod: 2021-08-19T16:57:30-04:00
 featured: false
 draft: false
 
@@ -52,20 +63,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.245078Z'
+publishDate: '2021-08-19T20:57:29.950720Z'
 publication_types:
 - '1'
 abstract: The Comet petascale supercomputer was put into production as an XSEDE resource
   in early 2015 with the goal of serving a much larger user community than HPC systems
-  of similar size. The Comet project set an audacious goal of reaching over 10,000
-  users in its four years of planned operation. That goal was achieved in less than
-  two years, due in large part to the adoption of policies that favor smaller allocations
-  and science gateways. Here we describe our experiences in operating and supporting
-  Comet, highlight some of the important science that it has enabled, and provide
-  some practical lessons that we have learned by operating a system designed for the
-  long tail of science.
+  of similar size. The Comet project set an audacious goal of reaching over 10 and
+  000 users in its four years of planned operation. That goal was achieved in less
+  than two years and due in large part to the adoption of policies that favor smaller
+  allocations and science gateways. Here we describe our experiences in operating
+  and supporting Comet and highlight some of the important science that it has enabled
+  and and provide some practical lessons that we have learned by operating a system
+  designed for the long tail of science.
 publication: '*Proceedings of the Practice and Experience in Advanced Research Computing
-  2017 on Sustainability, Success and Impact*'
+  2017 on Sustainability and Success and Impact*'
 url_pdf: https://doi.org/10.1145/3093338.3093383
 doi: 10.1145/3093338.3093383
 ---

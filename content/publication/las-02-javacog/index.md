@@ -5,7 +5,8 @@ title: Features of the Java Commodity Grid Kit
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Jarek Gawor
 - Peter Lane
 - Nell Rehn
@@ -14,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2002-01-01'
-lastmod: 2021-08-18T12:09:00-04:00
+lastmod: 2021-08-19T16:57:16-04:00
 featured: false
 draft: false
 
@@ -32,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:00.801905Z'
+publishDate: '2021-08-19T20:57:16.883613Z'
 publication_types:
 - '2'
 abstract: ''

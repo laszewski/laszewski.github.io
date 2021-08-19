@@ -5,18 +5,26 @@ title: User Managed Virtual Clusters in Comet
 subtitle: ''
 summary: ''
 authors:
-- Rick Wagner
-- Philip Papadopoulos
-- Dmitry Mishin
-- Trevor Cooper
-- Mahidhar Tatineti
-- Gregor von Laszewski
-- Fugang Wang
-- Geoffrey C. Fox
+- ' Wagner'
+- ' Rick'
+- ' Papadopoulos'
+- ' Philip'
+- ' Mishin'
+- ' Dmitry'
+- ' Cooper'
+- ' Trevor'
+- ' Tatineti'
+- ' Mahidhar'
+- von Laszewski
+- ' Gregor'
+- ' Wang'
+- ' Fugang'
+- ' Fox'
+- Geoffrey C.
 tags: []
 categories: []
 date: '2016-07-01'
-lastmod: 2021-08-18T12:09:14-04:00
+lastmod: 2021-08-19T16:57:29-04:00
 featured: false
 draft: false
 
@@ -34,11 +42,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:14.002323Z'
+publishDate: '2021-08-19T20:57:29.737119Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the XSEDE16 Conference on Diversity, Big Data, and Science
-  at Scale*'
+publication: '*Proceedings of the XSEDE16 Conference on Diversity and Big Data and
+  and Science at Scale*'
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/2949550.2949555
 doi: 10.1145/2949550.2949555
 ---

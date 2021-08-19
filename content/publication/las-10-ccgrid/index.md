@@ -6,17 +6,19 @@ title: Towards Energy Aware Scheduling for Precedence Constrained Parallel Tasks
 subtitle: ''
 summary: ''
 authors:
-- Lizhe Wang
-- Gregor von Laszewski
-- Jay Dayal
-- Fugang Wang
+- ' Wang'
+- ' Lizhe'
+- von Laszewski
+- ' Gregor'
+- ' Dayal'
+- ' Jay'
+- ' Wang'
+- ' Fugang'
 tags:
-- '"Cluster Computing"'
-- '"Green Computing"'
-- '"Task Scheduling"'
+- '"Cluster Computing and Green Computing and Task Scheduling"'
 categories: []
 date: '2010-05-01'
-lastmod: 2021-08-18T12:09:09-04:00
+lastmod: 2021-08-19T16:57:25-04:00
 featured: false
 draft: false
 
@@ -34,12 +36,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:09.622950Z'
+publishDate: '2021-08-19T20:57:25.459396Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 10th IEEE/ACM International Conference on Cluster,
-  Cloud and Grid Computing*'
+publication: '*Proceedings of the 10th IEEE/ACM International Conference on Cluster
+  and Cloud and Grid Computing*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-10-ccgrid.pdf
 doi: 10.1109/CCGRID.2010.19
 ---

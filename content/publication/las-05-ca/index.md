@@ -5,12 +5,13 @@ title: A Grid Certificate Authority for Community and Ad-hoc Grids
 subtitle: ''
 summary: ''
 authors:
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Mikhail Sosonkin
 tags: []
 categories: []
 date: '2005-04-01'
-lastmod: 2021-08-18T12:09:04-04:00
+lastmod: 2021-08-19T16:57:20-04:00
 featured: false
 draft: false
 
@@ -28,12 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:09:04.707814Z'
+publishDate: '2021-08-19T20:57:20.534803Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*7th International Workshop on Java for Parallel and Distributed Computing,
-  published in the Proceedings of the 19th International Parallel and Distributed
+publication: '*7th International Workshop on Java for Parallel and Distributed Computing
+  and published in the Proceedings of the 19th International Parallel and Distributed
   Processing Symposium*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-ca-workshop.pdf
 doi: 10.1109/IPDPS.2005.29

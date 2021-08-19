@@ -14,14 +14,15 @@ authors:
 - Ian Foster
 - Joseph Insley
 - Peter Lane
-- Gregor von Laszewski
+- von Laszewski
+- ' Gregor'
 - Carl Kesselman
 - Mei-Hui Su
 - Marcus Thiebaux
 tags: []
 categories: []
 date: '2001-04-01'
-lastmod: 2021-08-18T12:08:59-04:00
+lastmod: 2021-08-19T16:57:15-04:00
 featured: false
 draft: false
 
@@ -39,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-18T16:08:59.026286Z'
+publishDate: '2021-08-19T20:57:15.169928Z'
 publication_types:
 - '2'
 abstract: ''
