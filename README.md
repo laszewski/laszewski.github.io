@@ -4,7 +4,12 @@
 
 ```
 sudo apt install texlive-latex-extra
-sudo apt install libghc-pandoc-prof
+# sudo apt install libghc-pandoc-prof
+wget https://github.com/jgm/pandoc/releases/download/2.14.1/pandoc-2.14.1-1-amd64.deb
+sudo apt install ./pandoc-2.14.1-1-amd64.deb
+sudo apt install hugo
+sudo apt install bibtool
+
 ```
 
 ## Update
