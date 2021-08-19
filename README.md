@@ -14,7 +14,7 @@ git clone https://github.com/laszewski/laszewski.github.io.git
 
 ```
 cd laszewski.github.io
-pip install academic
+pip install -r requirements.txt
 make bib
 make view
 ```
