@@ -1,7 +1,7 @@
 +++
 title = "Cybertraining Content Modules"
 date = 2020-07-01T01:33:02-05:00
-draft = false
+draft = true
 tags = ['cloud', 'class']
 categories = ['class']
 

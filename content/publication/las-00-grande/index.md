@@ -11,7 +11,7 @@ authors:
 - Jarek Gawor
 - Warren Smith
 - Steve Tuecke
-tags: []
+tags: ["class book"]
 categories: []
 date: '2000-06-01'
 lastmod: 2021-08-18T12:08:58-04:00
