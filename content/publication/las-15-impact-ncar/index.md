@@ -17,7 +17,7 @@ tags:
   measurements and Extraterrestrial measurements and Conferences and Metrics and publications"'
 categories: []
 date: '2015-09-08'
-lastmod: 2021-08-19T16:57:29-04:00
+lastmod: 2021-08-20T00:45:56-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:29.308347Z'
+publishDate: '2021-08-20T04:45:56.218987Z'
 publication_types:
 - '1'
 abstract: We present a framework that compares the publication impact based on a comprehensive

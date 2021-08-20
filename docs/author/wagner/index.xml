@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Wagner | Gregor von Laszewski</title>
+    <link>/author/wagner/</link>
+      <atom:link href="/author/wagner/index.xml" rel="self" type="application/rss+xml" />
+    <description> Wagner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Wagner</title>
+      <link>/author/wagner/</link>
+    </image>
+    
+    <item>
+      <title>Comet: Tales from the Long Tail: Two Years In and 10 and 000 Users Later</title>
+      <link>/publication/las-17-comet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Managed Virtual Clusters in Comet</title>
+      <link>/publication/las-16-virtcluster/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/las-16-virtcluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-Scale Science</title>
+      <link>/publication/las-05-cmcs-cluster/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-cmcs-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Service-Based Active Thermochemical Table Framework</title>
+      <link>/publication/las-02-activetable/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-activetable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

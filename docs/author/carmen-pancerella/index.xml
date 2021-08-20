@@ -5,12 +5,20 @@
     <link>/author/carmen-pancerella/</link>
       <atom:link href="/author/carmen-pancerella/index.xml" rel="self" type="application/rss+xml" />
     <description>Carmen Pancerella</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2004 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Carmen Pancerella</title>
       <link>/author/carmen-pancerella/</link>
     </image>
+    
+    <item>
+      <title>Portal-based Knowledge Environment for Collaborative Science</title>
+      <link>/publication/las-07-knowlege-portal/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-knowlege-portal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
@@ -22,9 +30,9 @@
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>/publication/las-04-scidacposter-chem/</link>
+      <link>/publication/las-04-scidac-poster-chem/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-scidacposter-chem/</guid>
+      <guid>/publication/las-04-scidac-poster-chem/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Abdul-Wahid | Gregor von Laszewski</title>
+    <link>/author/abdul-wahid/</link>
+      <atom:link href="/author/abdul-wahid/index.xml" rel="self" type="application/rss+xml" />
+    <description> Abdul-Wahid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Abdul-Wahid</title>
+      <link>/author/abdul-wahid/</link>
+    </image>
+    
+    <item>
+      <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
+      <link>/publication/las-17-cloudmesh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-cloudmesh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

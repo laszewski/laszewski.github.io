@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2000-08-01'
-lastmod: 2021-08-19T16:57:14-04:00
+lastmod: 2021-08-20T00:45:41-04:00
 featured: false
 draft: false
 
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:14.743472Z'
+publishDate: '2021-08-20T04:45:41.380518Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of EuroPar 2000*'
-url_pdf: https://link.springer.com/content/pdf/10.1007/3-540-44520-X_3.pdf
+url_pdf: https://laszewski.github.io/papers/las-00-moba.pdf
 doi: 10.1007/3-540-44520-X_3
 ---

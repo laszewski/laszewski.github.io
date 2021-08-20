@@ -5,7 +5,7 @@
     <link>/author/a.-j.-younge/</link>
       <atom:link href="/author/a.-j.-younge/index.xml" rel="self" type="application/rss+xml" />
     <description>A. J. Younge</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>A. J. Younge</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Providing a Green Framework for Cloud Based Data Centers</title>
-      <link>/publication/las-11-greenchapter/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-greenchapter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/las-10-scposter-rain/</link>
+      <link>/publication/las-10-sc-poster-rain/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-scposter-rain/</guid>
+      <guid>/publication/las-10-sc-poster-rain/</guid>
       <description></description>
     </item>
     

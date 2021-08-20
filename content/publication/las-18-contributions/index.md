@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Contributions to High-Performance Big Data Computing
+title: Advances in Parallel Computing, Future Trends of HPC in a Disruptive Scenario
 subtitle: ''
 summary: ''
 authors:
@@ -28,8 +28,8 @@ authors:
 - ' others'
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2021-08-19T16:57:30-04:00
+date: '2019-01-01'
+lastmod: 2021-08-20T00:45:57-04:00
 featured: false
 draft: false
 
@@ -47,10 +47,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:30.273205Z'
+publishDate: '2021-08-20T04:45:57.190256Z'
 publication_types:
-- '4'
+- '6'
 abstract: ''
 publication: '*Future Trends of HPC in a Disruptive Scenario*'
 url_pdf: https://laszewski.github.io/papers/bigdatahpc.pdf
+doi: 10.3233/APC190005
 ---

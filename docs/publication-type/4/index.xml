@@ -5,7 +5,7 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:46:01 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>4</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces</title>
-      <link>/publication/las-19-nist/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-19-nist/</guid>
+      <title>Genomic Sequence Analysis Automation</title>
+      <link>/publication/saggugenomic/</link>
+      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
+      <guid>/publication/saggugenomic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contributions to High-Performance Big Data Computing</title>
-      <link>/publication/las-18-contributions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-contributions/</guid>
+      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
+      <link>/publication/leetowards/</link>
+      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
+      <guid>/publication/leetowards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Resource Reservation</title>
+      <link>/publication/las-80-reservation/</link>
+      <pubDate>Fri, 20 Aug 2021 04:45:58 +0000</pubDate>
+      <guid>/publication/las-80-reservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating and Managing Grid Services</title>
+      <link>/publication/las-00-grid-create/</link>
+      <pubDate>Fri, 20 Aug 2021 04:45:41 +0000</pubDate>
+      <guid>/publication/las-00-grid-create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Automatically Generated Hybrid Multi-Cloud AI Services</title>
+      <link>/publication/las-20-uroc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-uroc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST Big Data Interoperability Framework: Volume 8 and Reference Architecture Interfaces</title>
+      <link>/publication/las-19-nist/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-19-nist/</guid>
       <description></description>
     </item>
     
@@ -45,6 +77,14 @@
     </item>
     
     <item>
+      <title>Towards cloud deployments using futuregrid</title>
+      <link>/publication/las-11-towards-deployment/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-towards-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A cumulus project: design and implementation</title>
       <link>/publication/las-08-cumulus/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
@@ -53,10 +93,114 @@
     </item>
     
     <item>
-      <title>The Java CoG Kit Experiment Manager</title>
-      <link>/publication/las-05-exp/</link>
-      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-exp/</guid>
+      <title>Collaboratory for Multi-scale Chemical Science (CMCS): Project Final Report.</title>
+      <link>/publication/osti-1725899/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/osti-1725899/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An End-to-End System for Organizing and Sharing Raw and Derived Mass Spectrometry Data</title>
+      <link>/publication/las-06-massspec-r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-massspec-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing mass spectra</title>
+      <link>/publication/puryear-2006-comparing/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/puryear-2006-comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Enhanced Mass Spectrometry I/O Project</title>
+      <link>/publication/puryearenhanced/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/puryearenhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing a Distributed and Scalable Foundation for Mass Spectrometry Data</title>
+      <link>/publication/las-05-developing/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-developing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java cog kit karajan/gridant workflow guide</title>
+      <link>/publication/las-05-gridandt-user/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-gridandt-user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid portals: a scientist&#39;s access point for grid services</title>
+      <link>/publication/gannon-2003-grid/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/gannon-2003-grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java CoG Kit Workflow Concepts for Scientific Experiments</title>
+      <link>/publication/las-03-cog-workflow/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-cog-workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of a Bridge between CORBA and Globus</title>
+      <link>/publication/las-01-corba-status/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-corba-status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Requirements for a Graphical User Interface for InfoMall Applications</title>
+      <link>/publication/las-95-infomall/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/las-95-infomall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XPVM: An X window based interface to the PVM</title>
+      <link>/publication/las-95-xpvm/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/las-95-xpvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A collection of graph partitioning algorithms</title>
+      <link>/publication/von-1993-collection/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/von-1993-collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Parallelization of a Weather Prediction Model</title>
+      <link>/publication/von-1993-parallelization/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/von-1993-parallelization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications Benchmark Set for Fortran-D and High Performance Fortran</title>
+      <link>/publication/las-crpc-92260/</link>
+      <pubDate>Mon, 01 Jun 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/las-crpc-92260/</guid>
       <description></description>
     </item>
     

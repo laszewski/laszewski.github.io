@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>The Java CoG Kit Experiment Manager</title>
-      <link>/publication/las-06-exp-a/</link>
+      <title>An End-to-End System for Organizing and Sharing Raw and Derived Mass Spectrometry Data</title>
+      <link>/publication/las-06-massspec-r/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/las-06-exp-a/</guid>
+      <guid>/publication/las-06-massspec-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Java CoG Kit Experiment Manager</title>
+      <link>/publication/las-05-exp/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-exp/</guid>
       <description></description>
     </item>
     

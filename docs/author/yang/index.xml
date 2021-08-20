@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Yang | Gregor von Laszewski</title>
+    <link>/author/yang/</link>
+      <atom:link href="/author/yang/index.xml" rel="self" type="application/rss+xml" />
+    <description> Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:46:01 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Yang</title>
+      <link>/author/yang/</link>
+    </image>
+    
+    <item>
+      <title>Genomic Sequence Analysis Automation</title>
+      <link>/publication/saggugenomic/</link>
+      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
+      <guid>/publication/saggugenomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Research Advances in e-Science</title>
+      <link>/publication/las-09-yang-advances/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-yang-advances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-Scale Science</title>
+      <link>/publication/las-05-cmcs-cluster/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-cmcs-cluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

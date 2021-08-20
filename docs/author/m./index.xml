@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> M. | Gregor von Laszewski</title>
+    <link>/author/m./</link>
+      <atom:link href="/author/m./index.xml" rel="self" type="application/rss+xml" />
+    <description> M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> M.</title>
+      <link>/author/m./</link>
+    </image>
+    
+    <item>
+      <title>net. science: A cyberinfrastructure for sustained innovation in network science and engineering</title>
+      <link>/publication/las-20-net-science/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-net-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provide Virtual Machine Information for Grid Computing</title>
+      <link>/publication/las-10-wang-transactions/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-wang-transactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift: Fast and Reliable and Loosely Coupled Parallel Computation</title>
+      <link>/publication/las-07-swift/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad hoc grid security infrastructure</title>
+      <link>/publication/las-05-ad-hoc-sec/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-ad-hoc-sec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

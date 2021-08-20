@@ -5,7 +5,7 @@
     <link>/author/omer-f.-rana/</link>
       <atom:link href="/author/omer-f.-rana/index.xml" rel="self" type="application/rss+xml" />
     <description>Omer F. Rana</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2004 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:45:41 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Omer F. Rana</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
-      <link>/publication/las-04-qos-journal/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-qos-journal/</guid>
+      <title>Creating and Managing Grid Services</title>
+      <link>/publication/las-00-grid-create/</link>
+      <pubDate>Fri, 20 Aug 2021 04:45:41 +0000</pubDate>
+      <guid>/publication/las-00-grid-create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>09131 Abstracts Collection -- Service Level Agreements in Grids</title>
+      <link>/publication/gerndt-et-al-dsp-2009-2027/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/gerndt-et-al-dsp-2009-2027/</guid>
       <description></description>
     </item>
     

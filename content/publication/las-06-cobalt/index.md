@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-08-19T16:57:22-04:00
+lastmod: 2021-08-20T00:45:49-04:00
 featured: false
 draft: false
 
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:22.148221Z'
+publishDate: '2021-08-20T04:45:48.906890Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*International Workshop on Grid Computing Environments 2006 in Conjunction
   with SC06*'
-url_pdf: https://digitalarchive.rit.edu/xmlui/bitstream/handle/1850/7346/GvonLaszewskiConfProc11-13-2006.pdf
+url_pdf: https://laszewski.github.io/papers/las-06-cobalt
 ---

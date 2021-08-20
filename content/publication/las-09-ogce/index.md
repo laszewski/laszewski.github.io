@@ -21,7 +21,7 @@ authors:
 tags: []
 categories: []
 date: '2009-06-01'
-lastmod: 2021-08-19T16:57:25-04:00
+lastmod: 2021-08-20T00:45:52-04:00
 featured: false
 draft: false
 
@@ -39,10 +39,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:25.138977Z'
+publishDate: '2021-08-20T04:45:52.020716Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*TeraGrid 09 meeting*'
+publication: '*TeraGrid 2009 Meeting*'
 url_pdf: https://laszewski.github.io/papers/OGCETG09-1-1.pdf
 ---

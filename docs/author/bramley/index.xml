@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Bramley | Gregor von Laszewski</title>
+    <link>/author/bramley/</link>
+      <atom:link href="/author/bramley/index.xml" rel="self" type="application/rss+xml" />
+    <description> Bramley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Bramley</title>
+      <link>/author/bramley/</link>
+    </image>
+    
+    <item>
+      <title>The Xport collaboratory for high-brilliance X-ray crystallography</title>
+      <link>/publication/las-00-xport/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-xport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

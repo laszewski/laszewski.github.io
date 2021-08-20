@@ -5,7 +5,7 @@
     <link>/publication-type/0/</link>
       <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/las-18-handbook/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-handbook/</guid>
+      <title>HPTMT: Operator-Based Architecture for Scalable High-Performance Data-Intensive Frameworks</title>
+      <link>/publication/las-21-hptmt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-hptmt/</guid>
       <description></description>
     </item>
     
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit</title>
+      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services and Federation and and the 8th Open Cirrus Summit</title>
       <link>/publication/las-12-fedcloud-proc/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/las-12-fedcloud-proc/</guid>
@@ -37,10 +37,18 @@
     </item>
     
     <item>
+      <title>Workshop on data intensive computing in the clouds-DataCloud</title>
+      <link>/publication/kosar-2011-workshop/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/kosar-2011-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/las-10-scposter-rain/</link>
+      <link>/publication/las-10-sc-poster-rain/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-scposter-rain/</guid>
+      <guid>/publication/las-10-sc-poster-rain/</guid>
       <description></description>
     </item>
     
@@ -62,25 +70,49 @@
     
     <item>
       <title>Grid Portal Architectures for Scientific Applications</title>
-      <link>/publication/las-05-scidacposter-portal/</link>
+      <link>/publication/las-05-scidac-poster-portal/</link>
       <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-scidacposter-portal/</guid>
+      <guid>/publication/las-05-scidac-poster-portal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Workflow -- An Integrated Approach</title>
+      <link>/publication/las-05-gridworkflow/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-gridworkflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>/publication/las-04-scidacposter-chem/</link>
+      <link>/publication/las-04-scidac-poster-chem/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-scidacposter-chem/</guid>
+      <guid>/publication/las-04-scidac-poster-chem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commodity Grid Kits</title>
-      <link>/publication/las-04-scidacposter-cogkit/</link>
+      <link>/publication/las-04-scidac-poster-cogkit/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-scidacposter-cogkit/</guid>
+      <guid>/publication/las-04-scidac-poster-cogkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDAP Browser/Editor</title>
+      <link>/publication/las-00-ldap-browser/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-ldap-browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Xport collaboratory for high-brilliance X-ray crystallography</title>
+      <link>/publication/las-00-xport/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-xport/</guid>
       <description></description>
     </item>
     

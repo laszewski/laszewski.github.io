@@ -5,12 +5,92 @@
     <link>/author/jarek-gawor/</link>
       <atom:link href="/author/jarek-gawor/index.xml" rel="self" type="application/rss+xml" />
     <description>Jarek Gawor</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2000 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Jarek Gawor</title>
       <link>/author/jarek-gawor/</link>
     </image>
+    
+    <item>
+      <title>An Overview of Grid File Transfer Patterns and their Implementation in the Java CoG Kit</title>
+      <link>/publication/las-04-ftp-journal/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-ftp-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A File Transfer Component for Grids</title>
+      <link>/publication/las-03-ftp/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-ftp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commodity Grid Kits - Middleware for Building Grid Computing Environments</title>
+      <link>/publication/las-03-gridcomputing/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-gridcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InfoGram: A Peer-to-Peer Information and Job Submission Service</title>
+      <link>/publication/las-02-infogram/</link>
+      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-infogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software and Component and and Service Deployment in Computational Grids</title>
+      <link>/publication/las-02-deploy/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-deploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A CORBA Commodity Grid Kit</title>
+      <link>/publication/las-02-corbacog/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-corbacog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features of the Java Commodity Grid Kit</title>
+      <link>/publication/las-02-javacog/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-javacog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Java Commodity Grid Kit</title>
+      <link>/publication/las-01-cog-concurency/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-cog-concurency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Grid-based Problem Solving Environments and Portals</title>
+      <link>/publication/las-01-pse/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-pse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of a Bridge between CORBA and Globus</title>
+      <link>/publication/las-01-corba-status/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-corba-status/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CoG Kits: A Bridge between Commodity Distributed Computing and High-Performance Grids</title>

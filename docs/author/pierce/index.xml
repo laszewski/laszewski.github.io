@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Pierce | Gregor von Laszewski</title>
+    <link>/author/pierce/</link>
+      <atom:link href="/author/pierce/index.xml" rel="self" type="application/rss+xml" />
+    <description> Pierce</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Pierce</title>
+      <link>/author/pierce/</link>
+    </image>
+    
+    <item>
+      <title>Open Grid Computing Environments</title>
+      <link>/publication/las-09-ogce/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ogce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
+      <link>/publication/las-07-ogce/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-ogce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid portals: a scientist&#39;s access point for grid services</title>
+      <link>/publication/gannon-2003-grid/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/gannon-2003-grid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

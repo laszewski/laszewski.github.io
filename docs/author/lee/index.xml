@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Lee | Gregor von Laszewski</title>
+    <link>/author/lee/</link>
+      <atom:link href="/author/lee/index.xml" rel="self" type="application/rss+xml" />
+    <description> Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:46:01 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Lee</title>
+      <link>/author/lee/</link>
+    </image>
+    
+    <item>
+      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
+      <link>/publication/leetowards/</link>
+      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
+      <guid>/publication/leetowards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
+      <link>/publication/las-17-cloudmesh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-cloudmesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FutureGrid Testbed for Big Data</title>
+      <link>/publication/las-14-bigdata/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
+      <link>/publication/las-08-federated-cloud/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAGA: A Simple API for Grid Applications. High-level application programming on the Grid</title>
+      <link>/publication/las-06-saga/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-saga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-Scale Science</title>
+      <link>/publication/las-05-cmcs-cluster/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-cmcs-cluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

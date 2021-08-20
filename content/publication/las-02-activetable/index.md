@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: A Grid Service Based Active Thermochemical Table Framework
+title: A Grid Service-Based Active Thermochemical Table Framework
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ authors:
 tags: []
 categories: []
 date: '2002-11-01'
-lastmod: 2021-08-19T16:57:16-04:00
+lastmod: 2021-08-20T00:45:42-04:00
 featured: false
 draft: false
 
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:16.030371Z'
+publishDate: '2021-08-20T04:45:42.776575Z'
 publication_types:
 - '1'
 abstract: ''

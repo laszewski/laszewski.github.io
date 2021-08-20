@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Browne | Gregor von Laszewski</title>
+    <link>/author/browne/</link>
+      <atom:link href="/author/browne/index.xml" rel="self" type="application/rss+xml" />
+    <description> Browne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Browne</title>
+      <link>/author/browne/</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive and open-source resource usage measurement and analysis for HPC systems</title>
+      <link>/publication/las-14-xdmod/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-xdmod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Mühlenbein | Gregor von Laszewski</title>
+    <link>/author/muhlenbein/</link>
+      <atom:link href="/author/muhlenbein/index.xml" rel="self" type="application/rss+xml" />
+    <description> Mühlenbein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 1991 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Mühlenbein</title>
+      <link>/author/muhlenbein/</link>
+    </image>
+    
+    <item>
+      <title>Partitioning a graph with a parallel genetic algorithm</title>
+      <link>/publication/las-90-ppsn/</link>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/las-90-ppsn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

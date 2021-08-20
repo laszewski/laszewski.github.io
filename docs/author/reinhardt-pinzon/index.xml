@@ -5,12 +5,20 @@
     <link>/author/reinhardt-pinzon/</link>
       <atom:link href="/author/reinhardt-pinzon/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinhardt Pinzon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2004 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2006 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Reinhardt Pinzon</title>
       <link>/author/reinhardt-pinzon/</link>
     </image>
+    
+    <item>
+      <title>Collaboratory for Multi-scale Chemical Science (CMCS): Project Final Report.</title>
+      <link>/publication/osti-1725899/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/osti-1725899/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
@@ -22,9 +30,9 @@
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>/publication/las-04-scidacposter-chem/</link>
+      <link>/publication/las-04-scidac-poster-chem/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-scidacposter-chem/</guid>
+      <guid>/publication/las-04-scidac-poster-chem/</guid>
       <description></description>
     </item>
     
@@ -33,14 +41,6 @@
       <link>/publication/las-03-dc/</link>
       <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
       <guid>/publication/las-03-dc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Grid Service Based Active Thermochemical Table Framework</title>
-      <link>/publication/las-02-activetable/</link>
-      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/las-02-activetable/</guid>
       <description></description>
     </item>
     

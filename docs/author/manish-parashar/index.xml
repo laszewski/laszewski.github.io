@@ -5,12 +5,20 @@
     <link>/author/manish-parashar/</link>
       <atom:link href="/author/manish-parashar/index.xml" rel="self" type="application/rss+xml" />
     <description>Manish Parashar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Manish Parashar</title>
       <link>/author/manish-parashar/</link>
     </image>
+    
+    <item>
+      <title>Workshop on data intensive computing in the clouds-DataCloud</title>
+      <link>/publication/kosar-2011-workshop/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/kosar-2011-workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A CORBA Commodity Grid Kit</title>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
-      <title>Design and Implementation of a CORBA Commodity Grid Kit</title>
-      <link>/publication/las-01-corba/</link>
-      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-corba/</guid>
+      <title>Status of a Bridge between CORBA and Globus</title>
+      <link>/publication/las-01-corba-status/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-corba-status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications Benchmark Set for Fortran-D and High Performance Fortran</title>
+      <link>/publication/las-crpc-92260/</link>
+      <pubDate>Mon, 01 Jun 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/las-crpc-92260/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Parallelization of Blocked LU Factorization Algorithms on Distributed Memory Architectures</title>
+      <link>/publication/von-1992-high/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/von-1992-high/</guid>
       <description></description>
     </item>
     

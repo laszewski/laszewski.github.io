@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoffrey C. | Gregor von Laszewski</title>
+    <link>/author/geoffrey-c./</link>
+      <atom:link href="/author/geoffrey-c./index.xml" rel="self" type="application/rss+xml" />
+    <description>Geoffrey C.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:46:01 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Geoffrey C.</title>
+      <link>/author/geoffrey-c./</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>
+      <link>/publication/las-21-impact/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handbook of Clouds and Big Data</title>
+      <link>/publication/las-18-handbook/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
+      <link>/publication/las-17-teaching/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Managed Virtual Clusters in Comet</title>
+      <link>/publication/las-16-virtcluster/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/las-16-virtcluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FutureGrid Testbed for Big Data</title>
+      <link>/publication/las-14-bigdata/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
+      <link>/publication/las-14-impact/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
+      <link>/publication/las-08-federated-cloud/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grappling cloud infrastructure services with a generic image repository</title>
+      <link>/publication/las-11-grapple/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-grapple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2002-12-01'
-lastmod: 2021-08-19T16:57:17-04:00
+lastmod: 2021-08-20T00:45:43-04:00
 featured: false
 draft: false
 
@@ -30,11 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:16.991923Z'
+publishDate: '2021-08-20T04:45:43.738991Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Euroweb 2002 Conference and The Web and the GRID: from e-Science to
   e-Business*'
 url_pdf: https://laszewski.github.io/papers/vonLaszewski-ocgsa.pdf
+doi: 10.14236/ewic/ew2002.14
 ---

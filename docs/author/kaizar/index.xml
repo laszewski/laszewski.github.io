@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Kaizar | Gregor von Laszewski</title>
+    <link>/author/kaizar/</link>
+      <atom:link href="/author/kaizar/index.xml" rel="self" type="application/rss+xml" />
+    <description> Kaizar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Kaizar</title>
+      <link>/author/kaizar/</link>
+    </image>
+    
+    <item>
+      <title>A Model for Quality-of-Service Provision in Service Oriented Architectures</title>
+      <link>/publication/las-05-qos-model/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-qos-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
+      <link>/publication/las-04-qos-journal/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-qos-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Middleware</title>
+      <link>/publication/las-04-grid-midleware/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-grid-midleware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Service-Based Active Thermochemical Table Framework</title>
+      <link>/publication/las-02-activetable/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-activetable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

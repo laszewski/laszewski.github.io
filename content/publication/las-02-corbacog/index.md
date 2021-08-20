@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2002-01-01'
-lastmod: 2021-08-19T16:57:16-04:00
+lastmod: 2021-08-20T00:45:43-04:00
 featured: false
 draft: false
 
@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:16.350715Z'
+publishDate: '2021-08-20T04:45:43.098290Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Concurrency and Computation: Practice and Experience*'
-url_pdf: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.1712&rep=rep1&type=pdf
+url_pdf: https://laszewski.github.io/papers/corbacog-ccpe-gce01.pdf
 doi: 10.1002/cpe.682
 ---

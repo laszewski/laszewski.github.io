@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William H. | Gregor von Laszewski</title>
+    <link>/author/william-h./</link>
+      <atom:link href="/author/william-h./index.xml" rel="self" type="application/rss+xml" />
+    <description>William H.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>William H.</title>
+      <link>/author/william-h./</link>
+    </image>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-Scale Science</title>
+      <link>/publication/las-05-cmcs-cluster/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-cmcs-cluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

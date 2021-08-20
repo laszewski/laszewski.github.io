@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Comprehensive and open-source resource usage measurement and analysis for HPC systems</title>
+      <link>/publication/las-14-xdmod/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-xdmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
       <link>/publication/las-12-xdmod-kernel/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -45,7 +53,7 @@
     </item>
     
     <item>
-      <title>eMOLST: a documentation flow for distributed health informatics</title>
+      <title>eMOLST: A Documentation Flow for Distributed Health Informatics</title>
       <link>/publication/las-11-emolst/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/las-11-emolst/</guid>
@@ -57,6 +65,14 @@
       <link>/publication/las-11-ann/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/las-11-ann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards building a cloud for scientific applications</title>
+      <link>/publication/las-11-energy/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-energy/</guid>
       <description></description>
     </item>
     
@@ -109,10 +125,18 @@
     </item>
     
     <item>
-      <title>Grid Virtualization Engine: Design, Implementation, and Evaluation</title>
+      <title>Grid Virtualization Engine: Design and Implementation and and Evaluation</title>
       <link>/publication/las-09-virt/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>/publication/las-09-virt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating time to scientific discovery with a grid-enhanced microsoft project</title>
+      <link>/publication/las-08-ms/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-ms/</guid>
       <description></description>
     </item>
     
@@ -125,6 +149,14 @@
     </item>
     
     <item>
+      <title>Portal-based Knowledge Environment for Collaborative Science</title>
+      <link>/publication/las-07-knowlege-portal/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-knowlege-portal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
       <link>/publication/las-07-ogce/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
@@ -133,10 +165,26 @@
     </item>
     
     <item>
+      <title>A Batch Import Module for an Empirically Derived Mass Spectral Database</title>
+      <link>/publication/van-2006-batch/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/van-2006-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Abstraction Model for a Grid Execution Framework</title>
       <link>/publication/las-04-abstraction-j/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>/publication/las-04-abstraction-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAGA: A Simple API for Grid Applications. High-level application programming on the Grid</title>
+      <link>/publication/las-06-saga/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-saga/</guid>
       <description></description>
     </item>
     
@@ -157,6 +205,22 @@
     </item>
     
     <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-Scale Science</title>
+      <link>/publication/las-05-cmcs-cluster/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-cmcs-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model for Quality-of-Service Provision in Service Oriented Architectures</title>
+      <link>/publication/las-05-qos-model/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-qos-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Active Thermochemical Tables: Thermochemistry for the 21st century</title>
       <link>/publication/las-05-atct/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
@@ -169,6 +233,14 @@
       <link>/publication/las-05-portalarch/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>/publication/las-05-portalarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid portal architectures for scientific applications</title>
+      <link>/publication/las-05-portal-journal/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-portal-journal/</guid>
       <description></description>
     </item>
     
@@ -209,6 +281,14 @@
       <link>/publication/las-03-knowledge/</link>
       <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
       <guid>/publication/las-03-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QoS guided Min-Min heuristic for grid task scheduling</title>
+      <link>/publication/las-03-minmin/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/las-03-minmin/</guid>
       <description></description>
     </item>
     
@@ -261,6 +341,14 @@
     </item>
     
     <item>
+      <title>GSFL: A workflow framework for grid services</title>
+      <link>/publication/krishnan-2002-gsfl/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/krishnan-2002-gsfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Paradigm Communications in Java for Grid Computing</title>
       <link>/publication/las-01-acm/</link>
       <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
@@ -289,6 +377,54 @@
       <link>/publication/las-00-sbc/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>/publication/las-00-sbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Loosely Coupled Metacomputer: Cooperating Job Submissions Across Multiple Supercomputing Sites</title>
+      <link>/publication/las-99-loosely/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-loosely/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance Visualization: Data Exploration on the Grid</title>
+      <link>/publication/las-99-ieee/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fault Detection Service for Wide Area Distributed Computations</title>
+      <link>/publication/las-99-hbm-journal/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-hbm-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computational Framework for Telemedicine</title>
+      <link>/publication/las-98-telemedicine/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/las-98-telemedicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usage of LDAP in Globus</title>
+      <link>/publication/las-98-ldap/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/las-98-ldap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocked LU factorization on a multiprocessor computer</title>
+      <link>/publication/lu-93-journal/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/lu-93-journal/</guid>
       <description></description>
     </item>
     

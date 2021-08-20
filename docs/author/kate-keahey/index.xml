@@ -5,7 +5,7 @@
     <link>/author/kate-keahey/</link>
       <atom:link href="/author/kate-keahey/index.xml" rel="self" type="application/rss+xml" />
     <description>Kate Keahey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Kate Keahey</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Futuregrid: a Reconfigurable Testbed for Cloud, Hpc, and Grid Computing</title>
-      <link>/publication/las-17-futuregrid/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-futuregrid/</guid>
+      <title>Contemporary HPC Architectures</title>
+      <link>/publication/las-12-fg-bookchapter/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-fg-bookchapter/</guid>
       <description></description>
     </item>
     
@@ -25,14 +25,6 @@
       <link>/publication/las-12-fg-1471/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
       <guid>/publication/las-12-fg-1471/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FutureGrid - a reconfigurable testbed for Cloud, HPC and Grid Computing</title>
-      <link>/publication/las-12-fg-bookchapter/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-fg-bookchapter/</guid>
       <description></description>
     </item>
     

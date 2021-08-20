@@ -5,7 +5,7 @@
     <link>/publication-type/5/</link>
       <atom:link href="/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>5</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Sample: Selected Book</title>
-      <link>/publication/0-sample-class-222/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/0-sample-class-222/</guid>
+      <title>Handbook of Clouds and Big Data</title>
+      <link>/publication/las-18-handbook/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Issues in Parallel Computing</title>
+      <link>/publication/las-95-mopac/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/las-95-mopac/</guid>
       <description></description>
     </item>
     

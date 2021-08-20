@@ -26,7 +26,7 @@ authors:
 tags: []
 categories: []
 date: '2010-10-01'
-lastmod: 2021-08-19T16:57:24-04:00
+lastmod: 2021-08-20T00:45:51-04:00
 featured: false
 draft: false
 
@@ -44,11 +44,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-19T20:57:24.497960Z'
+publishDate: '2021-08-20T04:45:51.376184Z'
 publication_types:
 - '6'
 abstract: ''
 publication: "*International Conference on Cloud Computing (CloudComp'09)*"
-url_pdf: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.6154&rep=rep1&type=pdf
+url_pdf: https://laszewski.github.io/papers/las-09-cloudcomp.pdf
 doi: 10.1007/978-3-642-12636-9_10
 ---

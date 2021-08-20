@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Mohamed | Gregor von Laszewski</title>
+    <link>/author/mohamed/</link>
+      <atom:link href="/author/mohamed/index.xml" rel="self" type="application/rss+xml" />
+    <description> Mohamed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title> Mohamed</title>
+      <link>/author/mohamed/</link>
+    </image>
+    
+    <item>
+      <title>Blocked LU factorization on a multiprocessor computer</title>
+      <link>/publication/lu-93-journal/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/lu-93-journal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Globus toolkit and Telemedicine and Metacomputing&#34; | Gregor von Laszewski</title>
+    <link>/tag/globus-toolkit-and-telemedicine-and-metacomputing/</link>
+      <atom:link href="/tag/globus-toolkit-and-telemedicine-and-metacomputing/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Globus toolkit and Telemedicine and Metacomputing&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Globus toolkit and Telemedicine and Metacomputing&#34;</title>
+      <link>/tag/globus-toolkit-and-telemedicine-and-metacomputing/</link>
+    </image>
+    
+    <item>
+      <title>A Computational Framework for Telemedicine</title>
+      <link>/publication/las-98-telemedicine/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/las-98-telemedicine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
