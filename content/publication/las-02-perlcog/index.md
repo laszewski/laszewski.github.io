@@ -22,7 +22,7 @@ tags:
   broker and SRB and module and portal and middleware"'
 categories: []
 date: '2002-01-01'
-lastmod: 2021-08-20T00:45:44-04:00
+lastmod: 2021-08-20T09:55:45-04:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T04:45:43.953583Z'
+publishDate: '2021-08-20T13:55:45.715993Z'
 publication_types:
 - '2'
 abstract: ''

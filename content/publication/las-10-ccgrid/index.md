@@ -18,7 +18,7 @@ tags:
 - '"Cluster Computing and Green Computing and Task Scheduling"'
 categories: []
 date: '2010-05-01'
-lastmod: 2021-08-20T00:45:52-04:00
+lastmod: 2021-08-20T09:55:54-04:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T04:45:52.342001Z'
+publishDate: '2021-08-20T13:55:54.320091Z'
 publication_types:
 - '1'
 abstract: ''

@@ -5,28 +5,12 @@
     <link>/author/geoffrey/</link>
       <atom:link href="/author/geoffrey/index.xml" rel="self" type="application/rss+xml" />
     <description> Geoffrey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:46:01 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title> Geoffrey</title>
       <link>/author/geoffrey/</link>
     </image>
-    
-    <item>
-      <title>Genomic Sequence Analysis Automation</title>
-      <link>/publication/saggugenomic/</link>
-      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
-      <guid>/publication/saggugenomic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advances in Parallel Computing, Future Trends of HPC in a Disruptive Scenario</title>
-      <link>/publication/las-18-contributions/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-contributions/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Co-processing SPMD computation on CPUs and GPUs cluster</title>

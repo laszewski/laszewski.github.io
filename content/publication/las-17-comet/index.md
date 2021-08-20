@@ -45,7 +45,7 @@ tags:
   and user support and GPU"'
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-20T00:45:56-04:00
+lastmod: 2021-08-20T09:55:59-04:00
 featured: false
 draft: false
 
@@ -63,7 +63,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T04:45:56.866873Z'
+publishDate: '2021-08-20T13:55:59.165704Z'
 publication_types:
 - '1'
 abstract: The Comet petascale supercomputer was put into production as an XSEDE resource

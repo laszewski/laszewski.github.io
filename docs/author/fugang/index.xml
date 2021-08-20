@@ -5,20 +5,12 @@
     <link>/author/fugang/</link>
       <atom:link href="/author/fugang/index.xml" rel="self" type="application/rss+xml" />
     <description> Fugang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:46:01 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title> Fugang</title>
       <link>/author/fugang/</link>
     </image>
-    
-    <item>
-      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
-      <link>/publication/leetowards/</link>
-      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
-      <guid>/publication/leetowards/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>
@@ -65,6 +57,14 @@
       <link>/publication/las-15-tas/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/las-15-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
+      <link>/publication/leetowards/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/leetowards/</guid>
       <description></description>
     </item>
     

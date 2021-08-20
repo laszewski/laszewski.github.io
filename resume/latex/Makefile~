@@ -1,0 +1,5 @@
+all:
+	pdflatex resume
+	bibtex resume
+	pdflatex resume
+	pdflatex resume

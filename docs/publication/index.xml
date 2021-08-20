@@ -5,44 +5,12 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:46:01 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
-    
-    <item>
-      <title>Genomic Sequence Analysis Automation</title>
-      <link>/publication/saggugenomic/</link>
-      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
-      <guid>/publication/saggugenomic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
-      <link>/publication/leetowards/</link>
-      <pubDate>Fri, 20 Aug 2021 04:46:01 +0000</pubDate>
-      <guid>/publication/leetowards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloudmesh Resource Reservation</title>
-      <link>/publication/las-80-reservation/</link>
-      <pubDate>Fri, 20 Aug 2021 04:45:58 +0000</pubDate>
-      <guid>/publication/las-80-reservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creating and Managing Grid Services</title>
-      <link>/publication/las-00-grid-create/</link>
-      <pubDate>Fri, 20 Aug 2021 04:45:41 +0000</pubDate>
-      <guid>/publication/las-00-grid-create/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>
@@ -113,14 +81,6 @@
       <link>/publication/las-19-nist/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/publication/las-19-nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advances in Parallel Computing, Future Trends of HPC in a Disruptive Scenario</title>
-      <link>/publication/las-18-contributions/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-contributions/</guid>
       <description></description>
     </item>
     
@@ -205,6 +165,14 @@
     </item>
     
     <item>
+      <title>Cloudmesh Resource Reservation</title>
+      <link>/publication/las-80-reservation/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-80-reservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FutureSystems at Indiana University</title>
       <link>/publication/las-15-portal-futuresystems/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -217,6 +185,22 @@
       <link>/publication/las-15-tas/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/las-15-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic Sequence Analysis Automation</title>
+      <link>/publication/reu-2014-genome/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/reu-2014-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
+      <link>/publication/leetowards/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/leetowards/</guid>
       <description></description>
     </item>
     
@@ -1417,6 +1401,14 @@
       <link>/publication/las-01-corba-status/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>/publication/las-01-corba-status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating and Managing Grid Services</title>
+      <link>/publication/las-00-grid-create/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-grid-create/</guid>
       <description></description>
     </item>
     

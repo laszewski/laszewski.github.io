@@ -1,0 +1,132 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[style=ieee]{biblatex}
+%\usepackage{biblatex}
+
+\addbibresource{../../vonLaszewski-jabref.bib}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{titlesec}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries}{\thechapter \quad \MakeUppercase{#1}}{.5em}{\vspace{.5ex}}[\titlerule]
+\titlespacing*{\chapter}
+  {0pt}{0pt}{15pt}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries}{\hspace{-24pt}}{.5em}{\vspace{.5ex}\MakeUppercase}[\titlerule]
+\titlespacing*{\section}
+  {0pt}{0pt}{15pt}
+
+%\titleformat{\section}{\MakeUppercase\large\bfseries}{}{1em}{\hrule}
+
+
+\name{Gregor von Laszewski, Ph.D.} 
+\address{8282 Sout Stone Ridge Rd\\ Bloomington, IN 47401} 
+\address{(812)~824-8660 \\ laszewski@gmail.com}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf University of California, Berkeley} \hfill {\em June 2004} \\ 
+B.S. in Computer Science \& Engineering \\
+Minor in Linguistics \smallskip \\
+Member of Eta Kappa Nu \\
+Member of Upsilon Pi Epsilon \\
+Overall GPA: 5.678
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+
+\begin{rSubsection}{ACME, Inc}{October 2010 - Present}{Web Developer}{Palo Alto, CA}
+\item Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus.
+\item Donec et mollis dolor. Praesent et diam eget libero Adobe Coldfusion egestas mattis sit amet vitae augue.
+\item Nam tincidunt congue enim, ut porta lorem Microsoft SQL lacinia consectetur.
+\item Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+\item Pellentesque auctor nisi id magna consequat JavaScript sagittis.
+\item Aliquam at massa ipsum. Quisque bash bibendum purus convallis nulla ultrices ultricies.
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{AJAX Hosting}{December 2009 - October 2010}{Lead Developer}{Austin, TX}
+\item Aenean ut gravida lorem. Ut turpis felis, Perl pulvinar a semper sed, adipiscing id dolor.
+\item Curabitur dapibus enim sit amet elit pharetra tincidunt website feugiat nisl imperdiet. Ut convallis AJAX libero in urna ultrices accumsan.
+\item Cum sociis natoque penatibus et magnis dis MySQL parturient montes, nascetur ridiculus mus.
+\item In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+\item Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper.
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{TinySoft}{January 2008 - April 2010}{Web Designer \& Developer}{Gainesville, GA}
+\item Vivamus PostgreSQL fermentum semper porta. Nunc diam velit PHP, adipiscing ut tristique vitae
+\item Maecenas convallis ullamcorper ultricies stylesheets.
+\item Quisque mi metus, unit tests CSS ornare sit amet fermentum et, tincidunt et orci.
+\item Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id
+\end{rSubsection}
+
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Computer Languages & Prolog, Haskell, AWK, Erlang, Scheme, ML \\
+Protocols \& APIs & XML, JSON, SOAP, REST \\
+Databases & MySQL, PostgreSQL, Microsoft SQL \\
+Tools & SVN, Vim, Emacs
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+
+%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\section{Books and Book Chapters}
+
+\begin{refsection}
+
+\nocite{las-21-impact,las-21-covid,las-21-openapi,las-21-hptmt,las-20-covid,las-20-net-science,las-20-uroc,las19-harc-comet,las-19-nist,las-19-streaming,las-18-handbook,las-18-impact,las-17-teaching,las-17-cloudmesh,las-17-futuregrid,las-17-comet,las-16-virtcluster,las-15-tas,las-15-portal-futuresystems,las-15-xsede,las-15-impact-ncar,las-80-reservation,reu-2014-genome,las-14-Impact,las-14-bigdata,las-14-xdmod,las-14-multi-grid,leetowards,las-12-fg-bookchapter,las-12-xdmod-kernel,las-13-ondemand,las-13-xdmod,las-13-gpu,las-12-comparisoncloud,las-12-fg-1471,las-12-imagemanagement,las-08federated-cloud,las-12-fedcloud-proc,las-12-xdmod-data,las-11-grapple,las-11-imagerepo-a,las-11-ann}
+
+\printbibliography[heading=none]
+\end{refsection}
+
+
+
+
+\section{Articles}
+
+\begin{refsection}
+\nocite{las-10-multicore,las-09-virt,las-09-yang-advances,las-00-sbc,las-01-acm,las-01-cmt,las-01-cog-concurency,las-02-cactus,las-02-cactus-j,las-02-corbacog,las-02-grip,las-02-javacog,las-02-perlcog,las-03-knowledge,las-04-abstraction-j,las-04-ftp-journal,las-04-qos-journal,las-04-atct-j,las-05-atct,las-05-gridhistory,las-05-portalarch,las-05-reputation-j,las-05-workflow-jgc,las-06-guss-j,las-07-ogce,las-09-cloud,las-10-ijahuc,las-10-ve-journal,las-11-ann,las-11-emolst,las-12-xdmod-kernel,las-13-ondemand,las-99-hbm-journal,las-99-ieee,las-99-loosely,las-10-wang-transactions,las-20-covid,las-21-covid,las-07-knowlege-portal,las-05-cmcs-cluster,las-98-telemedicine,krishnan2002gsfl,las-06-saga,las-03-minmin,las-11-energy,las-14-xdmod,las-98-ldap,las-05-qos-model,lu-93-journal,las-08-ms,van2006batch,las-05-portal-journal}
+\printbibliography[heading=none]
+\end{refsection}
+
+
+
+
+\end{document}

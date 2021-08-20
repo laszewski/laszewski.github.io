@@ -5,20 +5,12 @@
     <link>/author/gregor-von-laszewski/</link>
       <atom:link href="/author/gregor-von-laszewski/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor von Laszewski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 04:45:58 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Gregor von Laszewski</title>
       <link>/author/gregor-von-laszewski/</link>
     </image>
-    
-    <item>
-      <title>Cloudmesh Resource Reservation</title>
-      <link>/publication/las-80-reservation/</link>
-      <pubDate>Fri, 20 Aug 2021 04:45:58 +0000</pubDate>
-      <guid>/publication/las-80-reservation/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>HPTMT: Operator-Based Architecture for Scalable High-Performance Data-Intensive Frameworks</title>
@@ -65,6 +57,22 @@
       <link>/publication/las-15-impact-ncar/</link>
       <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/publication/las-15-impact-ncar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Resource Reservation</title>
+      <link>/publication/las-80-reservation/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-80-reservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic Sequence Analysis Automation</title>
+      <link>/publication/reu-2014-genome/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/reu-2014-genome/</guid>
       <description></description>
     </item>
     
