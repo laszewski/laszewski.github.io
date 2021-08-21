@@ -5,12 +5,11 @@ title: The Grid-Idea and Its Evolution
 subtitle: ''
 summary: ''
 authors:
-- von Laszewski
-- ' Gregor'
+- Gregor von Laszewski
 tags: []
 categories: []
 date: '2005-06-01'
-lastmod: 2021-08-20T09:55:49-04:00
+lastmod: 2021-08-21T08:50:09-04:00
 featured: false
 draft: false
 
@@ -28,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:49.647865Z'
+publishDate: '2021-08-21T12:50:09.455369Z'
 publication_types:
 - '2'
 abstract: ''

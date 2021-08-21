@@ -5,14 +5,13 @@ title: Grid Workflow with the Java CoG Kit
 subtitle: ''
 summary: ''
 authors:
-- von Laszewski
-- ' Gregor'
+- Gregor von Laszewski
 - Mihael Hategan
 - Depti Kodeboyina
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2021-08-20T09:55:51-04:00
+lastmod: 2021-08-21T08:50:11-04:00
 featured: false
 draft: false
 
@@ -30,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:51.514554Z'
+publishDate: '2021-08-21T12:50:11.247638Z'
 publication_types:
 - '6'
 abstract: ''

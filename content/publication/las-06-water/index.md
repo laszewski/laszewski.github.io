@@ -6,26 +6,18 @@ title: An Adaptive Cyberinfrastructure for Threat Management in Urban Water Dist
 subtitle: ''
 summary: ''
 authors:
-- ' Mahinthakumar'
-- ' Kumar'
-- von Laszewski
-- ' Gregor'
-- ' Ranjithan'
-- ' Ranji'
-- ' Brill'
-- ' Downey'
-- ' Uber'
-- ' Jim'
-- ' Harrison'
-- ' Ken'
-- ' Sreepathi'
-- ' Sarat'
-- ' Zechman'
-- ' Emily'
+- Kumar MahinthakuMarch
+- Gregor von Laszewski
+- Ranji Ranjithan
+- Downey Brill
+- Jim Uber
+- Ken Harrison
+- Sarat Sreepathi
+- Emily Zechman
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-08-20T09:55:51-04:00
+lastmod: 2021-08-21T08:50:11-04:00
 featured: false
 draft: false
 
@@ -43,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:51.302540Z'
+publishDate: '2021-08-21T12:50:11.037838Z'
 publication_types:
 - '1'
 abstract: ''

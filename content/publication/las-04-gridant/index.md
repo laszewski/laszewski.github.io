@@ -7,15 +7,14 @@ summary: ''
 authors:
 - Kaizar Amin
 - Mihael Hategan
-- von Laszewski
-- ' Gregor'
-- Nestor J. Zaluzec
+- Gregor von Laszewski
+- estor J. NZaluzec
 - Shawn Hampton
 - Albert Rossi
 tags: []
 categories: []
 date: '2004-01-01'
-lastmod: 2021-08-20T09:55:48-04:00
+lastmod: 2021-08-21T08:50:08-04:00
 featured: false
 draft: false
 
@@ -33,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:48.118137Z'
+publishDate: '2021-08-21T12:50:07.981955Z'
 publication_types:
 - '1'
 abstract: ''

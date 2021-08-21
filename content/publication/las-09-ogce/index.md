@@ -5,14 +5,10 @@ title: Open Grid Computing Environments
 subtitle: ''
 summary: ''
 authors:
-- ' Pierce'
-- ' Marlon'
-- ' Marru'
-- ' S.'
-- Wenjun Wu
-- Gopi Kandaswami
-- von Laszewski
-- ' Gregor'
+- Marlon Pierce
+- S. Marru
+- Gopi Kandaswami Wenjun Wu
+- Gregor von Laszewski
 - Rion Dooley
 - Maytal Dahan
 - Nancy Wilkins-Diehr
@@ -21,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2009-06-01'
-lastmod: 2021-08-20T09:55:54-04:00
+lastmod: 2021-08-21T08:50:13-04:00
 featured: false
 draft: false
 
@@ -39,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:53.995826Z'
+publishDate: '2021-08-21T12:50:13.593891Z'
 publication_types:
 - '1'
 abstract: ''

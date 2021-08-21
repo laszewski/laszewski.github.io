@@ -5,14 +5,12 @@ title: A Greedy Grid - The Grid Economic Engine Directive
 subtitle: ''
 summary: ''
 authors:
-- ' Vazhkudai'
-- ' Sudharshan'
-- von Laszewski
-- ' Gregor'
+- Sudharshan Vazhkudai
+- Gregor von Laszewski
 tags: []
 categories: []
 date: '2001-04-01'
-lastmod: 2021-08-20T09:55:44-04:00
+lastmod: 2021-08-21T08:50:04-04:00
 featured: false
 draft: false
 
@@ -30,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:43.914637Z'
+publishDate: '2021-08-21T12:50:04.083897Z'
 publication_types:
 - '1'
 abstract: ''

@@ -5,32 +5,18 @@ title: Using XDMoD to Facilitate XSEDE Operations and Planning and Analysis
 subtitle: ''
 summary: ''
 authors:
-- ' Furlani'
-- Thomas R.
-- ' Schneider'
-- Barry L.
-- ' Jones'
-- Matthew D.
-- ' Towns'
-- ' John'
-- ' Hart'
-- David L.
-- ' Gallo'
-- Steven M.
-- ' DeLeon'
-- Robert L.
-- ' Lu'
-- ' Charng-Da'
-- ' Ghadersohi'
-- ' Amin'
-- ' Gentner'
-- Ryan J.
-- ' Patra'
-- Abani K.
-- von Laszewski
-- ' Gregor'
-- ' Wang'
-- ' Fugang'
+- Thomas R., Schneider, Barry L. Furlani
+- Matthew D. Jones
+- John Towns
+- David L. Hart
+- Steven M. Gallo
+- Robert L. DeLeon
+- Charng-Da Lu
+- Amin Ghadersohi
+- Ryan J. Gentner
+- Abani K. Patra
+- Gregor von Laszewski
+- Fugang Wang
 - ' Palmer'
 - Jeffrey T.
 - ' Simakov'
@@ -39,7 +25,7 @@ tags:
 - '"Scientific IMpact and XSEDE and XDMoD"'
 categories: []
 date: '2013-01-01'
-lastmod: 2021-08-20T09:55:57-04:00
+lastmod: 2021-08-21T08:50:17-04:00
 featured: false
 draft: false
 
@@ -57,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:57.834094Z'
+publishDate: '2021-08-21T12:50:17.221341Z'
 publication_types:
 - '1'
 abstract: ''

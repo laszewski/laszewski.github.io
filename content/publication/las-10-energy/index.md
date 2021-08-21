@@ -5,24 +5,18 @@ title: Enabling Energy-Efficient Analysis of Massive Neural Signals Using GPGPU
 subtitle: ''
 summary: ''
 authors:
-- ' Chen'
-- ' Dan'
-- ' Wang'
-- ' Lizhe'
-- ' Wang'
-- ' Shuaiting'
-- ' Xiong'
-- ' Muzhou'
-- ' Laszewski'
-- Gregor von
-- ' Li'
-- ' Xiaoli'
+- Dan Chen
+- Lizhe Wang
+- Shuaiting Wang
+- Muzhou Xiong
+- Gregor von Laszewski
+- Xiaoli Li
 tags:
 - '"High Performance Computing and General-purpose Computing on the Graphics Processing
   Unit and Neural Signals and EEG"'
 categories: []
 date: '2010-01-01'
-lastmod: 2021-08-20T09:55:54-04:00
+lastmod: 2021-08-21T08:50:14-04:00
 featured: false
 draft: false
 
@@ -40,12 +34,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:54.427122Z'
+publishDate: '2021-08-21T12:50:14.019597Z'
 publication_types:
 - '1'
 abstract: ''
 publication: "*Proceedings of the 2010 IEEE/ACM Int'L Conference on Green Computing\
-  \ and Communications & Int'L Conference on Cyber and Physical and Social Computing*"
+  \ and Communications and Int'L Conference on Cyber and Physical and Social Computing*"
 url_pdf: 10.1109/GreenCom-CPSCom.2010.24
 doi: 10.1109/GreenCom-CPSCom.2010.24
 ---

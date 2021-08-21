@@ -5,34 +5,22 @@ title: A Grid Service-Based Active Thermochemical Table Framework
 subtitle: ''
 summary: ''
 authors:
-- ' Laszewski'
-- Gregor von
-- ' Ruscic'
-- ' Branko'
-- ' Wagstrom'
-- ' Patrick'
-- ' Krishnan'
-- ' Sriram'
-- ' Amin'
-- ' Kaizar'
-- ' Nijsure'
-- ' Sandeep'
-- ' Bittner'
-- ' Sandra'
-- ' Pinzon'
-- ' Reinhardt'
-- ' Hewson'
-- John C.
-- ' Morton'
-- Melita L.
-- ' Minkoff'
-- ' Mike'
-- ' Wagner'
-- ' Al'
+- Gregor von Laszewski
+- Branko Ruscic
+- Patrick Wagstrom
+- Sriram Krishnan
+- Kaizar Amin
+- Sandeep, Bittner Nijsure
+- 'a '
+- Reinhardt Pinzon
+- John C. Hewson
+- Melita L. Morton
+- Mike Minkoff
+- Al Wagner
 tags: []
 categories: []
 date: '2002-11-01'
-lastmod: 2021-08-20T09:55:44-04:00
+lastmod: 2021-08-21T08:50:04-04:00
 featured: false
 draft: false
 
@@ -50,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:44.445101Z'
+publishDate: '2021-08-21T12:50:04.510181Z'
 publication_types:
 - '1'
 abstract: ''

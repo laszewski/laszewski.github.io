@@ -9,8 +9,7 @@ authors:
 - Thomas R. Furlani
 - Matthew D. Jones
 - Steven M. Gallo
-- ' Bruno'
-- Andrew E.
+- Andrew E. Bruno
 - Charng-Da Lu
 - Amin Ghadersohi
 - Ryan J. Gentner
@@ -19,26 +18,25 @@ authors:
 - Gregor von Laszewski
 - Fugang Wang
 - Ann Zimmerman
-- Thomas R Furlani
-- Barry I Schneider
-- Matthew D Jones
-- ' John'
-- ' Towns'
-- David L Hart
-- Abani K Patra
-- Robert L Deleon
-- Steven M Gallo
+- FurlaniThomas R.
+- Barry I. Schneider
+- Matthew D. Jones
+- John Towns
+- David L. Hart
+- Abani K. Patra
+- Robert L. Deleon
+- Steven M. Gallo
 - Charng-Da Lu
 - Amin Ghadersohi
-- Ryan J Gentner
-- Andrew E Bruno
-- John R Boisseau
+- Ryan J. Gentner
+- Andrew E. Bruno
+- John R. Boisseau
 - Fugang Wang
-- Gregor Von Laszewski
+- Gregor von Laszewski
 tags: []
 categories: []
 date: '2013-07-01'
-lastmod: 2021-08-20T09:55:57-04:00
+lastmod: 2021-08-21T08:50:17-04:00
 featured: false
 draft: false
 
@@ -56,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:57.516304Z'
+publishDate: '2021-08-21T12:50:16.900725Z'
 publication_types:
 - '2'
 abstract: ''

@@ -11,7 +11,7 @@ authors:
 - M. L. Morton
 - B. Wang
 - A. F. Wagner
-- G. von Laszevski
+- Gregor von Laszewski
 - S. G. Nijsure
 - K. A. Amin
 - Sandra J. Bittner
@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2003-06-01'
-lastmod: 2021-08-20T09:55:46-04:00
+lastmod: 2021-08-21T08:50:05-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:45.936807Z'
+publishDate: '2021-08-21T12:50:05.881018Z'
 publication_types:
 - '1'
 abstract: ''

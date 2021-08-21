@@ -5,22 +5,16 @@ title: Towards Thermal Aware Workload Scheduling in a Data Center
 subtitle: ''
 summary: ''
 authors:
-- ' Wang'
-- ' Lizhe'
-- von Laszewski
-- ' Gregor'
-- ' Dayal'
-- ' Jai'
-- ' He'
-- ' Xi'
-- ' Younge'
-- Andrew J.
-- ' Furlani'
-- Thomas R.
+- Lizhe Wang
+- Gregor von Laszewski
+- Jai Dayal
+- Xi He
+- Andrew J. Younge
+- Thomas R. Furlani
 tags: []
 categories: []
 date: '2009-12-01'
-lastmod: 2021-08-20T09:55:53-04:00
+lastmod: 2021-08-21T08:50:13-04:00
 featured: false
 draft: false
 
@@ -38,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:53.881089Z'
+publishDate: '2021-08-21T12:50:13.487621Z'
 publication_types:
 - '1'
 abstract: ''

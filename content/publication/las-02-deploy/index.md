@@ -5,8 +5,7 @@ title: Software and Component and and Service Deployment in Computational Grids
 subtitle: ''
 summary: ''
 authors:
-- von Laszewski
-- ' Gregor'
+- Gregor von Laszewski
 - Eric Blau
 - Michael Bletzinger
 - Jarek Gawor
@@ -16,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2002-06-01'
-lastmod: 2021-08-20T09:55:44-04:00
+lastmod: 2021-08-21T08:50:05-04:00
 featured: false
 draft: false
 
@@ -34,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:44.882117Z'
+publishDate: '2021-08-21T12:50:04.933127Z'
 publication_types:
 - '1'
 abstract: ''

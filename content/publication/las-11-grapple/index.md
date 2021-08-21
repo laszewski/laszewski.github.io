@@ -7,15 +7,13 @@ summary: ''
 authors:
 - Javier Diaz
 - Andrew Younge
-- von Laszewski
-- ' Gregor'
-- ' FugangWang'
-- ' Fox'
-- Geoffrey C.
+- Gregor von Laszewski
+- Fugang Wang
+- Geoffrey C. Fox
 tags: []
 categories: []
 date: '2011-04-01'
-lastmod: 2021-08-20T09:55:56-04:00
+lastmod: 2021-08-21T08:50:15-04:00
 featured: false
 draft: false
 
@@ -33,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:56.030595Z'
+publishDate: '2021-08-21T12:50:15.508953Z'
 publication_types:
 - '1'
 abstract: ''

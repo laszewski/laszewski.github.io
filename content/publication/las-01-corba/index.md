@@ -5,18 +5,14 @@ title: Design and Implementation of a CORBA Commodity Grid Kit
 subtitle: ''
 summary: ''
 authors:
-- ' Verma'
-- ' Snigdha'
-- ' Parashar'
-- ' Manish'
-- ' Gawor'
-- ' Jarek'
-- von Laszewski
-- ' Gregor'
+- Snigdha Verma
+- Manish Parashar
+- Jarek Gawor
+- Gregor von Laszewski
 tags: []
 categories: []
 date: '2001-11-01'
-lastmod: 2021-08-20T09:55:43-04:00
+lastmod: 2021-08-21T08:50:03-04:00
 featured: false
 draft: false
 
@@ -34,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:43.562574Z'
+publishDate: '2021-08-21T12:50:03.763679Z'
 publication_types:
 - '1'
 abstract: ''

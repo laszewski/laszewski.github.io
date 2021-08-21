@@ -5,13 +5,12 @@ title: A QoS Guided Scheduling Algorithm for the Computational Grid
 subtitle: ''
 summary: ''
 authors:
-- X. He
-- X. -H. Sun
-- G. Laszewski
+- X.-H. Sun X. He
+- Gregor von Laszewski
 tags: []
 categories: []
 date: '2002-12-01'
-lastmod: 2021-08-20T09:55:45-04:00
+lastmod: 2021-08-21T08:50:05-04:00
 featured: false
 draft: false
 
@@ -29,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:44.996326Z'
+publishDate: '2021-08-21T12:50:05.038722Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,14 +6,12 @@ title: Simulation of Threat Management of Urban Water Distribution Systems with 
 subtitle: ''
 summary: ''
 authors:
-- von Laszewski
-- ' Gregor'
-- Lizhe Wang
-- Fugang Wang
+- Gregor von Laszewski
+- Fugang Wang Lizhe Wang
 tags: []
 categories: []
 date: '2011-04-01'
-lastmod: 2021-08-20T09:55:56-04:00
+lastmod: 2021-08-21T08:50:16-04:00
 featured: false
 draft: false
 
@@ -31,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:56.682843Z'
+publishDate: '2021-08-21T12:50:16.155330Z'
 publication_types:
 - '1'
 abstract: ''

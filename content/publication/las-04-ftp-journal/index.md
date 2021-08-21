@@ -6,8 +6,7 @@ title: An Overview of Grid File Transfer Patterns and their Implementation in th
 subtitle: ''
 summary: ''
 authors:
-- von Laszewski
-- ' Gregor'
+- Gregor von Laszewski
 - Jarek Gawor
 - Pawel Plaszczak
 - Mike Hategan
@@ -17,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2004-09-01'
-lastmod: 2021-08-20T09:55:47-04:00
+lastmod: 2021-08-21T08:50:07-04:00
 featured: false
 draft: false
 
@@ -35,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:47.765304Z'
+publishDate: '2021-08-21T12:50:07.668592Z'
 publication_types:
 - '2'
 abstract: ''

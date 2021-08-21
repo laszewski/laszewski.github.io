@@ -7,8 +7,7 @@ summary: ''
 authors:
 - David Snelling
 - Sven van den Berghe
-- von Laszewski
-- ' Gregor'
+- Gregor von Laszewski
 - Philipp Wieder
 - D. Breuer
 - Jon MacLaren
@@ -18,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2002-01-01'
-lastmod: 2021-08-20T09:55:45-04:00
+lastmod: 2021-08-21T08:50:05-04:00
 featured: false
 draft: false
 
@@ -36,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:45.165812Z'
+publishDate: '2021-08-21T12:50:05.143405Z'
 publication_types:
 - '2'
 abstract: ''

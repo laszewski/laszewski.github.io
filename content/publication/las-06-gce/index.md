@@ -5,12 +5,11 @@ title: Grid Computing Environments 2006 Confernce Proceeedings
 subtitle: ''
 summary: ''
 authors:
-- von Laszewski
-- ' Gregor'
+- Gregor von Laszewski
 tags: []
 categories: []
 date: '2006-11-01'
-lastmod: 2021-08-20T09:55:50-04:00
+lastmod: 2021-08-21T08:50:10-04:00
 featured: false
 draft: false
 
@@ -28,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:50.867670Z'
+publishDate: '2021-08-21T12:50:10.613823Z'
 publication_types:
 - '0'
 abstract: ''

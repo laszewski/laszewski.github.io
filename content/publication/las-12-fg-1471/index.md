@@ -6,10 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Frederic Desprez
-- ' Fox'
-- ' Geoffrey'
-- Emmanuel Jeannot
-- Kate Keahey
+- Geoffrey Fox
+- Kate Keahey Emmanuel Jeannot
 - Michael Kozuch
 - David Margery
 - Pierre Neyron
@@ -22,7 +20,7 @@ authors:
 tags: []
 categories: []
 date: '2012-03-01'
-lastmod: 2021-08-20T09:55:57-04:00
+lastmod: 2021-08-21T08:50:16-04:00
 featured: false
 draft: false
 
@@ -40,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:57.087713Z'
+publishDate: '2021-08-21T12:50:16.473999Z'
 publication_types:
 - '4'
 abstract: ''

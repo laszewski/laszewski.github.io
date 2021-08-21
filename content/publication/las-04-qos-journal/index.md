@@ -5,24 +5,17 @@ title: Analysis and Provision of QoS for Distributed Grid Applications
 subtitle: ''
 summary: ''
 authors:
-- ' Al-Ali'
-- Rashid J.
-- ' Amin'
-- ' Kaizar'
-- von Laszewski
-- ' Gregor'
-- ' Rana'
-- Omer F.
-- ' Walker'
-- David W.
-- ' Hategan'
-- ' Mihael'
-- ' Zaluzec'
-- ' Nestor'
+- Rashid J. Al-Ali
+- Kaizar Amin
+- Gregor von Laszewski
+- Omer F. Rana
+- David W. Walker
+- Mihael Hategan
+- Nestor Zaluzec
 tags: []
 categories: []
 date: '2004-06-01'
-lastmod: 2021-08-20T09:55:48-04:00
+lastmod: 2021-08-21T08:50:08-04:00
 featured: false
 draft: false
 
@@ -40,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:48.436460Z'
+publishDate: '2021-08-21T12:50:08.297251Z'
 publication_types:
 - '2'
 abstract: ''

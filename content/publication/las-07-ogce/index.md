@@ -6,37 +6,24 @@ title: 'The Open Grid Computing Environments collaboration: portlets and service
 subtitle: ''
 summary: ''
 authors:
-- ' Alameda'
-- ' Jay'
-- ' Christie'
-- ' Marcus'
-- ' Fox'
-- ' Geoffrey'
-- ' Futrelle'
-- ' Joe'
-- ' Gannon'
-- ' Dennis'
-- ' Hategan'
-- ' Mihael'
-- ' Kandaswamy'
-- ' Gopi'
-- von Laszewski
-- ' Gregor'
-- ' Nacar'
-- Mehmet A.
-- ' Pierce'
-- ' Marlon'
-- ' Roberts'
-- ' Eric'
-- ' Severance'
-- ' Charles'
-- ' Thomas'
-- ' Mary'
+- Jay Alameda
+- Marcus Christie
+- Geoffrey Fox
+- Joe Futrelle
+- Dennis Gannon
+- Mihael Hategan
+- 'swamy '
+- von Laszewski, Gregor Gopi
+- Mehmet A. Nacar
+- Marlon Pierce
+- Eric Roberts
+- Charles Severance
+- Mary Thomas
 tags:
 - '"portlets and collaboration and Grid services"'
 categories: []
 date: '2007-01-01'
-lastmod: 2021-08-20T09:55:52-04:00
+lastmod: 2021-08-21T08:50:11-04:00
 featured: false
 draft: false
 
@@ -54,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:52.097465Z'
+publishDate: '2021-08-21T12:50:11.775175Z'
 publication_types:
 - '2'
 abstract: ''

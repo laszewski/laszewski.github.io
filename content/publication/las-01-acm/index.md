@@ -6,14 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Vladimir Getov
-- von Laszewski
-- ' Gregor'
+- Gregor von Laszewski
 - Michael Philippsen
 - Ian Foster
 tags: []
 categories: []
 date: '2001-10-01'
-lastmod: 2021-08-20T09:55:43-04:00
+lastmod: 2021-08-21T08:50:03-04:00
 featured: false
 draft: false
 
@@ -31,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:43.233891Z'
+publishDate: '2021-08-21T12:50:03.442242Z'
 publication_types:
 - '2'
 abstract: ''

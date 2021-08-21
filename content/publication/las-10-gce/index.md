@@ -8,10 +8,8 @@ authors:
 - Gregor von Laszewski
 - Geoffrey C. Fox
 - Fugang Wang
-- ' Younge'
-- Andrew J
-- ' Kulshrestha'
-- Gregory G. Pike
+- Andrew J. Younge
+- Pike, Gregory G. Archit Kulshrestha
 - Warren Smith
 - Jens Voeckler
 - Renato J. Figueiredo
@@ -21,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2010-11-01'
-lastmod: 2021-08-20T09:55:54-04:00
+lastmod: 2021-08-21T08:50:14-04:00
 featured: false
 draft: false
 
@@ -39,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:54.638541Z'
+publishDate: '2021-08-21T12:50:14.231578Z'
 publication_types:
 - '1'
 abstract: ''

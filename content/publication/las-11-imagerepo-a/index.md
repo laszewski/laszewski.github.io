@@ -9,14 +9,13 @@ authors:
 - Javier Diaz
 - Gregor von Laszewski
 - Fugang Wang
-- ' Younge'
-- Andrew J
+- Andrew J Younge
 - Geoffrey C. Fox
 tags:
 - '"image repository"'
 categories: []
 date: '2011-12-01'
-lastmod: 2021-08-20T09:55:56-04:00
+lastmod: 2021-08-21T08:50:15-04:00
 featured: false
 draft: false
 
@@ -34,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:56.257247Z'
+publishDate: '2021-08-21T12:50:15.723896Z'
 publication_types:
 - '1'
 abstract: ''

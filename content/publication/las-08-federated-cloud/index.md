@@ -6,28 +6,19 @@ title: Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding
 subtitle: ''
 summary: ''
 authors:
-- von Laszewski
-- ' Gregor'
-- ' Lee'
-- ' Hyungro'
-- ' Diaz'
-- ' Javier'
-- ' Wang'
-- ' Fugang'
-- ' Tanaka'
-- ' Koji'
-- ' Karavinkoppa'
-- ' Shubhada'
-- ' Fox'
-- Geoffrey C.
-- ' Furlani'
-- ' Tom'
+- Gregor von Laszewski
+- Hyungro Lee
+- Javier Diaz
+- Fugang, Tanaka, Koji Wang
+- Shubhada Karavinkoppa
+- Geoffrey C. Fox
+- Tom Furlani
 tags:
 - '"cloud metric and cloud seeding and cloud shifting and dynamic provisioning and
   federated clouds and futuregrid and rain"'
 categories: []
 date: '2012-01-01'
-lastmod: 2021-08-20T09:55:53-04:00
+lastmod: 2021-08-21T08:50:12-04:00
 featured: false
 draft: false
 
@@ -45,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T13:55:52.995023Z'
+publishDate: '2021-08-21T12:50:12.631398Z'
 publication_types:
 - '1'
 abstract: ''
