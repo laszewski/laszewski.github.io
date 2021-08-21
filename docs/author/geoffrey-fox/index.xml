@@ -21,18 +21,26 @@
     </item>
     
     <item>
-      <title>Genomic Sequence Analysis Automation</title>
-      <link>/publication/reu-2014-genome/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/reu-2014-genome/</guid>
+      <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
+      <link>/publication/las-15-impact-ncar/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-impact-ncar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The FutureGrid Testbed for Big Data</title>
-      <link>/publication/las-14-bigdata/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-bigdata/</guid>
+      <title>Co-processing SPMD computation on CPUs and GPUs cluster</title>
+      <link>/publication/las-13-gpu/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-13-gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Experimental Computer Science</title>
+      <link>/publication/las-12-fg-1471/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-fg-1471/</guid>
       <description></description>
     </item>
     
@@ -49,6 +57,22 @@
       <link>/publication/kosar-2011-workshop/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/kosar-2011-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
+      <link>/publication/las-07-ogce/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/las-07-ogce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid portals: a scientist&#39;s access point for grid services</title>
+      <link>/publication/gannon-2003-grid/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/gannon-2003-grid/</guid>
       <description></description>
     </item>
     

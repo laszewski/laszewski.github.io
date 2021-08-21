@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>A Model for Quality-of-Service Provision in Service Oriented Architectures</title>
+      <link>/publication/las-05-qos-model/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-qos-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Quality-of-Service Based Grid Communities</title>
       <link>/publication/las-05-qos-book/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
@@ -61,6 +69,14 @@
     </item>
     
     <item>
+      <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
+      <link>/publication/las-04-qos-journal/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-qos-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QoS Support for High-performance Scientific Grid Applications</title>
       <link>/publication/las-04-qos-ccgrid/</link>
       <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
@@ -73,6 +89,14 @@
       <link>/publication/las-04-abstracting/</link>
       <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
       <guid>/publication/las-04-abstracting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Middleware</title>
+      <link>/publication/las-04-grid-midleware/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/las-04-grid-midleware/</guid>
       <description></description>
     </item>
     
@@ -137,6 +161,14 @@
       <link>/publication/las-02-ocgsa/</link>
       <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
       <guid>/publication/las-02-ocgsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Grid Service-Based Active Thermochemical Table Framework</title>
+      <link>/publication/las-02-activetable/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/las-02-activetable/</guid>
       <description></description>
     </item>
     

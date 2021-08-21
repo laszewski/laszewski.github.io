@@ -5,12 +5,20 @@
     <link>/author/fugang-wang/</link>
       <atom:link href="/author/fugang-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Fugang Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Fugang Wang</title>
       <link>/author/fugang-wang/</link>
     </image>
+    
+    <item>
+      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>
+      <link>/publication/las-21-impact/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-21-impact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
@@ -33,6 +41,30 @@
       <link>/publication/las-19-harc-comet/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/publication/las-19-harc-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Scientific Impact of XSEDE</title>
+      <link>/publication/las-18-impact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
+      <link>/publication/las-17-cloudmesh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-cloudmesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Managed Virtual Clusters in Comet</title>
+      <link>/publication/las-16-virtcluster/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/las-16-virtcluster/</guid>
       <description></description>
     </item>
     
@@ -61,6 +93,30 @@
     </item>
     
     <item>
+      <title>TAS View of XSEDE Users and Usage</title>
+      <link>/publication/las-15-tas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive and open-source resource usage measurement and analysis for HPC systems</title>
+      <link>/publication/las-14-xdmod/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-xdmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
+      <link>/publication/leetowards/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/leetowards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Accessing multiple clouds with cloudmesh</title>
       <link>/publication/las-14-multi-grid/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -69,10 +125,34 @@
     </item>
     
     <item>
+      <title>The FutureGrid Testbed for Big Data</title>
+      <link>/publication/las-14-bigdata/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
+      <link>/publication/las-14-impact/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
       <link>/publication/las-12-xdmod-kernel/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/publication/las-12-xdmod-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using XDMoD to Facilitate XSEDE Operations and Planning and Analysis</title>
+      <link>/publication/las-13-xdmod/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-13-xdmod/</guid>
       <description></description>
     </item>
     
@@ -101,10 +181,26 @@
     </item>
     
     <item>
-      <title>Simulation of Threat Management of Urban Water Distribution Systems with Grid Workflow</title>
-      <link>/publication/las-11-wtm-hadoop/</link>
+      <title>Grappling cloud infrastructure services with a generic image repository</title>
+      <link>/publication/las-11-grapple/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-wtm-hadoop/</guid>
+      <guid>/publication/las-11-grapple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat detection in an urban water distribution systems with simulations conducted in grids and clouds</title>
+      <link>/publication/von-2011-threat/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2011-threat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards cloud deployments using futuregrid</title>
+      <link>/publication/las-11-towards-deployment/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-towards-deployment/</guid>
       <description></description>
     </item>
     
@@ -113,6 +209,22 @@
       <link>/publication/las-10-gce/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>/publication/las-10-gce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyberaide Virtual Applicance: On-Demand Deploying Middleware for Cyberinfrastructure</title>
+      <link>/publication/las-09-cloudcomp/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-cloudcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Energy Aware Scheduling for Precedence Constrained Parallel Tasks in a Cluster with DVFS</title>
+      <link>/publication/las-10-ccgrid/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-ccgrid/</guid>
       <description></description>
     </item>
     

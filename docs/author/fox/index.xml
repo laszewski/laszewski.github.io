@@ -5,7 +5,7 @@
     <link>/author/fox/</link>
       <atom:link href="/author/fox/index.xml" rel="self" type="application/rss+xml" />
     <description> Fox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title> Fox</title>
@@ -13,178 +13,10 @@
     </image>
     
     <item>
-      <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>
-      <link>/publication/las-21-impact/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>net. science: A cyberinfrastructure for sustained innovation in network science and engineering</title>
-      <link>/publication/las-20-net-science/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-net-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/las-18-handbook/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-handbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluating the Scientific Impact of XSEDE</title>
-      <link>/publication/las-18-impact/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
-      <link>/publication/las-17-teaching/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cloudmesh in support of the NIST Big Data Architecture Framework</title>
       <link>/publication/las-17-cloudmesh/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/las-17-cloudmesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Futuregrid: a Reconfigurable Testbed for Cloud and Hpc and and Grid Computing</title>
-      <link>/publication/las-17-futuregrid/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-futuregrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>User Managed Virtual Clusters in Comet</title>
-      <link>/publication/las-16-virtcluster/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/las-16-virtcluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
-      <link>/publication/leetowards/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/leetowards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The FutureGrid Testbed for Big Data</title>
-      <link>/publication/las-14-bigdata/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-bigdata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
-      <link>/publication/las-14-impact/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-processing SPMD computation on CPUs and GPUs cluster</title>
-      <link>/publication/las-13-gpu/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/las-13-gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supporting Experimental Computer Science</title>
-      <link>/publication/las-12-fg-1471/</link>
-      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-fg-1471/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
-      <link>/publication/las-08-federated-cloud/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-08-federated-cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grappling cloud infrastructure services with a generic image repository</title>
-      <link>/publication/las-11-grapple/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-grapple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Providing a Green Framework for Cloud Based Data Centers</title>
-      <link>/publication/las-11-greenchapter/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-greenchapter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Threat detection in an urban water distribution systems with simulations conducted in grids and clouds</title>
-      <link>/publication/von-2011-threat/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2011-threat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards cloud deployments using futuregrid</title>
-      <link>/publication/las-11-towards-deployment/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-towards-deployment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/las-10-sc-poster-rain/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-sc-poster-rain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
-      <link>/publication/las-07-ogce/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/las-07-ogce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grid portals: a scientist&#39;s access point for grid services</title>
-      <link>/publication/gannon-2003-grid/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/gannon-2003-grid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blocked LU factorization on a multiprocessor computer</title>
-      <link>/publication/lu-93-journal/</link>
-      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>/publication/lu-93-journal/</guid>
       <description></description>
     </item>
     

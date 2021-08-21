@@ -5,12 +5,20 @@
     <link>/author/javier-diaz/</link>
       <atom:link href="/author/javier-diaz/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Diaz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Javier Diaz</title>
       <link>/author/javier-diaz/</link>
     </image>
+    
+    <item>
+      <title>Futuregrid: a Reconfigurable Testbed for Cloud and Hpc and and Grid Computing</title>
+      <link>/publication/las-17-futuregrid/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-futuregrid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contemporary HPC Architectures</title>
@@ -37,6 +45,14 @@
     </item>
     
     <item>
+      <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
+      <link>/publication/las-08-federated-cloud/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-08-federated-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
       <link>/publication/las-11-imagerepo-a/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
@@ -49,6 +65,14 @@
       <link>/publication/las-11-grapple/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
       <guid>/publication/las-11-grapple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards cloud deployments using futuregrid</title>
+      <link>/publication/las-11-towards-deployment/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-towards-deployment/</guid>
       <description></description>
     </item>
     

@@ -52,5 +52,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>GOSv3: A Data Definition Language for Grid Information Services</title>
+      <link>/publication/las-01-gosv-3/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-gosv-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mdsml: An xml binding to the grid object specificaction</title>
+      <link>/publication/las-00-mdsml/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-mdsml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-Realtime X-Ray Microtomography System at the Advanced Photon Source</title>
+      <link>/publication/las-99-spie/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/las-99-spie/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>/author/g.-von-laszewski/</link>
       <atom:link href="/author/g.-von-laszewski/index.xml" rel="self" type="application/rss+xml" />
     <description>G. von Laszewski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>G. von Laszewski</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/las-10-sc-poster-rain/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-sc-poster-rain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grid Portal Architectures for Scientific Applications</title>
-      <link>/publication/las-05-scidac-poster-portal/</link>
-      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-scidac-poster-portal/</guid>
+      <title>Ad hoc grid security infrastructure</title>
+      <link>/publication/las-05-ad-hoc-sec/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-05-ad-hoc-sec/</guid>
       <description></description>
     </item>
     

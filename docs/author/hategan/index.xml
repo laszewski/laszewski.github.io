@@ -20,37 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>The Open Grid Computing Environments collaboration: portlets and services for science gateways</title>
-      <link>/publication/las-07-ogce/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/las-07-ogce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ad hoc grid security infrastructure</title>
-      <link>/publication/las-05-ad-hoc-sec/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-ad-hoc-sec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java cog kit karajan/gridant workflow guide</title>
-      <link>/publication/las-05-gridandt-user/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-gridandt-user/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
-      <link>/publication/las-04-qos-journal/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-qos-journal/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

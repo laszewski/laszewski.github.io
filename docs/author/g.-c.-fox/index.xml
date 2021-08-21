@@ -5,12 +5,44 @@
     <link>/author/g.-c.-fox/</link>
       <atom:link href="/author/g.-c.-fox/index.xml" rel="self" type="application/rss+xml" />
     <description>G. C. Fox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2005 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>G. C. Fox</title>
       <link>/author/g.-c.-fox/</link>
     </image>
+    
+    <item>
+      <title>Big Data Applications and Analytics</title>
+      <link>/publication/las-20-book-bigdata/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Systems Engineering</title>
+      <link>/publication/las-20-book-222/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-20-book-222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Providing a Green Framework for Cloud Based Data Centers</title>
+      <link>/publication/las-11-greenchapter/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-greenchapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
+      <link>/publication/las-10-sc-poster-rain/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/las-10-sc-poster-rain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grid Portal Architectures for Scientific Applications</title>

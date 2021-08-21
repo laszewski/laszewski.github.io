@@ -29,6 +29,30 @@
     </item>
     
     <item>
+      <title>TAS View of XSEDE Users and Usage</title>
+      <link>/publication/las-15-tas/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/las-15-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive and open-source resource usage measurement and analysis for HPC systems</title>
+      <link>/publication/las-14-xdmod/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-xdmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
+      <link>/publication/las-14-impact/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-14-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
       <link>/publication/las-12-xdmod-kernel/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -41,6 +65,14 @@
       <link>/publication/las-09-ipccc/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       <guid>/publication/las-09-ipccc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Thermal Aware Workload Scheduling in a Data Center</title>
+      <link>/publication/las-09-ispan/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/las-09-ispan/</guid>
       <description></description>
     </item>
     

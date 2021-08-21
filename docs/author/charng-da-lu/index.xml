@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Using XDMoD to Facilitate XSEDE Operations and Planning and Analysis</title>
+      <link>/publication/las-13-xdmod/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/las-13-xdmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analytics driven cyberinfrastructure operations and planning and analysis using XDMoD</title>
+      <link>/publication/las-12-xdmod-data/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-12-xdmod-data/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

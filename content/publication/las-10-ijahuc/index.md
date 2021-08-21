@@ -15,7 +15,7 @@ tags:
   grid workflow and high energy physics applications and virtual data systems"'
 categories: []
 date: '2010-09-01'
-lastmod: 2021-08-21T08:50:14-04:00
+lastmod: 2021-08-21T08:56:17-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-21T12:50:14.337671Z'
+publishDate: '2021-08-21T12:56:17.282845Z'
 publication_types:
 - '2'
 abstract: ''

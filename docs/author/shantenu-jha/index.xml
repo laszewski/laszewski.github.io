@@ -5,7 +5,7 @@
     <link>/author/shantenu-jha/</link>
       <atom:link href="/author/shantenu-jha/index.xml" rel="self" type="application/rss+xml" />
     <description>Shantenu Jha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Shantenu Jha</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Contributions to High-Performance Big Data Computing</title>
-      <link>/publication/las-18-contributions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-contributions/</guid>
+      <title>SAGA: A Simple API for Grid Applications. High-level application programming on the Grid</title>
+      <link>/publication/las-06-saga/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-saga/</guid>
       <description></description>
     </item>
     

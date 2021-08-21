@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2009-10-01'
-lastmod: 2021-08-21T08:50:14-04:00
+lastmod: 2021-08-21T08:56:17-04:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-21T12:50:14.761325Z'
+publishDate: '2021-08-21T12:56:17.707075Z'
 publication_types:
 - '1'
 abstract: In this paper we are introducing a framework towards the inclusion of Green

@@ -5,12 +5,20 @@
     <link>/author/beth-plale/</link>
       <atom:link href="/author/beth-plale/index.xml" rel="self" type="application/rss+xml" />
     <description>Beth Plale</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2002 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Beth Plale</title>
       <link>/author/beth-plale/</link>
     </image>
+    
+    <item>
+      <title>Grid portals: a scientist&#39;s access point for grid services</title>
+      <link>/publication/gannon-2003-grid/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/gannon-2003-grid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Key Concepts and Services of a Grid Information Service</title>

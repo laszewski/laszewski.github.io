@@ -5,7 +5,7 @@
     <link>/author/g-von-laszewski/</link>
       <atom:link href="/author/g-von-laszewski/index.xml" rel="self" type="application/rss+xml" />
     <description>G von Laszewski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>G von Laszewski</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Grid portal architectures for scientific applications</title>
-      <link>/publication/las-05-portal-journal/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-portal-journal/</guid>
+      <title>Grid portals: a scientist&#39;s access point for grid services</title>
+      <link>/publication/gannon-2003-grid/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/gannon-2003-grid/</guid>
       <description></description>
     </item>
     

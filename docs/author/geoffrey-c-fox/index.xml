@@ -5,12 +5,60 @@
     <link>/author/geoffrey-c-fox/</link>
       <atom:link href="/author/geoffrey-c-fox/index.xml" rel="self" type="application/rss+xml" />
     <description>Geoffrey C Fox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Geoffrey C Fox</title>
       <link>/author/geoffrey-c-fox/</link>
     </image>
+    
+    <item>
+      <title>Evaluating the Scientific Impact of XSEDE</title>
+      <link>/publication/las-18-impact/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-18-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Futuregrid: a Reconfigurable Testbed for Cloud and Hpc and and Grid Computing</title>
+      <link>/publication/las-17-futuregrid/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-17-futuregrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards understanding cloud usage through resource allocation analysis on xsede</title>
+      <link>/publication/leetowards/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/leetowards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat detection in an urban water distribution systems with simulations conducted in grids and clouds</title>
+      <link>/publication/von-2011-threat/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/von-2011-threat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards cloud deployments using futuregrid</title>
+      <link>/publication/las-11-towards-deployment/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/las-11-towards-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocked LU factorization on a multiprocessor computer</title>
+      <link>/publication/lu-93-journal/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/lu-93-journal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Parallelization of Blocked LU Factorization Algorithms on Distributed Memory Architectures</title>
