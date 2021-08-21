@@ -1,43 +1,56 @@
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
+\documentclass{article}
 
-\documentclass{resume} % Use the custom resume.cls style
+\usepackage{fontawesome}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\usepackage{xcolor}
+\definecolor{highlight}{RGB}{0,0,173}
+\definecolor{blue}{rgb}{1,0.5,0}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+
+\usepackage{titlesec}
+\titleformat{\section}
+  {\bigskip\color{highlight}\normalfont\Large\bfseries}{\hspace{-12pt}}{.5em}{\vspace{.5ex}\MakeUppercase}[\titlerule]
+\titlespacing*{\section}
+              {0pt}{0pt}{15pt}
+              
+
 \usepackage[style=ieee]{biblatex}
-%\usepackage{biblatex}
-
-\usepackage[hyphens]{url}
+\usepackage{url}
 \usepackage[hidelinks]{hyperref}
-\hypersetup{breaklinks=true}
+%\usepackage[hyphens]{url}
+%\hypersetup{breaklinks=true}
 
-
+\let\origurl\url
+\renewcommand{\url}[1]{\href{#1}{\faExternalLink}}
 
 \addbibresource{../../vonLaszewski-jabref.bib}
 
-\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
-\usepackage{titlesec}
 
-\titleformat{\section}
-  {\normalfont\Large\bfseries}{\thechapter \quad \MakeUppercase{#1}}{.5em}{\vspace{.5ex}}[\titlerule]
-\titlespacing*{\chapter}
-  {0pt}{0pt}{15pt}
+\parindent0pt
 
-\titleformat{\section}
-  {\normalfont\Large\bfseries}{\hspace{-24pt}}{.5em}{\vspace{.5ex}\MakeUppercase}[\titlerule]
-\titlespacing*{\section}
-  {0pt}{0pt}{15pt}
 
-\name{Gregor von Laszewski, Ph.D.} 
-\address{8282 Sout Stone Ridge Rd\\ Bloomington, IN 47401} 
-\address{(812)~824-8660 \\ laszewski@gmail.com}
 
 \begin{document}
 
+\begin{center}
+{\huge\bf Gregor von Laszewski, Ph.D.} \\
+\smallskip
+8282 South Stone Ridge Rd\\
+Bloomington, IN 47401\\
+(812)~824-8660\\
+laszewski@gmail.com\\
+\end{center}
+
+
 %----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
+% EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Education}
+\section{Education}
 
 {\bf University of California, Berkeley} \hfill {\em June 2004} \\ 
 B.S. in Computer Science \& Engineering \\
@@ -45,76 +58,220 @@ Minor in Linguistics \smallskip \\
 Member of Eta Kappa Nu \\
 Member of Upsilon Pi Epsilon \\
 Overall GPA: 5.678
+\bigskip
 
-\end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE SECTION
+% WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Experience}
+\section{Experience}
 
-\begin{rSubsection}{ACME, Inc}{October 2010 - Present}{Web Developer}{Palo Alto, CA}
+ACME, Inc
+Web Developer
+October 2010 - Present
+Palo Alto, CA
+
+\begin{itemize}
 \item Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus.
 \item Donec et mollis dolor. Praesent et diam eget libero Adobe Coldfusion egestas mattis sit amet vitae augue.
 \item Nam tincidunt congue enim, ut porta lorem Microsoft SQL lacinia consectetur.
 \item Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 \item Pellentesque auctor nisi id magna consequat JavaScript sagittis.
 \item Aliquam at massa ipsum. Quisque bash bibendum purus convallis nulla ultrices ultricies.
-\end{rSubsection}
+\end{itemize}
 
 %------------------------------------------------
 
-\begin{rSubsection}{AJAX Hosting}{December 2009 - October 2010}{Lead Developer}{Austin, TX}
+{ACME, Inc}
+{Web Developer}
+October 2010 - Present
+Palo Alto, CA
+
+\begin{itemize}
 \item Aenean ut gravida lorem. Ut turpis felis, Perl pulvinar a semper sed, adipiscing id dolor.
 \item Curabitur dapibus enim sit amet elit pharetra tincidunt website feugiat nisl imperdiet. Ut convallis AJAX libero in urna ultrices accumsan.
 \item Cum sociis natoque penatibus et magnis dis MySQL parturient montes, nascetur ridiculus mus.
 \item In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
 \item Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper.
-\end{rSubsection}
-
-%------------------------------------------------
-
-\begin{rSubsection}{TinySoft}{January 2008 - April 2010}{Web Designer \& Developer}{Gainesville, GA}
-\item Vivamus PostgreSQL fermentum semper porta. Nunc diam velit PHP, adipiscing ut tristique vitae
-\item Maecenas convallis ullamcorper ultricies stylesheets.
-\item Quisque mi metus, unit tests CSS ornare sit amet fermentum et, tincidunt et orci.
-\item Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id
-\end{rSubsection}
+\end{itemize}
 
 
 %----------------------------------------------------------------------------------------
-%	TECHNICAL STRENGTHS SECTION
+% TECHNICAL STRENGTHS SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Technical Strengths}
 
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+\section{Technical Strengths}
+
+\begin{tabular}{ll}
 Computer Languages & Prolog, Haskell, AWK, Erlang, Scheme, ML \\
 Protocols \& APIs & XML, JSON, SOAP, REST \\
 Databases & MySQL, PostgreSQL, Microsoft SQL \\
 Tools & SVN, Vim, Emacs
 \end{tabular}
 
-\end{rSection}
-
 %----------------------------------------------------------------------------------------
-%	EXAMPLE SECTION
+% THESIS
 %----------------------------------------------------------------------------------------
 
-%\begin{rSection}{Section Name}
-
-%Section content\ldots
-
-%\end{rSection}
-
-%----------------------------------------------------------------------------------------
-
-\section{Books and Book Chapters}
+\section{Thesis}
 
 \begin{refsection}
 
-\nocite{las-21-impact,las-21-covid,las-21-openapi,las-21-hptmt,las-20-covid,las-20-net-science,las-20-uroc,las19-harc-comet,las-19-nist,las-19-streaming,las-18-handbook,las-18-impact,las-17-teaching,las-17-cloudmesh,las-17-futuregrid,las-17-comet,las-16-virtcluster,las-15-tas,las-15-portal-futuresystems,las-15-xsede,las-15-impact-ncar,las-80-reservation,reu-2014-genome,las-14-Impact,las-14-bigdata,las-14-xdmod,las-14-multi-grid,leetowards,las-12-fg-bookchapter,las-12-xdmod-kernel,las-13-ondemand,las-13-xdmod,las-13-gpu,las-12-comparisoncloud,las-12-fg-1471,las-12-imagemanagement,las-08federated-cloud,las-12-fedcloud-proc,las-12-xdmod-data,las-11-grapple,las-11-imagerepo-a,las-11-ann}
+\nocite{las-96-thesis}
+
+\printbibliography[heading=none]
+\end{refsection}
+
+
+%----------------------------------------------------------------------------------------
+% Proceedings
+%----------------------------------------------------------------------------------------
+
+\section{Proceedings}
+
+\begin{refsection}
+
+  \nocite{las-06-gce,las-07-gce,las-12-fedcloud-proc,las-11-workshop-data}
+
+\printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% MISC
+%----------------------------------------------------------------------------------------
+
+\section{Misc}
+
+\begin{refsection}
+
+  \nocite{las-20-github-bookmanager,las-20-github-cloudmesh-community,las-20-github-cloudmesh,las-20-nist-bigdata,las-15-portal-futuresystems,las-10-sc-poster-rain,las-04-scidac-poster-chem,las-04-scidac-poster-cogkit,las-05-scidac-poster-portal,las-05-gridworkflow,las-21-hptmt,las-00-xport}
+
+  \printbibliography[heading=none]
+\end{refsection}
+
+
+
+
+%----------------------------------------------------------------------------------------
+% Copyrighted Software
+%----------------------------------------------------------------------------------------
+
+\section{Copyrighted Software}
+
+\begin{refsection}
+
+\nocite{las-00-ldap-browser}  
+
+\printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% In Collection
+%----------------------------------------------------------------------------------------
+
+\section{In Collection}
+
+\begin{refsection}
+
+  \nocite{las-17-futuregrid,las-03-cmt-book,las-03-gridcomputing,las-04-gestalt,las-04-middleware,las-05-qos-book,las-06-workflow-book,las-06-workcoordination,las-09-cloudcomp,las-11-greenchapter,las-11-ondemand,las-14-bigdata,las-04-grid-pattern,las-07-workflow}
+  
+\printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% In Book
+%----------------------------------------------------------------------------------------
+
+\section{In Book}
+
+\begin{refsection}
+
+\nocite{las-12-fg-bookchapter,las-04-grid-midleware}
+  
+\printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% Unpublished
+%----------------------------------------------------------------------------------------
+
+\section{Unpublished}
+
+\begin{refsection}
+
+  \nocite{las-01-gosv2}
+  
+\printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% Book
+%----------------------------------------------------------------------------------------
+
+\section{Book}
+
+\begin{refsection}
+
+\nocite{las-18-handbook,las-95-issues-parallel}
+  
+\printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% REPORTS
+%----------------------------------------------------------------------------------------
+
+\section{Reports}
+
+\begin{refsection}
+
+  \nocite{las20proc-516-2019,las20proc-516,las20book-chameleon,las20book-222,las20book-bigdata,las20book-cloudeng,las20book-tech,las20book-python,las20book-linux,las20book-markdown,las-19-nist-vol8,las-19-nist,las-17-cloudmesh,las-14-reu-genome,las-12-fg-1471,las-08-cumulus,las-95-mopac,las-05-gridandt-user,las-92-crpc-92260,las-05-developing,las-93-collection,las-11-towards-deployment,las-06-massspec-compare,las-04-grid-portal,las-14-cloud-usage,las-93-parallelization,las-06-massspec,las-80-reservation,las-06-cmcs-report,las-06-massspec-r,las-00-grid-create,las-95-infomall,las-95-xpvm,las-01-corba-status,las-20-uroc,las-03-cog-workflow}
+  
+  \printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% Article
+%----------------------------------------------------------------------------------------
+
+\section{Article}
+
+\begin{refsection}
+
+  \nocite{las-10-multicore,las-09-virt,las-09-yang-advances,las-00-sbc,las-01-acm,las-01-cmt,las-01-cog-concurency,las-02-cactus,las-02-cactus-j}
+  \nocite{las-02-corbacog,las-02-grip,las-02-javacog,las-02-perlcog,las-03-knowledge,las-04-abstraction-j,las-04-ftp-journal,las-04-qos-journal,las-04-atct-j,las-05-atct,las-05-gridhistory}
+
+  \nocite{las-05-portalarch,las-05-reputation-j,las-05-workflow-jgc}
+
+  \nocite{las-06-guss-j}
+  \nocite{las-07-ogce}
+  \nocite{las-09-cloud}
+  \nocite{las-10-ijahuc}
+  \nocite{las-10-ve-journal,las-11-ann,las-11-emolst,las-12-xdmod-kernel,las-13-ondemand}
+  \nocite{las-99-hbm-journal,las-99-ieee,las-99-loosely,las-10-wang-transactions,las-20-covid,las-21-covid,las-07-knowlege-portal,las-05-cmcs-cluster,las-98-telemedicine,las-02-gsfl,las-06-saga,las-03-minmin,las-11-energy,las-14-xdmod,las-98-ldap,las-05-qos-model,las-93-lu-journal,las-08-ms,las-06-batch,las-05-portal-journal}
+  
+\printbibliography[heading=none]
+\end{refsection}
+
+%----------------------------------------------------------------------------------------
+% In Proceedings
+%----------------------------------------------------------------------------------------
+
+\section{In Proceedings}
+
+\begin{refsection}
+
+  \nocite{las17chameleon-teach,las17chameleon-mongo,las19-harc-comet,las-17-teaching,las-18-impact,las-17-comet,las-15-tas,las-10-energy,las-12-comparisoncloud,las-12-imagemanagement,las-11-grapple,las-09-ogce,las-07-swift,las-00-grande,las-00-moba,las-01-corba,las-01-greed,las-01-hpdc-cactus,las-01-pse}
+
+  \nocite{las-02-activetable}
+    \nocite{las-02-deploy,las-11-imagerepo-a,las-02-gcc,las-02-infogram,las-02-ocgsa,las-02-pdcs,las-02-vision,las-03-chem,las-03-coalloc,las-03-dc,las-03-ftp,las-03-masses}
+
+  \nocite{las-03-qos,las-03-reputation,las-04-qos-ccgrid,las-04-abstracting,las-04-adcom,las-04-clade,las-04-gridant,las-05-adhoc-quality,las-05-ca,las-05-workflowrepo,las-05-exp,las-06-cobalt,las-06-water,las-07-gridtorrent,las-07-javascript,las-08-javascript,las-08-project,las-08federated-cloud,las-08-msproject,las-09-ccgrid}
+
+    \nocite{las-09-cluster,las-09-gridcat,las-09-ipccc,las-09-ispa,las-09-ispan,las-10-sla,las-10-ccgrid,las-10-energycloud,las-10-onserve,las-10-vmschedule,las-11-wtm-hadoop,las-13-xdmod,las-14-Impact,las-15-xsede,las-16-virtcluster,las-10-gce,las-11-virt,las-90-natug,las-90-ppsn,las-91-icga,las-94-ecwmf,las-96-ecwmf,las-97-hpdc,las-97-nobugs,las-98-hpdc,las-99-rostock,las-99-siam,las-99-spie,last-10-dynamic,las-19-streaming,las-15-impact-ncar,las-21-impact,las-21-openapi,las-07-contamination,las-20-net-science,las-14-multi-grid,las-01-greedy,las-05-ad-hoc-sec,las-11-threat,las-01-gosv3,las-12-xdmod-data,las-92-high,las-13-gpu,las-00-mdsml,las-09-fpga,las-01-gosv2,las-00-ggf-schema,las-09-sla}
+  
 
 \printbibliography[heading=none]
 \end{refsection}
@@ -122,14 +279,18 @@ Tools & SVN, Vim, Emacs
 
 
 
-\section{Articles}
 
-\begin{refsection}
-\nocite{las-10-multicore,las-09-virt,las-09-yang-advances,las-00-sbc,las-01-acm,las-01-cmt,las-01-cog-concurency,las-02-cactus,las-02-cactus-j,las-02-corbacog,las-02-grip,las-02-javacog,las-02-perlcog,las-03-knowledge,las-04-abstraction-j,las-04-ftp-journal,las-04-qos-journal,las-04-atct-j,las-05-atct,las-05-gridhistory,las-05-portalarch,las-05-reputation-j,las-05-workflow-jgc,las-06-guss-j,las-07-ogce,las-09-cloud,las-10-ijahuc,las-10-ve-journal,las-11-ann,las-11-emolst,las-12-xdmod-kernel,las-13-ondemand,las-99-hbm-journal,las-99-ieee,las-99-loosely,las-10-wang-transactions,las-20-covid,las-21-covid,las-07-knowlege-portal,las-05-cmcs-cluster,las-98-telemedicine,krishnan2002gsfl,las-06-saga,las-03-minmin,las-11-energy,las-14-xdmod,las-98-ldap,las-05-qos-model,lu-93-journal,las-08-ms,van2006batch,las-05-portal-journal}
-\printbibliography[heading=none]
-\end{refsection}
+% #######################################################################################
+\end{document}
+% #######################################################################################
+
+
+
+
+
 
 
 
 
 \end{document}
+

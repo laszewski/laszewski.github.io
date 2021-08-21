@@ -28,3 +28,4 @@ watch: resume.pdf
 # -bibtex also removes the .bbl files (http://tex.stackexchange.com/a/83384/79184).
 clean:
 	latexmk -CA -bibtex
+	rm -f resume.run.xml
