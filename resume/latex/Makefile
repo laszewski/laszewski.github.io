@@ -5,6 +5,12 @@
 # should always be the "all" rule, so that "make" and "make all" are identical.
 all: resume.pdf
 
+d: clean
+	pdflatex resume
+	biber resume
+	pdflatex resume
+	pdflatex resume
+
 # MAIN LATEXMK RULE
 
 # -pdf tells latexmk to generate a PDF instead of DVI.
