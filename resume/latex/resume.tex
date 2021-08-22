@@ -1,41 +1,6 @@
 \documentclass{article}
 
-\usepackage{fontawesome}
-
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
-
-\usepackage{xcolor}
-\definecolor{highlight}{RGB}{0,0,173}
-\definecolor{blue}{rgb}{1,0.5,0}
-
-\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
-
-\usepackage{titlesec}
-\titleformat{\section}
-  {\bigskip\color{highlight}\normalfont\Large\bfseries}{\hspace{-10pt}}{.5em}{\vspace{.5ex}\MakeUppercase}[\titlerule]
-\titlespacing*{\section}{0pt}{0pt}{15pt}
-
-\titleformat{\subsection}
-  {\color{highlight}\normalfont\large\bfseries}{\hspace{-12pt}}{.5em}{\vspace{0ex}}[]
-\titlespacing*{\subsection}{12pt}{0pt}{5pt}
-              
-
-\usepackage[style=ieee,defernumbers=true]{biblatex}
-
-
-\usepackage{url}
-\usepackage[hidelinks]{hyperref}
-%\usepackage[hyphens]{url}
-%\hypersetup{breaklinks=true}
-
-\let\origurl\url
-\renewcommand{\url}[1]{\href{#1}{\faExternalLink}}
-
-\addbibresource{../../vonLaszewski-jabref.bib}
-
-
-\parindent0pt
+\input{format}
 
 
 \begin{document}
@@ -44,27 +9,28 @@
 \setcounter{varseg}{0}
 
 \begin{center}
-{\huge\bf Gregor von Laszewski, Ph.D.} \\
-\smallskip
-8282 South Stone Ridge Rd\\
-Bloomington, IN 47401\\
-(812)~824-8660\\
-laszewski@gmail.com\\
+  {\huge\bf Gregor von Laszewski, Ph.D.} \\
+Adjunct Associate Prof. Intelligent Systems Engineering\\
+Assistant Director Digital Science Center\\
+
 \end{center}
 
-
-\section{Work Address}
-
-Gregor von Laszewski\\
-Assistant Director Digital Science Center\\
-Adjunct Associate Prof. Intelligent Systems Engineering\\
-
+\begin{minipage}[t]{0.6\columnwidth}
 
 School of Informatics and Computing and Engineering\\
 Indiana University\\
 Multidisciplinary Engineering and Sciences Hall\\
 2425 N Milo Sampson Lane\\
 Bloomington, IN  47408\\
+\end{minipage}
+\ \
+\begin{minipage}[t]{0.4\columnwidth}
+\flushright
+8282 South Stone Ridge Rd\\
+Bloomington, IN 47401\\
+(812)~824-8660\\
+laszewski@gmail.com\\
+\end{minipage}
 
 
 %----------------------------------------------------------------------------------------
@@ -74,18 +40,26 @@ Bloomington, IN  47408\\
 \section{Education}
 
 \begin{description}
-\item[Sep. 1991 - Nov. 1996:]        Ph.D., Computer Science, Syracuse University, Syracuse, NY. \\ 
-    			      Thesis: A Parallel Data Assimilation System and Its Implications   
-    				on a Metacomputing Environment. Advisor: Geoffrey C. Fox 
+\item[Ph.D., Computer Science, Syracuse University, Syracuse, NY] \hfill {\it Sep. 1991 - Nov. 1996} ~\\
+      Thesis: A Parallel Data Assimilation System and Its Implications   
+      on a Metacomputing Environment\\
+      Advisor: Geoffrey C. Fox 
 
-\item[Sep. 1990 – Sep. 1991:] 	Graduate Fellowship The Ohio State University as exchange student,
- 				Columbus, OH 
+\item[Fellowship at The Ohio State University,
+  Columbus, OH] \hfill {\it Sep. 1990 – Sep. 1991}~\\
+  Graduate exchange student
 
-\item[Sep. 1987 - Nov. 1990:]   	Diploma (M.S., Grade A), Computer Science, University of Bonn, Germany.\\ 
-   				Thesis: A Parallel Genetic Algorithm for the K-way Graph Partitioning   
-     				Problem.  Advisor: Heinz Mühlenbein 
+\item[M.S. Computer Science (Diplom Informatiker), University of Bonn, Germany] \hfill {\it Sep. 1987 - Nov. 1990}~\\
+  in collabooration with \\
+  {\bf The German National Institute for Information Technology (GMD)}, now {\bf Fraunhofer-Gesellschaft} ~\\
+  Thesis: A Parallel Genetic Algorithm for the K-way Graph Partitioning Problem  \\
+  Major: Artificial Intelligence \\
+  Minor: Physics \\  
+  Advisor: Heinz Mühlenbein 
 
-\item[Sep. 1984 - Apr. 1987:]   Pre-Diploma (B.S.), Computer Science, University, of Bonn, Germany. 
+\item[B.S. Computer Science (Vordiplom), University, of Bonn, Germany.] \hfill {\it Sep. 1984 - Apr. 1987} ~\\  
+  Major: Coputer Science\\
+  Minor: Physics \\  
 
 \end{description}
  
@@ -97,50 +71,53 @@ Bloomington, IN  47408\\
 
 \begin{description}
 
-\item[Sep. 2016-present:]		Adjunct Associate Professor Intelligent Systems Engineering Department,  
-				Indiana University, Bloomington, IN
+\item[  Adjunct Professor, Intelligent Systems Engineering Department] \hfill {\it Sep. 2016-present} ~\\
+  Indiana University, Bloomington, IN
+  
+\item[ Assistant Director, Digital Science Center]{Jul. 2012 - present} ~\\
+  Indiana University, Bloomington, IN
 
-\item[Jul. 2012-present:]		Assistant Director, Digital Science Center, Indiana University, 
-Bloomington, IN
+\item[ Assistant Director of Cloud Comuting, Community GridsLab] \hfill {\it Jul. 2009 – 2015} ~\\
+  Indiana University, Bloomington, IN
 
+\item [Adjunct Professor, Computer, Science Department] \hfill {\it Sep. 2012 – Sep. 2015:} ~\\
+  Indiana University, Bloomington, IN
 
-\item[Jul. 2009 – 2015:]		Community GridsLab, Pervasive, Technology Institute, Assistant Director of Cloud Computing, Indiana University, Bloomington, IN
+\item[	Lead Architect, FutureGrid] \hfill {\it Jul. 2009 – Jan. 2015} ~\\
+  Indiana University, Bloomington, IN
 
-\item[Sep. 2012 – Sep. 2015:]	 Adjunct Associate Professor, Computer, Science Department, Indiana   
-				 University, Bloomington, IN
+\item[ 	Scientist, Argonne National Laboratory, ] \hfill {\it Apr. 2002 – Jul. 2009} ~\\
+  Mathematics and Computer Science Division.  Argonne, IL. 
 
-\item[Jul. 2009 – Jan. 2015:]	Lead Software Architect, FutureGrid, Indiana University, Bloomington, IN
-\item[Apr. 2002 – Jul. 2009:] 	Argonne National Laboratory, Argonne, IL. Scientist, Mathematics
-   				and Computer Science Division.
+\item[	Associate Professor] \hfill {\it Aug. 2007 – Jul. 2009} ~\\
+  {\bf Sabbatical from Argonne National Laboratory}, Argonne, IL\\
+  Director, Service Oriented Cyberinfrastructure Laboratory\\
+  Associate Professor, Computer Science Department\\
+  Associate Professor, PhD Program, GCCIS\\
+  Rochester Institute of Technology, Rochester, NY
 
-\item[Aug. 2007 – Jul. 2009:]	As part of a two year sabbatical from Argonne National Laboratory, Argonne,
- 	IL. Scientist, Mathematics and Computer Science Division:
-     Director, Service Oriented Cyberinfrastructure Laboratory
-     Associate Professor, Computer Science Department
-     Associate Professor, PhD Program, GCCIS
-     Rochester Institute of Technology, NY 
+\item[	Fellow, Computation Institute, University of Chicago ] \hfill {\it Jan. 2000 – Jul. 2007} ~\\
+  Computation Institute, Chicago, IL, 
+  
+\item[ 	Visiting Professor, University of North Texas. ] \hfill {\it Nov. 2004 - Jan. 2005} ~\\
+  Department of Computer Science and Engineering, Denton, TX,
+  
+\item[ 	Assistant computer scientist, Argonne National Laboratory, ] \hfill {\it Nov. 1998 - Apr. 2002} ~\\
+  Mathematics and Computer Science Division.  Argonne, IL.
+    
+\item[ 	Visiting professor/Guest Lecturer, Illinois Institute of Technology. ] \hfill {\it Jan. 2002 - Dec. 2002} ~\\
+  Computer Science Department, Chigaco IL
+  
+\item[ 	Postdoctoral researcher,   Argonne National Laboratory ] \hfill {\it Nov. 1996 - Nov. 1998} ~\\
+  Mathematics and Computer Science Division.  Argonne, IL.
+  
+\item[ 	Research assistant, NASA Goddard Space Flight Center] \hfill {\it Jun. 1994 - Jan. 1995} ~\\
+  University Research Space Agency (USRA), Greenbelt, MD.
 
-\item[Jan. 2000 – Jul. 2007:]	Computation Institute. Fellow, Computation Institute, Chicago, IL, 
-  	   			University of Chicago and Argonne National Laboratory. 
-
-\item[Nov. 2004 - Jan. 2005:] 	Department of Computer Science and Engineering, Denton, TX,   
-   				Adjunct Professor, University of North Texas. 
-
-\item[Nov. 1998 - Apr. 2002:] 	Argonne National Laboratory, Argonne, IL. Assistant computer scientist, 
-				Mathematics and Computer Science Division. 
-
-\item[Jan. 2002 - Dec. 2002:] 	Illinois Institute of Technology. Visiting professor/Guest Lecturer,   
-   				Computer Science Department of the Illinois Institute of Technology. 
-
-\item[Nov. 1996 - Nov. 1998:] 	Argonne National Laboratory, Argonne, IL. Postdoctoral researcher, 
-  	   			Mathematics and Computer Science Division. 
-
-\item[Jun. 1994 - Jan. 1995:] 	NASA Goddard Space Flight Center, Greenbelt, MD, under contract 
-  	   			with the University Research Space Agency (USRA). Research assistant. 
-
-\item[Feb. 1987 - Sept. 1990:] 	German National Research Center for Information Technology   
-   				(GMD) (now Frauenhofer Gesellschaft), Bonn. Research assistant. 
-
+\item[ 	Research assistant, German National Research Center] \hfill {\it Feb. 1987 - Sept. 1990} ~\\
+  {\bf  for Information Technology (GMD) } \\
+  now Frauenhofer Gesellschaft, Sankt Augustin, Germany
+  
 \end{description}
 
 
@@ -184,7 +161,7 @@ Bloomington, IN
 \item  DOE: Al Wagner, Brank Ruscic, and Gregor von Laszewski. Active Thermo Chemical Tables as part of the DOE MICS Collaboratory for Multiscale Chemical Science, \$900K, Sept. 2001 Sept. 2003. 
 \item  DOE: Randy Brameley, Rick McMullan, John Hoffman, and Gregor von Laszewski. NGIA Gridbased Collaboratory for RealTime Data Acquisition IU/ANL, FWP 56890, \$300K, FY1999.
 
-\end{enumerate}    
+\end{enumerate} 
 
 %----------------------------------------------------------------------------------------
 % HINDEX
@@ -199,11 +176,12 @@ As of August 21, 2021 Google scholar reported 11210 and an h-index of 46
 
 \section{Technical Strengths}
 
-Throughout my carrier I have used many software system and programming languages.
+Throughout my carrier I have used many software system and programming languages. This includes
 
-This includes
+\bigskip
+
 \begin{tabular}{ll}
-Computer Languages & Python, Java, Perl, C, C++, OCCAM, ELAN, MODULA and others\\
+Computer Languages & Python, Java, Perl, C, C++, OCCAM, and others\\
 Web related & REST, JSON, YAML \\
 Virtual 
 Databases & MySQL, PostgreSQL, Microsoft SQL \\
@@ -322,7 +300,7 @@ URL: http://dsc.soic.indiana.edu/publications/SPIDALTutorialProgram-Feb2017.pdf
 \item  Using LDAP in the real world. De Paul University, Chicago, IL, January 2000. 
 \item  Gregor von Laszewski. The Java CoG Kit. Globus Retreat, Pittsburgh, PA, July 30 August 1 2000 
 \end{enumerate}
-    
+ 
 \section{Selected Community Activities}
 
 \subsection{Selected Project and Proposal Review Panel Activities} 
@@ -337,7 +315,7 @@ URL: http://dsc.soic.indiana.edu/publications/SPIDALTutorialProgram-Feb2017.pdf
 \item  DOE proposal reviews, 2002, 2003, 2004, 2005, 2006. http://www.sc.doe.gov/ascr/mics/. 
 \item  GCE08 Steering Committee
 \end{enumerate}
-    
+ 
 \subsection{Chair and Steering Committee} 
 
 \begin{enumerate}
@@ -368,7 +346,7 @@ URL: http://dsc.soic.indiana.edu/publications/SPIDALTutorialProgram-Feb2017.pdf
 \item  SC98 BoF: Desktop Access to Remote Resources.  Gregor von Laszewski. Orlando, FL, http://www.computingportals.org, November 1998. 
 \item  Organizer of the BoF. Supercomputing  SC93. Portland, OR, http://www.supercomp.org, Nov. 15-19 1993. Best Student Paper Selection Committee. 
 \end{enumerate}
-    
+ 
 \subsection{Selected Committee Review Activities}
 
 \begin{enumerate}
@@ -434,7 +412,7 @@ URL: http://dsc.soic.indiana.edu/publications/SPIDALTutorialProgram-Feb2017.pdf
 \item  Supercomputing SC93. Portland, OR, http://www.supercomp.org, Nov. 15-19 1993. 
 \item  Java for High Performance Networking, 1997, 1998, 1999, 2000, 2001. 
 \end{enumerate}
-    
+ 
 \subsection{Journal Article Reviews}
 
 \begin{enumerate}
@@ -463,7 +441,7 @@ Bloomington, IN, U.S.A.
 
 \item[Oct. 2001:] 	R\&D100 Award (as member of the Globus Project), Chicago, IL, U.S.A. 
 
-\item[Nov. 1998:] 	Best of show award in the High Performance Computing Challenge,    
+\item[Nov. 1998:] 	Best of show award in the High Performance Computing Challenge, 
   		Supercomputing‚ 98, Orlando, FL. 
 
 \item[1995:]  	University Space Research Agency (USRA) fellowship at Goddard Space Flight Center. 
@@ -487,7 +465,7 @@ Bloomington, IN, U.S.A.
 \item  Gregor von Laszewski, Apr. 2003, U.S. Department of Energy Outstanding Mentor Awards \url{http://www.anl.gov/Media_Center/Argonne_News/2004/an040112.html} 
 \item  Supervised the development of an LDAP browser that won the Novel developers award.
 \end{enumerate}
-    
+ 
 \subsection{Undergraduate Education Projects}
 
 \begin{enumerate}
@@ -504,7 +482,7 @@ Bloomington, IN, U.S.A.
 \item  DOE/NSF Faculty-Student Teams (FaST) Program, Supporting Grid Computing with Java, Igor Diner, Oleg Yunakov, Dennis Anderson (Pace University, New York, NY 10038) Gregor von Laszewski (Argonne National Laboratory, Argonne, IL 60439), 2002, \url{http://www.anl.gov/Media_Center/News/2002/news020822.htm} (1 faculty and 2 undergraduate students)  
 \item  DOE SULI: A Comparative Performance Analysis of the Java CoG Kit. Mihael Hategan (Illinois Institute of Technology, Chicago, IL 60616) 2003, Gregor von Laszewski (Argonne National Laboratory, Argonne, IL 60439). 
 \end{enumerate}
-    
+ 
 \subsection{K-12}
 
 \begin{enumerate}
