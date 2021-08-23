@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. ~D. Frank | Gregor von Laszewski</title>
+    <link>/author/e.-~d.-frank/</link>
+      <atom:link href="/author/e.-~d.-frank/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. ~D. Frank</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>E. ~D. Frank</title>
+      <link>/author/e.-~d.-frank/</link>
+    </image>
+    
+    <item>
+      <title>An End-to-End System for Organizing and Sharing Raw and Derived Mass Spectrometry Data</title>
+      <link>/publication/las-06-massspec-r/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/las-06-massspec-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Swany | Gregor von Laszewski</title>
+    <link>/author/martin-swany/</link>
+      <atom:link href="/author/martin-swany/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Swany</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Martin Swany</title>
+      <link>/author/martin-swany/</link>
+    </image>
+    
+    <item>
+      <title>GOSv2: A Data Definition Language for Grid Information Services</title>
+      <link>/publication/fitzgerald-2001-gosv-2/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/fitzgerald-2001-gosv-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GOSv3: A Data Definition Language for Grid Information Services</title>
+      <link>/publication/las-01-gosv-3/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/las-01-gosv-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

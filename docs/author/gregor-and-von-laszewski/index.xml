@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregor and von Laszewski | Gregor von Laszewski</title>
+    <link>/author/gregor-and-von-laszewski/</link>
+      <atom:link href="/author/gregor-and-von-laszewski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregor and von Laszewski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>Gregor and von Laszewski</title>
+      <link>/author/gregor-and-von-laszewski/</link>
+    </image>
+    
+    <item>
+      <title>Creating and Managing Grid Services</title>
+      <link>/publication/las-00-grid-create/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/las-00-grid-create/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
