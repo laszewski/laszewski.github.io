@@ -3,13 +3,13 @@
 
 # The first rule in a Makefile is the one executed by default ("make"). It
 # should always be the "all" rule, so that "make" and "make all" are identical.
-all: resume.pdf
+all: vonLaszewski-resume.pdf
 
 d: clean
-	pdflatex resume
-	biber resume
-	pdflatex resume
-	pdflatex resume
+	pdflatex vonLaszewski-resume
+	biber vonLaszewski-resume
+	pdflatex vonLaszewski-resume
+	pdflatex vonLaszewski-resume
 
 # MAIN LATEXMK RULE
 
@@ -21,17 +21,17 @@ d: clean
 # -synctex=1 is required to jump between the source PDF and the text editor.
 # -pvc (preview continuously) watches the directory for changes.
 # -quiet suppresses most status messages (https://tex.stackexchange.com/questions/40783/can-i-make-latexmk-quieter).
-resume.pdf: resume.tex
-	latexmk -quiet -bibtex $(PREVIEW_CONTINUOUSLY) -f -pdf -pdflatex="pdflatex -synctex=1 -interaction=nonstopmode" -use-make resume.tex
+vonLaszewski-resume.pdf: vonLaszewski-resume.tex
+	latexmk -quiet -bibtex $(PREVIEW_CONTINUOUSLY) -f -pdf -pdflatex="pdflatex -synctex=1 -interaction=nonstopmode" -use-make vonLaszewski-resume.tex
 
 # The .PHONY rule keeps make from processing a file named "watch" or "clean".
 .PHONY: watch
 # Set the PREVIEW_CONTINUOUSLY variable to -pvc to switch latexmk into the preview continuously mode
 watch: PREVIEW_CONTINUOUSLY=-pvc
-watch: resume.pdf
+watch: vonLaszewski-resume.pdf
 
 .PHONY: clean
 # -bibtex also removes the .bbl files (http://tex.stackexchange.com/a/83384/79184).
 clean:
 	latexmk -CA -bibtex
-	rm -f resume.run.xml
+	rm -f vonLaszewski-resume.run.xml
