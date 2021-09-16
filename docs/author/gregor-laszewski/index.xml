@@ -5,20 +5,12 @@
     <link>/author/gregor-laszewski/</link>
       <atom:link href="/author/gregor-laszewski/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor Laszewski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 17:52:36 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Gregor Laszewski</title>
       <link>/author/gregor-laszewski/</link>
     </image>
-    
-    <item>
-      <title>Cloud Computing Papers, Class Proceedings</title>
-      <link>/publication/las-2018-class-proceedings/</link>
-      <pubDate>Thu, 16 Sep 2021 17:52:36 +0000</pubDate>
-      <guid>/publication/las-2018-class-proceedings/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Cloudmesh Code Repositories</title>
@@ -49,6 +41,14 @@
       <link>/publication/las-2018-tech-vol-9/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>/publication/las-2018-tech-vol-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing Papers, Class Proceedings</title>
+      <link>/publication/las-2018-class-proceedings/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-class-proceedings/</guid>
       <description></description>
     </item>
     

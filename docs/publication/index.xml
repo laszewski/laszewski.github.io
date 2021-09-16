@@ -5,28 +5,12 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 17:52:38 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
-    
-    <item>
-      <title>net.science: A Cyberinfrastructure for Sustained Innovation in Network Science and Engineering</title>
-      <link>/publication/las-2020-net-science/</link>
-      <pubDate>Thu, 16 Sep 2021 17:52:38 +0000</pubDate>
-      <guid>/publication/las-2020-net-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Computing Papers, Class Proceedings</title>
-      <link>/publication/las-2018-class-proceedings/</link>
-      <pubDate>Thu, 16 Sep 2021 17:52:36 +0000</pubDate>
-      <guid>/publication/las-2018-class-proceedings/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Cybertraining Publications</title>
@@ -81,6 +65,14 @@
       <link>/publication/las-2021-hptmt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/las-2021-hptmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>net.science: A Cyberinfrastructure for Sustained Innovation in Network Science and Engineering</title>
+      <link>/publication/las-2020-net-science/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-net-science/</guid>
       <description></description>
     </item>
     
@@ -305,6 +297,14 @@
       <link>/publication/las-2018-tech-vol-9/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>/publication/las-2018-tech-vol-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing Papers, Class Proceedings</title>
+      <link>/publication/las-2018-class-proceedings/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-class-proceedings/</guid>
       <description></description>
     </item>
     
