@@ -1,4 +1,12 @@
+
 MSG="Deploy Web Site"
+
+package=impact
+UNAME=$(shell uname)
+VERSION=$(shell head -1 VERSION)
+PWD=$(shell pwd)
+UID=$(shell id -u ${USER})
+GID=$(shell id -g ${USER})
 
 deploy: 
 	# rm -rf public
@@ -89,3 +97,40 @@ mark_class_books:
 
 view:
 	hugo serve --debug
+
+#####################################################################
+# DOCKER
+######################################################################
+
+#--no-cache=true
+
+image:
+	echo ${VERSION}
+	docker build  -t "cloudmesh/hugo:${VERSION}" -t "cloudmesh/hugo:latest" .
+
+#
+# cm munts all parent directories into the container
+#
+cm:
+	docker run -v $(CM):/cm -w /cm --rm -it cloudmesh/hugo:${VERSION}  /bin/bash
+
+wincm:
+	winpty docker run -v $(CM):/cm -w /cm --rm -it cloudmesh/hugo:${VERSION}  /bin/bash
+
+shell:
+	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:/root/laszewski.github.io" cloudmesh/hugo:${VERSION} /bin/bash 
+
+dockerclean:
+	-docker kill $$(docker ps -q) --force
+	-docker rm $$(docker ps -a -q) --force
+	-docker rmi $$(docker images -q) --force
+
+push:
+	docker push cloudmesh/hugo:${VERSION}
+	docker push cloudmesh/hugo:latest
+
+run:
+	docker run cloudmesh/hugo:${VERSION} -v .:/root/laszewski.github.io /bin/bash /bin/sh
+
+#-c "cd books/book/cloud; git pull; make"
+
