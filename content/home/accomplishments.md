@@ -5,8 +5,12 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishishments"
 subtitle = ""
+
+#
+# THIS IS JUST A SAMPLE THAT WE DO NOT USE
+#
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

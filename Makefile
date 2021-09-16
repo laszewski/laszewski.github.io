@@ -122,7 +122,7 @@ shell:
 
 resume: clean
 	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:/root/laszewski.github.io" -w /root/laszewski.github.io/resume/latex cloudmesh/hugo:${VERSION} make
-	rsync resume/latex/vonLaszewski-resume.pdf docs/vonLaszewski-resume.pdf
+	rsync resume/latex/vonLaszewski-resume.pdf static/vonLaszewski-resume.pdf
 
 clean:
 	cd resume/latex; make clean
