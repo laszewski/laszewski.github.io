@@ -5,7 +5,7 @@
     <link>/publication-type/0/</link>
       <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
@@ -13,138 +13,146 @@
     </image>
     
     <item>
+      <title>Cybertraining Publications</title>
+      <link>/publication/las-2021-cybertraining-pub/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2021-cybertraining-pub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HPTMT: Operator-Based Architecture for Scalable High-Performance Data-Intensive Frameworks</title>
-      <link>/publication/las-21-hptmt/</link>
+      <link>/publication/las-2021-hptmt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-hptmt/</guid>
+      <guid>/publication/las-2021-hptmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh Code Repositories</title>
-      <link>/publication/github-cloudmesh/</link>
+      <link>/publication/las-2020-github-cloudmesh/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/github-cloudmesh/</guid>
+      <guid>/publication/las-2020-github-cloudmesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudmesh Community</title>
-      <link>/publication/github-cloudmesh-community/</link>
+      <link>/publication/las-2020-github-cloudmesh-community/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/github-cloudmesh-community/</guid>
+      <guid>/publication/las-2020-github-cloudmesh-community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyberaide Bookmanager</title>
-      <link>/publication/pypi-bookmanager/</link>
+      <link>/publication/las-2020-github-bookmanager/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pypi-bookmanager/</guid>
+      <guid>/publication/las-2020-github-bookmanager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NIST Big Data</title>
-      <link>/publication/nist-bigdata/</link>
+      <link>/publication/las-2020-nist-bigdata/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/nist-bigdata/</guid>
+      <guid>/publication/las-2020-nist-bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FutureSystems at Indiana University</title>
-      <link>/publication/las-15-portal-futuresystems/</link>
+      <link>/publication/las-2015-portal-futuresystems/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-portal-futuresystems/</guid>
+      <guid>/publication/las-2015-portal-futuresystems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services and Federation and and the 8th Open Cirrus Summit</title>
-      <link>/publication/las-12-fedcloud-proc/</link>
+      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services and Federation, and the 8th Open Cirrus Summit</title>
+      <link>/publication/las-2012-fedcloud-proc/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-fedcloud-proc/</guid>
+      <guid>/publication/las-2012-fedcloud-proc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop on data intensive computing in the clouds-DataCloud</title>
-      <link>/publication/kosar-2011-workshop/</link>
+      <link>/publication/las-2011-workshop-data/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/kosar-2011-workshop/</guid>
+      <guid>/publication/las-2011-workshop-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/las-10-sc-poster-rain/</link>
+      <link>/publication/las-2010-sc-poster-rain/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-sc-poster-rain/</guid>
+      <guid>/publication/las-2010-sc-poster-rain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Computing Environments 2007 Confernce Proceeedings</title>
-      <link>/publication/las-07-gce/</link>
+      <link>/publication/las-2007-gce/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/las-07-gce/</guid>
+      <guid>/publication/las-2007-gce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Computing Environments 2006 Confernce Proceeedings</title>
-      <link>/publication/las-06-gce/</link>
+      <link>/publication/las-2006-gce/</link>
       <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/las-06-gce/</guid>
+      <guid>/publication/las-2006-gce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Portal Architectures for Scientific Applications</title>
-      <link>/publication/las-05-scidac-poster-portal/</link>
+      <link>/publication/las-2005-scidac-poster-portal/</link>
       <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-scidac-poster-portal/</guid>
+      <guid>/publication/las-2005-scidac-poster-portal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Workflow -- An Integrated Approach</title>
-      <link>/publication/las-05-gridworkflow/</link>
+      <link>/publication/las-2005-gridworkflow/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-gridworkflow/</guid>
+      <guid>/publication/las-2005-gridworkflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>/publication/las-04-scidac-poster-chem/</link>
+      <link>/publication/las-2004-scidac-poster-chem/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-scidac-poster-chem/</guid>
+      <guid>/publication/las-2004-scidac-poster-chem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commodity Grid Kits</title>
-      <link>/publication/las-04-scidac-poster-cogkit/</link>
+      <link>/publication/las-2004-scidac-poster-cogkit/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-scidac-poster-cogkit/</guid>
+      <guid>/publication/las-2004-scidac-poster-cogkit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LDAP Browser/Editor</title>
-      <link>/publication/las-00-ldap-browser/</link>
+      <link>/publication/las-2000-ldap-browser/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/publication/las-00-ldap-browser/</guid>
+      <guid>/publication/las-2000-ldap-browser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Xport collaboratory for high-brilliance X-ray crystallography</title>
-      <link>/publication/las-00-xport/</link>
+      <link>/publication/las-2000-xport/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/publication/las-00-xport/</guid>
+      <guid>/publication/las-2000-xport/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/author/gurhan-gunduz/</link>
       <atom:link href="/author/gurhan-gunduz/index.xml" rel="self" type="application/rss+xml" />
     <description>Gurhan Gunduz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Gurhan Gunduz</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Streaming Machine Learning Algorithms with Big Data Systems</title>
-      <link>/publication/las-19-streaming/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-19-streaming/</guid>
+      <link>/publication/las-2019-streaming/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2019-streaming/</guid>
       <description></description>
     </item>
     

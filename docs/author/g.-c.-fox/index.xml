@@ -13,42 +13,58 @@
     </image>
     
     <item>
-      <title>Big Data Applications and Analytics</title>
-      <link>/publication/las-20-book-bigdata/</link>
+      <title>Big Data Applications and Analytics (Lecture Notes)</title>
+      <link>/publication/las-2020-book-bigdata/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-bigdata/</guid>
+      <guid>/publication/las-2020-book-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Applications and Analytics -- 534</title>
+      <link>/publication/las-2020-book-bigdata-534/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-book-bigdata-534/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Clusters with Raspberry Pi&#39;s</title>
+      <link>/publication/las-2020-pi/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intelligent Systems Engineering</title>
-      <link>/publication/las-20-book-222/</link>
+      <link>/publication/las-2020-book-222/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-book-222/</guid>
+      <guid>/publication/las-2020-book-222/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Providing a Green Framework for Cloud Based Data Centers</title>
-      <link>/publication/las-11-greenchapter/</link>
+      <link>/publication/las-2011-greenchapter/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-greenchapter/</guid>
+      <guid>/publication/las-2011-greenchapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rain: Dynamically Provisioning Clouds within FutureGrid</title>
-      <link>/publication/las-10-sc-poster-rain/</link>
+      <link>/publication/las-2010-sc-poster-rain/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-sc-poster-rain/</guid>
+      <guid>/publication/las-2010-sc-poster-rain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Portal Architectures for Scientific Applications</title>
-      <link>/publication/las-05-scidac-poster-portal/</link>
+      <link>/publication/las-2005-scidac-poster-portal/</link>
       <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-scidac-poster-portal/</guid>
+      <guid>/publication/las-2005-scidac-poster-portal/</guid>
       <description></description>
     </item>
     

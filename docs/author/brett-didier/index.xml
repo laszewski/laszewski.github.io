@@ -14,57 +14,65 @@
     
     <item>
       <title>Portal-based Knowledge Environment for Collaborative Science</title>
-      <link>/publication/las-07-knowlege-portal/</link>
+      <link>/publication/las-2007-knowlege-portal/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/las-07-knowlege-portal/</guid>
+      <guid>/publication/las-2007-knowlege-portal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science (CMCS): Project Final Report.</title>
-      <link>/publication/osti-1725899/</link>
+      <link>/publication/las-2006-cmcs-report/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/osti-1725899/</guid>
+      <guid>/publication/las-2006-cmcs-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Collaborative Informatics Infrastructure for Multi-Scale Science</title>
+      <link>/publication/las-2005-cmcs-cluster/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2005-cmcs-cluster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
-      <link>/publication/las-04-clade/</link>
+      <link>/publication/las-2004-clade/</link>
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-clade/</guid>
+      <guid>/publication/las-2004-clade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboratory for Multi-scale Chemical Science</title>
-      <link>/publication/las-04-scidac-poster-chem/</link>
+      <link>/publication/las-2004-scidac-poster-chem/</link>
       <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-scidac-poster-chem/</guid>
+      <guid>/publication/las-2004-scidac-poster-chem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metadata in the Collaboratory for Multi-Scale Chemical Science</title>
-      <link>/publication/las-03-dc/</link>
+      <link>/publication/las-2003-dc/</link>
       <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-dc/</guid>
+      <guid>/publication/las-2003-dc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GOSv3: A Data Definition Language for Grid Information Services</title>
-      <link>/publication/las-01-gosv-3/</link>
+      <link>/publication/las-2001-gosv-3/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/las-01-gosv-3/</guid>
+      <guid>/publication/las-2001-gosv-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defining schemas for the grid information services</title>
-      <link>/publication/von-2000-defining/</link>
+      <link>/publication/las-2000-ggf-schema/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/publication/von-2000-defining/</guid>
+      <guid>/publication/las-2000-ggf-schema/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/publication-type/5/</link>
       <atom:link href="/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 17:52:36 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>5</title>
@@ -13,18 +13,114 @@
     </image>
     
     <item>
+      <title>Cloud Computing Papers, Class Proceedings</title>
+      <link>/publication/las-2018-class-proceedings/</link>
+      <pubDate>Thu, 16 Sep 2021 17:52:36 +0000</pubDate>
+      <guid>/publication/las-2018-class-proceedings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings 2021 FAMU REU supported by Cybertraining-DSC</title>
+      <link>/publication/las-2021-famu/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2021-famu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings: 2021 AI First Engineering</title>
+      <link>/publication/las-2021-projects/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2021-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Technologies</title>
+      <link>/publication/las-2020-book-tech/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-book-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/las-18-handbook/</link>
+      <link>/publication/las-2018-handbook/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-handbook/</guid>
+      <guid>/publication/las-2018-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud and Big Data Technologies (Proceedings)</title>
+      <link>/publication/las-2018-tech-vol-8/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-tech-vol-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud and Big Data Technologies (Proceedings)</title>
+      <link>/publication/las-2018-tech-vol-9/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-tech-vol-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Cases in Big Data Software and Analytics (Proceedings)</title>
+      <link>/publication/las-2018-usecase-vol-3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-usecase-vol-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software 1 (Proceedings)</title>
+      <link>/publication/las-2018-software-1/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-software-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software 2 (Proceedings)</title>
+      <link>/publication/las-2018-software-2/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-software-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Cases in Big Software and Analytics (Proceedings)</title>
+      <link>/publication/las-2018-usecase-vol-1/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-usecase-vol-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Cases in Big Software and Analytics (Proceedings)</title>
+      <link>/publication/las-2018-usecase-vol-2/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-usecase-vol-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects in Big Data Software and Applications (Proceedings)</title>
+      <link>/publication/las-2018-projects-1/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-projects-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Issues in Parallel Computing</title>
-      <link>/publication/las-95-issues-parallel/</link>
+      <link>/publication/las-1995-issues-parallel/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>/publication/las-95-issues-parallel/</guid>
+      <guid>/publication/las-1995-issues-parallel/</guid>
       <description></description>
     </item>
     

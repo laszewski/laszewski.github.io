@@ -91,8 +91,14 @@ bib: bibclean
 
 
 mark_class_books:
-	python bin/replace.py --tags="class book" --label="las-17-teaching"
-	python bin/replace.py --tags="class book" --label="las-18-handbook"
+	# python bin/featured.py --featured --tags="class book" --label="las-2017-teaching"
+	python bin/featured.py --featured  --tags="class book" --label="las-2018-handbook"
+	python bin/featured.py --featured --tags="class book" --label="las-2020-book-cloudeng"
+	#python bin/featured.py --featured --tags="class book" --label="las-2020-book-tech"
+	python bin/featured.py --featured --tags="class book" --label="las-2020-book-python"
+	python bin/featured.py --featured --tags="class book" --label="las-2020-book-linux"
+
+
 
 
 view:

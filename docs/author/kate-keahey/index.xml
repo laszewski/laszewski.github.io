@@ -5,7 +5,7 @@
     <link>/author/kate-keahey/</link>
       <atom:link href="/author/kate-keahey/index.xml" rel="self" type="application/rss+xml" />
     <description>Kate Keahey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Kate Keahey</title>
@@ -13,34 +13,26 @@
     </image>
     
     <item>
-      <title>Futuregrid: a Reconfigurable Testbed for Cloud and Hpc and and Grid Computing</title>
-      <link>/publication/las-17-futuregrid/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-futuregrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contemporary HPC Architectures</title>
-      <link>/publication/las-12-fg-bookchapter/</link>
+      <title>Contemporary High Performance Computing</title>
+      <link>/publication/las-2013-fg-bookchapter/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-fg-bookchapter/</guid>
+      <guid>/publication/las-2013-fg-bookchapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of the FutureGrid Experiment Management Framework</title>
-      <link>/publication/las-10-gce/</link>
+      <link>/publication/las-2010-gce/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-gce/</guid>
+      <guid>/publication/las-2010-gce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A CORBA Commodity Grid Kit</title>
-      <link>/publication/las-02-corbacog/</link>
+      <link>/publication/las-2002-corbacog/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/las-02-corbacog/</guid>
+      <guid>/publication/las-2002-corbacog/</guid>
       <description></description>
     </item>
     

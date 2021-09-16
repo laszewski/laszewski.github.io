@@ -14,201 +14,193 @@
     
     <item>
       <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>
-      <link>/publication/las-21-impact/</link>
+      <link>/publication/las-2021-impact/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-impact/</guid>
+      <guid>/publication/las-2021-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using GAS for Speedy Generation of HybridMulti-Cloud Auto Generated AI Services</title>
-      <link>/publication/las-21-openapi/</link>
+      <link>/publication/las-2021-openapi/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-openapi/</guid>
+      <guid>/publication/las-2021-openapi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
-      <link>/publication/las-21-covid/</link>
+      <link>/publication/las-2021-covid/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/las-21-covid/</guid>
+      <guid>/publication/las-2021-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
-      <link>/publication/las-20-covid/</link>
+      <link>/publication/las-2020-covid/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/las-20-covid/</guid>
+      <guid>/publication/las-2020-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human in the Loop Virtual Machine Management on Comet</title>
-      <link>/publication/las-19-harc-comet/</link>
+      <link>/publication/las-2019-harc-comet/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/las-19-harc-comet/</guid>
+      <guid>/publication/las-2019-harc-comet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Handbook of Clouds and Big Data</title>
-      <link>/publication/las-18-handbook/</link>
+      <link>/publication/las-2018-handbook/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/las-18-handbook/</guid>
+      <guid>/publication/las-2018-handbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Big Data and Open Source Software on Chameleon Cloud</title>
-      <link>/publication/las-17-teaching/</link>
+      <link>/publication/las-2017-teaching/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-teaching/</guid>
+      <guid>/publication/las-2017-teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
-      <link>/publication/las-17-chameleon-mongo/</link>
+      <link>/publication/las-2017-chameleon-mongo/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-chameleon-mongo/</guid>
+      <guid>/publication/las-2017-chameleon-mongo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated sharded mongodb deployment and benchmarking for big data analysis</title>
-      <link>/publication/las-17-chameleon-teach/</link>
+      <link>/publication/las-2017-chameleon-teach/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las-17-chameleon-teach/</guid>
+      <guid>/publication/las-2017-chameleon-teach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User Managed Virtual Clusters in Comet</title>
-      <link>/publication/las-16-virtcluster/</link>
+      <link>/publication/las-2016-virtcluster/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/las-16-virtcluster/</guid>
+      <guid>/publication/las-2016-virtcluster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer Comparison of XSEDE Publication Data</title>
-      <link>/publication/las-15-xsede/</link>
+      <link>/publication/las-2015-xsede/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-xsede/</guid>
+      <guid>/publication/las-2015-xsede/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomic Sequence Analysis Automation</title>
-      <link>/publication/reu-2014-genome/</link>
+      <link>/publication/las-2014-reu-genome/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/reu-2014-genome/</guid>
+      <guid>/publication/las-2014-reu-genome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accessing multiple clouds with cloudmesh</title>
-      <link>/publication/las-14-multi-grid/</link>
+      <link>/publication/las-2014-multi-grid/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-multi-grid/</guid>
+      <guid>/publication/las-2014-multi-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The FutureGrid Testbed for Big Data</title>
-      <link>/publication/las-14-bigdata/</link>
+      <link>/publication/las-2014-bigdata/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-bigdata/</guid>
+      <guid>/publication/las-2014-bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
-      <link>/publication/las-14-impact/</link>
+      <link>/publication/las-2014-impact/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contemporary HPC Architectures</title>
-      <link>/publication/las-12-fg-bookchapter/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-fg-bookchapter/</guid>
+      <guid>/publication/las-2014-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures</title>
-      <link>/publication/las-12-imagemanagement/</link>
+      <link>/publication/las-2012-imagemanagement/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-imagemanagement/</guid>
+      <guid>/publication/las-2012-imagemanagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Multiple Cloud Frameworks</title>
-      <link>/publication/las-12-comparisoncloud/</link>
+      <link>/publication/las-2012-comparisoncloud/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-comparisoncloud/</guid>
+      <guid>/publication/las-2012-comparisoncloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments</title>
-      <link>/publication/las-08-federated-cloud/</link>
+      <link>/publication/las-2008-federated-cloud/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-08-federated-cloud/</guid>
+      <guid>/publication/las-2008-federated-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images</title>
-      <link>/publication/las-11-imagerepo-a/</link>
+      <link>/publication/las-2011-imagerepo-a/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-imagerepo-a/</guid>
+      <guid>/publication/las-2011-imagerepo-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Virtualization Technologies for High Performance Computing Environments</title>
-      <link>/publication/las-11-virt/</link>
+      <link>/publication/las-2011-virt/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-virt/</guid>
+      <guid>/publication/las-2011-virt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grappling cloud infrastructure services with a generic image repository</title>
-      <link>/publication/las-11-grapple/</link>
+      <link>/publication/las-2011-grapple/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/las-11-grapple/</guid>
+      <guid>/publication/las-2011-grapple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of the FutureGrid Experiment Management Framework</title>
-      <link>/publication/las-10-gce/</link>
+      <link>/publication/las-2010-gce/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/las-10-gce/</guid>
+      <guid>/publication/las-2010-gce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GridTorrent Framework: A High-performance Data Transfer and Data Sharing Framework for Scientific Computing</title>
-      <link>/publication/las-07-gridtorrent/</link>
+      <link>/publication/las-2007-gridtorrent/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/las-07-gridtorrent/</guid>
+      <guid>/publication/las-2007-gridtorrent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applications Benchmark Set for Fortran-D and High Performance Fortran</title>
-      <link>/publication/las-crpc-92260/</link>
+      <link>/publication/las-1992-crpc-92260/</link>
       <pubDate>Mon, 01 Jun 1992 00:00:00 +0000</pubDate>
-      <guid>/publication/las-crpc-92260/</guid>
+      <guid>/publication/las-1992-crpc-92260/</guid>
       <description></description>
     </item>
     

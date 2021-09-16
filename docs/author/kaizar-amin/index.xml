@@ -14,161 +14,161 @@
     
     <item>
       <title>An Abstraction Model for a Grid Execution Framework</title>
-      <link>/publication/las-04-abstraction-j/</link>
+      <link>/publication/las-2004-abstraction-j/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-abstraction-j/</guid>
+      <guid>/publication/las-2004-abstraction-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality Assured Ad Hoc Grids</title>
-      <link>/publication/las-05-adhoc-quality/</link>
+      <link>/publication/las-2005-adhoc-quality/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-adhoc-quality/</guid>
+      <guid>/publication/las-2005-adhoc-quality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Model for Quality-of-Service Provision in Service Oriented Architectures</title>
-      <link>/publication/las-05-qos-model/</link>
+      <link>/publication/las-2005-qos-model/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-qos-model/</guid>
+      <guid>/publication/las-2005-qos-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality-of-Service Based Grid Communities</title>
-      <link>/publication/las-05-qos-book/</link>
+      <link>/publication/las-2005-qos-book/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/las-05-qos-book/</guid>
+      <guid>/publication/las-2005-qos-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An OGSA-based Quality of Service Framework</title>
-      <link>/publication/las-03-qos/</link>
+      <link>/publication/las-2003-qos/</link>
       <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-qos/</guid>
+      <guid>/publication/las-2003-qos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward an Architecture for Ad Hoc Grids</title>
-      <link>/publication/las-04-adcom/</link>
+      <link>/publication/las-2004-adcom/</link>
       <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-adcom/</guid>
+      <guid>/publication/las-2004-adcom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Overview of Grid File Transfer Patterns and their Implementation in the Java CoG Kit</title>
-      <link>/publication/las-04-ftp-journal/</link>
+      <link>/publication/las-2004-ftp-journal/</link>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-ftp-journal/</guid>
+      <guid>/publication/las-2004-ftp-journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis and Provision of QoS for Distributed Grid Applications</title>
-      <link>/publication/las-04-qos-journal/</link>
+      <link>/publication/las-2004-qos-journal/</link>
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-qos-journal/</guid>
+      <guid>/publication/las-2004-qos-journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QoS Support for High-performance Scientific Grid Applications</title>
-      <link>/publication/las-04-qos-ccgrid/</link>
+      <link>/publication/las-2004-qos-ccgrid/</link>
       <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-qos-ccgrid/</guid>
+      <guid>/publication/las-2004-qos-ccgrid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abstracting the Grid</title>
-      <link>/publication/las-04-abstracting/</link>
+      <link>/publication/las-2004-abstracting/</link>
       <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-abstracting/</guid>
+      <guid>/publication/las-2004-abstracting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Middleware</title>
-      <link>/publication/las-04-grid-midleware/</link>
+      <link>/publication/las-2004-grid-midleware/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-grid-midleware/</guid>
+      <guid>/publication/las-2004-grid-midleware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GridAnt: A Client-Controllable Grid Workflow System</title>
-      <link>/publication/las-04-gridant/</link>
+      <link>/publication/las-2004-gridant/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-gridant/</guid>
+      <guid>/publication/las-2004-gridant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Level Grid Execution Patterns</title>
-      <link>/publication/amin-2004/</link>
+      <link>/publication/las-2004-grid-pattern/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/amin-2004/</guid>
+      <guid>/publication/las-2004-grid-pattern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Middleware for Communications</title>
-      <link>/publication/las-04-middleware/</link>
+      <link>/publication/las-2004-middleware/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-middleware/</guid>
+      <guid>/publication/las-2004-middleware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Framework for Building Scientific Knowledge Grids Applied to Thermochemical Tables</title>
-      <link>/publication/las-03-knowledge/</link>
+      <link>/publication/las-2003-knowledge/</link>
       <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-knowledge/</guid>
+      <guid>/publication/las-2003-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grid Computing for the Masses: An Overview</title>
-      <link>/publication/las-03-masses/</link>
+      <link>/publication/las-2003-masses/</link>
       <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-masses/</guid>
+      <guid>/publication/las-2003-masses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metadata in the Collaboratory for Multi-Scale Chemical Science</title>
-      <link>/publication/las-03-dc/</link>
+      <link>/publication/las-2003-dc/</link>
       <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-dc/</guid>
+      <guid>/publication/las-2003-dc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reputation-based Grid Resource Selection</title>
-      <link>/publication/las-03-reputation/</link>
+      <link>/publication/las-2003-reputation/</link>
       <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-reputation/</guid>
+      <guid>/publication/las-2003-reputation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Collaborative Grid Services Architecture (OCGSA)</title>
-      <link>/publication/las-02-ocgsa/</link>
+      <link>/publication/las-2002-ocgsa/</link>
       <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/las-02-ocgsa/</guid>
+      <guid>/publication/las-2002-ocgsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Grid Service-Based Active Thermochemical Table Framework</title>
-      <link>/publication/las-02-activetable/</link>
+      <link>/publication/las-2002-activetable/</link>
       <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/las-02-activetable/</guid>
+      <guid>/publication/las-2002-activetable/</guid>
       <description></description>
     </item>
     

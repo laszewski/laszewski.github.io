@@ -14,57 +14,65 @@
     
     <item>
       <title>Peer Comparison of XSEDE and NCAR Publication Data</title>
-      <link>/publication/las-15-impact-ncar/</link>
+      <link>/publication/las-2015-impact-ncar/</link>
       <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-impact-ncar/</guid>
+      <guid>/publication/las-2015-impact-ncar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer Comparison of XSEDE Publication Data</title>
-      <link>/publication/las-15-xsede/</link>
+      <link>/publication/las-2015-xsede/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-xsede/</guid>
+      <guid>/publication/las-2015-xsede/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TAS View of XSEDE Users and Usage</title>
-      <link>/publication/las-15-tas/</link>
+      <link>/publication/las-2015-tas/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/las-15-tas/</guid>
+      <guid>/publication/las-2015-tas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Comprehensive and open-source resource usage measurement and analysis for HPC systems</title>
-      <link>/publication/las-14-xdmod/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-xdmod/</guid>
+      <title>Comprehensive, open-source resource usage measurement and analysis for HPC systems</title>
+      <link>/publication/las-2014-xdmod/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2014-xdmod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE</title>
-      <link>/publication/las-14-impact/</link>
+      <link>/publication/las-2014-impact/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/las-14-impact/</guid>
+      <guid>/publication/las-2014-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems</title>
-      <link>/publication/las-12-xdmod-kernel/</link>
+      <link>/publication/las-2012-xdmod-kernel/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-xdmod-kernel/</guid>
+      <guid>/publication/las-2012-xdmod-kernel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using XDMoD to Facilitate XSEDE Operations and Planning and Analysis</title>
-      <link>/publication/las-13-xdmod/</link>
+      <title>Using XDMoD to Facilitate XSEDE Operations, Planning and Analysis</title>
+      <link>/publication/las-2013-xdmod/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/las-13-xdmod/</guid>
+      <guid>/publication/las-2013-xdmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analytics driven cyberinfrastructure operations, planning and analysis using XDMoD</title>
+      <link>/publication/las-2012-xdmod-data/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2012-xdmod-data/</guid>
       <description></description>
     </item>
     

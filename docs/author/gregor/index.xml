@@ -13,42 +13,34 @@
     </image>
     
     <item>
-      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services and Federation and and the 8th Open Cirrus Summit</title>
-      <link>/publication/las-12-fedcloud-proc/</link>
+      <title>FederatedClouds &#39;12: Proceedings of the 2012 Workshop on Cloud Services and Federation, and the 8th Open Cirrus Summit</title>
+      <link>/publication/las-2012-fedcloud-proc/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/las-12-fedcloud-proc/</guid>
+      <guid>/publication/las-2012-fedcloud-proc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An OGSA-based Quality of Service Framework</title>
-      <link>/publication/las-03-qos/</link>
+      <link>/publication/las-2003-qos/</link>
       <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-qos/</guid>
+      <guid>/publication/las-2003-qos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Collaborative Informatics Infrastructure for Multi-scale Science</title>
-      <link>/publication/las-04-clade/</link>
+      <link>/publication/las-2004-clade/</link>
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/las-04-clade/</guid>
+      <guid>/publication/las-2004-clade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reputation-based Grid Resource Selection</title>
-      <link>/publication/las-03-reputation/</link>
+      <link>/publication/las-2003-reputation/</link>
       <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/las-03-reputation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Parallelization of a Weather Prediction Model</title>
-      <link>/publication/von-1993-parallelization/</link>
-      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>/publication/von-1993-parallelization/</guid>
+      <guid>/publication/las-2003-reputation/</guid>
       <description></description>
     </item>
     
