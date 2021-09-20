@@ -1,5 +1,5 @@
 +++
-title = "Virtual Coud Directory"
+title = "Multi Cloud Virtual Directory"
 date = 2021-08-01T01:33:02-05:00
 draft = false
 tags = ['project', 'cloud', 'class']
