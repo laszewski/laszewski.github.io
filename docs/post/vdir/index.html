@@ -791,7 +791,7 @@ Your goal will be to to develop an API, secure REST, and commandline tool that e
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    4 min read
+    5 min read
   </span>
   
 
@@ -972,7 +972,36 @@ storage ervices. Distinguish between for pay and free services.</p>
 <li>
 <p>Are there companies or services that already offer this?</p>
 </li>
+<li>
+<p>When defining the REST API we like to be able to use a dirname and
+a basename within the api similar to python. to deal with provider
+specific filenames we do have two urls for a file.</p>
+<p><code>{provider}/{dirname}/{basename}</code>
+<code>{dirname}/{basename}</code></p>
+<p>The first allows duplication of files between services, the latter
+defines a &ldquo;preferred&rdquo; url based on some criteria. It could be that
+we just set the preferred provider for the file.</p>
+<p>Note that the introduction of duplicating files is new</p>
+<p>It also requires an update so that the file with the newest
+timestamp gets updated on all registered serrvices.</p>
+</li>
+<li>
+<p>Please note that the project addresses the ability to integrate
+object store and regular file system based storage.</p>
+</li>
+<li>
+<p>Not all implementation must be done on Ubuntu20.04 which is run
+via a container. The graphical component is done wia moder Web
+view technologies. Wile all other implementation can be done in
+python, the GUI can also be implemented in JavaScript. The service
+accessing other services must be properly protected which is easy
+as we assum it runs on localhost and we can appropriately secure
+it with common solutions.</p>
+</li>
 </ol>
+<p>In case of qeuestions, pleas econtact Gregor at</p>
+<p>
+<a href="mailto:laszewski@gmail.com">laszewski@gmail.com</a></p>
 
     </div>
 
@@ -1261,15 +1290,15 @@ storage ervices. Distinguish between for pay and free services.</p>
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/post/project-vdir/">Virtual Coud Directory</a></li>
+      
+      <li><a href="/post/project-nlp/">Multi Cloud NLP Service</a></li>
+      
+      <li><a href="/post/nlp/">Multi Cloud NLP Service</a></li>
+      
       <li><a href="/post/class/">Quality teaching</a></li>
       
       <li><a href="/project/bookmanager/">Bookmanager</a></li>
-      
-      <li><a href="/project/cloudmesh-gui/">Cloudmesh JavaScript User Interface</a></li>
-      
-      <li><a href="/project/cloudmesh/">Multi-Cloud Mangement with Cloudmesh</a></li>
-      
-      <li><a href="/project/cloudmesh-nist/">NIST Big Data</a></li>
       
     </ul>
   </div>

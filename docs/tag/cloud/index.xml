@@ -13,6 +13,111 @@
     </image>
     
     <item>
+      <title>Multi Cloud NLP Service</title>
+      <link>/post/project-nlp/</link>
+      <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
+      <guid>/post/project-nlp/</guid>
+      <description>&lt;p&gt;Be part of a team to create a multicloud natural language processing service.&lt;/p&gt;
+&lt;p&gt;Your goal will be to to develop an API, secure REST, and commandline
+tool that easily interfaces with natural language services of multiple
+cloud providers.  YOur integrated service will utilize all or one
+ofthem to achive a task related to NLP analysis.&lt;/p&gt;
+&lt;p&gt;This is espacielly usefull for data scientists that may want to access
+multiple cloud providers and eliminate vendor lockin or to access
+services that other providers do not offer.&lt;/p&gt;
+&lt;h2 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h2&gt;
+&lt;p&gt;You will be debelopping&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;A comparision of NLP cloud services.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aylien&lt;/li&gt;
+&lt;li&gt;Text Summarization&lt;/li&gt;
+&lt;li&gt;Twinword Text Analysis&lt;/li&gt;
+&lt;li&gt;IBM Watson Alchemy&lt;/li&gt;
+&lt;li&gt;RxNLP&lt;/li&gt;
+&lt;li&gt;Linguakit&lt;/li&gt;
+&lt;li&gt;Geneea Interpretor NLP&lt;/li&gt;
+&lt;li&gt;MLP CLoud&lt;/li&gt;
+&lt;li&gt;Natural Language AI 
+&lt;a href=&#34;https://cloud.google.com/natural-language&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloud.google.com/natural-language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CLoud Factory NLP 
+&lt;a href=&#34;https://www.cloudfactory.com/services/nlp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cloudfactory.com/services/nlp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MonkeyLearn&lt;/li&gt;
+&lt;li&gt;MeaningCloud&lt;/li&gt;
+&lt;li&gt;Lexalytics&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;There could be many more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Distinguish them nby chracteroistics, create a table&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A commandline interface to the service&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Rest API that calls out other services&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Python API that wraps several services into a convenient library&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A manual describing the functionality&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Put everything in a container so it can be run on Linux, MAc and
+Windows.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a convenient commandline tool that allows starting of the
+service, interacting with it and make this real easy to use. THe
+commandline will hide the docker commands while providing human
+readable abbreviations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deliver unit tests with pytests&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deliver a high quality report including benchmarks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrate authentication to the cloud providers and to the REST service.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use Yaml for the configuration of the service&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do the development in a container using 20.04. We will create a DOckerfile&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The code will be developed in github at cloudmesh-nlp which will be setup by Gregor&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;In order for you to participate in this project you will need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A computer on which you can run docker (Windows Home will not work)&lt;/li&gt;
+&lt;li&gt;Significant python knowledge&lt;/li&gt;
+&lt;li&gt;Be highly motivated&lt;/li&gt;
+&lt;li&gt;Be willing to have meetings on this project once or twice a week&lt;/li&gt;
+&lt;li&gt;Showcase significant progress over the lifetime of the project.&lt;/li&gt;
+&lt;li&gt;Be knowledgable with github (a repository will be provided to which
+Dr. von Laszewski will contribute)&lt;/li&gt;
+&lt;li&gt;Conduct task management in GitHub (Gregor will explain)&lt;/li&gt;
+&lt;li&gt;Be honest and not hiding problems or implementation bugs.&lt;/li&gt;
+&lt;li&gt;You must be able to do a videoconference and be able to share your screen (I typically use google meet or zoom).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;start with a Survey&lt;/li&gt;
+&lt;li&gt;design the commanline interface first as that may be the easiest and will showcase how to design the API&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In case of qeuestions, pleas econtact Gregor at&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Quality teaching</title>
       <link>/post/class/</link>
       <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
@@ -51,9 +156,9 @@ see if you are qualified.&lt;/p&gt;
     
     <item>
       <title>Virtual Coud Directory</title>
-      <link>/post/vdir/</link>
+      <link>/post/project-vdir/</link>
       <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
-      <guid>/post/vdir/</guid>
+      <guid>/post/project-vdir/</guid>
       <description>&lt;h2 id=&#34;virtual-directory&#34;&gt;Virtual directory&lt;/h2&gt;
 &lt;p&gt;Be part of a team to create a multicloud virtual directory.&lt;/p&gt;
 &lt;p&gt;Your goal will be to to develop an API, secure REST, and commandline
@@ -195,7 +300,36 @@ storage ervices. Distinguish between for pay and free services.&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;Are there companies or services that already offer this?&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When defining the REST API we like to be able to use a dirname and
+a basename within the api similar to python. to deal with provider
+specific filenames we do have two urls for a file.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{provider}/{dirname}/{basename}&lt;/code&gt;
+&lt;code&gt;{dirname}/{basename}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The first allows duplication of files between services, the latter
+defines a &amp;ldquo;preferred&amp;rdquo; url based on some criteria. It could be that
+we just set the preferred provider for the file.&lt;/p&gt;
+&lt;p&gt;Note that the introduction of duplicating files is new&lt;/p&gt;
+&lt;p&gt;It also requires an update so that the file with the newest
+timestamp gets updated on all registered serrvices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Please note that the project addresses the ability to integrate
+object store and regular file system based storage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Not all implementation must be done on Ubuntu20.04 which is run
+via a container. The graphical component is done wia moder Web
+view technologies. Wile all other implementation can be done in
+python, the GUI can also be implemented in JavaScript. The service
+accessing other services must be properly protected which is easy
+as we assum it runs on localhost and we can appropriately secure
+it with common solutions.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;In case of qeuestions, pleas econtact Gregor at&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

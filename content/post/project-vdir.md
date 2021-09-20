@@ -163,3 +163,35 @@ other used a parallel file transfer option. It will be up to you to decide how t
    * pCloud 
    
 8. Are there companies or services that already offer this?
+
+9. When defining the REST API we like to be able to use a dirname and
+   a basename within the api similar to python. to deal with provider
+   specific filenames we do have two urls for a file.
+
+   `{provider}/{dirname}/{basename}`
+   `{dirname}/{basename}`
+
+   The first allows duplication of files between services, the latter
+   defines a "preferred" url based on some criteria. It could be that
+   we just set the preferred provider for the file.
+
+   Note that the introduction of duplicating files is new
+
+   It also requires an update so that the file with the newest
+   timestamp gets updated on all registered serrvices.
+
+10. Please note that the project addresses the ability to integrate
+    object store and regular file system based storage.
+
+11. Not all implementation must be done on Ubuntu20.04 which is run
+    via a container. The graphical component is done wia moder Web
+    view technologies. Wile all other implementation can be done in
+    python, the GUI can also be implemented in JavaScript. The service
+    accessing other services must be properly protected which is easy
+    as we assum it runs on localhost and we can appropriately secure
+    it with common solutions.
+
+In case of qeuestions, pleas econtact Gregor at
+
+laszewski@gmail.com
+
