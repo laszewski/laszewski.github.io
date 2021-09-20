@@ -5,12 +5,162 @@
     <link>/tag/project/</link>
       <atom:link href="/tag/project/index.xml" rel="self" type="application/rss+xml" />
     <description>project</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 01:33:02 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>project</title>
       <link>/tag/project/</link>
     </image>
+    
+    <item>
+      <title>Virtual Coud Directory</title>
+      <link>/post/vdir/</link>
+      <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
+      <guid>/post/vdir/</guid>
+      <description>&lt;h2 id=&#34;virtual-directory&#34;&gt;Virtual directory&lt;/h2&gt;
+&lt;p&gt;Be part of a team to create a multicloud virtual directory.&lt;/p&gt;
+&lt;p&gt;Your goal will be to to develop an API, secure REST, and commandline
+tool that easily interfaces with storage servoces such as file based
+services and object stores osted on the internet to create a virtual
+directory that accesses the files by directory name and filename.&lt;/p&gt;
+&lt;p&gt;This is espaciellyusefull for data scientists that may want to strore
+their data on multiple cloud providers and eliminate vendor lockin.&lt;/p&gt;
+&lt;p&gt;It could also be useful for geographically distributed files that
+allow services to utilize them based on speed of access or the
+physical location.&lt;/p&gt;
+&lt;p&gt;In a previous version of cloudmesh we have developed an integrated
+approach for compute and storage services. However in this project we
+like to explore some new features and separate the implementation form
+the main cloudmesh.&lt;/p&gt;
+&lt;p&gt;In the past cloudmesh has conducted two such projects&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/manual/storage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/manual/storage.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/manual/vdir.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/manual/vdir.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We like to reimplement thise projects and significantly improve them by&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Adding more providers&lt;/li&gt;
+&lt;li&gt;Adding a secure rest service for acceassing the virdual directory&lt;/li&gt;
+&lt;li&gt;Creating a slick user interface to brows the virdula directry&lt;/li&gt;
+&lt;li&gt;Put everything in a container so it can be run on Linux, MAc and
+Windows.&lt;/li&gt;
+&lt;li&gt;Dreate a convenient commandline tool that allows starting of the
+service, interacting with it and make this real easy to use. THe
+commandline will hide the docker commands while providing human
+readable abbreviations.&lt;/li&gt;
+&lt;li&gt;Deliver unit tests with pytests&lt;/li&gt;
+&lt;li&gt;Deliver a high quality report including benchmarks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;In order for you to participate in this project you will need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A computer on which you can run docker (Windows Home will not work)&lt;/li&gt;
+&lt;li&gt;Significant python knowledge&lt;/li&gt;
+&lt;li&gt;Be highly motivated&lt;/li&gt;
+&lt;li&gt;Be willing to have meetings on this project once or twice a week&lt;/li&gt;
+&lt;li&gt;SHowcase significant progress over the lifetime of the project.&lt;/li&gt;
+&lt;li&gt;be knowledgable with github (a repository will be provided to which
+Dr. von Laszewski will contribute)&lt;/li&gt;
+&lt;li&gt;Conduct task management in GitHub (Gregor will explain)&lt;/li&gt;
+&lt;li&gt;Be honest and not hiding problems or implementation bugs.&lt;/li&gt;
+&lt;li&gt;You must be able to do a videoconference and be able to share your screen (I typically use google meet or zoom).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;options&#34;&gt;Options&lt;/h2&gt;
+&lt;p&gt;One of the two projects used a single file taansfer logic, while the
+other used a parallel file transfer option. It will be up to you to decide how to proceed.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;In the first week collect all clouds and services that could be
+used in this project. THis work should be split between the
+teammembers and a detailed analysis including features including
+authentication and security must be conducted.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You will need to evaluate the previous efforts and decide how to proceed.&lt;/p&gt;
+&lt;p&gt;One way is to select several cloudas and define an abstraction that
+has to be implemented for each cloud. this can be actually bes
+demonstrated by an example commandline such as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;vdir mkdir DIR
+vdir cd [DIR]
+vdir ls [DIR]
+vdir add [FILEENDPOINT] [DIR_AND_NAME]
+vdir delete [DIR_OR_NAME]
+vdir status [DIR_OR_NAME]
+vdir get NAME DESTINATION
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;From the commandline derive some API interface and use FastAPI to
+implement it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify a mechnism on how to deal with the security. AN encrypted
+file with your cloud credentials will be sufficient.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One of the limitations of the previous vdir project is that the
+fill add function is done only on a single file but not on a
+recursive file tree. Naturally we need to upload, single files,
+multiple files and filetrees, similar to the unix command rsync.
+This has been implemented in the storage command&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;storage [--storage=SERVICE] [--parallel=N] create dir DIRECTORY
+storage [--storage=SERVICE] [--parallel=N] get SOURCE DESTINATION [--recursive]
+storage [--storage=SERVICE] [--parallel=N] put SOURCE DESTINATION [--recursive]
+storage [--storage=SERVICE] [--parallel=N] list [SOURCE] [--recursive] [--output=OUTPUT]
+storage [--storage=SERVICE] [--parallel=N] delete SOURCE
+storage [--storage=SERVICE] search  DIRECTORY FILENAME [--recursive] [--output=OUTPUT]
+storage [--storage=SERVICE] sync SOURCE DESTINATION [--name=NAME] [--async]
+storage [--storage=SERVICE] sync status [--name=NAME]
+storage config list [--output=OUTPUT]
+storage [--parallel=N] copy SOURCE DESTINATION [--recursive]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We like naturally to (re-)implement the storage command.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Before you start implementing describe and showcase a couple of commands on how to used it.
+Our command will be called cdir (for cloudmesh dir so it is easy to distinguish)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make sure that you provide a comprehensive list of potentail cloud
+storage ervices. Distinguish between for pay and free services.&lt;/p&gt;
+&lt;p&gt;The list could include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS Drive&lt;/li&gt;
+&lt;li&gt;AWS Object Store&lt;/li&gt;
+&lt;li&gt;An ssh accesible computer&lt;/li&gt;
+&lt;li&gt;Azure&lt;/li&gt;
+&lt;li&gt;Box&lt;/li&gt;
+&lt;li&gt;Degoo&lt;/li&gt;
+&lt;li&gt;Dropbox&lt;/li&gt;
+&lt;li&gt;Google Drive&lt;/li&gt;
+&lt;li&gt;Google docs/drive&lt;/li&gt;
+&lt;li&gt;Icedrive&lt;/li&gt;
+&lt;li&gt;MEGA&lt;/li&gt;
+&lt;li&gt;MediaFire&lt;/li&gt;
+&lt;li&gt;MediaFire&lt;/li&gt;
+&lt;li&gt;Mega&lt;/li&gt;
+&lt;li&gt;Nextcloud&lt;/li&gt;
+&lt;li&gt;OneCloud&lt;/li&gt;
+&lt;li&gt;OneDrive&lt;/li&gt;
+&lt;li&gt;Oracle&lt;/li&gt;
+&lt;li&gt;Sync.com&lt;/li&gt;
+&lt;li&gt;WebDAV&lt;/li&gt;
+&lt;li&gt;Your local computer&lt;/li&gt;
+&lt;li&gt;iCloud&lt;/li&gt;
+&lt;li&gt;iDrive&lt;/li&gt;
+&lt;li&gt;idrive&lt;/li&gt;
+&lt;li&gt;pCloud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Are there companies or services that already offer this?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Bookmanager</title>

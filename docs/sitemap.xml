@@ -17,11 +17,20 @@
     <loc>/</loc>
     <lastmod>2021-09-16T16:08:16-04:00</lastmod>
   </url><url>
+    <loc>/tag/post/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
+  </url><url>
+    <loc>/tag/project/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
+  </url><url>
     <loc>/post/class/</loc>
     <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-09-16T16:08:15-04:00</lastmod>
+  </url><url>
+    <loc>/post/vdir/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
     <loc>/publication-type/0/</loc>
     <lastmod>2021-09-16T16:08:16-04:00</lastmod>
@@ -318,9 +327,6 @@
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/cloudmesh-nist/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/project/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/pi-cloud-cluster/</loc>
