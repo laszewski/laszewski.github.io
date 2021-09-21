@@ -1,5 +1,5 @@
 +++
-title = "Multi Cloud NLP Service"
+title = "Multi Cloud X Service"
 date = 2021-08-01T01:33:02-05:00
 draft = false
 tags = ['project', 'cloud', 'class']
@@ -17,12 +17,13 @@ categories = ['class']
 +++
 
 
-Be part of a team to create a multicloud natural language processing service.
+Be part of a team to create a multicloud access to a service offered
+by multiple cloud or cloud service providers.
 
 Your goal will be to develop an API, secure REST, and command line
-tool that easily interfaces with natural language services of multiple
+tool that easily interfaces with a service framework or tool offered by multiple
 cloud providers.  Your integrated service will utilize all or one
-of them to achieve a task related to NLP analysis.
+of them to achieve a task related to an analysis conducted by X.
 
 This is especially useful for data scientists that may want to access
 multiple cloud providers and eliminate vendor lock-in or to access
@@ -32,25 +33,8 @@ services that other providers do not offer.
 
 You will be developing
 
-1. A comparison of NLP cloud services.
-
-   * Aylien	
-   * Text Summarization	
-   * Twinword Text Analysis 
-   * IBM Watson Alchemy	
-   * RxNLP	
-   * Linguakit	
-   * Geneea Interpretor NLP
-   * MLP CLoud
-   * Natural Language AI <https://cloud.google.com/natural-language>
-   * CLoud Factory NLP <https://www.cloudfactory.com/services/nlp>
-   * MonkeyLearn
-   * MeaningCloud
-   * Lexalytics
-   * ...
-   * There could be many more
-
-   Distinguish them by characteristics, create a table
+1. A comparison of X on various cloud or cloud service providers.
+   Distinguish them by chracteroistics, create a table
    
 1. A command line interface to the service
 2. A Rest API that calls out other services
@@ -60,15 +44,14 @@ You will be developing
 
 4. Put everything in a container so it can be run on Linux, Mac and
    Windows.
-5. Create a convenient command line tool that allows starting the service, interacting with it, and making this really easy to use. THe
-   command line will hide the docker commands while providing human
+5. Create a convenient command line tool that allows starting the service, interacting with it, and making this easy to use. The command line will hide the docker commands while providing human
    readable abbreviations.
 6. Deliver unit tests with pytests
 6. Deliver a high-quality report including benchmarks
 7. Integrate authentication to the cloud providers and to the REST service.
 8. Use Yaml for the configuration of the service
 9. Do the development in a container using 20.04. We will create a DOckerfile
-10. The code will be developed in GitHub at cloudmesh-nlp, which will be set up by Gregor
+10. The code will be developed in GitHub at cloudmesh, which will be set up by Gregor
 
 
 ## Requirements

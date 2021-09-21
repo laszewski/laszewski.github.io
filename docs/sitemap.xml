@@ -17,10 +17,19 @@
     <loc>/</loc>
     <lastmod>2021-09-16T16:08:16-04:00</lastmod>
   </url><url>
+    <loc>/post/project-pi-kubernetes/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
+  </url><url>
+    <loc>/post/project-pi-spark/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
+  </url><url>
     <loc>/post/project-nlp/</loc>
     <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
     <loc>/post/project-vdir/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
+  </url><url>
+    <loc>/post/project-multicloud-x/</loc>
     <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
     <loc>/tag/post/</loc>
@@ -30,6 +39,9 @@
     <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
     <loc>/post/class/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
+  </url><url>
+    <loc>/post/project-pi-slurm/</loc>
     <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
