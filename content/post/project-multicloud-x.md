@@ -2,7 +2,7 @@
 title = "Multi Cloud X Service"
 date = 2021-08-01T01:33:02-05:00
 draft = false
-tags = ['project', 'cloud', 'class']
+tags = ['contribute', 'project', 'cloud', 'class']
 categories = ['class']
 
 # Featured image
