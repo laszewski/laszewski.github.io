@@ -41,6 +41,9 @@
     <loc>/post/class/</loc>
     <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
+    <loc>/post/project-homecloud/</loc>
+    <lastmod>2021-08-01T01:33:02-05:00</lastmod>
+  </url><url>
     <loc>/post/project-pi-slurm/</loc>
     <lastmod>2021-08-01T01:33:02-05:00</lastmod>
   </url><url>
@@ -288,13 +291,13 @@
     <lastmod>2021-09-16T16:08:15-04:00</lastmod>
   </url><url>
     <loc>/project/e516-sp20-proceeding/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>/tag/proceeding/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>/tag/pub/</loc>
-    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-24T00:00:00-05:00</lastmod>
   </url><url>
     <loc>/publication/las-2020-book-tech/</loc>
     <lastmod>2021-09-16T16:08:15-04:00</lastmod>
@@ -330,25 +333,25 @@
     <lastmod>2021-09-16T16:08:14-04:00</lastmod>
   </url><url>
     <loc>/project/e516-sp19-proceeding/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-09T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/project/bookmanager/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/project/cloudmesh-gui/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/project/cloudmesh/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/project/cloudmesh-nist/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/project/pi-cloud-cluster/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/project/impact/</loc>
-    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>/author/christopher-irving/</loc>
     <lastmod>2021-09-16T16:08:14-04:00</lastmod>
@@ -425,6 +428,12 @@
     <loc>/publication/las-2018-projects-1/</loc>
     <lastmod>2021-09-16T16:08:13-04:00</lastmod>
   </url><url>
+    <loc>/project/</loc>
+    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>/author/chang/</loc>
     <lastmod>2021-09-16T16:08:13-04:00</lastmod>
   </url><url>
@@ -451,9 +460,6 @@
   </url><url>
     <loc>/author/badi-abdul-wahid/</loc>
     <lastmod>2021-09-16T16:08:13-04:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/las-2017-cloudmesh/</loc>
     <lastmod>2021-09-16T16:08:13-04:00</lastmod>
@@ -490,9 +496,6 @@
   </url><url>
     <loc>/author/philip-papadopoulos/</loc>
     <lastmod>2021-09-16T16:08:13-04:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/rick-wagner/</loc>
     <lastmod>2021-09-16T16:08:13-04:00</lastmod>

@@ -5,9 +5,9 @@
     <link>/tag/proceeding/</link>
       <atom:link href="/tag/proceeding/index.xml" rel="self" type="application/rss+xml" />
     <description>proceeding</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2019 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>proceeding</title>
       <link>/tag/proceeding/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>E516 - Spring 2020 Proceedings</title>
       <link>/project/e516-sp20-proceeding/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
       <guid>/project/e516-sp20-proceeding/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the
@@ -30,7 +30,7 @@ ePub.&lt;/p&gt;
     <item>
       <title>E516 - Fall 2019 Proceedings</title>
       <link>/project/e516-sp19-proceeding/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
       <guid>/project/e516-sp19-proceeding/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the

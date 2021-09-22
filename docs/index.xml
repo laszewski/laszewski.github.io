@@ -7,7 +7,7 @@
     <description>Gregor von Laszewski</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 01:33:02 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Gregor von Laszewski</title>
       <link>/</link>
     </image>
@@ -18,8 +18,7 @@
       <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
       <guid>/post/project-pi-kubernetes/</guid>
       <description>&lt;p&gt;Be part of a team to create a kubernetes cluster on a Raspberry pi.&lt;/p&gt;
-&lt;p&gt;At 
-&lt;a href=&#34;http://piplanet.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://piplanet.org&lt;/a&gt; we discuss setting up a Raspberry Pi
+&lt;p&gt;At &lt;a href=&#34;http://piplanet.org&#34;&gt;http://piplanet.org&lt;/a&gt; we discuss setting up a Raspberry Pi
 cluster with a convenient burning approach of SD Cards. The Pis will
 receive preconfigured SD Cards that allow starting a cluster when the
 Pis are switched on. You will be able to communicate from the COmputer
@@ -42,8 +41,7 @@ given the IP&amp;rsquo;s or the name of the machines.&lt;/li&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;p&gt;In order for you to participate in this project, you will need:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;You need to have financial resources to buy yourself the material for creating a PI cluster. You will need at least 3 Pis with 8GB memory. Each of them costs $75, but you also need a power supply costing $35, power cables, network cables, and at least one HDMI cable suitable to connect an HDMI monitor to a PI. More details about parts can be found at 
-&lt;a href=&#34;https://cloudmesh.github.io/pi/docs/hardware/parts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloudmesh.github.io/pi/docs/hardware/parts/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You need to have financial resources to buy yourself the material for creating a PI cluster. You will need at least 3 Pis with 8GB memory. Each of them costs $75, but you also need a power supply costing $35, power cables, network cables, and at least one HDMI cable suitable to connect an HDMI monitor to a PI. More details about parts can be found at &lt;a href=&#34;https://cloudmesh.github.io/pi/docs/hardware/parts/&#34;&gt;https://cloudmesh.github.io/pi/docs/hardware/parts/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If you also have a Laptop or desktop to which you like to connect the PI, make sure it can run docker (Windows Home will not work). However, one of the Raspberry PIs will do.&lt;/li&gt;
 &lt;li&gt;Significant Python knowledge&lt;/li&gt;
 &lt;li&gt;Be highly motivated&lt;/li&gt;
@@ -72,8 +70,7 @@ implement it.&lt;/li&gt;
 &lt;li&gt;Your deployment should target Ubuntu on the PI as well as RaspberryOS. If there is only time for one, pick one.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In case of questions, please contact Gregor at&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -83,8 +80,7 @@ implement it.&lt;/li&gt;
       <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
       <guid>/post/project-pi-spark/</guid>
       <description>&lt;p&gt;Be part of a team to create a spark cluster on a Raspberry pi.&lt;/p&gt;
-&lt;p&gt;At 
-&lt;a href=&#34;http://piplanet.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://piplanet.org&lt;/a&gt; we discuss setting up a Raspberry Pi
+&lt;p&gt;At &lt;a href=&#34;http://piplanet.org&#34;&gt;http://piplanet.org&lt;/a&gt; we discuss setting up a Raspberry Pi
 cluster with a convenient burning approach of SD Cards. The Pis will
 receive preconfigured SD Cards that allow starting a cluster when the
 Pis are switched on. You will be able to communicate from the COmputer
@@ -109,8 +105,7 @@ given the IP&amp;rsquo;s or the name of the machines.&lt;/li&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;p&gt;In order for you to participate in this project, you will need:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;You need to have financial resources to buy yourself the material for creating a PI cluster. You will need at least 3 Pis with 8GB memory. Each of them costs $75, but you also need a power supply costing $35, power cables, network cables, and at least one HDMI cable suitable to connect an HDMI monitor to a PI. More details about parts can be found at 
-&lt;a href=&#34;https://cloudmesh.github.io/pi/docs/hardware/parts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloudmesh.github.io/pi/docs/hardware/parts/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You need to have financial resources to buy yourself the material for creating a PI cluster. You will need at least 3 Pis with 8GB memory. Each of them costs $75, but you also need a power supply costing $35, power cables, network cables, and at least one HDMI cable suitable to connect an HDMI monitor to a PI. More details about parts can be found at &lt;a href=&#34;https://cloudmesh.github.io/pi/docs/hardware/parts/&#34;&gt;https://cloudmesh.github.io/pi/docs/hardware/parts/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If you also have a Laptop or desktop to which you like to connect the PI, make sure it can run docker (Windows Home will not work). However, one of the Raspberry PIs will do.&lt;/li&gt;
 &lt;li&gt;Significant python knowledge&lt;/li&gt;
 &lt;li&gt;Be highly motivated&lt;/li&gt;
@@ -142,8 +137,7 @@ implement it.&lt;/li&gt;
 Note that Hadoop or Spark may also be able to be installed on the PIs with snapcraft. Discuss how this solution could be used for the implementation of this project.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In case of questions, please contact Gregor at&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -174,10 +168,8 @@ services that other providers do not offer.&lt;/p&gt;
 &lt;li&gt;Linguakit&lt;/li&gt;
 &lt;li&gt;Geneea Interpretor NLP&lt;/li&gt;
 &lt;li&gt;MLP CLoud&lt;/li&gt;
-&lt;li&gt;Natural Language AI 
-&lt;a href=&#34;https://cloud.google.com/natural-language&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloud.google.com/natural-language&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CLoud Factory NLP 
-&lt;a href=&#34;https://www.cloudfactory.com/services/nlp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cloudfactory.com/services/nlp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Natural Language AI &lt;a href=&#34;https://cloud.google.com/natural-language&#34;&gt;https://cloud.google.com/natural-language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CLoud Factory NLP &lt;a href=&#34;https://www.cloudfactory.com/services/nlp&#34;&gt;https://www.cloudfactory.com/services/nlp&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;MonkeyLearn&lt;/li&gt;
 &lt;li&gt;MeaningCloud&lt;/li&gt;
 &lt;li&gt;Lexalytics&lt;/li&gt;
@@ -246,8 +238,7 @@ Dr. von Laszewski will contribute)&lt;/li&gt;
 &lt;li&gt;design the command line interface first as that may be the easiest and will showcase how to design the API&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In case of questions, please contact Gregor at&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -273,10 +264,8 @@ like to explore some new features and separate the implementation form
 the main cloudmesh.&lt;/p&gt;
 &lt;p&gt;In the past cloudmesh has conducted two such projects&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/manual/storage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/manual/storage.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/manual/vdir.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/manual/vdir.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/manual/storage.html&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/manual/storage.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudmesh.github.io/cloudmesh-manual/manual/vdir.html&#34;&gt;https://cloudmesh.github.io/cloudmesh-manual/manual/vdir.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We like to reimplement thise projects and significantly improve them by&lt;/p&gt;
 &lt;ol&gt;
@@ -425,8 +414,7 @@ it with common solutions.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In case of qeuestions, pleas econtact Gregor at&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -510,8 +498,7 @@ Dr. von Laszewski will contribute)&lt;/li&gt;
 &lt;li&gt;design the command line interface first as that may be the easiest and will showcase how to design the API&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In case of questions, please contact Gregor at&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -539,8 +526,7 @@ the past we had dedicated undergraduates participatintg in the class
 that were in the top 5% of the class.&lt;/p&gt;
 &lt;h2 id=&#34;independent-study&#34;&gt;Independent Study&lt;/h2&gt;
 &lt;p&gt;Independent Studies are any time available for graduate and
-undergraduate students.  Contact Gregor at 
-&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;.
+undergraduate students.  Contact Gregor at &lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;.
 Independent studies will work on programming projects, advanced cloud
 topics, or conference/workshop papers.&lt;/p&gt;
 &lt;h2 id=&#34;undergraduate-reu&#34;&gt;Undergraduate REU&lt;/h2&gt;
@@ -553,13 +539,85 @@ see if you are qualified.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Raspberry Pi Cluster for Home Cloud Services</title>
+      <link>/post/project-homecloud/</link>
+      <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
+      <guid>/post/project-homecloud/</guid>
+      <description>&lt;p&gt;Be part of a team to create a home clouds on  Raspberry Pi&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;This project is a mini project and may require additional activities to qualify for a long term project. Nevertheless, it can be made suitable due to comparision and integration with enough activities. We explain why it is a miniproject and how you can make it a full project. Thos project only requires the use of a single Raspberry Pi 4 with 8GB of storage.&lt;/p&gt;
+&lt;p&gt;At &lt;a href=&#34;http://piplanet.org&#34;&gt;http://piplanet.org&lt;/a&gt; we discuss setting up a Raspberry Pi
+cluster. Instead of burning a cluster you will use the burn command to burn a single PI 4.
+Now that the basic cluster is set up, we like you to explore any available &amp;ldquo;home cloud&amp;rdquo; setup on your PI and document it. IN addition, you will implement a simple one line deployment comamndline tool supported by an API that deploys slurm on a list of hosts specified by the ip adress. This includes&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create a proper method to deploy the frameworks on the cluster
+given the IP&amp;rsquo;s or the name of the machines.&lt;/li&gt;
+&lt;li&gt;Provide a mechanism to verify if the deployment was successful&lt;/li&gt;
+&lt;li&gt;Provide a set of unit tests using &lt;code&gt;pytest&lt;/code&gt; to execute some basic use cases.&lt;/li&gt;
+&lt;li&gt;Develop a python API that supports the deployment while exposing it through a command line&lt;/li&gt;
+&lt;li&gt;Explore the development of a REST API that facilitates the deployment reusing the developed Python API.&lt;/li&gt;
+&lt;li&gt;Develop a manual&lt;/li&gt;
+&lt;li&gt;Develop a high-quality report with benchmarks.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;p&gt;In order for you to participate in this project, you will need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You need to have financial resources to buy yourself the material for creating a single PI. You will need at least 3 Pis with 8GB memory. Each of them costs $75, but you also need a power supply costing $35, power cables, network cables, and at least one HDMI cable suitable to connect an HDMI monitor to a PI. More details about parts can be found at &lt;a href=&#34;https://cloudmesh.github.io/pi/docs/hardware/parts/&#34;&gt;https://cloudmesh.github.io/pi/docs/hardware/parts/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In addition we will explore the integration of at least one additinal PI. This could be another PI or a PI Zero with WiFi. You hav two options here. A use the Pi Zero and hoock it up to a battery so you can move the PI to record an attached sensor such as temperature, humidity, preasure and record the values for it when moving around. Another thing would be to measuer the strenght of the Wifi network and other networks you may discover. Populate the information to your manager PI and create a Web secure page that reports the results that you then observe from another computer. Furthermore, identify at least one home automation hardware that you can connect to the PI, such as Alexa or Google switches, Garage door openers (commercial) and so on.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Significant Python knowledge&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Be highly motivated&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Be willing to have meetings on this project once or twice a week&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SHowcase significant progress over the lifetime of the project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;be knowledgeable with GitHub (a repository will be provided to which
+Dr. von Laszewski will contribute)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conduct task management in GitHub (Gregor will explain)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Be honest and not hiding problems or implementation bugs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You must be able to do a videoconference and be able to share your screen (I typically use google meet or zoom).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;options&#34;&gt;Options&lt;/h2&gt;
+&lt;p&gt;There is a great deal of flexibility in this project and we like that you explore your ideas but work with Gregor to identify if they are feasable and complex enough. Gregor has a &amp;ldquo;secret&amp;rdquo; PI notebook that can be used to interface with the sensors and is easy to use. However, we do not have yet anything about interfacing to commecrcial products.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;In the first week, collect a list of all Google like service and other home products that could be integrated in this project.&lt;/li&gt;
+&lt;li&gt;Study the GitHub repositories from cloudmesh-pi-burn and cloudmesh-pi-cluster and cloudmesh-common intensely. Find out how to burn a single PI.&lt;/li&gt;
+&lt;li&gt;Try out and &lt;strong&gt;document&lt;/strong&gt; the various cloud services. Evaluate if they work and how to use elementary featuers of them&lt;/li&gt;
+&lt;li&gt;Identify commercial hardware that can be accessed from the PI and showcase how to use it.&lt;/li&gt;
+&lt;li&gt;Develop a FastAPI based secure REST service that uses such hardware (such as alexa switches). Showcase and document how to access them from Python, but also how to access them from your secure REST service. Develop a commandline interface for it (Gregor will help setting this commandline interface up)&lt;/li&gt;
+&lt;li&gt;Communicate regularly with Gregor on ideas that you have&lt;/li&gt;
+&lt;li&gt;An absolute must is the development of the documentation. THis project may have more documentation needs than others&lt;/li&gt;
+&lt;li&gt;Optional: Discuss the integration of mqtt. Showcase&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In case of questions, please contact Gregor at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slurm Raspberry Pi Cluster for Data Science</title>
       <link>/post/project-pi-slurm/</link>
       <pubDate>Sun, 01 Aug 2021 01:33:02 -0500</pubDate>
       <guid>/post/project-pi-slurm/</guid>
       <description>&lt;p&gt;Be part of a team to create a slurm cluster on a Raspberry pi.&lt;/p&gt;
-&lt;p&gt;At 
-&lt;a href=&#34;http://piplanet.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://piplanet.org&lt;/a&gt; we discuss setting up a Raspberry Pi
+&lt;p&gt;At &lt;a href=&#34;http://piplanet.org&#34;&gt;http://piplanet.org&lt;/a&gt; we discuss setting up a Raspberry Pi
 cluster with a convenient burning approach of SD Cards. The Pis will
 receive preconfigured SD Cards that allow starting a cluster when the
 Pis are switched on. You will be able to communicate from the COmputer
@@ -583,8 +641,7 @@ given the IP&amp;rsquo;s or the name of the machines.&lt;/li&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;p&gt;In order for you to participate in this project, you will need:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;You need to have financial resources to buy yourself the material for creating a PI cluster. You will need at least 3 Pis with 8GB memory. Each of them costs $75, but you also need a power supply costing $35, power cables, network cables, and at least one HDMI cable suitable to connect an HDMI monitor to a PI. More details about parts can be found at 
-&lt;a href=&#34;https://cloudmesh.github.io/pi/docs/hardware/parts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cloudmesh.github.io/pi/docs/hardware/parts/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You need to have financial resources to buy yourself the material for creating a PI cluster. You will need at least 3 Pis with 8GB memory. Each of them costs $75, but you also need a power supply costing $35, power cables, network cables, and at least one HDMI cable suitable to connect an HDMI monitor to a PI. More details about parts can be found at &lt;a href=&#34;https://cloudmesh.github.io/pi/docs/hardware/parts/&#34;&gt;https://cloudmesh.github.io/pi/docs/hardware/parts/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;If you also have a Laptop or desktop to which you like to connect the PI, make sure it can run docker (Windows Home will not work). However, one of the Raspberry PIs will do.&lt;/li&gt;
 &lt;li&gt;Significant Python knowledge&lt;/li&gt;
 &lt;li&gt;Be highly motivated&lt;/li&gt;
@@ -613,8 +670,7 @@ implement it.&lt;/li&gt;
 &lt;li&gt;Your deployment should target Ubuntu on the PI as well as RaspberryOS. If there is only time for one, pick one.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In case of questions, please contact Gregor at&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -813,7 +869,7 @@ implement it.&lt;/li&gt;
     <item>
       <title>E516 - Spring 2020 Proceedings</title>
       <link>/project/e516-sp20-proceeding/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
       <guid>/project/e516-sp20-proceeding/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the
@@ -884,7 +940,7 @@ ePub.&lt;/p&gt;
     <item>
       <title>E516 - Fall 2019 Proceedings</title>
       <link>/project/e516-sp19-proceeding/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
       <guid>/project/e516-sp19-proceeding/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the
@@ -899,7 +955,7 @@ ePub.&lt;/p&gt;
     <item>
       <title>Bookmanager</title>
       <link>/project/bookmanager/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/bookmanager/</guid>
       <description>&lt;h1 id=&#34;bookmanager&#34;&gt;Bookmanager&lt;/h1&gt;
 &lt;p&gt;Bookmanager is a tool to create a publication from a number of sources on the
@@ -924,7 +980,6 @@ formats supported by it.&lt;/p&gt;
 &lt;li&gt;integration of Section, Table, Image references via pandoc crossref&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you like to help get in contact with Gregor von Laszewski
-
 &lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ pip install cyberaide-bookmanager
 &lt;/code&gt;&lt;/pre&gt;
@@ -952,7 +1007,7 @@ Usage:
     <item>
       <title>Cloudmesh JavaScript User Interface</title>
       <link>/project/cloudmesh-gui/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/cloudmesh-gui/</guid>
       <description>&lt;p&gt;Please contact me if you like to help developing a JavaScript Graphical user interface&lt;/p&gt;
 </description>
@@ -961,7 +1016,7 @@ Usage:
     <item>
       <title>Multi-Cloud Mangement with Cloudmesh</title>
       <link>/project/cloudmesh/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/cloudmesh/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Cloudmesh enables you to access multi-cloud environments such as AWS,
@@ -980,10 +1035,8 @@ mashup to access common cloud services across a number of cloud
 providers.&lt;/p&gt;
 &lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Documentation: 
-&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Code: 
-&lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It has a variety of repositories that add features to cloudmesh based on
 needs by the user.&lt;/p&gt;
@@ -1044,10 +1097,8 @@ needs by the user.&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Documentation: 
-&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Code: 
-&lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1055,7 +1106,7 @@ needs by the user.&lt;/p&gt;
     <item>
       <title>NIST Big Data</title>
       <link>/project/cloudmesh-nist/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/cloudmesh-nist/</guid>
       <description>&lt;h2 id=&#34;nist-big-data-refernce-architecture&#34;&gt;NIST Big Data Refernce Architecture&lt;/h2&gt;
 &lt;p&gt;Reference architectures provide &lt;em&gt;an authoritative source of information
@@ -1093,7 +1144,7 @@ Architecture Interfaces Wo. L Chang Gregor von Laszewski Jun 1,
     <item>
       <title>Raspberry Pi Cloud Cluster</title>
       <link>/project/pi-cloud-cluster/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/pi-cloud-cluster/</guid>
       <description>&lt;h2 id=&#34;raspberry-pi-cloud-cluster&#34;&gt;Raspberry Pi Cloud Cluster&lt;/h2&gt;
 &lt;p&gt;THis project is open to anyone wanting to work with me on building a
@@ -1136,8 +1187,7 @@ of the pi user.  The password login is automatically disabled and only
 the ssh key authentication is enabled.&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1145,7 +1195,7 @@ the ssh key authentication is enabled.&lt;/p&gt;
     <item>
       <title>Scientific Impact</title>
       <link>/project/impact/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/impact/</guid>
       <description>&lt;p&gt;In scientific impact metrics we attempt to evaluate the work conducted
 by researcher teams or organizations and compare how they perform to

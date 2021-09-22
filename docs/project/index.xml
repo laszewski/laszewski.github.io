@@ -5,9 +5,9 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Books</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Books</title>
       <link>/project/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>E516 - Spring 2020 Proceedings</title>
       <link>/project/e516-sp20-proceeding/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
       <guid>/project/e516-sp20-proceeding/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the
@@ -30,7 +30,7 @@ ePub.&lt;/p&gt;
     <item>
       <title>E516 - Fall 2019 Proceedings</title>
       <link>/project/e516-sp19-proceeding/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
       <guid>/project/e516-sp19-proceeding/</guid>
       <description>&lt;p&gt;Here you find the Documents produced by the students for this class.
 Please note that some may be edited by Gregor von Laszewski or the
@@ -45,7 +45,7 @@ ePub.&lt;/p&gt;
     <item>
       <title>Bookmanager</title>
       <link>/project/bookmanager/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/bookmanager/</guid>
       <description>&lt;h1 id=&#34;bookmanager&#34;&gt;Bookmanager&lt;/h1&gt;
 &lt;p&gt;Bookmanager is a tool to create a publication from a number of sources on the
@@ -70,7 +70,6 @@ formats supported by it.&lt;/p&gt;
 &lt;li&gt;integration of Section, Table, Image references via pandoc crossref&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you like to help get in contact with Gregor von Laszewski
-
 &lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ pip install cyberaide-bookmanager
 &lt;/code&gt;&lt;/pre&gt;
@@ -98,7 +97,7 @@ Usage:
     <item>
       <title>Cloudmesh JavaScript User Interface</title>
       <link>/project/cloudmesh-gui/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/cloudmesh-gui/</guid>
       <description>&lt;p&gt;Please contact me if you like to help developing a JavaScript Graphical user interface&lt;/p&gt;
 </description>
@@ -107,7 +106,7 @@ Usage:
     <item>
       <title>Multi-Cloud Mangement with Cloudmesh</title>
       <link>/project/cloudmesh/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/cloudmesh/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Cloudmesh enables you to access multi-cloud environments such as AWS,
@@ -126,10 +125,8 @@ mashup to access common cloud services across a number of cloud
 providers.&lt;/p&gt;
 &lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Documentation: 
-&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Code: 
-&lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It has a variety of repositories that add features to cloudmesh based on
 needs by the user.&lt;/p&gt;
@@ -190,10 +187,8 @@ needs by the user.&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;It is under active development and managed in github at&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Documentation: 
-&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Code: 
-&lt;a href=&#34;https://github.com/cloudmesh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://github.com/cloudmesh/cloudmesh-manual/&#34;&gt;https://github.com/cloudmesh/cloudmesh-manual/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/&#34;&gt;https://github.com/cloudmesh/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -201,7 +196,7 @@ needs by the user.&lt;/p&gt;
     <item>
       <title>NIST Big Data</title>
       <link>/project/cloudmesh-nist/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/cloudmesh-nist/</guid>
       <description>&lt;h2 id=&#34;nist-big-data-refernce-architecture&#34;&gt;NIST Big Data Refernce Architecture&lt;/h2&gt;
 &lt;p&gt;Reference architectures provide &lt;em&gt;an authoritative source of information
@@ -239,7 +234,7 @@ Architecture Interfaces Wo. L Chang Gregor von Laszewski Jun 1,
     <item>
       <title>Raspberry Pi Cloud Cluster</title>
       <link>/project/pi-cloud-cluster/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/pi-cloud-cluster/</guid>
       <description>&lt;h2 id=&#34;raspberry-pi-cloud-cluster&#34;&gt;Raspberry Pi Cloud Cluster&lt;/h2&gt;
 &lt;p&gt;THis project is open to anyone wanting to work with me on building a
@@ -282,8 +277,7 @@ of the pi user.  The password login is automatically disabled and only
 the ssh key authentication is enabled.&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -291,7 +285,7 @@ the ssh key authentication is enabled.&lt;/p&gt;
     <item>
       <title>Scientific Impact</title>
       <link>/project/impact/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 -0400</pubDate>
       <guid>/project/impact/</guid>
       <description>&lt;p&gt;In scientific impact metrics we attempt to evaluate the work conducted
 by researcher teams or organizations and compare how they perform to
