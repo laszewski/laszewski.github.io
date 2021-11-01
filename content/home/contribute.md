@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Contribute"
-subtitle = ""
+subtitle = "On popular demand, I have added here some open source project ideas for semester-long projects suitable at various Universities. For larger and other projects, please contact me. This list is created for undergraduate and graduate classes, emphasizing holistic research experiences combining theory, practice, and management skills. The list is only a small sample and is influenced by the classes and their Professors that have contacted me with project ideas for these classes."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "project"
+    tag = "contribute"
     category = ""
     publication_type = ""
     author = ""

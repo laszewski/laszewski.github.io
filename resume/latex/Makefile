@@ -39,8 +39,8 @@ clean:
 
 publish: 
 	cp vonLaszewski-resume.pdf ../../docs
-	git commit -m "publish resume" ../../docs/vonLaszewski-resume.pdf
-	git push
+	#git commit -m "publish resume" ../../docs/vonLaszewski-resume.pdf
+	#git push
 
 view: clean watch
 	gopen vonLaszewski-resume.pdf
