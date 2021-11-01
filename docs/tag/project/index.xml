@@ -574,8 +574,9 @@ implement it.&lt;/li&gt;
 &lt;li&gt;Identify a mechanism on how to deal with the security.&lt;/li&gt;
 &lt;li&gt;Before you start implementing, describe and showcase a couple of commands on how to use it.&lt;/li&gt;
 &lt;li&gt;Your deployment should target Ubuntu on the PI as well as RaspberryOS. If there is only time for one, pick one.&lt;/li&gt;
+&lt;li&gt;Please be reminded that you also need to set up NFS on the nodes. There are many examples provided how to do that. You will be using the USB port to include a disk. It may require an external USB drive or a simple USB stick. Make sure they are USB 3 compatible.
+In case of questions, please contact Gregor at&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;In case of questions, please contact Gregor at&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;mailto:laszewski@gmail.com&#34;&gt;laszewski@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -78,7 +78,7 @@ where simple options such as the hostnames in the pi cluster are used.
 5. Identify a mechanism on how to deal with the security.
 6. Before you start implementing, describe and showcase a couple of commands on how to use it.
 7. Your deployment should target Ubuntu on the PI as well as RaspberryOS. If there is only time for one, pick one.
-
+8. Please be reminded that you also need to set up NFS on the nodes. There are many examples provided how to do that. You will be using the USB port to include a disk. It may require an external USB drive or a simple USB stick. Make sure they are USB 3 compatible.
 In case of questions, please contact Gregor at
 
 laszewski@gmail.com
