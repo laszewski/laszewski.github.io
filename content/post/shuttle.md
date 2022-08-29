@@ -44,13 +44,13 @@ For after hour rides, please coordinate with the
 ## Other 
 
 
-{{< fa car >}} There is plenty of ST parking at MESH in case you have your own car
+# {{< fa car >}} There is plenty of ST parking at MESH in case you have your own car
 
-{{< fa walking >}} [ 33 min]("https://www.google.com/maps/dir/Luddy+Hall-School+of+Informatics,+Computing,+and+Engineering,+North+Woodlawn+Avenue,+Bloomington,+IN/Integrated+Science+and+Accelerator+Technology+Hall+(ISAT),+2425+N+Milo+B+Sampson+Ln,+Bloomington,+IN+47408/@39.1819392,-86.5302594,15z/data=!4m19!4m18!1m10!1m1!1s0x886c66c6e3fb15f3:0x5ff3f26dda5a28a!2m2!1d-86.522974!2d39.172971!3m4!1m2!1d-86.519682!2d39.1859174!3s0x886c66b554060fd9:0x3a5779252a782628!1m5!1m1!1s0x886c613437918d4b:0x17d28e7c953b9d48!2m2!1d-86.5229357!2d39.1898917!3e2")
-  Make sure to cross at a traffic light.
+# {{< fa walking >}} [ 33 min]("https://www.google.com/maps/dir/Luddy+Hall-School+of+Informatics,+Computing,+and+Engineering,+North+Woodlawn+Avenue,+Bloomington,+IN/Integrated+Science+and+Accelerator+Technology+Hall+(ISAT),+2425+N+Milo+B+Sampson+Ln,+Bloomington,+IN+47408/@39.1819392,-86.5302594,15z/data=!4m19!4m18!1m10!1m1!1s0x886c66c6e3fb15f3:0x5ff3f26dda5a28a!2m2!1d-86.522974!2d39.172971!3m4!1m2!1d-86.519682!2d39.1859174!3s0x886c66b554060fd9:0x3a5779252a782628!1m5!1m1!1s0x886c613437918d4b:0x17d28e7c953b9d48!2m2!1d-86.5229357!2d39.1898917!3e2")
+#  Make sure to cross at a traffic light.
   
-Commercial transportation:
+# Commercial transportation:
 
-* [Lime Scooter](https://www.li.me/)
-* [Uber](https://www.uber.com/us/en/ride/)
-* [Taxi](https://www.google.com/search?q=taxi+bloomington+in&rlz=1C5CHFA_enUS829US829&oq=taxi+bloomington+in)
+# * [Lime Scooter](https://www.li.me/)
+# * [Uber](https://www.uber.com/us/en/ride/)
+# * [Taxi](https://www.google.com/search?q=taxi+bloomington+in&rlz=1C5CHFA_enUS829US829&oq=taxi+bloomington+in)

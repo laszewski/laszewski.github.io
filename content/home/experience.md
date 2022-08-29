@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Assitant Director"
-  company = "Digital Science Center, Indiana University"
+  title = "Research Professor"
+  company = "Biocomplexity Institute, University of Virginia"
   company_url = ""
   location = "Bloomington, IN"
   date_start = "2018-01-01"
@@ -29,9 +29,28 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
+  * Multicloud Hybrid Cloud Computing Analytocs Services
+  * MLCommons Benchmarking of Deep Learning Applications
+  * Workflow Management for Benchmarking of DeepLearning Algorithms 
+  * Student Research Project Supervision
+
+  """
+
+
+[[experience]]
+  title = "Assitant Director"
+  company = "Digital Science Center, Indiana University"
+  company_url = ""
+  location = "Bloomington, IN"
+  date_start = "2018-01-01"
+  date_end = "2022-12-31"
+  description = """
+  Responsibilities include:
+  
   * Cloud Computing
   * Cloud Architectures
   * Project Management
+  * Award: Best of Staff
   
   """
 
@@ -41,11 +60,13 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bloomington, IN"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2022-12-31"
   description = """
   Responsibilities include:
   
   * Teaching Advanced Cloud Computing
+  * Student Research Supervision
+  * Award: Supervised Outstanding Student Project
 
   """
 
@@ -56,10 +77,13 @@ date_format = "Jan 2006"
   location = "Argonne, IL"
   date_start = "1996-08-01"
   date_end = "2010-12-31"
-  description = """Principal Investigator of the Commodity Grid Kits,
-  Past Working Group Chair of the Gridforum Information Services
-  Working Group. Awards: Best SUpercomputing Appliaction, Best
-  Supercomputing poster, autstanding student mentor."""
+  description = """
+
+  * Principal Investigator of the Commodity Grid Kits
+  * Working Group Chair of the Gridforum Information Services
+  * Award: Best of Show at Supercomputing
+  * Award: Best Supercomputing poster among 109 submissions
+  * Award: Outstanding Student Mentor."""
 
 [[experience]]
   title = "Associate Professor"
@@ -68,6 +92,11 @@ date_format = "Jan 2006"
   location = "Rochester, NY"
   date_start = "2008-08-01"
   date_end = "2010-07-31"
-  description = """Research in Cyberinfrastructure and Grid Computing."""
+  description = """
+
+  * Research in Cyberinfrastructure and Grid Computing.
+  * Award: Supervised Cluster on a Wall outstanding project 
+
+  """
 
 +++

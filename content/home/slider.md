@@ -35,21 +35,21 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
-[[item]]
-  title = "Independent Studies"
-  content = "You can take Independent Studies with me on topics related to cloud computing and deep learning."
+#[[item]]
+#  title = "Independent Studies"
+#  content = "You can take Independent Studies with me on topics related to cloud computing and deep learning."
 
-  align = "center"
+#  align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#  overlay_color = "#555"  # An HTML color value.
+#  overlay_img = ""  # Image path relative to your `static/media/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-  cta_label = "click here for more information"
-  cta_url = "/post/class"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-  cta_font_color = "black"
+#  cta_label = "click here for more information"
+#  cta_url = "/post/class"
+#  cta_icon_pack = "fas"
+#  cta_icon = "graduation-cap"
+#  cta_font_color = "black"
 
 [[item]]
   title = ":page_facing_up: NIST Big Data Reference Architecture"

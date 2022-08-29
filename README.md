@@ -4,6 +4,7 @@
 ## Make Resume with docker container
 
 ```bash
+cd resume/latex
 
 ```
 

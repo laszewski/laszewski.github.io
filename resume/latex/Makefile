@@ -1,8 +1,7 @@
-# makefile
-# File adapted from this stackoverflow question: https://tex.stackexchange.com/questions/40738/how-to-properly-make-a-latex-project
+.PHONY: vonLaszewski-resume.pdf
 
-# The first rule in a Makefile is the one executed by default ("make"). It
-# should always be the "all" rule, so that "make" and "make all" are identical.
+BROWSER=chromium
+
 all: vonLaszewski-resume.pdf
 
 d: clean
@@ -43,5 +42,5 @@ publish:
 	#git push
 
 view: clean watch
-	gopen vonLaszewski-resume.pdf
+	${BROWSER} vonLaszewski-resume.pdf &
 

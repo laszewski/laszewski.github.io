@@ -93,15 +93,15 @@ phone = "585 993 2922"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2425 N Milo Sampson Lane",	city = "Bloomington", region = "IN", postcode = "47408", country = "United States", country_code = "US"}
+address = {street = "Town Center Four, 994 Research Park Boulevard, Biocomplexity Institute", city = "Charlottesville", region = "VA", postcode = "22911", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 
-coordinates = {latitude = "39.1894648", longitude = "-86.5220393"}
+coordinates = {latitude = "38.14974833161396", longitude = "-78.43527755767299"}
 
 # Directions for visitors to locate you.
-directions = "Room 158L, Enter Building at the first entrance, turn left, turn right, turn left, turn right atthe firts door, you will find me there when I am in the office."
+# directions = "Virtual appointments prefered."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
