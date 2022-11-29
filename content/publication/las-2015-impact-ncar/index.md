@@ -13,11 +13,11 @@ authors:
 - Robert L. DeLeon
 - Steven M. Gallo
 tags:
-- '"Resource management and Data analysis and Ranking (statistics) and Atmospheric
-  measurements and Extraterrestrial measurements and Conferences and Metrics and publications"'
+- Resource management and Data analysis and Ranking (statistics) and Atmospheric measurements
+  and Extraterrestrial measurements and Conferences and Metrics and publications
 categories: []
 date: '2015-09-08'
-lastmod: 2021-09-16T16:08:12-04:00
+lastmod: 2022-11-29T12:32:50-05:00
 featured: false
 draft: false
 
@@ -35,11 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:12.881051Z'
+publishDate: '2022-11-29T17:32:50.668987Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2015 IEEE International Conference on Cluster Computing and*'
-url_pdf: https://laszewski.github.io/papers//vonLaszewski-tas-cluster.pdf
 doi: 10.1109/CLUSTER.2015.98
+url_pdf: https://laszewski.github.io/papers//vonLaszewski-tas-cluster.pdf
 ---

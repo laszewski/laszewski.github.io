@@ -5,12 +5,60 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Reusable Hybrid and Multi-Cloud Analytics Service Framework</title>
+      <link>/publication/las-22-icbicc/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-icbicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh</title>
+      <link>/publication/las-22-cc-arxiv/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-cc-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the CyberTraining REU2022 CyberTraining for Students and Technologies from Generation Z</title>
+      <link>/publication/las-22-reu/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-reu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes</title>
+      <link>/publication/las-22-crypto-arxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-crypto-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis of Cryptocurrency Prices Using Long Short-Term Memory</title>
+      <link>/publication/las-crypto/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact Report Repository</title>
+      <link>/publication/las-impact-report/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-impact-report/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cybertraining Publications</title>
@@ -73,6 +121,22 @@
       <link>/publication/las-2020-net-science/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/las-2020-net-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact Evaluation for XMS</title>
+      <link>/publication/las-2020-nsf-1-impact-ppt/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-nsf-1-impact-ppt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact Evaluation for XMS Update</title>
+      <link>/publication/las-2020-2-nsf-impact-ppt/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-2-nsf-impact-ppt/</guid>
       <description></description>
     </item>
     
@@ -285,6 +349,22 @@
     </item>
     
     <item>
+      <title>Scientific Impact Evaluation for XMS, Paper Presentation, PEARC&#39;18</title>
+      <link>/publication/las-2018-pearc-impact-ppt/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-pearc-impact-ppt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact Evaluation for XMS</title>
+      <link>/publication/las-2018-nsf-impact-ppt/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-nsf-impact-ppt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cloud and Big Data Technologies (Proceedings)</title>
       <link>/publication/las-2018-tech-vol-8/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
@@ -361,6 +441,14 @@
       <link>/publication/las-2017-teaching/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       <guid>/publication/las-2017-teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XMS Scientific Impact</title>
+      <link>/publication/vonlaszewski-2017-impact-ppt/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/vonlaszewski-2017-impact-ppt/</guid>
       <description></description>
     </item>
     
@@ -449,6 +537,22 @@
       <link>/publication/las-2015-tas/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/las-2015-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of the proposed Peers Comparison Method</title>
+      <link>/publication/las-2014-impact-idea/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2014-impact-idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of the proposed Peers Comparison Method</title>
+      <link>/publication/las-2014-impact-ppt/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2014-impact-ppt/</guid>
       <description></description>
     </item>
     

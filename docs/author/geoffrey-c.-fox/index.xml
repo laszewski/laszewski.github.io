@@ -5,12 +5,20 @@
     <link>/author/geoffrey-c.-fox/</link>
       <atom:link href="/author/geoffrey-c.-fox/index.xml" rel="self" type="application/rss+xml" />
     <description>Geoffrey C. Fox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Geoffrey C. Fox</title>
       <link>/author/geoffrey-c.-fox/</link>
     </image>
+    
+    <item>
+      <title>Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh</title>
+      <link>/publication/las-22-cc-arxiv/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-cc-arxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2021-09-16T16:08:11-04:00
+lastmod: 2022-11-29T12:32:49-05:00
 featured: false
 draft: false
 
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:11.183823Z'
+publishDate: '2022-11-29T17:32:49.207117Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Concurrency and Computation: Practice and Experience*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-10-CCPE-emolst.pdf
 doi: 10.1002/cpe.1745
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-10-CCPE-emolst.pdf
 ---

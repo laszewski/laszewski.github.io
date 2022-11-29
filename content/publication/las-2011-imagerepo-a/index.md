@@ -12,10 +12,10 @@ authors:
 - Andrew J Younge
 - Geoffrey C. Fox
 tags:
-- '"image repository"'
+- image repository
 categories: []
 date: '2011-12-01'
-lastmod: 2021-09-16T16:08:11-04:00
+lastmod: 2022-11-29T12:32:49-05:00
 featured: false
 draft: false
 
@@ -33,12 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:11.430338Z'
+publishDate: '2022-11-29T17:32:49.405854Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Third IEEE International Conference on Coud Computing Technology and
   Science (CloudCom2011)*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-draft-11-imagerepo.pdf
 doi: 10.1109/CloudCom.2011.85
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-draft-11-imagerepo.pdf
 ---

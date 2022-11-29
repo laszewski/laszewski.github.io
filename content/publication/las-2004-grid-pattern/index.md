@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2004-01-01'
-lastmod: 2021-09-16T16:08:06-04:00
+lastmod: 2022-11-29T12:32:45-05:00
 featured: false
 draft: false
 
@@ -28,11 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:06.153738Z'
+publishDate: '2022-11-29T17:32:45.231909Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Distributed Computing - IWDC 2004*'
-url_pdf: https://doi.org/10.1007/978-3-540-30536-1_69
 doi: 10.1007/978-3-540-30536-1_69
+links:
+- name: URL
+  url: https://doi.org/10.1007/978-3-540-30536-1_69
 ---

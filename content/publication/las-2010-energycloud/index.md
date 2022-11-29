@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2021-09-16T16:08:10-04:00
+lastmod: 2022-11-29T12:32:48-05:00
 featured: false
 draft: false
 
@@ -31,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:10.484239Z'
+publishDate: '2022-11-29T17:32:48.663411Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the International Conference on Green Computing*'
-url_pdf: https://laszewski.github.io/papers/10-ajy-igcc.pdf
 doi: 10.1109/GREENCOMP.2010.5598294
+url_pdf: https://laszewski.github.io/papers/10-ajy-igcc.pdf
 ---

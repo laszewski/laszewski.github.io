@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2004-01-01'
-lastmod: 2021-09-16T16:08:06-04:00
+lastmod: 2022-11-29T12:32:45-05:00
 featured: false
 draft: false
 
@@ -28,11 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:06.341362Z'
+publishDate: '2022-11-29T17:32:45.379964Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Grid Middleware*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-grid-middleware.pdf
 doi: 10.1002/0470862084.ch5
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-grid-middleware.pdf
 ---

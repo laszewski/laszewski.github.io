@@ -11,10 +11,10 @@ authors:
 - Jie Tao
 - Jai Dayal
 tags:
-- '"Grid computing and Virtual environment and Virtual machine"'
+- Grid computing and Virtual environment and Virtual machine
 categories: []
 date: '2010-02-01'
-lastmod: 2021-09-16T16:08:10-04:00
+lastmod: 2022-11-29T12:32:49-05:00
 featured: false
 draft: false
 
@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:10.927068Z'
+publishDate: '2022-11-29T17:32:49.009992Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Advances in Engineering Software*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-vapl.pdf
 doi: 10.1016/j.advengsoft.2009.09.002
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-vapl.pdf
 ---

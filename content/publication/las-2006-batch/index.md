@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-09-16T16:08:07-04:00
+lastmod: 2022-11-29T12:32:46-05:00
 featured: false
 draft: false
 
@@ -35,10 +35,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:07.793540Z'
+publishDate: '2022-11-29T17:32:46.522493Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*DePaul University CTI Tech Report*'
-url_pdf: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.9290&rep=rep1&type=pdf
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.9290&rep=rep1&type=pdf
 ---

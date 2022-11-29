@@ -36,7 +36,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-09-16T16:08:06-04:00
+lastmod: 2022-11-29T12:32:45-05:00
 featured: false
 draft: false
 
@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:06.905313Z'
+publishDate: '2022-11-29T17:32:45.824675Z'
 publication_types:
 - '2'
 abstract: The Collaboratory for Multi-scale Chemical Science (CMCS) is developing
@@ -67,6 +67,8 @@ abstract: The Collaboratory for Multi-scale Chemical Science (CMCS) is developin
   pilot groups and is playing a significant role in enabling their efforts to improve
   and extend community maintained chemical reference information.
 publication: '*Cluster Computing*'
-url_pdf: https://doi.org/10.1007/s10586-005-4092-4
 doi: 10.1007/s10586-005-4092-4
+links:
+- name: URL
+  url: https://doi.org/10.1007/s10586-005-4092-4
 ---

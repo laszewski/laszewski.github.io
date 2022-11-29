@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2000-06-01'
-lastmod: 2021-09-16T16:08:02-04:00
+lastmod: 2022-11-29T12:32:42-05:00
 featured: false
 draft: false
 
@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:02.930715Z'
+publishDate: '2022-11-29T17:32:42.702260Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the ACM 2000 conference on Java Grande*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-cog-final.pdf
 doi: 10.1145/337449.337491
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-cog-final.pdf
 ---

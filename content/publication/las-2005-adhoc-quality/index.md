@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2005-10-01'
-lastmod: 2021-09-16T16:08:06-04:00
+lastmod: 2022-11-29T12:32:45-05:00
 featured: false
 draft: false
 
@@ -29,12 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:06.719007Z'
+publishDate: '2022-11-29T17:32:45.675514Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*International Conference on Autonomic and Autonomous Systems International
   Conference on Networking and Services*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-adhoc-quality.pdf
 doi: 10.1109/ICAS-ICNS.2005.82
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-adhoc-quality.pdf
 ---

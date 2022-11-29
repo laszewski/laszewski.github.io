@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '1998-07-01'
-lastmod: 2021-09-16T16:08:02-04:00
+lastmod: 2022-11-29T12:32:42-05:00
 featured: false
 draft: false
 
@@ -31,12 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:02.280493Z'
+publishDate: '2022-11-29T17:32:42.208968Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 7th IEEE International Symposium on High Performance
   Distributed Computing*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-hbm-hpdc.pdf
 doi: 10.1109/HPDC.1998.709981
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-hbm-hpdc.pdf
 ---

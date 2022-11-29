@@ -1,4 +1,19 @@
+*.fls
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.run.xml
+*.synctex.gz
+.idea
+*.lock
+*.bak
+*_bibertool.bib
 *~
+*#
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

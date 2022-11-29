@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2021-09-16T16:08:05-04:00
+lastmod: 2022-11-29T12:32:44-05:00
 featured: false
 draft: false
 
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:05.455974Z'
+publishDate: '2022-11-29T17:32:44.681026Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Computer Science and Technology*'
-url_pdf: http://www.cs.iit.edu/~scs/assets/files/jcst_XHe-5-28.pdf
 doi: 10.1007/BF02948918
+url_pdf: http://www.cs.iit.edu/~scs/assets/files/jcst_XHe-5-28.pdf
 ---

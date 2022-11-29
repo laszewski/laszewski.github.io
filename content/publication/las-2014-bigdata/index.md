@@ -13,10 +13,10 @@ authors:
 - ' Heng'
 - Geoffrey C. Fox
 tags:
-- '"cloud computing"'
+- cloud computing
 categories: []
 date: '2014-01-01'
-lastmod: 2021-09-16T16:08:12-04:00
+lastmod: 2022-11-29T12:32:50-05:00
 featured: false
 draft: false
 
@@ -34,11 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:12.492192Z'
+publishDate: '2022-11-29T17:32:50.264219Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Cloud Computing for Data-Intensive Applications*'
-url_pdf: http://doi.acm.org/10.1145/2609441.2609638
 doi: 10.1145/2609441.2609638
+links:
+- name: URL
+  url: http://doi.acm.org/10.1145/2609441.2609638
 ---

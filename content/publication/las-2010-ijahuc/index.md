@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2010-09-01'
-lastmod: 2021-09-16T16:08:10-04:00
+lastmod: 2022-11-29T12:32:48-05:00
 featured: false
 draft: false
 
@@ -31,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:10.604646Z'
+publishDate: '2022-11-29T17:32:48.761767Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*International Journal of Ad Hoc and Ubiquitous Compututing*'
-url_pdf: https://www.researchgate.net/profile/Marcel-Kunze/publication/220277542_Virtual_Data_System_on_distributed_virtual_machines_in_computational_grids/links/004635167e25b63862000000/Virtual-Data-System-on-distributed-virtual-machines-in-computational-grids.pdf
 doi: 10.1504/IJAHUC.2010.035532
+url_pdf: https://www.researchgate.net/profile/Marcel-Kunze/publication/220277542_Virtual_Data_System_on_distributed_virtual_machines_in_computational_grids/links/004635167e25b63862000000/Virtual-Data-System-on-distributed-virtual-machines-in-computational-grids.pdf
 ---

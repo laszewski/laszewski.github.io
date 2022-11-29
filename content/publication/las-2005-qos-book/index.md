@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-09-16T16:08:07-04:00
+lastmod: 2022-11-29T12:32:46-05:00
 featured: false
 draft: false
 
@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:07.434024Z'
+publishDate: '2022-11-29T17:32:46.225267Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Extending Web Services Technologies: The Use of Multi-Agent Approaches*'
-url_pdf: https://laszewski.github.io/papers/las-05-qos-book.pdf
 doi: 10.1007/0-387-23344-X_8
+url_pdf: https://laszewski.github.io/papers/las-05-qos-book.pdf
 ---

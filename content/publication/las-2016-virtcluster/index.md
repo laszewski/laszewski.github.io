@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2016-07-01'
-lastmod: 2021-09-16T16:08:13-04:00
+lastmod: 2022-11-29T12:32:50-05:00
 featured: false
 draft: false
 
@@ -34,12 +34,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:13.129111Z'
+publishDate: '2022-11-29T17:32:50.866959Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the XSEDE16 Conference on Diversity, Big Data, and Science
   at Scale*'
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/2949550.2949555
 doi: 10.1145/2949550.2949555
+links:
+- name: URL
+  url: https://dl.acm.org/doi/pdf/10.1145/2949550.2949555
 ---

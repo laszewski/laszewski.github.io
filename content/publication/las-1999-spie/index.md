@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '1999-04-01'
-lastmod: 2021-09-16T16:08:02-04:00
+lastmod: 2022-11-29T12:32:42-05:00
 featured: false
 draft: false
 
@@ -37,11 +37,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:02.787510Z'
+publishDate: '2022-11-29T17:32:42.603444Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of SPIE99*'
-url_pdf: https://laszewski.github.io/papers/vonLaszewski-spie99.pdf
 doi: 10.1117/12.363735
+url_pdf: https://laszewski.github.io/papers/vonLaszewski-spie99.pdf
 ---

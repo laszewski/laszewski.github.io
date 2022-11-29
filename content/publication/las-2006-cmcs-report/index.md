@@ -36,7 +36,7 @@ authors:
 tags: []
 categories: []
 date: '2006-07-01'
-lastmod: 2021-09-16T16:08:07-04:00
+lastmod: 2022-11-29T12:32:46-05:00
 featured: false
 draft: false
 
@@ -54,10 +54,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:07.854478Z'
+publishDate: '2022-11-29T17:32:46.574493Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: https://www.osti.gov/biblio/1725899
+links:
+- name: URL
+  url: https://www.osti.gov/biblio/1725899
 ---

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and Cluster Computing (cs.DC) | Gregor von Laszewski</title>
+    <link>/tag/and-cluster-computing-cs.dc/</link>
+      <atom:link href="/tag/and-cluster-computing-cs.dc/index.xml" rel="self" type="application/rss+xml" />
+    <description>and Cluster Computing (cs.DC)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>and Cluster Computing (cs.DC)</title>
+      <link>/tag/and-cluster-computing-cs.dc/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh</title>
+      <link>/publication/las-22-cc-arxiv/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-cc-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes</title>
+      <link>/publication/las-22-crypto-arxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-crypto-arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

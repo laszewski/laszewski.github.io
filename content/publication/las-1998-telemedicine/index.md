@@ -10,10 +10,10 @@ authors:
 - George K Thiruvathukal
 - Brian Toonen
 tags:
-- '"Globus toolkit and Telemedicine and Metacomputing"'
+- Globus toolkit and Telemedicine and Metacomputing
 categories: []
 date: '1998-01-01'
-lastmod: 2021-09-16T16:08:02-04:00
+lastmod: 2022-11-29T12:32:42-05:00
 featured: false
 draft: false
 
@@ -31,11 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:02.411264Z'
+publishDate: '2022-11-29T17:32:42.309352Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Future Generation Computer Systems*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0167739X98000132
 doi: https://doi.org/10.1016/S0167-739X(98)00013-2
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0167739X98000132
 ---

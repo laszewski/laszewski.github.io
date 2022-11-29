@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2014-07-01'
-lastmod: 2021-09-16T16:08:12-04:00
+lastmod: 2022-11-29T12:32:50-05:00
 featured: false
 draft: false
 
@@ -31,10 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-16T20:08:12.750494Z'
+publishDate: '2022-11-29T17:32:50.567809Z'
 publication_types:
 - '4'
 abstract: ''
 publication: '*Citeseer*'
-url_pdf: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.3765&rep=rep1&type=pdf
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.3765&rep=rep1&type=pdf
 ---

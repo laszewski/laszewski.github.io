@@ -5,12 +5,20 @@
     <link>/author/fugang-wang/</link>
       <atom:link href="/author/fugang-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Fugang Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Fugang Wang</title>
       <link>/author/fugang-wang/</link>
     </image>
+    
+    <item>
+      <title>Scientific Impact Report Repository</title>
+      <link>/publication/las-impact-report/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/las-impact-report/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comprehensive Evaluation of XSEDE&#39;s Scientific Impact Using Semantic Scholar Data</title>
@@ -29,6 +37,22 @@
     </item>
     
     <item>
+      <title>Scientific Impact Evaluation for XMS</title>
+      <link>/publication/las-2020-nsf-1-impact-ppt/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-nsf-1-impact-ppt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact Evaluation for XMS Update</title>
+      <link>/publication/las-2020-2-nsf-impact-ppt/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2020-2-nsf-impact-ppt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AICov: An Integrative Deep Learning Framework for COVID-19 Forecasting with Population Covariates</title>
       <link>/publication/las-2020-covid/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -41,6 +65,22 @@
       <link>/publication/las-2019-harc-comet/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/publication/las-2019-harc-comet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact Evaluation for XMS, Paper Presentation, PEARC&#39;18</title>
+      <link>/publication/las-2018-pearc-impact-ppt/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-pearc-impact-ppt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Impact Evaluation for XMS</title>
+      <link>/publication/las-2018-nsf-impact-ppt/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2018-nsf-impact-ppt/</guid>
       <description></description>
     </item>
     
@@ -105,6 +145,22 @@
       <link>/publication/las-2015-tas/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/las-2015-tas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of the proposed Peers Comparison Method</title>
+      <link>/publication/las-2014-impact-idea/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2014-impact-idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of the proposed Peers Comparison Method</title>
+      <link>/publication/las-2014-impact-ppt/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2014-impact-ppt/</guid>
       <description></description>
     </item>
     
