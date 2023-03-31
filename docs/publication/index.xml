@@ -37,10 +37,50 @@
     </item>
     
     <item>
+      <title>AI Benchmarking for Science: Efforts from the MLCommons Science Working Group</title>
+      <link>/publication/las-22-mlcommons/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-22-mlcommons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPTMT Parallel Operators for High Performance Data Science and Data Engineering</title>
+      <link>/publication/las-2022-hptmt-frontiers/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2022-hptmt-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh</title>
+      <link>/publication/las-2022-hybrid-cc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2022-hybrid-cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes</title>
+      <link>/publication/las-2022-arxiv-crypto/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2022-arxiv-crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes</title>
       <link>/publication/las-22-crypto-arxiv/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/las-22-crypto-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis of Cryptocurrency Prices Using Long Short-Term Memory</title>
+      <link>/publication/las-2022-mdpi-crypto/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2022-mdpi-crypto/</guid>
       <description></description>
     </item>
     
@@ -105,6 +145,14 @@
       <link>/publication/las-2021-covid/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/las-2021-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPTMT: Operator-Based Architecture for Scalable High-Performance Data-Intensive Frameworks</title>
+      <link>/publication/9582208/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/9582208/</guid>
       <description></description>
     </item>
     

@@ -14,7 +14,7 @@ tags:
 - Grid computing and Virtual environment and Virtual machine
 categories: []
 date: '2010-02-01'
-lastmod: 2022-11-29T12:32:49-05:00
+lastmod: 2023-03-31T11:29:12-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T17:32:49.009992Z'
+publishDate: '2023-03-31T15:29:12.026939Z'
 publication_types:
 - '2'
 abstract: ''

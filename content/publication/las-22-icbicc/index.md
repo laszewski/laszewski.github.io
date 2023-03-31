@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2022-12-01'
-lastmod: 2022-11-29T12:32:53-05:00
+lastmod: 2023-03-31T11:29:18-04:00
 featured: false
 draft: false
 
@@ -27,11 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T17:32:53.729940Z'
+publishDate: '2023-03-31T15:29:18.764604Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*IASED*'
+publication: '*4th International Conference on Big data, IoT, and Cloud Computing
+  (ICBICC 2022)*'
 links:
 - name: URL
   url: www.icbicc.org

@@ -16,7 +16,7 @@ tags:
 - 'FOS: Computer and information sciences'
 categories: []
 date: '2022-11-01'
-lastmod: 2022-11-29T12:32:53-05:00
+lastmod: 2023-03-31T11:29:18-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-29T17:32:53.828069Z'
+publishDate: '2023-03-31T15:29:18.870439Z'
 publication_types:
 - '0'
 abstract: ''

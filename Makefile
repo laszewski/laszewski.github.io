@@ -1,4 +1,3 @@
-
 MSG="Deploy Web Site"
 
 package=impact
@@ -58,6 +57,10 @@ bibclean:
 install:
 	pip install academic
 
+
+requirements:
+	pip install -r requirements.txt
+
 bib: bibclean
 	cat vonLaszewski-jabref.bib | \
 	bibtool -s -r iso2tex -- print.line.length=1000 | \
@@ -99,10 +102,12 @@ mark_class_books:
 	python bin/featured.py --featured --tags="class book" --label="las-2020-book-linux"
 
 
-
+serve:
+	hugo serve --debug
 
 view:
-	hugo serve --debug
+	open http://localhost:1313/
+
 
 #####################################################################
 # DOCKER
