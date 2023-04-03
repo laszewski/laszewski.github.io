@@ -7,6 +7,8 @@ PWD=$(shell pwd)
 UID=$(shell id -u ${USER})
 GID=$(shell id -g ${USER})
 
+.PHONY: resume
+
 deploy: 
 	# rm -rf public
 	@echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
@@ -131,9 +133,16 @@ wincm:
 shell:
 	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:/root/laszewski.github.io" cloudmesh/hugo:${VERSION} /bin/bash 
 
-resume: clean
-	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:/root/laszewski.github.io" -w /root/laszewski.github.io/resume/latex cloudmesh/hugo:${VERSION} make
-	rsync resume/latex/vonLaszewski-resume.pdf static/vonLaszewski-resume.pdf
+#resume: clean
+#	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:/root/laszewski.github.io" -w /root/laszewski.github.io/resume/#latex cloudmesh/hugo:${VERSION} make
+#	rsync resume/latex/vonLaszewski-resume.pdf static/vonLaszewski-resume.pdf
+
+
+resume: 
+	cd resume/latex; make
+	cp resume/latex/vonLaszewski-resume.pdf docs
+	cp resume/latex/vonLaszewski-resume.pdf static
+
 
 clean:
 	cd resume/latex; make clean

@@ -8,11 +8,11 @@
     <loc>/authors/</loc>
     <lastmod>2023-03-31T11:29:19-04:00</lastmod>
   </url><url>
-    <loc>/author/gregor-von-laszewski/</loc>
-    <lastmod>2023-03-31T11:29:18-04:00</lastmod>
-  </url><url>
     <loc>/</loc>
     <lastmod>2023-03-31T11:29:19-04:00</lastmod>
+  </url><url>
+    <loc>/author/gregor-von-laszewski/</loc>
+    <lastmod>2023-03-31T11:29:18-04:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2023-03-31T11:29:19-04:00</lastmod>
@@ -338,10 +338,10 @@
     <loc>/publication/las-2020-2-nsf-impact-ppt/</loc>
     <lastmod>2023-03-31T11:29:16-04:00</lastmod>
   </url><url>
-    <loc>/publication/las-2020-book-bigdata/</loc>
+    <loc>/publication/las-2020-book-bigdata-534/</loc>
     <lastmod>2023-03-31T11:29:16-04:00</lastmod>
   </url><url>
-    <loc>/publication/las-2020-book-bigdata-534/</loc>
+    <loc>/publication/las-2020-book-bigdata/</loc>
     <lastmod>2023-03-31T11:29:16-04:00</lastmod>
   </url><url>
     <loc>/tag/class-book/</loc>
@@ -1829,10 +1829,10 @@
     <loc>/author/gregor-gregor-von-laszewski/</loc>
     <lastmod>2023-03-31T11:29:08-04:00</lastmod>
   </url><url>
-    <loc>/publication/las-2005-portalarch/</loc>
+    <loc>/publication/las-2005-portal-journal/</loc>
     <lastmod>2023-03-31T11:29:08-04:00</lastmod>
   </url><url>
-    <loc>/publication/las-2005-portal-journal/</loc>
+    <loc>/publication/las-2005-portalarch/</loc>
     <lastmod>2023-03-31T11:29:08-04:00</lastmod>
   </url><url>
     <loc>/publication/las-2005-gridworkflow/</loc>
