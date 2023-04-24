@@ -1,4 +1,4 @@
-MSG="Deploy Web Site"
+ MSG="Deploy Web Site"
 
 package=impact
 UNAME=$(shell uname)
