@@ -1,24 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes
+title: Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh
 subtitle: ''
 summary: ''
 authors:
-- Jacques Fleischer
 - Gregor von Laszewski
-- Carlos Theran
-- Yohn Jairo Parra Bautista
+- J. P. Fleischer
+- Geoffrey C. Fox
 tags:
-- Machine Learning (cs.LG)
 - Distributed
 - Parallel
 - and Cluster Computing (cs.DC)
 - 'FOS: Computer and information sciences'
 - 'FOS: Computer and information sciences'
 categories: []
-date: '2022-01-01'
-lastmod: 2023-03-31T11:29:18-04:00
+date: '2022-11-01'
+lastmod: 2023-07-07T10:52:12-04:00
 featured: false
 draft: false
 
@@ -36,13 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-31T15:29:18.923005Z'
+publishDate: '2023-07-07T14:52:12.388104Z'
 publication_types:
 - '0'
 abstract: ''
 publication: '*arXiv*'
-doi: 10.48550/ARXIV.2202.13874
+doi: 10.48550/ARXIV.2210.16941
 links:
 - name: URL
-  url: https://arxiv.org/abs/2202.13874
+  url: https://arxiv.org/abs/2210.16941
 ---

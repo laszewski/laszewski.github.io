@@ -1,22 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh
+title: In-depth Analysis On Parallel Processing Patterns for High-Performance Dataframes
 subtitle: ''
 summary: ''
 authors:
+- Niranda Perera
+- Arup Kumar Sarker
+- Mills Staylor
 - Gregor von Laszewski
-- J. P. Fleischer
-- Geoffrey C. Fox
-tags:
-- Distributed
-- Parallel
-- and Cluster Computing (cs.DC)
-- 'FOS: Computer and information sciences'
-- 'FOS: Computer and information sciences'
+- Kaiying Shan
+- Supun Kamburugamuve
+- Chathura Widanage
+- Vibhatha Abeykoon
+- Thejaka Amila Kanewela
+- Geoffrey Fox
+tags: []
 categories: []
-date: '2022-11-01'
-lastmod: 2023-03-31T11:29:18-04:00
+date: '2023-01-01'
+lastmod: 2023-07-07T10:52:12-04:00
 featured: false
 draft: false
 
@@ -34,13 +36,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-31T15:29:18.870439Z'
+publishDate: '2023-07-07T14:52:12.833719Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*arXiv*'
-doi: 10.48550/ARXIV.2210.16941
+publication: ''
 links:
-- name: URL
-  url: https://arxiv.org/abs/2210.16941
+- name: arXiv
+  url: https://arxiv.org/abs/2307.01394
 ---

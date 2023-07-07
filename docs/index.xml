@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor von Laszewski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Gregor von Laszewski</title>
@@ -13,26 +13,34 @@
     </image>
     
     <item>
+      <title>In-depth Analysis On Parallel Processing Patterns for High-Performance Dataframes</title>
+      <link>/publication/las-2023-cylon/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2023-cylon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reusable Hybrid and Multi-Cloud Analytics Service Framework</title>
-      <link>/publication/las-22-icbicc/</link>
+      <link>/publication/las-2022-icbicc/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/las-22-icbicc/</guid>
+      <guid>/publication/las-2022-icbicc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh</title>
-      <link>/publication/las-22-cc-arxiv/</link>
+      <link>/publication/las-2022-cc-arxiv/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/las-22-cc-arxiv/</guid>
+      <guid>/publication/las-2022-cc-arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proceedings of the CyberTraining REU2022 CyberTraining for Students and Technologies from Generation Z</title>
-      <link>/publication/las-22-reu/</link>
+      <link>/publication/las-2022-reu/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/las-22-reu/</guid>
+      <guid>/publication/las-2022-reu/</guid>
       <description></description>
     </item>
     
@@ -70,9 +78,17 @@
     
     <item>
       <title>Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes</title>
-      <link>/publication/las-22-crypto-arxiv/</link>
+      <link>/publication/las-2022-crypto-arxiv/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/las-22-crypto-arxiv/</guid>
+      <guid>/publication/las-2022-crypto-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis of Cryptocurrency Prices Using Long Short-Term Memory</title>
+      <link>/publication/las-2022-crypto/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2022-crypto/</guid>
       <description></description>
     </item>
     
@@ -81,14 +97,6 @@
       <link>/publication/las-2022-mdpi-crypto/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/las-2022-mdpi-crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time Series Analysis of Cryptocurrency Prices Using Long Short-Term Memory</title>
-      <link>/publication/las-crypto/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/las-crypto/</guid>
       <description></description>
     </item>
     

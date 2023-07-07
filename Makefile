@@ -39,9 +39,12 @@ check:
 	grep -i "url =" | \
         sed -e 's/url *=//g' | \
 	sed -e 's/Url *=//g' | \
+	sed -e 's/URL *=//g' | \
+	sed -e 's/ draft //g' | \
 	sed -e 's/}//g' | \
 	sed -e 's/{http/http/g' | \
-	sed -e 's/^/\.\/chech-url\.sh  /' > link.sh
+	sed -e 's/^/\.\/chech-url\.sh  /' > tmp.sh
+	fgrep "http" tmp.sh > link.sh 
 	@cat link.sh
 	@echo "Broken URLS"
 	@echo "==========="

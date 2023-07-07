@@ -1,18 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Time Series Analysis of Cryptocurrency Prices Using Long Short-Term Memory
+title: Proceedings of the CyberTraining REU2022 CyberTraining for Students and Technologies
+  from Generation Z
 subtitle: ''
 summary: ''
 authors:
-- Jacques Phillipe Fleischer
 - Gregor von Laszewski
-- Carlos Theran
-- Yohn Jairo Parra Bautista
+- Geoffrey C. Fox
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-03-31T11:29:18-04:00
+date: '2022-10-01'
+lastmod: 2023-07-07T10:52:12-04:00
 featured: false
 draft: false
 
@@ -30,13 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-31T15:29:18.530561Z'
+publishDate: '2023-07-07T14:52:12.778509Z'
 publication_types:
-- '2'
+- '4'
 abstract: ''
-publication: '*Algorithms*'
-doi: 10.3390/a15070230
-links:
-- name: URL
-  url: https://www.mdpi.com/1999-4893/15/7/230
+publication: ''
+url_pdf: https://github.com/cloudmesh-community/pub/raw/master/docs/vonLaszewski-reu2022.pdf
 ---

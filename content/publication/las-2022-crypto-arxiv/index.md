@@ -1,15 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Reusable Hybrid and Multi-Cloud Analytics Service Framework
+title: Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes
 subtitle: ''
 summary: ''
 authors:
+- Jacques Fleischer
 - Gregor von Laszewski
-tags: []
+- Carlos Theran
+- Yohn Jairo Parra Bautista
+tags:
+- Machine Learning (cs.LG)
+- Distributed
+- Parallel
+- and Cluster Computing (cs.DC)
+- 'FOS: Computer and information sciences'
+- 'FOS: Computer and information sciences'
 categories: []
-date: '2022-12-01'
-lastmod: 2023-03-31T11:29:18-04:00
+date: '2022-01-01'
+lastmod: 2023-07-07T10:52:12-04:00
 featured: false
 draft: false
 
@@ -27,13 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-31T15:29:18.764604Z'
+publishDate: '2023-07-07T14:52:12.498863Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*4th International Conference on Big data, IoT, and Cloud Computing
-  (ICBICC 2022)*'
+publication: '*arXiv*'
+doi: 10.48550/ARXIV.2202.13874
 links:
 - name: URL
-  url: www.icbicc.org
+  url: https://arxiv.org/abs/2202.13874
 ---

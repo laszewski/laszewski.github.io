@@ -1,16 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Proceedings of the CyberTraining REU2022 CyberTraining for Students and Technologies
-  from Generation Z
+title: Reusable Hybrid and Multi-Cloud Analytics Service Framework
 subtitle: ''
 summary: ''
 authors:
-- Geoffrey C. Fox Editors Gregor von Laszewski
+- Gregor von Laszewski
 tags: []
 categories: []
-date: '2022-10-01'
-lastmod: 2023-03-31T11:29:18-04:00
+date: '2022-12-01'
+lastmod: 2023-07-07T10:52:12-04:00
 featured: false
 draft: false
 
@@ -28,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-31T15:29:18.818355Z'
+publishDate: '2023-07-07T14:52:12.666268Z'
 publication_types:
-- '4'
+- '1'
 abstract: ''
-publication: ''
-url_pdf: https://github.com/cloudmesh-community/pub/raw/master/docs/vonLaszewski-reu2022.pdf
+publication: '*4th International Conference on Big data, IoT, and Cloud Computing
+  (ICBICC 2022)*'
+links:
+- name: URL
+  url: www.icbicc.org
 ---

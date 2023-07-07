@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2019-12-01'
-lastmod: 2023-03-31T11:29:16-04:00
+lastmod: 2023-07-07T10:52:10-04:00
 featured: false
 draft: false
 
@@ -36,12 +36,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-31T15:29:15.992472Z'
+publishDate: '2023-07-07T14:52:10.667547Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2019 IEEE International Conference on Big Data (Big Data), Los Angeles,
   CA, USA*'
 doi: 10.1109/BigData47090.2019.9006337
-url_pdf: http://dsc.soic.indiana.edu/publications/streaming_ml_v4.pdf
+url_pdf: http://infomall.org/publications/streaming_ml_v4.pdf
 ---
