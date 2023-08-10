@@ -81,7 +81,9 @@ user_groups:
 - Visitors
 ---
 
-* [Curriculumn Vitae (CV)](vonLaszewski-resume.pdf) including links to most papers.
+* [Curriculumn Vitae (CV)](vonLaszewski-resume.pdf) including links to
+most papers.
+
 At the University of Virginia, he is a Research Professor at the Biocomplexity Institute. 
 His current interests include
     Multicloud Hybrid Cloud Computing Analytics Services,
