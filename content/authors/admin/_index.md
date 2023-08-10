@@ -82,10 +82,9 @@ user_groups:
 ---
 
 * [Curriculumn Vitae (CV)](vonLaszewski-resume.pdf) including links to most papers.
-
-At University of Virginia he us a Research Professor in the Biocomplexity Institute. 
-His current interrests include
-    Multicloud Hybrid Cloud Computing Analytocs Services,
+At the University of Virginia, he is a Research Professor at the Biocomplexity Institute. 
+His current interests include
+    Multicloud Hybrid Cloud Computing Analytics Services,
     MLCommons Benchmarking of Deep Learning Applications,
     Workflow Management for Benchmarking of DeepLearning Algorithms, and 
     Student Research Project Supervision.
@@ -99,7 +98,7 @@ He received a Masters Degree in 1990 from the University of Bonn,
 Germany, and a Ph.D. in 1996 from Syracuse University in computer
 science. He held a position at Argonne National Laboratory from
 Nov. 1996 – Aug. 2009, where he was last a scientist and a fellow of
-the Computation Institute at University of Chicago. During his last
+the Computation Institute at the University of Chicago. During his last
 two years at ANL he was on sabbatical and an Associate Professor and
 the Director of an institution at Rochester Institute of Technology,
 focusing on Cyberinfrastructure.
@@ -111,23 +110,24 @@ University.
 Past academic appointments include Adjunct Professor in the
 Intelligent Systems Engineering Department at Indiana University, Adjunct Professor positions at the Computer
 Science Department at Indiana University, Associate Professor at
-Rochester Institute of Techology, Adjunct Professor at University of
-North Texas. He has also taught on a voluntary basis at Illinois
+Rochester Institute of Technology, Adjunct Professor at the University of
+North Texas. He has also taught voluntarily at Illinois
 Institute of Technology.
 
-He provided leadership to interface with the with San Diego
+He provided leadership to interface with the San Diego
 Supercomputing Center on virtual clusters for XSEDE comet.
-He was the co-PI on developping a scientific impact metric fro the longest running hyperformance computing nfrastructure funded by NSF spanning XSEDE, reaching as far back as TerraGrid.
+He was the co-PI on developing a scientific impact metric for the longest-running high-performance computing infrastructure funded by NSF spanning XSEDE, reaching as far back as TerraGrid.
 Previously, he was the architect of FutureGrid, one of the first
 successful clouds in US academia. He was previously involved in Grid
 computing since the term was coined. Before that, he initiated and led
 the [Java Commodity Grid Kit](http://www.cogkit.org) which provided
-the basis for hundreds of Grid related projects, including the Globus
+the basis for hundreds of Grid-related projects, including the Globus
 Toolkit.
 
 To contact him, please send mail to <laszewski@gmail.com>
 
 ## Publications
+
 
 * [List of Publications]({{< ref "/publication" >}}) (PDF sources, and
   bibtex for citations)
