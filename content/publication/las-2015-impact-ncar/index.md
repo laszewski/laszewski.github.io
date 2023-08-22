@@ -17,7 +17,7 @@ tags:
   and Extraterrestrial measurements and Conferences and Metrics and publications
 categories: []
 date: '2015-09-08'
-lastmod: 2023-07-08T17:54:25-04:00
+lastmod: 2023-08-22T13:02:50-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-08T21:54:24.977293Z'
+publishDate: '2023-08-22T17:02:50.373937Z'
 publication_types:
 - '1'
 abstract: ''
