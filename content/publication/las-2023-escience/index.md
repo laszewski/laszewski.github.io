@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2023-10-01'
-lastmod: 2023-08-22T13:02:54-04:00
+lastmod: 2023-10-25T10:09:19-04:00
 featured: false
 draft: false
 
@@ -33,9 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-22T17:02:54.195451Z'
+publishDate: '2023-10-25T14:09:19.422775Z'
 publication_types:
 - '1'
 abstract: ''
 publication: "*eScience'23*"
+url_pdf: https://github.com/cyberaide/paper-cloudmesh-cc-ieee-5-pages/raw/main/vonLaszewski-cloudmesh-cc.pdf
 ---

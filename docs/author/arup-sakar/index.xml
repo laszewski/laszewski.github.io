@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arup Sakar | Gregor von Laszewski</title>
+    <link>/author/arup-sakar/</link>
+      <atom:link href="/author/arup-sakar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arup Sakar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Arup Sakar</title>
+      <link>/author/arup-sakar/</link>
+    </image>
+    
+    <item>
+      <title>AI for Science and Engineering</title>
+      <link>/publication/las-2023-poster-cylon-ornl/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2023-poster-cylon-ornl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
