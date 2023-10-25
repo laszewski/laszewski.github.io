@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2023-10-01'
-lastmod: 2023-10-25T10:09:19-04:00
+lastmod: 2023-10-25T10:57:48-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-25T14:09:19.533710Z'
+publishDate: '2023-10-25T14:57:48.566570Z'
 publication_types:
-- '0'
+- '1'
 abstract: ''
-publication: ''
+publication: '*NSF Meeting*'
 url_pdf: https://github.com/cyberaide/poster-ai-for-science/blob/main/vonLaszewski-ai-for-science.pdf
 ---
