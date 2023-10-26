@@ -2,7 +2,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh
-  Applied to the MLCommons Cloudmask Application
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-10-25T11:16:14-04:00
+lastmod: 2023-10-26T08:54:06-04:00
 featured: false
 draft: false
 
@@ -30,10 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-25T15:16:14.578683Z'
+publishDate: '2023-10-26T12:54:06.082454Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
 url_pdf: https://arxiv.org/pdf/2210.16941.pdf
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2210.16941
 ---

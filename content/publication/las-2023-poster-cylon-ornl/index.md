@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: AI for Science and Engineering
+title: Heterogeneous DataPipelines for Scientific Computing
 subtitle: ''
 summary: ''
 authors:
@@ -9,11 +9,11 @@ authors:
 - Niranda Perera
 - Gregor von Laszewski
 - Mills Staylor
-- Geoffrey C Fox
+- Geoffrey C. Fox
 tags: []
 categories: []
 date: '2023-10-01'
-lastmod: 2023-10-25T11:16:14-04:00
+lastmod: 2023-10-26T08:54:06-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-25T15:16:14.903482Z'
+publishDate: '2023-10-26T12:54:06.405495Z'
 publication_types:
 - '1'
 abstract: ''
