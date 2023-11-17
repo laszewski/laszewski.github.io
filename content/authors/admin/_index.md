@@ -84,8 +84,8 @@ user_groups:
 * [Curriculumn Vitae (CV)](vonLaszewski-resume.pdf) including links to
 most papers.
 
-At the University of Virginia, he is a Research Professor at the Biocomplexity Institute. 
-His current interests include
+At the University of Virginia, he is a Research Professor at the
+Biocomplexity Institute. His current interests include
     Multicloud Hybrid Cloud Computing Analytics Services,
     MLCommons Benchmarking of Deep Learning Applications,
     Workflow Management for Benchmarking of DeepLearning Algorithms, and 
@@ -110,20 +110,22 @@ Center (DSC) in the School of Informatics and Computing at Indiana
 University.
 
 Past academic appointments include Adjunct Professor in the
-Intelligent Systems Engineering Department at Indiana University, Adjunct Professor positions at the Computer
-Science Department at Indiana University, Associate Professor at
-Rochester Institute of Technology, Adjunct Professor at the University of
-North Texas. He has also taught voluntarily at Illinois
-Institute of Technology.
+Intelligent Systems Engineering Department at Indiana University,
+Adjunct Professor positions at the Computer Science Department at
+Indiana University, Associate Professor at Rochester Institute of
+Technology, Adjunct Professor at the University of North Texas. He has
+also taught voluntarily at Illinois Institute of Technology.
 
-He provided leadership to interface with the San Diego
-Supercomputing Center on virtual clusters for XSEDE comet.
-He was the co-PI on developing a scientific impact metric for the longest-running high-performance computing infrastructure funded by NSF spanning XSEDE, reaching as far back as TerraGrid.
-Previously, he was the architect of FutureGrid, one of the first
-successful clouds in US academia. He was previously involved in Grid
-computing since the term was coined. Before that, he initiated and led
-the [Java Commodity Grid Kit](http://www.cogkit.org) which provided
-the basis for hundreds of Grid-related projects, including the Globus
+He provided leadership to interface with the San Diego Supercomputing
+Center on virtual clusters for XSEDE comet.  He was the co-PI on
+developing a scientific impact metric for the longest-running
+high-performance computing infrastructure funded by NSF spanning
+XSEDE, reaching as far back as TerraGrid.  Previously, he was the
+architect of FutureGrid, one of the first successful clouds in US
+academia. He was previously involved in Grid computing since the term
+was coined. Before that, he initiated and led the
+[Java Commodity Grid Kit](http://www.cogkit.org) which provided the
+basis for hundreds of Grid-related projects, including the Globus
 Toolkit.
 
 To contact him, please send mail to <laszewski@gmail.com>
