@@ -3,18 +3,120 @@
 % https://cloudmesh-community.github.io/pub/vonLaszewski-data-science.pdf
 % https://cloudmesh-community.github.io/pub/vonLaszewski-draft.pdf
 
-
-@Misc{las-2023-c4cg,
-  author = 	 {von Laszewski, Gregor},
-  title = 	 {Reusable Hybrid and Multi-Cloud Analytics Service Framework},
-  howpublished = {Presentation for the C4CG Symposium, University of Virginia},
-  month = 	 jun,
-  year = 	 2023,
-  OPTnote = 	 {},
-  OPTannote = 	 {},
-  url = {https://github.com/cyberaide/presentation-c4gc/raw/main/reu-2023-uva.pptx.pdf}
+@misc{las-2024-analysispipleine,
+      title={Design and Implementation of an Analysis Pipeline for Heterogeneous Data}, 
+      author={Arup Kumar Sarker and Aymen Alsaadi and Niranda Perera and Mills Staylor and Gregor von Laszewski and Matteo Turilli and Ozgur Ozan Kilic and Mikhail Titov and Andre Merzky and Shantenu Jha and Geoffrey Fox},
+      year={2024},
+      eprint={2403.15721},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2403.15721}, 
 }
 
+@misc{las-2024-cloudmasking-b,
+      title={MLCommons Cloud Masking Benchmark with Early Stopping}, 
+      author={Varshitha Chennamsetti and Gregor von Laszewski and Ruochen Gu and Laiba Mehnaz and Juri Papay and Samuel Jackson and Jeyan Thiyagalingam and Sergey V. Samsonau and Geoffrey C. Fox},
+      year={2024},
+      eprint={2401.08636},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2401.08636}, 
+}
+
+@misc{las-2023-overview-cloudmask,
+      title={An Overview of MLCommons Cloud Mask Benchmark: Related Research and Data}, 
+      author={Gregor von Laszewski and Ruochen Gu},
+      year={2023},
+      eprint={2312.04799},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2312.04799}, 
+}
+
+
+%10.3389/fhpcp.2024.1384619,
+@ARTICLE{las-2024-supercharging,
+  AUTHOR =	 {Perera, Niranda and Sarker, Arup Kumar and Shan,
+                  Kaiying and Fetea, Alex and Kamburugamuve, Supun and
+                  Kanewala, Thejaka Amila and Widanage, Chathura and
+                  Staylor, Mills and Zhong, Tianle and Abeykoon,
+                  Vibhatha and von Laszewski, Gregor and Fox, Geoffrey
+                  },
+  TITLE =	 {Supercharging distributed computing environments for
+                  high-performance data engineering},
+  JOURNAL =	 {Frontiers in High Performance Computing},
+  VOLUME =	 2,
+  YEAR =	 2024,
+  URL =
+                  {https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2024.1384619},
+  DOI =		 {10.3389/fhpcp.2024.1384619},
+  ISSN =	 {2813-7337},
+  ABSTRACT =	 {The data engineering and data science community has
+                  embraced the idea of using Python and R dataframes
+                  for regular applications. Driven by the big data
+                  revolution and artificial intelligence, these
+                  frameworks are now ever more important in order to
+                  process terabytes of data. They can easily exceed
+                  the capabilities of a single machine but also demand
+                  significant developer time and effort due to their
+                  convenience and ability to manipulate data with
+                  high-level abstractions that can be
+                  optimized. Therefore it is essential to design
+                  scalable dataframe solutions. There have been
+                  multiple efforts to be integrated into the most
+                  efficient fashion to tackle this problem, the most
+                  notable being the dataframe systems developed using
+                  distributed computing environments such as Dask and
+                  Ray. Even though Dask and Ray's distributed
+                  computing features look very promising, we perceive
+                  that the Dask Dataframes and Ray Datasets still have
+                  room for optimization In this paper, we present
+                  CylonFlow, an alternative distributed dataframe
+                  execution methodology that enables state-of-the-art
+                  performance and scalability on the same Dask and Ray
+                  infrastructure (<italic>supercharging</italic>
+                  them!). To achieve this, we integrate a
+                  <italic>high-performance dataframe</italic> system
+                  Cylon, which was originally based on an entirely
+                  different execution paradigm, into Dask and Ray. Our
+                  experiments show that on a pipeline of dataframe
+                  operators, CylonFlow achieves 30 × more distributed
+                  performance than Dask Dataframes. Interestingly, it
+                  also enables superior sequential performance due to
+                  leveraging the native C++ execution of Cylon. We
+                  believe the performance of Cylon in conjunction with
+                  CylonFlow extends beyond the data engineering domain
+                  and can be used to consolidate high-performance
+                  computing and distributed computing ecosystems.}
+}
+
+@TechReport{madhav23-ripples,
+  author =	 {Marco Minutoli and Reece Neff and Naw Sattar and Hao
+                  Lu and John Feo and Henning Mortveit and Anil
+                  Vullikanti and Dawen Xie and Amanda Wilson and
+                  Gregor von Laszewski and Parantapa Bhattacharya and
+                  Ananth Kalyanaraman and Michela Becchi and Madhav
+                  Marathe and Mahantesh Halappanavar},
+  title =	 {Ripples: Exascale-Enabled Influence Maximization on
+                  Massive Social Networks with Implications to
+                  Pandemic Planning},
+  institution =	 {University of Virginia},
+  year =	 2023,
+  address =	 {Charlottesville, VA, USA},
+  month =	 nov
+}
+
+@Misc{las-2023-c4cg,
+  author =	 {von Laszewski, Gregor},
+  title =	 {Reusable Hybrid and Multi-Cloud Analytics Service
+                  Framework},
+  howpublished = {Presentation for the C4CG Symposium, University of
+                  Virginia},
+  month =	 jun,
+  year =	 2023,
+  url =
+                  {https://github.com/cyberaide/presentation-c4gc/raw/main/reu-2023-uva.pptx.pdf}
+}
 
 @InCollection{las-2023-whitepaper-nist,
   author =	 { von Laszewski, Gregor and Wo Chang and Russell
@@ -27,7 +129,8 @@
   year =	 2023,
   month =	 oct,
   note =	 {submitted},
-  url = {https://github.com/cyberaide/NIST-analytics/raw/main/NIST-analytics.pdf}
+  url =
+                  {https://github.com/cyberaide/NIST-analytics/raw/main/NIST-analytics.pdf}
 }
 
 @Article{las-2023-mlcommons-edu-eq,
@@ -83,6 +186,7 @@
   note =	 {Poster}
 }
 
+
 @InProceedings{las-2023-escience,
   author =	 {von Laszewski, Gregor and Fleischer, J.P. and Fox,
                   Geoffrey C. and Juri Papay and Sam Jackson and Jeyan
@@ -103,6 +207,7 @@
 %
 
 % las-2022-hybrid-cc,
+
 @misc{las-2023-ai-workflow,
   title =	 {Hybrid Reusable Computational Analytics Workflow
                   Management with Cloudmesh},
@@ -118,6 +223,8 @@
                   {https://github.com/cyberaide/paper-cloudmesh-cc/raw/main/vonLaszewski-cloudmesh-cc.pdf}
 }
 
+
+
 @misc{las-2023-cylon,
   title =	 {In-depth Analysis On Parallel Processing Patterns
                   for High-Performance Dataframes},
@@ -131,6 +238,21 @@
   archivePrefix ={arXiv},
   primaryClass = {cs.DC}
 }
+
+
+
+@misc{las-2023-hybridmulticloud,
+      title={Whitepaper on Reusable Hybrid and Multi-Cloud Analytics Service Framework}, 
+      author={Gregor von Laszewski and Wo Chang and Russell Reinsch and Olivera Kotevska and Ali Karimi and Abdul Rahman Sattar and Garry Mazzaferro and Geoffrey C. Fox},
+      year={2023},
+      eprint={2310.17013},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2310.17013}, 
+}
+
+
+
 
 @ARTICLE{las-2022-hptmt-frontiers,
   AUTHOR =	 {Abeykoon, Vibhatha and Kamburugamuve, Supun and
@@ -600,7 +722,7 @@
                   Laszewski, G.},
   year =	 2020,
   month =	 nov,
-  OPTurl =
+  url =
                   {https://laszewski.github.io/papers/las-2020-net-science.pdf}
 }
 
@@ -1301,7 +1423,6 @@
   url =
                   {https://laszewski.github.io/papers/vonLaszewski-cacm.pdf},
 }
-
 
 @Article{las-2001-cmt,
   author =	 {Yuxin Wang and Fransesco DeCarlo and Derrick Mancini
@@ -3310,7 +3431,6 @@
                   {https://laszewski.github.io/papers/fitzgerald-hpdc97-mds.pdf},
 }
 
-
 @InProceedings{las-1997-nobugs,
   author =	 {von Laszewski, Gregor and Westbrook, Mary L.  and
                   Craig Barnes and Ian Foster},
@@ -3399,7 +3519,6 @@
                   {https://laszewski.github.io/papers/vonLaszewski-CooperatingJobs.pdf},
 }
 
-
 @InProceedings{las-1999-rostock,
   author =	 {von Laszewski, Gregor and Ian Foster},
   booktitle =	 {{Proceedings of the Workshop Distributed Computing
@@ -3416,7 +3535,6 @@
   status =	 {final},
   url =		 {https://www.osti.gov/biblio/775256},
 }
-
 
 @InProceedings{las-1999-siam,
   author =	 {von Laszewski, Gregor and Mei-Hui Su and Insley,
