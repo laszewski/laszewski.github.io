@@ -5,12 +5,44 @@
     <link>/author/gregor-von-laszewski/</link>
       <atom:link href="/author/gregor-von-laszewski/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor Von Laszewski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Gregor Von Laszewski</title>
       <link>/author/gregor-von-laszewski/</link>
     </image>
+    
+    <item>
+      <title>Design and Implementation of an Analysis Pipeline for Heterogeneous Data</title>
+      <link>/publication/las-2024-analysispipleine/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2024-analysispipleine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLCommons Cloud Masking Benchmark with Early Stopping</title>
+      <link>/publication/las-2024-cloudmasking-b/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2024-cloudmasking-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supercharging distributed computing environments for high-performance data engineering</title>
+      <link>/publication/las-2024-supercharging/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2024-supercharging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ripples: Exascale-Enabled Influence Maximization on Massive Social Networks with Implications to Pandemic Planning</title>
+      <link>/publication/madhav-23-ripples/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/madhav-23-ripples/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Heterogeneous DataPipelines for Scientific Computing</title>
@@ -45,6 +77,22 @@
     </item>
     
     <item>
+      <title>Reusable Hybrid and Multi-Cloud Analytics Service Framework</title>
+      <link>/publication/las-2023-c-4-cg/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2023-c-4-cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Overview of MLCommons Cloud Mask Benchmark: Related Research and Data</title>
+      <link>/publication/las-2023-overview-cloudmask/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2023-overview-cloudmask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hybrid Reusable Computational Analytics Workflow Management with Cloudmesh</title>
       <link>/publication/las-2023-ai-workflow/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -57,6 +105,14 @@
       <link>/publication/las-2023-cylon/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/publication/las-2023-cylon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whitepaper on Reusable Hybrid and Multi-Cloud Analytics Service Framework</title>
+      <link>/publication/las-2023-hybridmulticloud/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2023-hybridmulticloud/</guid>
       <description></description>
     </item>
     
