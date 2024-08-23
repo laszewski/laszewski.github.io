@@ -1,6 +1,35 @@
 # Gregors Web Page
 
 
+## Make Web page with docker
+
+```bash
+make image
+make shell
+make bib
+exit # container
+```
+
+in shell
+
+```bash
+git add docs
+git add content
+# check with git status for other files
+git commit -a
+....
+git push
+```
+
+
+wait several minutes and check 
+
+https://laszewski.github.io/publication/
+
+
+
+
+
 ## Make Resume with docker container
 
 ```bash
