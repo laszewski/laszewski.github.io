@@ -5,12 +5,20 @@
     <link>/author/andre-merzky/</link>
       <atom:link href="/author/andre-merzky/index.xml" rel="self" type="application/rss+xml" />
     <description>Andre Merzky</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Andre Merzky</title>
       <link>/author/andre-merzky/</link>
     </image>
+    
+    <item>
+      <title>Design and Implementation of an Analysis Pipeline for Heterogeneous Data</title>
+      <link>/publication/las-2024-analysispipleine/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/las-2024-analysispipleine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SAGA: A Simple API for Grid Applications. High-level application programming on the Grid</title>

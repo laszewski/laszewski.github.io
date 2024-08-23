@@ -5,12 +5,20 @@
     <link>/publication-type/4/</link>
       <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>4</title>
       <link>/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>Ripples: Exascale-Enabled Influence Maximization on Massive Social Networks with Implications to Pandemic Planning</title>
+      <link>/publication/madhav-23-ripples/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/madhav-23-ripples/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proceedings of the CyberTraining REU2022 CyberTraining for Students and Technologies from Generation Z</title>

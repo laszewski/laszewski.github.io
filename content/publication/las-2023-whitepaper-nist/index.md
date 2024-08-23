@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2023-10-01'
-lastmod: 2023-10-26T08:54:06-04:00
+lastmod: 2024-08-23T00:31:09Z
 featured: false
 draft: false
 
@@ -34,9 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-26T12:54:06.458954Z'
+publishDate: '2024-08-23T00:31:09.681509Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*arxiv*'
+url_pdf: https://github.com/cyberaide/NIST-analytics/raw/main/NIST-analytics.pdf
 ---
