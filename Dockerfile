@@ -1,7 +1,4 @@
-#
-# UBUNTU 19.10
-#
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 MAINTAINER Gregor von Laszewski <laszewski@gmail.com>
 
@@ -12,79 +9,29 @@ ENV DEBIAN_FRONTEND noninteractive
 #
 RUN apt-get -y update --fix-missing
 RUN apt-get -y dist-upgrade
-RUN apt-get install -y --no-install-recommends apt-utils
+RUN apt install -y --no-install-recommends apt-utils
 
 #
 # DEVELOPMENT TOOLS
 #
 RUN apt-get install -y build-essential checkinstall --fix-missing
-RUN apt-get install -y lsb-core
-RUN apt-get install -y dnsutils
-RUN apt-get install -y libssl-dev
-RUN apt-get install -y libffi-dev
-RUN apt-get install -y libreadline-gplv2-dev
-RUN apt-get install -y libncursesw5-dev
-RUN apt-get install -y libsqlite3-dev
-RUN apt-get install -y libgdbm-dev
-RUN apt-get install -y libc6-dev
-RUN apt-get install -y libbz2-dev
-RUN apt-get install -y libffi-dev
-RUN apt-get install -y zlib1g-dev
-RUN apt-get install -y libpng-dev
+RUN apt install -y git-core
+RUN apt install -y git
 
-RUN apt-get install -y git-core
-RUN apt-get install -y git
+RUN apt install -y wget
+RUN apt install -y curl
+RUN apt install -y rsync
 
-RUN apt-get install -y wget
-RUN apt-get install -y curl
-RUN apt-get install -y rsync
+RUN apt install -y graphviz
+RUN apt install -y emacs-nox
 
-RUN apt-get install -y graphviz
-
-#
-# emacs
-#
-RUN apt-get install -y emacs-nox
-
-
-#
-# INSTALL PYTHON 3.8 FROM SOURCE
-#
-
-WORKDIR /usr/src
-
-RUN wget https://www.python.org/ftp/python/3.9.7/Python-3.9.7.tgz
-RUN tar xzf Python-3.9.7.tgz
-
-WORKDIR /usr/src/Python-3.9.7
-
-RUN ./configure --enable-optimizations
-
-RUN make altinstall
-
-
-#RUN apt-get autoremove
-
-#RUN apt-get install -y python3.8
-# RUN apt-get install python3-distutils
-# RUN apt-get install python3-setuptools
-# RUN easy_install3 pip
-#RUN apt-get install -y python3-pip
-#RUN pip3 install --upgrade pip setuptools
-
-
-RUN update-alternatives --install /usr/bin/python python /usr/local/bin/python3.9 10
-RUN update-alternatives --config python
-
-RUN update-alternatives --install /usr/bin/pip pip /usr/local/bin/pip3.9 10
-RUN update-alternatives --config pip
-
-RUN yes '' | update-alternatives --force --all
+RUN apt install -y python3-pip 
+RUN apt install python-is-python3
 
 
 ENV PATH="/usr/local/bin:${PATH}"
 
-RUN python3.9 --version
+RUN python3 --version
 RUN python --version
 RUN pip install -U pip
 RUN pip --version
@@ -139,7 +86,14 @@ COPY docker/.bashrc /root/.bashrc
 # REPO WORKDIR
 #
 
-WORKDIR /root/laszewski.github.io
+RUN pip install academic
+RUN apt install bibtool
+RUN pip install click
+RUN pip install cloudmesh-common
+RUN pip install cloudmesh-cmd5
+
+
+WORKDIR /home/green/Desktop/github/laszewski/laszewski.github.io-dev
 #ENTRYPOINT ["/bookmanager/bin/pull.sh"]
 
 CMD [ "/bin/bash" ]

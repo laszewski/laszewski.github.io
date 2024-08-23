@@ -134,7 +134,7 @@ wincm:
 	winpty docker run -v $(CM):/cm -w /cm --rm -it cloudmesh/hugo:${VERSION}  /bin/bash
 
 shell:
-	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:/root/laszewski.github.io" cloudmesh/hugo:${VERSION} /bin/bash 
+	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:${PWD}" cloudmesh/hugo:${VERSION} /bin/bash 
 
 #resume: clean
 #	docker run --rm -it -u ${UID}:${GID} -v "${PWD}:/root/laszewski.github.io" -w /root/laszewski.github.io/resume/#latex cloudmesh/hugo:${VERSION} make
