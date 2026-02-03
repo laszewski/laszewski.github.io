@@ -1,0 +1,48 @@
+destination: docs
+title: Gregor von Laszewski
+email: laszewski@gmail.com
+description: >- # This appears in the meta tags and footer
+  Homepage
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  laszewsk
+
+theme: minima
+
+header_pages:
+  - index.md
+  - publications.md
+  - cv.md
+  - projects/index.md
+  - history.md
+  
+plugins:
+  - jekyll-feed
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  locale: en
+  source: ./
+  bibliography: references.bib
+  # This line is key: it tells the plugin to use your custom html layout
+  bibliography_template: bib 
+  # This enables the helper tags like entry.bibtex
+  details_layout: bibitem.html
+  repository: assets/papers # If you store PDFs locally
+  bibtex_options: { strict: false }
+
+
+# Minima theme specific settings
+minima:
+  social_links:
+    - { platform: email, user: laszewski@gmail.com }
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+    
+exclude:
+  - a

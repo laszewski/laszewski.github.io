@@ -1,0 +1,49 @@
+.projects-wrapper {
+  margin-top: 2rem;
+}
+
+.project-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* Keeps text at the top of the image */
+  gap: 30px;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 2rem;
+}
+
+.project-column-left {
+  flex: 0 0 250px; /* The image column stays exactly 250px wide */
+}
+
+.project-column-right {
+  flex: 1; /* The text column fills the rest of the space */
+}
+
+.project-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.project-name {
+  margin: 0 0 10px 0;
+}
+
+.project-meta {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Mobile: Stack columns vertically on small screens */
+@media (max-width: 700px) {
+  .project-row {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .project-column-left {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+}
