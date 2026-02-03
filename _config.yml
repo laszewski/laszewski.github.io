@@ -45,3 +45,4 @@ collections:
 exclude:
   - a
   - todo
+  - old
