@@ -1,0 +1,26 @@
+---
+---
+<div class="bib-entry" style="margin-bottom: 2rem;">
+  <div class="citation" style="margin-bottom: 5px;">
+    {{ reference }}
+  </div>
+
+  <div class="bib-actions" style="font-size: 0.85em;">
+    {% if entry.doi %}
+      <a href="https://doi.org/{{ entry.doi }}" target="_blank" style="margin-right: 12px;">[DOI]</a>
+    {% endif %}
+    
+    {% if entry.url %}
+      <a href="{{ entry.url }}" target="_blank" style="margin-right: 12px;">[URL]</a>
+    {% endif %}
+
+    <details style="display: inline;">
+      <summary style="display: inline; cursor: pointer; color: #2a7ae2; list-style: none;">
+        [BibTeX]
+      </summary>
+      <div style="margin-top: 10px;">
+        <pre style="background: #f8f9fa; border: 1px solid #ddd; padding: 10px; font-size: 0.85em; color: #333; overflow-x: auto; white-space: pre-wrap;">{{ entry.bibtex }}</pre>
+      </div>
+    </details>
+  </div>
+</div>
