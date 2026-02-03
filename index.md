@@ -10,6 +10,8 @@ Biocomplexity Institute, 946 Grady Avenue, Suite 100, Charlottesville, VA 22903
 
 ---
 
+![Portrait Gregor von Laszewski](/img/portrait-old.jpg){: width="50%"}
+
 ## Interests
 
 * **Machine Learning**
