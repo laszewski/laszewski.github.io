@@ -9,8 +9,9 @@ Research Professor, University of Virginia, <laszewski@gmail.com><br>
 Biocomplexity Institute, 946 Grady Avenue, Suite 100, Charlottesville, VA 22903
 
 ---
+<br>
 
-![Portrait Gregor von Laszewski](/img/portrait-old.jpg){: width="50%"}
+![Profile Picture]({{ '/img/gregor-2025-crop.jpg' | relative_url }}){: style="float: left; margin-right: 25px; margin-bottom: 20px; width: 200px; border-radius: 10px;"}
 
 ## Interests
 
@@ -21,10 +22,13 @@ Biocomplexity Institute, 946 Grady Avenue, Suite 100, Charlottesville, VA 22903
 
 ## Education
 
-* **PhD in Computer Science** *Syracuse University*,  1996
-* **MS Computer Science (Diplom)** *University of Bonn*,  1989
+* **PhD in Computer Science** *Syracuse University*, 1996
+* **MS Computer Science (Diplom)** *University of Bonn*, 1989
 * **BSc in Computer Science** *University of Bonn*
 
+<div style="clear: both;"></div>
+
+---
 
 ## Quick Links
 
@@ -33,7 +37,6 @@ Biocomplexity Institute, 946 Grady Avenue, Suite 100, Charlottesville, VA 22903
   * <https://github.com/laszewski>
   * [Curriculum Vitae (CV)](vonLaszewski-resume.pdf) including links to most papers.
   * [Publications](/publications)
-
 
 
 ## Biography

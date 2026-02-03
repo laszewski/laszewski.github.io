@@ -1,6 +1,9 @@
 # Gregors Homepage
 
-This directory contains Gregor's home page. I used to use hugo for it, but found that every year I run into compatibility issues with creating the site. THis I switched in 2026 to jekyll to hopefully keep it simpler.
+This directory contains Gregor's home page. I used to use hugo for it,
+but found that every year I run into compatibility issues with
+creating the site. THis I switched in 2026 to jekyll to hopefully keep
+it simpler.
 
 The site is created with the help of docker.
 
@@ -34,9 +37,10 @@ The site can then be viewed locally with
 open http://127.0.0.1:4000/
 ```
 
-Or clicking on the link and open it.
+Or clicking on the link and open it.  When you make chnges and the
+server still runs, the changes will be automatically
+populated. However you need to refersh the Webpage in the browser.
 
-Note: that it is not enough to just reload the page if you do major changes to the _config.yal file or add and change images. In that case just interrupt the server and use `make serve` again.
 
 ## Deployment
 
