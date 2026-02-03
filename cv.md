@@ -5,8 +5,5 @@ permalink: /cv/
 ---
 
 
-[Click here to download my CV as a PDF](/assets/cv.pdf) 
-
-*(Note: Place your PDF file in an /assets/ folder)*
-
----
+* [Click here to download my CV as a PDF](/vonLaszewski-resume.pdf) 
+* [Click here to download my bibtex file](/vonLaszewski.bib) 

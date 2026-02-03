@@ -25,10 +25,8 @@ scholar:
   style: apa
   locale: en
   source: ./
-  bibliography: references.bib
-  # This line is key: it tells the plugin to use your custom html layout
+  bibliography: vonLaszewski.bib
   bibliography_template: bib 
-  # This enables the helper tags like entry.bibtex
   details_layout: bibitem.html
   repository: assets/papers # If you store PDFs locally
   bibtex_options: { strict: false }

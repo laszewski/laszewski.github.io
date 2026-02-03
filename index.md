@@ -85,9 +85,9 @@ and Kubernetes.
 
 ## Publications
 
-* [List of Publications](/publication/) (PDF sources, and BibTeX for citations)
+* [List of Publications](/publications/) (PDF sources, and BibTeX for citations)
 
-## Projects
+## Selected Projects
 
 <div class="projects-wrapper" style="margin-top: 2rem;">
   {% assign sorted_projects = site.projects | sort: "date" | reverse %}
