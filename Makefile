@@ -32,9 +32,10 @@ populate:
 	cp -r _site/* docs
 
 deploy: populate
-	git add docs && \
 	git commit -m "Update on $(CURRENT_DATE)" && \
 	git push
+
+# git add docs && 
 
 clean:
 	rm -rf docs .jekyll-cache .jekyll-metadata
