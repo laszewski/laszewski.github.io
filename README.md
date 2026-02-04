@@ -7,6 +7,18 @@ it simpler.
 
 The site is created with the help of docker.
 
+## Quick update
+
+```bash
+git pull
+make serve #review changes
+# make changes
+# terminate the server
+git commit -m "whith a good message what has been done"
+git push
+make deploy
+```
+
 ## Clone
 
 To clone the directory use 
