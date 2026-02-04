@@ -7,6 +7,18 @@ it simpler.
 
 The site is created with the help of docker.
 
+## Quick update
+
+```bash
+git pull
+make serve #review changes
+# make changes
+# terminate the server
+git commit -m "whith a good message what has been done"
+git push
+make deploy
+```
+
 ## Clone
 
 To clone the directory use 
@@ -73,7 +85,6 @@ sudo apt install texlive-latex-extra
 # sudo apt install libghc-pandoc-prof
 wget https://github.com/jgm/pandoc/releases/download/2.14.1/pandoc-2.14.1-1-amd64.deb
 sudo apt install ./pandoc-2.14.1-1-amd64.deb
-sudo apt install hugo
 sudo apt install bibtool
 
 ```
