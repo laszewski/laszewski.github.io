@@ -11,15 +11,16 @@ GROUP_ID := $(shell id -g)
 DOCKER_CMD = docker
 
 # Standard flags for running Jekyll with current user permissions
+# We map the current directory to /srv/jekyll inside the container
 DOCKER_RUN_FLAGS = --rm \
-	--user "$(USER_ID):$(GROUP_ID)" \
-	-v "$$(pwd):/srv/jekyll"
+    --user "$(USER_ID):$(GROUP_ID)" \
+    -v "$$(pwd):/srv/jekyll"
 
 install:
 	$(DOCKER_CMD) build -t $(IMAGE_NAME) .
 
 build:
-	$(DOCKER_CMD) run $(DOCKER_RUN_FLAGS) $(IMAGE_NAME) bundle exec jekyll build
+	$(DOCKER_CMD) run $(DOCKER_RUN_FLAGS) $(IMAGE_NAME) bundle exec jekyll build --destination docs
 
 serve:
 	@echo "Starting Jekyll on NVIDIA Spark Node..."
@@ -33,4 +34,4 @@ deploy:
 	git push
 
 clean:
-	rm -rf _site .jekyll-cache .jekyll-metadata
+	rm -rf docs .jekyll-cache .jekyll-metadata
