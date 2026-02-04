@@ -47,3 +47,11 @@ exclude:
   - a
   - todo
   - old
+  - docs
+  - Makefile
+  - Dockerfile
+  - .dockerignore
+  - vendor
+  - .bundle
+  - .jekyll-cache
+  - .jekyll-metadata
