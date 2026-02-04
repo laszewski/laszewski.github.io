@@ -6,4 +6,4 @@ permalink: /publications/
 
 ## Selected Bibliography
 
-{% bibliography --sort_by year --order descending %}
+{% bibliography --sort_by year,month --order descending %}
