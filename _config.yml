@@ -30,7 +30,8 @@ scholar:
   details_layout: bibitem.html
   repository: assets/papers # If you store PDFs locally
   bibtex_options: { strict: false }
-
+  sort_by: year, month  # Sorts by year first, then month
+  order: descending     # Ensures newest (highest numbers) appear first
 
 # Minima theme specific settings
 minima:
