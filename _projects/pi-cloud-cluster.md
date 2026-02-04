@@ -2,7 +2,7 @@
 layout: project
 title: "Raspberry Pi Cloud Cluster"
 image: "/img/pi-cluster.png"
-description: "Online books edited by Gregor von Laszewski for educational purposes."
+description: "Building and using a Rasperry PI cluster for cloud computing."
 date: 2019-08-15
 ---
 
@@ -57,6 +57,7 @@ the ssh key authentication is enabled.
 
 ## References
 
+* <https://piplanet.org>
 * <https://github.com/cloudmesh-community/cm-burn>
 
 

@@ -50,18 +50,27 @@ last two years at ANL, he was on sabbatical as an Associate Professor
 and the Director of an institution at Rochester Institute of
 Technology, focusing on Cyberinfrastructure.  At Indiana University,
 he was an Assistant Director in the Digital Science Center (DSC) in
-the School of Informatics and Computing. 
+the School of Informatics and Computing. He was also the Chief
+Architect of FutureGrid an OnPremisse Cloud.
 
 ### Academic Appointments
 
-Past academic appointments include Adjunct Professor in the
-Intelligent Systems Engineering Department at Indiana University,
-Adjunct Professor positions at the Computer Science Department at
-Indiana University, Associate Professor at Rochester Institute of
-Technology, and Adjunct Professor at the University of North Texas. He
-has also taught voluntarily at Illinois Institute of Technology.
+Currently, he holds an appointment at University of Virginia as a
+Research Professor. Past academic appointments include Adjunct
+Professor in the Intelligent Systems Engineering Department at Indiana
+University, Adjunct Professor positions at the Computer Science
+Department at Indiana University, Associate Professor at Rochester
+Institute of Technology, and Adjunct Professor at the University of
+North Texas. He has also taught voluntarily at Illinois Institute of
+Technology.
 
-### Leadership and Research
+### Highlights from Previous Projects
+
+He initiated the [Cloudmesh
+project](https://cloudmesh.github.io/cloudmesh-manual/), a hybrid
+multicloud toolkit to enable cloud computing across various Cloud and
+Container IaaS such as OpenStack, AWS, Azure, Docker, Docker Swarm,
+and Kubernetes. This prroject is still maintained.
 
 He provided leadership to interface with the San Diego Supercomputing
 Center on virtual clusters for XSEDE comet. He was the co-PI on
@@ -74,18 +83,19 @@ academia.
 He was previously involved in Grid computing since the term was
 coined. Before that, he initiated and led the [Java Commodity Grid
 Kit](http://www.cogkit.org), which provided the basis for hundreds of
-Grid-related projects, including the Globus Toolkit.
+Grid-related projects, including the Globus Toolkit.  The Java CoG Kit
+was used in a single year on over 100 demonstrations on the SC
+exhibit, the primier conference in supercomputing. It guranteed
+portability for over 10 years in the community to access Grid
+Resources. The CoG Kit was also the first project that used a browser
+controlled interface to file transfers. The CoG Kit evolved to
+Cloudmesh while focussing on cloud resources instead of Grids.
 
-He initiated the [Cloudmesh
-project](https://cloudmesh.github.io/cloudmesh-manual/), a hybrid
-multicloud toolkit to enable cloud computing across various Cloud and
-Container IaaS such as OpenStack, AWS, Azure, Docker, Docker Swarm,
-and Kubernetes.
+Prior to this he developped one of the first metacomputers connecting
+several super computing with a transparent centers through client side
+interface to compute resources. This was a precurser to Grid
+Computing.
 
-
-## Publications
-
-* [List of Publications](/publications/) (PDF sources, and BibTeX for citations)
 
 ## Selected Projects
 
